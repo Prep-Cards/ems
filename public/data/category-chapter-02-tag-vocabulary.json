@@ -1,0 +1,205 @@
+{
+	"name": "category-chapter-02-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-1",
+			"front": "Reactions to stress that occur during a stressful situation.",
+			"back": "acute stress reactions"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-2",
+			"front": "Any airway manipulation that induces the production of aerosols that may present a risk for airborne transmission of pathogens, such as CPR.",
+			"back": "aerosol-generating procedure"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-3",
+			"front": "The spread of an organism via droplets or dust.",
+			"back": "airborne transmission"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-4",
+			"front": "Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus (HIV).",
+			"back": "bloodborne pathogens"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-5",
+			"front": "A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses in health care and other high-stress professions.",
+			"back": "burnout"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-6",
+			"front": "The primary federal agency that conducts and supports public health activities in the United States. The CDC is part of the US Department of Health and Human Services.",
+			"back": "Centers for Disease Control and Prevention"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-7",
+			"front": "A disease that can be spread from one person or species to another.",
+			"back": "communicable disease"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-8",
+			"front": "A stress disorder characterized by gradual lessening of compassion over time.",
+			"back": "compassion fatigue"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-9",
+			"front": "The use of objects to limit a person’s ability to see you.",
+			"back": "concealment"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-10",
+			"front": "The presence of infectious organisms on or in objects such as dressings, water, food, needles, wounds, or a patient’s body.",
+			"back": "contamination"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-11",
+			"front": "The tactical use of an impenetrable barrier for protection.",
+			"back": "cover"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-12",
+			"front": "A process that confronts the responses to critical incidents and defuses them, directing the emergency services personnel toward physical and emotional equilibrium.",
+			"back": "critical incident stress management"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-13",
+			"front": "Prolonged or excessive stress.",
+			"back": "cumulative stress reactions"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-14",
+			"front": "Reactions to stress that occur after a stressful situation.",
+			"back": "delayed stress reactions"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-15",
+			"front": "The individual in the department who is charged with the responsibility of managing exposures and infection control issues.",
+			"back": "designated officer"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-16",
+			"front": "Exposure or transmission of a communicable disease from one person to another by physical contact.",
+			"back": "direct contact"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-17",
+			"front": "A negative response to a stressor.",
+			"back": "distress"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-18",
+			"front": "A beneficial response to a stressor.",
+			"back": "eustress"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-19",
+			"front": "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles in a manner that suggests disease transmission may occur.",
+			"back": "exposure"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-20",
+			"front": "The contamination of food or water with an organism that can cause disease.",
+			"back": "foodborne transmission"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-21",
+			"front": "The body’s response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
+			"back": "general adaptation syndrome"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-22",
+			"front": "Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, jaundice, fatigue, and altered liver function.",
+			"back": "hepatitis"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-23",
+			"front": "The organism or individual that is attacked by the infecting agent.",
+			"back": "host"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-24",
+			"front": "Acquired immunodeficiency syndrome (AIDS) is caused by HIV, which damages the cells in the body’s immune system so that the body is unable to fight infection or certain cancers.",
+			"back": "human immunodeficiency virus"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-25",
+			"front": "The body’s ability to protect itself from acquiring a disease.",
+			"back": "immune"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-26",
+			"front": "Exposure or transmission of disease from one person to another by contact with a contaminated object.",
+			"back": "indirect contact"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-27",
+			"front": "The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
+			"back": "infection"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-28",
+			"front": "Procedures to reduce transmission of infection among patients and health care personnel.",
+			"back": "infection control"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-29",
+			"front": "A medical condition caused by the growth and spread of small, harmful organisms within the body.",
+			"back": "infectious disease"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-30",
+			"front": "The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning safety in the workplace.",
+			"back": "Occupational Safety and Health Administration"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-31",
+			"front": "A microorganism that is capable of causing disease in a susceptible host.",
+			"back": "pathogen"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-32",
+			"front": "Protective equipment that blocks exposure to a pathogen or a hazardous material.",
+			"back": "personal protective equipment"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-33",
+			"front": "A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
+			"back": "posttraumatic stress disorder"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-34",
+			"front": "The capacity of an individual to cope with and recover from distress.",
+			"back": "resilience"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-35",
+			"front": "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease.",
+			"back": "standard precautions"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-36",
+			"front": "The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
+			"back": "transmission"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-37",
+			"front": "The use of an animal to spread an organism from one person or place to another.",
+			"back": "vector-borne transmission"
+		},
+		{
+			"id": "category-chapter-02-tag-vocabulary-card-38",
+			"front": "The active pursuit of a state of good health.",
+			"back": "wellness"
+		}
+	],
+	"category": {
+		"value": "chapter-02",
+		"label": "Chapter 2"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"name": "category-chapter-15-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-1",
+			"front": "A disease that can be spread from one person or species to another.",
+			"back": "communicable disease"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-2",
+			"front": "Occurs when new cases of a disease in a human population substantially exceed the number expected based on recent experience.",
+			"back": "epidemic"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-3",
+			"front": "A common virus that is asymptomatic in 80% of people carrying it, but characterized by small blisters on the lips or genitals in symptomatic infections.",
+			"back": "herpes simplex"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-4",
+			"front": "Awareness that unseen life-threatening injuries may exist when determining the mechanism of injury.",
+			"back": "index of suspicion"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-5",
+			"front": "A medical condition caused by the growth and spread of small, harmful organisms within the body.",
+			"back": "infectious disease"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-6",
+			"front": "A virus that has crossed the animal/human barrier and infected humans and that kills thousands of people every year.",
+			"back": "influenza"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-7",
+			"front": "Emergencies that are not caused by an outside force; illnesses or conditions.",
+			"back": "medical emergencies"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-8",
+			"front": "An inflammation of the meningeal coverings of the brain and spinal cord; it is usually caused by a virus or a bacterium.",
+			"back": "meningitis"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-9",
+			"front": "An inflammation of the meningeal coverings of the brain and spinal cord; can be highly contagious.",
+			"back": "meningococcal meningitis"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-10",
+			"front": "A bacterium that can cause infections in different parts of the body and is often resistant to commonly used antibiotics; it is transmitted by different routes, including the respiratory route, and can be found on the skin, in surgical wounds, and in the bloodstream, lungs, and urinary tract.",
+			"back": "methicillin-resistant Staphylococcus aureus"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-11",
+			"front": "The general type of illness a patient is experiencing.",
+			"back": "nature of illness"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-12",
+			"front": "An outbreak that occurs on a global scale.",
+			"back": "pandemic"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-13",
+			"front": "Emergencies that are the result of physical forces applied to the body; injuries.",
+			"back": "trauma emergencies"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-14",
+			"front": "A chronic bacterial disease, caused by<ital>Mycobacterium tuberculosis</ital>, that usually affects the lungs but can also affect other organs such as the brain and kidneys; it is spread by cough and can lie dormant in a person’s lungs for decades and then reactivate.",
+			"back": "tuberculosis"
+		},
+		{
+			"id": "category-chapter-15-tag-vocabulary-card-15",
+			"front": "The strength or ability of a pathogen to produce disease.",
+			"back": "virulence"
+		}
+	],
+	"category": {
+		"value": "chapter-15",
+		"label": "Chapter 15"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

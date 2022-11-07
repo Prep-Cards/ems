@@ -5,5 +5,3 @@ export const DEFAULT_SETTINGS: Settings = {
     deck: { categories: [], tags: [] } as Deck,
     cardStats: {} as CardStats,
 };
-
-export const DEFAULT_CARD_STAT: CardStat = { left: 0, right: 0 };

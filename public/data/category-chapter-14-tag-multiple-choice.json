@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-14-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-1",
+			"front": "Which of the following techniques should you use to dislodge a foreign body airway obstruction in a patient who is in an advanced stage of pregnancy or who is very obese?\n\n(See Foreign Body Airway Obstruction in Adults)",
+			"back": "Chest thrusts"
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-2",
+			"front": "Gastric distention will MOST likely occur:\n\n(See Opening the Airway and Providing Artificial Ventilation)",
+			"back": "if you ventilate a patient too quickly."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-3",
+			"front": "When assessing the pulse of an unresponsive infant, you should palpate the ________ artery.\n\n(See Infant and Child CPR)",
+			"back": "brachial"
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-4",
+			"front": "What is the correct ratio of compressions to ventilations when performing two-rescuer child CPR?\n\n(See Infant and Child CPR)",
+			"back": "15:2"
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-5",
+			"front": "When performing CPR on a child, you should compress the chest:\n\n(See Infant and Child CPR)",
+			"back": "with one or two hands."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-6",
+			"front": "Complications associated with chest compressions include all of the following, EXCEPT:\n\n(See Check for Breathing and a Pulse)",
+			"back": "gastric distention."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-7",
+			"front": "To ensure that you will deliver the appropriate number of chest compressions during one-rescuer adult CPR, you should compress the patient’s chest at a rate of:\n\n(See One-Rescuer Adult CPR)",
+			"back": "100 to 120 compressions per minute."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-8",
+			"front": "Initial treatment to dislodge a severe foreign body airway obstruction in a responsive infant involves:\n\n(See Foreign Body Airway Obstruction in Infants and Children)",
+			"back": "back slaps."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-9",
+			"front": "Most prehospital cardiac arrests in adults occur as the result of:\n\n(See Automated External Defibrillation)",
+			"back": "a cardiac dysrhythmia."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-10",
+			"front": "What is the minimum number of chest compressions that should be delivered per minute to a 4-month-old infant?\n\n(See Infant and Child CPR)",
+			"back": "100"
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-11",
+			"front": "CPR will NOT be effective if the patient is:\n\n(See Positioning the Patient)",
+			"back": "prone."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-12",
+			"front": "In most cases, cardiopulmonary arrest in infants and children is caused by:\n\n(See Infant and Child CPR)",
+			"back": "respiratory arrest."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-13",
+			"front": "A 60-year-old man is found to be unresponsive, pulseless, and apneic. You should:\n\n(See One-Rescuer Adult CPR)",
+			"back": "begin CPR until an AED is available."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-14",
+			"front": "In two-rescuer adult CPR, you should deliver a compression to ventilation ratio of:\n\n(See Two-Rescuer Adult CPR)",
+			"back": "30:2."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-15",
+			"front": "If gastric distention begins to make positive-pressure ventilation difficult, you should:\n\n(See Opening the Airway and Providing Artificial Ventilation)",
+			"back": "reposition the patient’s airway"
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-16",
+			"front": "A patient should be placed in the recovery position when he or she:\n\n(See Opening the Airway and Providing Artificial Ventilation)",
+			"back": "is unresponsive, uninjured, and breathing adequately."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-17",
+			"front": "CPR retraining is the MOST effective when it:\n\n(See Education and Training for the EMT)",
+			"back": "involves hands-on practice."
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-18",
+			"front": "Which of the following is NOT a BLS intervention?\n\n(See Elements of BLS)",
+			"back": "Cardiac monitoring"
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-19",
+			"front": "Which of the following maneuvers should be used to open a patient’s airway when a spinal injury is suspected?\n\n(See Opening the Airway and Providing Artificial Ventilation)",
+			"back": "Jaw-thrust"
+		},
+		{
+			"id": "category-chapter-14-tag-multiple-choice-card-20",
+			"front": "When performing chest compressions on an adult, the EMT should compress:\n\n(See Elements of BLS)",
+			"back": "at least 2 inches"
+		}
+	],
+	"category": {
+		"value": "chapter-14",
+		"label": "Chapter 14"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

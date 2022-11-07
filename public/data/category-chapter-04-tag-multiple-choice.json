@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-04-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-1",
+			"front": "Ethnocentrism is defined as:\n\n(See Therapeutic Communication)",
+			"back": "considering your own cultural values as more important when interacting with people of a different culture."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-2",
+			"front": "The patient care report (PCR) ensures:\n\n(See Written Communications and Documentation)",
+			"back": "continuity of care."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-3",
+			"front": "You could be sued for ___________ if your radio report to the hospital describes the patient in a manner that injures his or her reputation.\n\n(See Radio Communications)",
+			"back": "slander"
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-4",
+			"front": "You are caring for a 52-year-old man who complains of chest discomfort. The patient is a retired paramedic and is very anxious because he thinks he is having a heart attack. Which of the following statements would be appropriate?\n\n(See Therapeutic Communication)",
+			"back": "“It is possible that you are experiencing a heart attack. I am going to give you four baby aspirin to chew and swallow.”"
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-5",
+			"front": "Two-way communication that requires the EMT to “push to talk” and “release to listen” describes which mode of communication?\n\n(See Communications Systems and Equipment)",
+			"back": "Simplex"
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-6",
+			"front": "Which of the following statements regarding communication with a child is correct?\n\n(See Therapeutic Communication)",
+			"back": "Standing over a child often increases his or her level of anxiety."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-7",
+			"front": "When providing a patient report via radio, you should protect the patient’s privacy by:\n\n(See Radio Communications)",
+			"back": "not disclosing his or her name."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-8",
+			"front": "As you are wheeling your patient through the emergency department doors, you receive another call for a major motor vehicle crash. You should:\n\n(See Therapeutic Communication)",
+			"back": "respond only after giving a verbal patient report to a nurse or physician."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-9",
+			"front": "Calming and reassuring an anxious patient can be facilitated by:\n\n(See Therapeutic Communication)",
+			"back": "maintaining eye contact with the patient whenever possible."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-10",
+			"front": "When communicating with a visually impaired patient, you should:\n\n(See Therapeutic Communication)",
+			"back": "determine the degree of the patient’s impairment."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-11",
+			"front": "Which of the following incidents does not require a report to be filed with local authorities?\n\n(See Written Communications and Documentation)",
+			"back": "Cardiac arrest"
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-12",
+			"front": "Communicating with hearing-impaired patients can be facilitated by doing all of the following, except:\n\n(See Therapeutic Communication)",
+			"back": "elevating the tone of your voice and exaggerating word pronunciation."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-13",
+			"front": "During the alert and dispatch phase of EMS communications, the dispatcher’s responsibilities include all of the following, except:\n\n(See Radio Communications)",
+			"back": "discouraging the caller from providing care until the EMS unit arrives."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-14",
+			"front": "All information recorded on the PCR must be:\n\n(See Written Communications and Documentation)",
+			"back": "considered confidential."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-15",
+			"front": "In which of the following manners should you act and speak with a patient?\n\n(See Therapeutic Communication)",
+			"back": "Calm and confident"
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-16",
+			"front": "When relaying patient information via radio, communications should be:\n\n(See Radio Communications)",
+			"back": "brief and easily understood."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-17",
+			"front": "A patient’s refusal of EMS treatment and/or transport must be:\n\n(See Written Communications and Documentation)",
+			"back": "an informed refusal."
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-18",
+			"front": "A ___________ receives messages and signals on one frequency and then automatically retransmits them on a second frequency.\n\n(See Communications Systems and Equipment)",
+			"back": "repeater"
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-19",
+			"front": "Which type of communications equipment functions as a radio receiver and searches across several frequencies?\n\n(See Communications Systems and Equipment)",
+			"back": "Scanner"
+		},
+		{
+			"id": "category-chapter-04-tag-multiple-choice-card-20",
+			"front": "Any radio hardware containing a transmitter and a receiver that is located in a fixed location is called a:\n\n(See Communications Systems and Equipment)",
+			"back": "base station."
+		}
+	],
+	"category": {
+		"value": "chapter-04",
+		"label": "Chapter 4"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

@@ -5,22 +5,19 @@ import SVG from './shared/SVG';
 import { Layout } from './shared/Layout';
 import { useState, useRef, useLayoutEffect } from 'react';
 import getCardProgress from './utils/getCardProgress';
-import { shuffle } from './utils/shuffle';
 import { useAppContext } from './AppContext';
-import { DEFAULT_CARD_STAT } from './utils/constants';
+import { shuffle } from './utils/shuffle';
 
 function Deck({ cards: cardsInit }: { cards: Card[] }) {
     const { cardStats, setCardStats, proficiency } = useAppContext();
 
     const [cards, setCards] = useState(shuffle(cardsInit));
 
-    const setCardStat = async (cardId: string, move: Move) => {
-        const prevStat: CardStat = cardStats[cardId] || DEFAULT_CARD_STAT;
-        return setCardStats({
-            ...cardStats,
-            [cardId]: { ...prevStat, [move]: prevStat[move] + 1 },
-        });
-    };
+    const setCardStat = async (cardId: string, correct: boolean) =>
+        setCardStats((prevStats: CardStats) => ({
+            ...prevStats,
+            [cardId]: Math.max(0, (prevStats[cardId] || 0) + (correct ? 1 : -1)),
+        }));
 
     const stackRef = useRef<HTMLDivElement>(null);
 
@@ -31,7 +28,6 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
 
     const triggerMove = (move: Move) => {
         if (isAnimating.current) {
-            console.log('kill');
             return;
         }
 
@@ -125,13 +121,11 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
     }, [cards]);
 
     const handleMove = (move: Move, cardId: string) => {
-        setCardStat(cardId, move);
+        setCardStat(cardId, move === 'right');
 
         setCards((prevCards) => {
             const newCards = [...prevCards];
             newCards.push(newCards.splice(0, 1)[0]);
-
-            console.log({ prevCards, newCards });
             return newCards;
         });
     };

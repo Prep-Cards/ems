@@ -1,0 +1,140 @@
+{
+	"name": "category-chapter-20-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-1",
+			"front": "The buildup of excess acid in the blood or body tissues that can result from a primary illness.",
+			"back": "acidosis"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-2",
+			"front": "A metabolic disorder in which the ability to metabolize carbohydrates (sugars) is impaired, usually because of a lack of insulin.",
+			"back": "diabetes mellitus"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-3",
+			"front": "A form of hyperglycemia in uncontrolled diabetes in which certain acids accumulate when insulin is not available.",
+			"back": "diabetic ketoacidosis"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-4",
+			"front": "Glands that secrete or release chemicals that are used inside the body.",
+			"back": "endocrine glands"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-5",
+			"front": "The complex message and control system that integrates many body functions, including the release of hormones.",
+			"back": "endocrine system"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-6",
+			"front": "One of the basic sugars; it is the primary fuel, in conjunction with oxygen, for cellular metabolism.",
+			"back": "glucose"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-7",
+			"front": "The study and prevention of blood-related disorders.",
+			"back": "hematology"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-8",
+			"front": "A hereditary condition in which the patient lacks one or more of the blood’s normal clotting factors.",
+			"back": "hemophilia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-9",
+			"front": "Substances formed in specialized organs or glands and carried to another organ or group of cells in the same organism; they regulate many body functions, including metabolism, growth, and body temperature.",
+			"back": "hormones"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-10",
+			"front": "An abnormally high blood glucose level.",
+			"back": "hyperglycemia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-11",
+			"front": "A life-threatening condition resulting from high blood glucose that typically occurs in older adults and which causes altered mental status, dehydration, and organ damage.",
+			"back": "hyperosmolar hyperglycemic nonketotic syndrome"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-12",
+			"front": "An abnormally low blood glucose level.",
+			"back": "hypoglycemia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-13",
+			"front": "A hormone produced by the islets of Langerhans (endocrine gland located throughout the pancreas) that enables glucose in the blood to enter cells; used in synthetic form to treat and control diabetes mellitus.",
+			"back": "insulin"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-14",
+			"front": "Deep, rapid breathing; usually the result of an accumulation of certain acids when insulin is not available in the body.",
+			"back": "Kussmaul respirations"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-15",
+			"front": "Excessive thirst that persists for long periods despite reasonable fluid intake; often the result of excessive urination.",
+			"back": "polydipsia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-16",
+			"front": "Excessive eating; in diabetes, the inability to use glucose properly can cause a sense of hunger.",
+			"back": "polyphagia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-17",
+			"front": "The passage of an unusually large volume of urine in a given period; in diabetes, this can result from the wasting of glucose in the urine.",
+			"back": "polyuria"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-18",
+			"front": "A hereditary disease that causes normal, round red blood cells to become oblong, or sickle shaped.",
+			"back": "sickle cell disease"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-19",
+			"front": "A state of unconsciousness resulting from several problems, including ketoacidosis, dehydration because of excessive urination, and hyperglycemia.",
+			"back": "symptomatic hyperglycemia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-20",
+			"front": "Severe hypoglycemia resulting in changes in mental status.",
+			"back": "symptomatic hypoglycemia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-21",
+			"front": "A tendency toward the development of blood clots as a result of an abnormality of the system of coagulation.",
+			"back": "thrombophilia"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-22",
+			"front": "A blood clot, either in the arterial or venous system. When the clot occurs in a cerebral artery, it may result in the interruption of cerebral blood flow and subsequent stroke.",
+			"back": "thrombosis"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-23",
+			"front": "An autoimmune disorder in which the individual’s immune system produces antibodies to the pancreatic beta cells, and therefore the pancreas cannot produce insulin; onset in early childhood is common.",
+			"back": "type 1 diabetes"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-24",
+			"front": "A condition in which insulin resistance develops in response to increased blood glucose levels; can be managed by exercise and diet modification, but is often managed by medications.",
+			"back": "type 2 diabetes"
+		},
+		{
+			"id": "category-chapter-20-tag-vocabulary-card-25",
+			"front": "Ischemia and pain caused by sickle-shaped red blood cells that obstruct blood flow to a portion of the body.",
+			"back": "vasoocclusive crisis"
+		}
+	],
+	"category": {
+		"value": "chapter-20",
+		"label": "Chapter 20"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

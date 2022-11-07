@@ -1,0 +1,145 @@
+{
+	"name": "category-chapter-33-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-1",
+			"front": "The presence of air in the veins, which can lead to cardiac arrest if it enters the heart.",
+			"back": "air embolism"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-2",
+			"front": "The temperature of the surrounding environment.",
+			"back": "ambient temperature"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-3",
+			"front": "A serum that counteracts the effect of venom from an animal or insect.",
+			"back": "antivenin"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-4",
+			"front": "A common name for decompression sickness.",
+			"back": "bends"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-5",
+			"front": "Loss of consciousness caused by a decreased breathing stimulus.",
+			"back": "breath-holding syncope"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-6",
+			"front": "The loss of heat by direct contact (eg, when a body part comes into contact with a colder object).",
+			"back": "conduction"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-7",
+			"front": "The loss of body heat caused by air movement (eg, a breeze blowing across the body).",
+			"back": "convection"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-8",
+			"front": "The temperature of the central part of the body (eg, the heart, lungs, and vital organs).",
+			"back": "core temperature"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-9",
+			"front": "A painful condition seen in divers who ascend too quickly, in which gas, especially nitrogen, forms bubbles in blood vessels and other tissues; see bends.",
+			"back": "decompression sickness"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-10",
+			"front": "The slowing of the heart rate caused by submersion in cold water.",
+			"back": "diving reflex"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-11",
+			"front": "The process of experiencing respiratory impairment from submersion or immersion in liquid.",
+			"back": "drowning"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-12",
+			"front": "Any signs and symptoms caused by the difference between the surrounding atmospheric pressure and the total gas pressure in various tissues, fluids, and cavities of the body.",
+			"back": "dysbarism injuries"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-13",
+			"front": "The conversion of water or another fluid from a liquid to a gas.",
+			"back": "evaporation"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-14",
+			"front": "Damage to tissues as the result of exposure to cold; frozen or partially frozen body parts are frostbitten.",
+			"back": "frostbite"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-15",
+			"front": "Painful muscle spasms usually associated with vigorous activity in a hot environment.",
+			"back": "heat cramps"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-16",
+			"front": "A heat emergency in which a significant amount of fluid and electrolyte loss occurs because of heavy sweating; also called heat prostration or heat collapse.",
+			"back": "heat exhaustion"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-17",
+			"front": "A life-threatening condition of severe hyperthermia caused by exposure to excessive natural or artificial heat, marked by warm, dry skin; severely altered mental status; and often irreversible coma.",
+			"back": "heatstroke"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-18",
+			"front": "A balance of all systems of the body.",
+			"back": "homeostasis"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-19",
+			"front": "A family of insects that includes bees, wasps, ants, and yellow jackets.",
+			"back": "hymenoptera"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-20",
+			"front": "A condition in which the body core temperature rises to 101 degrees F (38.3 degrees C) or more.",
+			"back": "hyperthermia"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-21",
+			"front": "A condition in which the internal body temperature falls below 95 degrees F (35 degrees C).",
+			"back": "hypothermia"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-22",
+			"front": "The transfer of heat to colder objects in the environment by radiant energy; for example, heat gain from a fire.",
+			"back": "radiation"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-23",
+			"front": "The process of exchanging oxygen and carbon dioxide.",
+			"back": "respiration"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-24",
+			"front": "A triage process used in treating multiple victims of a lightning strike, in which efforts are focused on those who are in respiratory and cardiac arrest. This type of triage is different from conventional triage, where such patients would be classified as deceased.",
+			"back": "reverse triage"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-25",
+			"front": "A system that delivers air to the mouth and lungs at various atmospheric pressures, increasing with the depth of the dive; self-contained underwater breathing apparatus.",
+			"back": "scuba gear"
+		},
+		{
+			"id": "category-chapter-33-tag-vocabulary-card-26",
+			"front": "The ability of the skin to resist deformation; tested by gently pinching skin on the forehead or back of the hand.",
+			"back": "turgor"
+		}
+	],
+	"category": {
+		"value": "chapter-33",
+		"label": "Chapter 33"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+	"name": "category-chapter-29-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-1",
+			"front": "Inability to remember events after an injury.",
+			"back": "anterograde amnesia"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-2",
+			"front": "Injuries in which load is applied along the vertical or longitudinal axis of the spine, which results in load being transmitted along the entire length of the vertebral column; for example, falling from a height and landing on the feet in an upright position.",
+			"back": "axial loading injuries"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-3",
+			"front": "Fractures that usually occur following diffuse impact to the head (eg, falls, motor vehicle crashes); generally result from extension of a linear fracture to the base of the skull and can be difficult to diagnose with a radiograph.",
+			"back": "basilar skull fractures"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-4",
+			"front": "Bruising behind an ear over the mastoid process that may indicate a skull fracture.",
+			"back": "Battle sign"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-5",
+			"front": "An abnormal breathing pattern associated with increased intracranial pressure that is characterized by deep, rapid breathing; this pattern is similar to Kussmaul respirations, but without an acetone breath odor.",
+			"back": "central neurogenic hyperventilation"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-6",
+			"front": "Swelling of the brain.",
+			"back": "cerebral edema"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-7",
+			"front": "Injury in which the brain has been injured but the skin has not been broken and there is no obvious bleeding.",
+			"back": "closed head injury"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-8",
+			"front": "A temporary loss or alteration of part or all of the brain’s abilities to function without actual physical damage to the brain.",
+			"back": "concussion"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-9",
+			"front": "A brain injury that occurs when force is applied to the head and energy transmission through brain tissue causes injury on the opposite side of original impact.",
+			"back": "coup-contrecoup brain injury"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-10",
+			"front": "An accumulation of blood between the skull and the dura mater.",
+			"back": "epidural hematoma"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-11",
+			"front": "A head position in which the patient’s eyes are looking straight ahead and the head and torso are in line.",
+			"back": "eyes forward position"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-12",
+			"front": "The recommended procedure for moving a patient with a suspected spinal injury from the ground to a long backboard or other spinal precaution device.",
+			"back": "four-person log roll"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-13",
+			"front": "Tough, elastic structures between adjoining vertebrae that act as shock absorbers.",
+			"back": "intervertebral disks"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-14",
+			"front": "Bleeding within the brain tissue (parenchyma) itself; also referred to as an intraparenchymal hematoma.",
+			"back": "intracerebral hematoma"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-15",
+			"front": "The pressure within the cranial vault.",
+			"back": "intracranial pressure"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-16",
+			"front": "Actions of the body that are not under a person’s conscious control.",
+			"back": "involuntary activities"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-17",
+			"front": "Fractures that commonly occur in the temporoparietal region of the skull and that are not associated with deformities to the skull; account for 80% of skull fractures; also referred to as nondisplaced skull fractures.",
+			"back": "linear skull fractures"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-18",
+			"front": "Three distinct layers of tissue that surround and protect the brain and the spinal cord within the skull and the spinal canal.",
+			"back": "meninges"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-19",
+			"front": "Injury to the head often caused by a penetrating object in which there may be bleeding and exposed brain tissue.",
+			"back": "open head injury"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-20",
+			"front": "An injury to the brain and its associated structures that is a direct result of impact to the head.",
+			"back": "primary injury"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-21",
+			"front": "Bruising under the eyes that may indicate a skull fracture.",
+			"back": "raccoon eyes"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-22",
+			"front": "The inability to remember events leading up to a head injury.",
+			"back": "retrograde amnesia"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-23",
+			"front": "The aftereffects of the primary injury; includes abnormal processes such as cerebral edema, increased intracranial pressure, cerebral ischemia and hypoxia, and infection; onset is often delayed following the primary brain injury.",
+			"back": "secondary injury"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-24",
+			"front": "Bleeding into the subarachnoid space, where the cerebrospinal fluid circulates.",
+			"back": "subarachnoid hemorrhage"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-25",
+			"front": "An accumulation of blood beneath the dura mater but outside the brain.",
+			"back": "subdural hematoma"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-26",
+			"front": "A traumatic insult to the brain capable of producing physical, intellectual, emotional, social, and vocational changes.",
+			"back": "traumatic brain injury"
+		},
+		{
+			"id": "category-chapter-29-tag-vocabulary-card-27",
+			"front": "Actions that we consciously perform, in which sensory input or conscious thought determines a specific muscular activity.",
+			"back": "voluntary activities"
+		}
+	],
+	"category": {
+		"value": "chapter-29",
+		"label": "Chapter 29"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

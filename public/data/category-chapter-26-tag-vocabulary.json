@@ -1,0 +1,150 @@
+{
+	"name": "category-chapter-26-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-1",
+			"front": "The main artery leaving the left side of the heart and carrying freshly oxygenated blood to the body.",
+			"back": "aorta"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-2",
+			"front": "The smallest branches of arteries leading to the vast network of capillaries.",
+			"back": "arterioles"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-3",
+			"front": "A blood vessel, consisting of three layers of tissue and smooth muscle, that carries blood away from the heart.",
+			"back": "artery"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-4",
+			"front": "The small blood vessels that connect arterioles and venules; various substances pass through capillary walls, into and out of the interstitial fluid, and then on to the cells.",
+			"back": "capillaries"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-5",
+			"front": "The formation of clots to plug openings in injured blood vessels and stop blood flow.",
+			"back": "coagulation"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-6",
+			"front": "A bruise from an injury that causes bleeding beneath the skin without breaking the skin; also see ecchymosis.",
+			"back": "contusion"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-7",
+			"front": "A buildup of blood beneath the skin that produces a characteristic blue or black discoloration as the result of an injury.",
+			"back": "ecchymosis"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-8",
+			"front": "A nosebleed.",
+			"back": "epistaxis"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-9",
+			"front": "Vomiting blood.",
+			"back": "hematemesis"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-10",
+			"front": "A mass of blood that has collected within damaged tissue beneath the skin or in a body cavity.",
+			"back": "hematoma"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-11",
+			"front": "Blood in the urine.",
+			"back": "hematuria"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-12",
+			"front": "A hereditary condition in which the patient lacks one or more of the blood’s normal clotting factors.",
+			"back": "hemophilia"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-13",
+			"front": "The coughing up of blood.",
+			"back": "hemoptysis"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-14",
+			"front": "Bleeding.",
+			"back": "hemorrhage"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-15",
+			"front": "A dressing impregnated with a chemical compound that slows or stops bleeding by assisting with clot formation.",
+			"back": "hemostatic dressing"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-16",
+			"front": "A condition in which the circulatory system fails to provide sufficient circulation to maintain normal cellular function; also called shock.",
+			"back": "hypoperfusion"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-17",
+			"front": "A condition in which low blood volume, due to massive internal or external bleeding or extensive loss of body water, results in inadequate perfusion.",
+			"back": "hypovolemic shock"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-18",
+			"front": "A device that provides proximal compression of severe bleeding near the axial or inguinal junction with the torso.",
+			"back": "junctional tourniquet"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-19",
+			"front": "Black, foul-smelling, tarry stool containing digested blood.",
+			"back": "melena"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-20",
+			"front": "A life-threatening fracture of the pelvis caused by a force that displaces one or both sides of the pelvis laterally and posteriorly.",
+			"back": "open-book pelvic fracture"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-21",
+			"front": "A device to splint the bony pelvis to reduce hemorrhage from bone ends, venous disruption, and pain.",
+			"back": "pelvic binder"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-22",
+			"front": "The flow of blood through body tissues and vessels.",
+			"back": "perfusion"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-23",
+			"front": "A condition in which the circulatory system fails to provide sufficient circulation to maintain normal cellular functions; also called hypoperfusion.",
+			"back": "shock"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-24",
+			"front": "The bleeding control method used when a wound continues to bleed despite the use of direct pressure; useful if a patient is bleeding severely from a partial or complete amputation.",
+			"back": "tourniquet"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-25",
+			"front": "Narrowing of a blood vessel.",
+			"back": "vasoconstriction"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-26",
+			"front": "The blood vessels that carry blood from the tissues to the heart.",
+			"back": "veins"
+		},
+		{
+			"id": "category-chapter-26-tag-vocabulary-card-27",
+			"front": "Very small, thin-walled blood vessels.",
+			"back": "venules"
+		}
+	],
+	"category": {
+		"value": "chapter-26",
+		"label": "Chapter 26"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

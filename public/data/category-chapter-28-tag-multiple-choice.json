@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-28-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-1",
+			"front": "Frequent reassessments of the patient with face or neck injuries are most important because:\n\n(See Patient Assessment)",
+			"back": "such injuries can affect the respiratory system."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-2",
+			"front": "Facial injuries should be identified and treated as soon as possible because:\n\n(See Patient Assessment)",
+			"back": "of the risk for airway problems."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-3",
+			"front": "The mastoid process is located approximately:\n\n(See Anatomy and Physiology)",
+			"back": "1 inch posterior to the external opening of the ear."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-4",
+			"front": "The upper jawbones are called the:\n\n(See Anatomy and Physiology)",
+			"back": "maxillae."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-5",
+			"front": "What is the function of the sternocleidomastoid muscle?\n\n(See Anatomy and Physiology)",
+			"back": "Allows movement of the head"
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-6",
+			"front": "Which of the following findings would be least suggestive of a head injury?\n\n(See Emergency Medical Care for Specific Injuries)",
+			"back": "Briskly constricting pupils when exposed to light"
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-7",
+			"front": "The lower jawbone is called the:\n\n(See Anatomy and Physiology)",
+			"back": "mandible."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-8",
+			"front": "The skin and underlying tissues of the face:\n\n(See Injuries of the Face and Neck)",
+			"back": "have a rich blood supply and bleed profusely."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-9",
+			"front": "The Adam’s apple is:\n\n(See Anatomy and Physiology)",
+			"back": "the upper part of the larynx that is formed by the thyroid cartilage."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-10",
+			"front": "The conjunctiva are kept moist by fluid produced by the:\n\n(See Anatomy and Physiology)",
+			"back": "lacrimal gland."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-11",
+			"front": "The term “hyphema” is defined as:\n\n(See Emergency Medical Care for Specific Injuries)",
+			"back": "blood in the anterior chamber of the eye."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-12",
+			"front": "The superficial temporal artery can be palpated:\n\n(See Anatomy and Physiology)",
+			"back": "just anterior to the tragus."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-13",
+			"front": "When a light is shone into the pupil:\n\n(See Anatomy and Physiology)",
+			"back": "it should become smaller in size."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-14",
+			"front": "When transporting a patient with a facial injury, it is most important to be as descriptive as possible with the hospital regarding the patient’s injuries because:\n\n(See Patient Assessment)",
+			"back": "they might need to call a specialist to see the patient."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-15",
+			"front": "The white portion of the eye is called the:\n\n(See Anatomy and Physiology)",
+			"back": "sclera."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-16",
+			"front": "Bleeding from soft-tissue injuries to the face is most effectively controlled with:\n\n(See Emergency Medical Care)",
+			"back": "direct pressure using dry, sterile dressings."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-17",
+			"front": "The small, rounded, fleshy bulge immediately anterior to the ear canal is called the:\n\n(See Anatomy and Physiology)",
+			"back": "tragus."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-18",
+			"front": "The inner surface of the eyelids and the exposed surface of the eye itself are covered by a delicate membrane called the:\n\n(See Anatomy and Physiology)",
+			"back": "conjunctiva."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-19",
+			"front": "The cricoid cartilage:\n\n(See Anatomy and Physiology)",
+			"back": "is the only complete circular cartilage of the trachea."
+		},
+		{
+			"id": "category-chapter-28-tag-multiple-choice-card-20",
+			"front": "The eyeball itself is referred to as the:\n\n(See Anatomy and Physiology)",
+			"back": "globe."
+		}
+	],
+	"category": {
+		"value": "chapter-28",
+		"label": "Chapter 28"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

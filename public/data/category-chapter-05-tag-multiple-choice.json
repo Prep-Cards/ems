@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-05-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-1",
+			"front": "A patient with a pneumothorax has unilateral chest expansion. This means that:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "only one side of his chest rises when he inhales."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-2",
+			"front": "The term “pericardiocentesis” means:\n\n(See Master Tables)",
+			"back": "the removal of fluid from around the heart."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-3",
+			"front": "The topographic term used to describe the location of body parts that are closer toward the midline of the body is:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "medial."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-4",
+			"front": "The ___________ of the heart is the inferior portion of the ventricles.\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "apex"
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-5",
+			"front": "Movement or motion away from the body’s midline is called:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "abduction."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-6",
+			"front": "In relation to the chest, the back is:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "posterior."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-7",
+			"front": "After applying a tourniquet, the injury from a patient’s leg stops bleeding. This is called:\n\n(See Master Tables)",
+			"back": "hemostasis."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-8",
+			"front": "A pregnant patient is diagnosed with hyperemesis gravidarum. This means that:\n\n(See Breaking Terms Apart)",
+			"back": "she has excessive vomiting."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-9",
+			"front": "An intoxicated 40-year-old male is found lying face down. How would you document his body’s position?\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "Prone"
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-10",
+			"front": "A diabetic patient has polydipsia. This means that she:\n\n(See Master Tables)",
+			"back": "is excessively thirsty."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-11",
+			"front": "Which of the following anatomic terms is synonymous with the word “dorsal”?\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "Posterior"
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-12",
+			"front": "The topographic term used to describe the parts of the body that are nearer to the feet is:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "inferior."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-13",
+			"front": "The term “supraventricular tachycardia” means:\n\n(See Master Tables)",
+			"back": "a rapid heart rate that originates from above the ventricles."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-14",
+			"front": "A 5-year-old boy has fallen and has a severe deformity of the forearm near the wrist. He has possibly sustained a fracture of the ____________ forearm.\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "distal"
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-15",
+			"front": "In relation to the wrist, the elbow is:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "proximal."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-16",
+			"front": "A young male jumped from a tree and landed feet first. Which aspect of his body has sustained the initial injury?\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "Plantar"
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-17",
+			"front": "Enlargement of the liver is called:\n\n(See Master Tables)",
+			"back": "hepatomegaly."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-18",
+			"front": "A fracture of the humerus just above the elbow would be described as a:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "distal humerus fracture."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-19",
+			"front": "A patient has fractured both femurs. Anatomically, these injuries would be described as being:\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "bilateral."
+		},
+		{
+			"id": "category-chapter-05-tag-multiple-choice-card-20",
+			"front": "A patient in a semi-reclined position with the head elevated to facilitate breathing is in the ___________ position.\n\n(See Common Direction, Movement, and Position Terms)",
+			"back": "Fowler"
+		}
+	],
+	"category": {
+		"value": "chapter-05",
+		"label": "Chapter 5"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-26-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-1",
+			"front": "An organ or tissue might better resist damage from hypoperfusion if the:\n\n(See Pathophysiology and Perfusion)",
+			"back": "body’s temperature is considerably less than 98.6°F (37.0°C)."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-2",
+			"front": "Which of the following body systems or components is the least critical for supplying and maintaining adequate blood flow to the body?\n\n(See Anatomy and Physiology of the Cardiovascular System)",
+			"back": "The filtering of blood cells in the spleen"
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-3",
+			"front": "Which of the following organs can tolerate inadequate perfusion for two to three hours?\n\n(See Pathophysiology and Perfusion)",
+			"back": "Skeletal muscle"
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-4",
+			"front": "The severity of bleeding should be based on all of the following findings, except:\n\n(See External Bleeding)",
+			"back": "systolic blood pressure."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-5",
+			"front": "External bleeding from a vein is relatively easy to control because:\n\n(See External Bleeding)",
+			"back": "veins are under a lower pressure."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-6",
+			"front": "Internal bleeding into a fractured extremity is most often controlled by:\n\n(See Emergency Medical Care for External Bleeding)",
+			"back": "splinting the extremity."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-7",
+			"front": "Capillaries link the arterioles and the:\n\n(See Anatomy and Physiology of the Cardiovascular System)",
+			"back": "venules."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-8",
+			"front": "Hypovolemic shock occurs when:\n\n(See External Bleeding)",
+			"back": "low fluid volume leads to inadequate perfusion."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-9",
+			"front": "Bleeding from the nose following head trauma:\n\n(See Emergency Medical Care for External Bleeding)",
+			"back": "is a sign of a skull fracture and should not be stopped."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-10",
+			"front": "Hypoperfusion is another name for:\n\n(See Anatomy and Physiology of the Cardiovascular System)",
+			"back": "shock."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-11",
+			"front": "Perfusion is most accurately defined as the:\n\n(See Pathophysiology and Perfusion)",
+			"back": "circulation of blood within an organ in adequate amounts to meet the body’s metabolic needs."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-12",
+			"front": "A fractured femur can result in the loss of ______ or more of blood into the soft tissues of the thigh.\n\n(See Internal Bleeding)",
+			"back": "1 L"
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-13",
+			"front": "The ability of a person’s cardiovascular system to compensate for blood loss is most related to:\n\n(See External Bleeding)",
+			"back": "how rapidly he or she bleeds."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-14",
+			"front": "In older patients, the first indicator of nontraumatic internal bleeding might be:\n\n(See Internal Bleeding)",
+			"back": "weakness or dizziness."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-15",
+			"front": "Early signs and symptoms of intra-abdominal bleeding include:\n\n(See Internal Bleeding)",
+			"back": "pain and distention."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-16",
+			"front": "Significant vital sign changes will occur if the typical adult acutely loses more than ______ of his or her total blood volume.\n\n(See External Bleeding)",
+			"back": "20%"
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-17",
+			"front": "In nontrauma patients, an early indicator of internal bleeding is:\n\n(See Internal Bleeding)",
+			"back": "dizziness upon standing."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-18",
+			"front": "Gastrointestinal bleeding should be suspected if a patient presents with:\n\n(See Internal Bleeding)",
+			"back": "hematemesis."
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-19",
+			"front": "Which of the following splinting devices would be most appropriate to use for a patient who has an open fracture of the forearm with external bleeding?\n\n(See Emergency Medical Care for External Bleeding)",
+			"back": "Air splint"
+		},
+		{
+			"id": "category-chapter-26-tag-multiple-choice-card-20",
+			"front": "Most cases of external bleeding from an extremity can be controlled by:\n\n(See Patient Assessment for External and Internal Bleeding)",
+			"back": "applying local direct pressure."
+		}
+	],
+	"category": {
+		"value": "chapter-26",
+		"label": "Chapter 26"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

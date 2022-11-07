@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-08-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-1",
+			"front": "The extremity lift would not be appropriate to use on a patient:\n\n(See Nonurgent Moves)",
+			"back": "with a deformed humerus."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-2",
+			"front": "Which of the following statements regarding patient weight distribution is correct?\n\n(See Principles of Safe Lifting and Carrying)",
+			"back": "The majority of a horizontal patient’s weight is in the torso."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-3",
+			"front": "You should not attempt to lift a patient who weighs more than 250 pounds with fewer than _______ rescuers, regardless of individual strength.\n\n(See Principles of Safe Lifting and Carrying)",
+			"back": "four"
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-4",
+			"front": "To minimize the risk of injuring yourself when lifting or moving a patient, you should:\n\n(See Principles of Safe Lifting and Carrying)",
+			"back": "keep the weight as close to your body as possible."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-5",
+			"front": "The first rule of safe lifting is to:\n\n(See Body Mechanics)",
+			"back": "keep your back in a straight, vertical position."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-6",
+			"front": "The most appropriate carrying device to use when moving a patient across rough or uneven terrain is the:\n\n(See Additional Patient-Moving Equipment)",
+			"back": "basket stretcher."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-7",
+			"front": "The _________ is both the mechanical weight-bearing base of the spinal column and the fused central posterior section of the pelvic girdle.\n\n(See Body Mechanics)",
+			"back": "sacrum"
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-8",
+			"front": "When using a body drag to pull a patient who is on the ground, you should:\n\n(See Principles of Safe Reaching and Pulling)",
+			"back": "kneel to minimize the distance that you will have to lean over."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-9",
+			"front": "Which of the following most accurately describes the correct position of the EMTs who are executing the diamond carry technique?\n\n(See Principles of Safe Lifting and Carrying)",
+			"back": "One at the head, one at the feet, and one on each side of the patient’s torso"
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-10",
+			"front": "It is essential that you ____________ your equipment to prevent the spread of disease.\n\n(See Additional Patient-Moving Equipment)",
+			"back": "decontaminate"
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-11",
+			"front": "When the shoulder girdle is aligned over the pelvis during lifting:\n\n(See Body Mechanics)",
+			"back": "the weight is exerted straight down the vertebrae."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-12",
+			"front": "The direct carry is used to transfer a patient:\n\n(See Nonurgent Moves)",
+			"back": "from a bed to the ambulance stretcher."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-13",
+			"front": "The most serious consequence of a poorly planned or rushed patient move is:\n\n(See Nonurgent Moves)",
+			"back": "injury to you or your patient."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-14",
+			"front": "When carrying a patient up or down stairs, you should avoid:\n\n(See The Wheeled Ambulance Stretcher)",
+			"back": "using a wheeled stretcher whenever possible."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-15",
+			"front": "In contrast to typical wheeled ambulance stretchers, features of a bariatric stretcher include:\n\n(See Additional Patient-Moving Equipment)",
+			"back": "increased stability from a wider wheelbase."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-16",
+			"front": "Which of the following situations would require an urgent patient move?\n\n(See Urgent Moves)",
+			"back": "Semiconscious patient with shallow respirations and signs of shock"
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-17",
+			"front": "When a person is standing upright, the weight of anything being lifted and carried in the hands is first reflected onto the:\n\n(See Body Mechanics)",
+			"back": "shoulder girdle."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-18",
+			"front": "After applying medical restraints to a combative patient, you should:\n\n(See Patient Positioning)",
+			"back": "remove them only after hospital personnel have requested you to do so."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-19",
+			"front": "Which of the following statements regarding the scoop stretcher is not correct?\n\n(See Nonurgent Moves)",
+			"back": "A scoop stretcher will provide adequate immobilization of a patient’s spinal column."
+		},
+		{
+			"id": "category-chapter-08-tag-multiple-choice-card-20",
+			"front": "Which is the most appropriate method to use when moving a patient from his or her bed to a wheeled stretcher?\n\n(See Nonurgent Moves)",
+			"back": "Draw sheet method"
+		}
+	],
+	"category": {
+		"value": "chapter-08",
+		"label": "Chapter 8"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

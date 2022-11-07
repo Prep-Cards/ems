@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-14-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-1",
+			"front": "The preferred method to dislodge a severe airway obstruction in adults and children; also called the Heimlich maneuver.",
+			"back": "abdominal thrust maneuver"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-2",
+			"front": "A technique that involves compressing the chest and then actively pulling it back up to its neutral position or beyond (decompression); may increase the amount of blood that returns to the heart and, thus, the amount of blood ejected from the heart during the compression phase.",
+			"back": "active compression-decompression CPR"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-3",
+			"front": "Advanced life-saving procedures, some of which are now being provided by the EMT.",
+			"back": "advanced life support"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-4",
+			"front": "Noninvasive emergency life-saving care that is used to treat medical conditions, including airway obstruction, respiratory arrest, and cardiac arrest.",
+			"back": "basic life support"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-5",
+			"front": "The combination of chest compressions and rescue breathing used to establish adequate ventilation and circulation in a patient who is not breathing and has no pulse.",
+			"back": "cardiopulmonary resuscitation"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-6",
+			"front": "The total percentage of time during a resuscitation attempt in which active chest compressions are being performed.",
+			"back": "chest compression fraction"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-7",
+			"front": "Blood settling to the lowest point of the body, causing discoloration of the skin; a definitive sign of death.",
+			"back": "dependent lividity"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-8",
+			"front": "A condition in which air fills the stomach, often as a result of high volume and pressure during artificial ventilation.",
+			"back": "gastric distention"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-9",
+			"front": "A combination of two movements to open the airway by tilting the forehead back and lifting the chin; not used for trauma patients.",
+			"back": "head tilt–chin lift maneuver"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-10",
+			"front": "Rapid or deep breathing that lowers the blood carbon dioxide level below normal; may lead to increased intrathoracic pressure, decreased venous return, and hypotension when associated with bag-mask device use.",
+			"back": "hyperventilation"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-11",
+			"front": "A valve device placed between the endotracheal tube and a bag-mask device that limits the amount of air entering the lungs during the recoil phase between chest compressions.",
+			"back": "impedance threshold device"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-12",
+			"front": "A lack of oxygen that deprives tissues of necessary nutrients, resulting from partial or complete blockage of blood flow; potentially reversible because permanent injury has not yet occurred.",
+			"back": "ischemia"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-13",
+			"front": "Technique to open the airway by placing the fingers behind the angle of the jaw and bringing the jaw forward; used for patients who may have a cervical spine injury.",
+			"back": "jaw-thrust maneuver"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-14",
+			"front": "A circumferential chest compression device composed of a constricting band and backboard that is either electrically or pneumatically driven to compress the heart by putting inward pressure on the thorax.",
+			"back": "load-distributing band"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-15",
+			"front": "A device that depresses the sternum via a compressed gas-powered or electric-powered plunger mounted on a backboard.",
+			"back": "mechanical piston device"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-16",
+			"front": "A side-lying position used to maintain a clear airway in unresponsive patients who are breathing adequately and do not have suspected injuries to the spine, hips, or pelvis.",
+			"back": "recovery position"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-17",
+			"front": "The return of a pulse and effective blood flow to the body in a patient who previously was in cardiac arrest.",
+			"back": "return of spontaneous circulation"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-18",
+			"front": "Stiffening of the body muscles; a definitive sign of death.",
+			"back": "rigor mortis"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-19",
+			"front": "A harsh, high-pitched respiratory sound, generally heard during inspiration, that is caused by partial blockage or narrowing of the upper airway; may be audible without a stethoscope.",
+			"back": "stridor"
+		},
+		{
+			"id": "category-chapter-14-tag-vocabulary-card-20",
+			"front": "The exchange of air between the lungs and the environment; occurs spontaneously by the patient or with assistance from another person, such as an EMT.",
+			"back": "ventilation"
+		}
+	],
+	"category": {
+		"value": "chapter-14",
+		"label": "Chapter 14"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

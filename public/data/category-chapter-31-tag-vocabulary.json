@@ -1,0 +1,75 @@
+{
+	"name": "category-chapter-31-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-1",
+			"front": "An injury in which there is soft-tissue damage inside the body but the skin remains intact.",
+			"back": "closed abdominal injury"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-2",
+			"front": "The displacement of organs outside of the body.",
+			"back": "evisceration"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-3",
+			"front": "The region below the rib cage and above the hip.",
+			"back": "flank"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-4",
+			"front": "Involuntary muscle contractions (spasm) of the abdominal wall to minimize the pain of abdominal movement; a sign of peritonitis.",
+			"back": "guarding"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-5",
+			"front": "Blood in the urine.",
+			"back": "hematuria"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-6",
+			"front": "Structures through which materials pass, such as the stomach, small intestines, large intestines, ureters, and urinary bladder.",
+			"back": "hollow organs"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-7",
+			"front": "Black, foul-smelling, tarry stool containing digested blood.",
+			"back": "melena"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-8",
+			"front": "An injury in which there is a break in the surface of the skin or mucous membrane, exposing deeper tissue to potential contamination.",
+			"back": "open abdominal injury"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-9",
+			"front": "The abdominal cavity.",
+			"back": "peritoneal cavity"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-10",
+			"front": "The membrane lining the abdominal cavity (parietal) and covering the abdominal organs (visceral).",
+			"back": "peritoneum"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-11",
+			"front": "The potential space located posterior to the peritoneal cavity of the abdomen.",
+			"back": "retroperitoneum"
+		},
+		{
+			"id": "category-chapter-31-tag-vocabulary-card-12",
+			"front": "Solid masses of tissue where much of the chemical work of the body takes place (eg, the liver, spleen, pancreas, and kidneys).",
+			"back": "solid organs"
+		}
+	],
+	"category": {
+		"value": "chapter-31",
+		"label": "Chapter 31"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

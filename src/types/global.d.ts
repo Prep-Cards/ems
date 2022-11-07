@@ -26,10 +26,8 @@ declare global {
         tags: Tag[];
     };
 
-    type CardStat = { left: number; right: number };
-
     type CardStats = {
-        [cardId: string]: CardStat;
+        [cardId: string]: number;
     };
 
     type SetCardStat = (cardId: string, move: Move) => Promise<CardStats>;
@@ -60,9 +58,9 @@ declare global {
     type Context = Data &
         Settings & {
             // settings
-            setProficiency: (value: Proficiency) => Promise<Proficiency>;
-            setCardStats: (value: CardStats) => Promise<CardStats>;
-            setDeck: (value: Deck) => Promise<Deck>;
+            setProficiency: Dispatch<SetStateAction<Proficiency>>;
+            setCardStats: Dispatch<SetStateAction<CardStats>>;
+            setDeck: Dispatch<SetStateAction<Deck>>;
             // data
             getCards: (next?: Deck | undefined) => Card[];
         };

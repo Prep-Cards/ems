@@ -1,8 +1,8 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { createContext, ReactNode, useContext, useState } from 'react';
+import { createContext, ReactNode, useContext, useEffect, useState } from 'react';
 import { DEFAULT_SETTINGS, MAX_CARDS } from './utils/constants';
 import SVG from './shared/SVG';
-import { useMountAsync } from './utils/hooks';
+import { useMountEffect } from './utils/hooks';
 import { db } from './utils/db';
 import initData from './utils/initData';
 
@@ -12,22 +12,12 @@ export interface Props {
 
 const AppContext = createContext<Context | null>(null);
 
-function useSettingState<T>(
-    key: keyof Settings,
-    defaultValue: T | undefined
-): [state: T, setState: (next: T) => Promise<T>] {
+function useSettingState<T>(key: keyof Settings, defaultValue: T | undefined) {
     const [state, setState] = useState<T>(defaultValue as T);
-
-    return [
-        state,
-
-        async (newValue: T) => {
-            const newMeta = { key, value: newValue, updated: new Date() } as SettingsMeta;
-            await db.settings.put(newMeta, key);
-            setState(newValue);
-            return newMeta.value as T;
-        },
-    ];
+    useEffect(() => {
+        db.settings.put({ key, value: state, updated: new Date() } as SettingsMeta, key);
+    }, [state]);
+    return [state, setState] as const;
 }
 
 export function useAppContext() {
@@ -55,17 +45,25 @@ export function AppLoader({ children, settings, data }: Props & { settings: Sett
                     ...data,
 
                     getCards: (deck?: Deck): Card[] => {
-                        if (!deck?.categories && !deck?.tags) return [];
-                        const { categories, tags } = deck;
+                        const categories =
+                            deck?.categories.filter((c) => data.categories.some((dc) => dc.value === c.value)) || [];
+
+                        const tags = deck?.tags.filter((c) => data.tags.some((dc) => dc.value === c.value)) || [];
+
+                        if (!categories.length && !tags.length) return [];
 
                         return data.cardSets
-                            .filter(
-                                (set) =>
-                                    (!categories.length ||
-                                        categories.some((cat) => cat.value === set.category.value)) &&
-                                    (!tags.length ||
-                                        tags.some((tag) => set.tags.some((sTag) => sTag.value === tag.value)))
-                            )
+                            .filter((set) => {
+                                const hasCategory =
+                                    !categories.length ||
+                                    !!categories?.some((item) => item.value === set.category.value);
+
+                                const hasTags =
+                                    !tags.length ||
+                                    !!tags?.some((item) => set.tags.some((sTag) => sTag.value === item.value));
+
+                                return Boolean(hasCategory && hasTags);
+                            })
                             .flatMap((set) => set.cards)
                             .slice(0, MAX_CARDS);
                     },
@@ -82,27 +80,29 @@ export function AppContextProvider({ children }: Props) {
 
     const [settings, setSettings] = useState<Settings>();
 
-    useMountAsync(async () => {
-        const initialData = await initData();
+    useMountEffect(() => {
+        (async () => {
+            const initialData = await initData();
 
-        const dbSettings: Settings = {
-            ...DEFAULT_SETTINGS,
-            deck: { categories: [initialData.categories[0]], tags: [initialData.tags[0]] },
-        };
+            const dbSettings: Settings = {
+                ...DEFAULT_SETTINGS,
+                deck: { categories: [initialData.categories[0]], tags: [initialData.tags[0]] },
+            };
 
-        const settingsMeta = await Promise.all(Object.keys(dbSettings).map((key) => db.settings.get(key)));
+            const settingsMeta = await Promise.all(Object.keys(dbSettings).map((key) => db.settings.get(key)));
 
-        settingsMeta.forEach((settingMeta) => {
-            if (!settingMeta?.value) return;
+            settingsMeta.forEach((settingMeta) => {
+                if (!settingMeta?.value) return;
 
-            dbSettings[settingMeta.key] = settingMeta.value as any;
-        });
+                dbSettings[settingMeta.key] = settingMeta.value as any;
+            });
 
-        setTimeout(() => {
-            setSettings(dbSettings as Settings);
-        }, 250);
+            setTimeout(() => {
+                setSettings(dbSettings as Settings);
+            }, 250);
 
-        setData(initialData);
+            setData(initialData);
+        })();
     });
 
     if (!settings || !data) {

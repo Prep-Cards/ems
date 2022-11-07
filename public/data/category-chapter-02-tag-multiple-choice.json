@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-02-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-1",
+			"front": "Prescription glasses do not provide adequate eye protection because they:\n\n(See Infectious and Communicable Diseases)",
+			"back": "offer little or no side protection."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-2",
+			"front": "A critical incident stress debriefing should be conducted no longer than ________ hours following the incident.\n\n(See Stress Management on the Job)",
+			"back": "72"
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-3",
+			"front": "A positive TB skin test indicates that:\n\n(See Infectious and Communicable Diseases)",
+			"back": "you have been exposed to TB."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-4",
+			"front": "You have been working at the scene of a major building collapse for eight hours. Many injured people are still being removed, and everyone is becoming frustrated and losing focus. This situation is most effectively managed by:\n\n(See Stress Management on the Job)",
+			"back": "requesting a CISM team to provide on-scene peer support."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-5",
+			"front": "Quid pro quo, a type of sexual harassment, occurs when the harasser:\n\n(See Workplace Issues)",
+			"back": "requests sexual favors in exchange for something else."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-6",
+			"front": "The most effective way to preserve your own body heat when functioning in cold, wet weather is to:\n\n(See Scene Safety)",
+			"back": "wear at least three layers of clothing."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-7",
+			"front": "The most serious consequence of drug or alcohol abuse among EMS personnel is:\n\n(See Workplace Issues)",
+			"back": "substandard or inappropriate patient care."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-8",
+			"front": "Hazards that are associated with a structural fire include all of the following, except:\n\n(See Scene Safety)",
+			"back": "carbon dioxide deficiency."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-9",
+			"front": "The spread of HIV and hepatitis in the healthcare setting can usually be traced to:\n\n(See Infectious and Communicable Diseases)",
+			"back": "careless handling of sharps."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-10",
+			"front": "Vaccination against the hepatitis A virus is unnecessary if you:\n\n(See Infectious and Communicable Diseases)",
+			"back": "have been infected with hepatitis A in the past."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-11",
+			"front": "Which of the following is the most significant factor in determining whether a person will become ill from certain germs?\n\n(See Infectious and Communicable Diseases)",
+			"back": "Immunity"
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-12",
+			"front": "When decontaminating the back of your ambulance after a call, you should:\n\n(See Infectious and Communicable Diseases)",
+			"back": "allow surfaces to air dry unless otherwise indicated in the product directions."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-13",
+			"front": "What should you do before attempting to access a patient trapped in a vehicle?\n\n(See Scene Safety)",
+			"back": "Ensure the vehicle is stable."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-14",
+			"front": "General adaptation syndrome is characterized by which of the following phases?\n\n(See Stress Management on the Job)",
+			"back": "Alarm response, reaction and resistance, and recovery"
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-15",
+			"front": "The most important consideration at the scene of a hazardous materials incident is:\n\n(See Scene Safety)",
+			"back": "ensuring your personal safety."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-16",
+			"front": "The capacity of an individual to cope with and recover from stress is called:\n\n(See Caring for Critically Ill and Injured Patients)",
+			"back": "resilience."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-17",
+			"front": "Which of the following infectious diseases confers no protection from reinfection after exposure?\n\n(See Infectious and Communicable Diseases)",
+			"back": "Syphilis"
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-18",
+			"front": "Characteristics of eustress following dispatch to a high-speed motor vehicle collision may include:\n\n(See General Health, Wellness, and Resilience)",
+			"back": "increased self-image from performing well under a challenging situation."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-19",
+			"front": "The simplest, yet most effective method of preventing the spread of an infectious disease is to:\n\n(See Infectious and Communicable Diseases)",
+			"back": "wash your hands in between patient contacts."
+		},
+		{
+			"id": "category-chapter-02-tag-multiple-choice-card-20",
+			"front": "Vectorborne transmission of an infectious organism occurs via:\n\n(See Infectious and Communicable Diseases)",
+			"back": "animals or insects."
+		}
+	],
+	"category": {
+		"value": "chapter-02",
+		"label": "Chapter 2"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

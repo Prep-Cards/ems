@@ -1,0 +1,235 @@
+{
+	"name": "category-chapter-17-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-1",
+			"front": "A group of symptoms caused by myocardial ischemia; includes angina and myocardial infarction.",
+			"back": "acute coronary syndrome"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-2",
+			"front": "A heart attack; death of heart muscle following obstruction of blood flow to it. “Acute” in this context means “new” or “happening right now.”",
+			"back": "acute myocardial infarction"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-3",
+			"front": "Transient (short-lived) chest discomfort caused by partial or temporary blockage of blood flow to the heart muscle; also called angina.",
+			"back": "angina pectoris"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-4",
+			"front": "The front surface of the body; the side facing you in the standard anatomic position.",
+			"back": "anterior"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-5",
+			"front": "The main artery leaving the left side of the heart and carrying freshly oxygenated blood to the body.",
+			"back": "aorta"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-6",
+			"front": "A weakness in the wall of the aorta that makes it susceptible to rupture.",
+			"back": "aortic aneurysm"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-7",
+			"front": "The one-way valve that lies between the left ventricle and the aorta and keeps blood from flowing back into the left ventricle after the left ventricle ejects its blood into the aorta; one of four heart valves.",
+			"back": "aortic valve"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-8",
+			"front": "A tracing on an ECG that is the result of interference, such as patient movement, rather than the heart’s electrical activity.",
+			"back": "artifact"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-9",
+			"front": "The complete absence of all heart electrical activity.",
+			"back": "asystole"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-10",
+			"front": "A disorder in which cholesterol and calcium build up inside the walls of the blood vessels, forming plaque, which eventually leads to a partial or complete blockage of blood flow.",
+			"back": "atherosclerosis"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-11",
+			"front": "One of the two upper chambers of the heart.",
+			"back": "atrium"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-12",
+			"front": "The ability of cardiac muscle cells to contract without stimulation from the nervous system.",
+			"back": "automaticity"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-13",
+			"front": "The part of the nervous system that controls the involuntary activities of the body such as the heart rate, blood pressure, and digestion of food.",
+			"back": "autonomic nervous system"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-14",
+			"front": "A slow heart rate, less than 60 beats/min.",
+			"back": "bradycardia"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-15",
+			"front": "When the heart fails to generate effective and detectable blood flow; pulses are not palpable in this state, even if muscular and electrical activity continues in the heart.",
+			"back": "cardiac arrest"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-16",
+			"front": "A measure of the volume of blood circulated by the heart in 1 minute, calculated by multiplying the stroke volume by the heart rate.",
+			"back": "cardiac output"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-17",
+			"front": "A state in which not enough oxygen is delivered to the tissues of the body, caused by low output of blood from the heart. It can be a severe complication of a large acute myocardial infarction, as well as other conditions.",
+			"back": "cardiogenic shock"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-18",
+			"front": "A disorder in which the heart loses part of its ability to effectively pump blood, usually as a result of damage to the heart muscle and usually resulting in a backup of fluid into the lungs.",
+			"back": "congestive heart failure"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-19",
+			"front": "The blood vessels that carry blood and nutrients to the heart muscle.",
+			"back": "coronary arteries"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-20",
+			"front": "To shock a fibrillating (chaotically shaking) heart with specialized electric current in an attempt to restore a normal, rhythmic beat.",
+			"back": "defibrillate"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-21",
+			"front": "Swelling in the part of the body closest to the ground, caused by collection of fluid in the tissues; a possible sign of congestive heart failure.",
+			"back": "dependent edema"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-22",
+			"front": "Widening of a tubular structure such as a coronary artery.",
+			"back": "dilation"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-23",
+			"front": "A condition in which the inner layers of an artery, such as the aorta, become separated, allowing blood (at high pressures) to flow between the layers.",
+			"back": "dissecting aneurysm"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-24",
+			"front": "An irregular or abnormal heart rhythm.",
+			"back": "dysrhythmia"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-25",
+			"front": "An emergency situation created by excessively high blood pressure, which can lead to serious complications such as stroke or aneurysm.",
+			"back": "hypertensive emergency"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-26",
+			"front": "Death of a body tissue, usually caused by interruption of its blood supply.",
+			"back": "infarction"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-27",
+			"front": "Below a body part or nearer to the feet.",
+			"back": "inferior"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-28",
+			"front": "A lack of oxygen that deprives tissues of necessary nutrients, resulting from partial or complete blockage of blood flow; potentially reversible because permanent injury has not yet occurred.",
+			"back": "ischemia"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-29",
+			"front": "The inside diameter of an artery or other hollow structure.",
+			"back": "lumen"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-30",
+			"front": "The heart muscle.",
+			"back": "myocardium"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-31",
+			"front": "A blockage, usually of a tubular structure such as a blood vessel.",
+			"back": "occlusion"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-32",
+			"front": "The part of the autonomic nervous system that controls vegetative functions such as digestion of food and relaxation.",
+			"back": "parasympathetic nervous system"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-33",
+			"front": "The flow of blood through body tissues and vessels.",
+			"back": "perfusion"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-34",
+			"front": "The back surface of the body; the side away from you in the standard anatomic position.",
+			"back": "posterior"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-35",
+			"front": "The return of a pulse and effective blood flow to the body in a patient who previously was in cardiac arrest.",
+			"back": "return of spontaneous circulation"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-36",
+			"front": "The volume of blood pumped forward with each ventricular contraction.",
+			"back": "stroke volume"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-37",
+			"front": "Above a body part or nearer to the head.",
+			"back": "superior"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-38",
+			"front": "The part of the autonomic nervous system that controls active functions such as responding to fear (also known as the fight-or-flight system).",
+			"back": "sympathetic nervous system"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-39",
+			"front": "A fainting spell or transient loss of consciousness.",
+			"back": "syncope"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-40",
+			"front": "A rapid heart rate, more than 100 beats/min.",
+			"back": "tachycardia"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-41",
+			"front": "A blood clot that has formed within a blood vessel and is floating within the bloodstream.",
+			"back": "thromboembolism"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-42",
+			"front": "One of the two lower chambers of the heart.",
+			"back": "ventricle"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-43",
+			"front": "Disorganized, ineffective quivering of the ventricles, resulting in no blood flow and a state of cardiac arrest.",
+			"back": "ventricular fibrillation"
+		},
+		{
+			"id": "category-chapter-17-tag-vocabulary-card-44",
+			"front": "A rapid heart rhythm in which the electrical impulse begins in the ventricle (instead of the atria), which may result in inadequate blood flow and eventually deteriorate into cardiac arrest.",
+			"back": "ventricular tachycardia"
+		}
+	],
+	"category": {
+		"value": "chapter-17",
+		"label": "Chapter 17"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

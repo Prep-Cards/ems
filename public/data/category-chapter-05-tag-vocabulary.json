@@ -1,0 +1,155 @@
+{
+	"name": "category-chapter-05-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-1",
+			"front": "Motion of a limb away from the midline.",
+			"back": "abduction"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-2",
+			"front": "Motion of a limb toward the midline.",
+			"back": "adduction"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-3",
+			"front": "The front surface of the body; the side facing you in the standard anatomic position.",
+			"back": "anterior"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-4",
+			"front": "The pointed extremity of a conical structure.",
+			"back": "apex"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-5",
+			"front": "A body part or condition that appears on both sides of the midline.",
+			"back": "bilateral"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-6",
+			"front": "The vowel used to combine two word roots or a word root and suffix.",
+			"back": "combining vowel"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-7",
+			"front": "Farther inside the body and away from the skin.",
+			"back": "deep"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-8",
+			"front": "Farther from the trunk or nearer to the free end of the extremity.",
+			"back": "distal"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-9",
+			"front": "The posterior surface of the body, including the back of the hand.",
+			"back": "dorsal"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-10",
+			"front": "The straightening of a joint.",
+			"back": "extension"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-11",
+			"front": "The bending of a joint.",
+			"back": "flexion"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-12",
+			"front": "An inclined position in which the head of the bed is raised.",
+			"back": "Fowler position"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-13",
+			"front": "Below a body part or nearer to the feet.",
+			"back": "inferior"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-14",
+			"front": "Parts of the body that lie farther from the midline; also called outer structures.",
+			"back": "lateral"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-15",
+			"front": "Parts of the body that lie closer to the midline; also called inner structures.",
+			"back": "medial"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-16",
+			"front": "The forward-facing part of the hand in the anatomic position.",
+			"back": "palmar"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-17",
+			"front": "The bottom surface of the foot.",
+			"back": "plantar"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-18",
+			"front": "The back surface of the body; the side away from you in the standard anatomic position.",
+			"back": "posterior"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-19",
+			"front": "Part of a term that appears before a word root, changing the meaning of the term.",
+			"back": "prefix"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-20",
+			"front": "Lying face down.",
+			"back": "prone"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-21",
+			"front": "Closer to the trunk.",
+			"back": "proximal"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-22",
+			"front": "The sections of the abdominal cavity, in which two imaginary lines intersect at the umbilicus, dividing the abdomen into four equal areas.",
+			"back": "quadrants"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-23",
+			"front": "The part of a term that comes after the word root, at the end of the term.",
+			"back": "suffix"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-24",
+			"front": "Closer to or on the skin.",
+			"back": "superficial"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-25",
+			"front": "Above a body part or nearer to the head.",
+			"back": "superior"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-26",
+			"front": "Lying face up.",
+			"back": "supine"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-27",
+			"front": "The anterior surface of the body.",
+			"back": "ventral"
+		},
+		{
+			"id": "category-chapter-05-tag-vocabulary-card-28",
+			"front": "The main part of a term that contains the primary meaning.",
+			"back": "word root"
+		}
+	],
+	"category": {
+		"value": "chapter-05",
+		"label": "Chapter 5"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

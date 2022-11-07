@@ -7,7 +7,7 @@ export class FlashCardsDexie extends Dexie {
     constructor() {
         super('FlashCards1');
 
-        this.version(4).stores({
+        this.version(5).stores({
             settings: '&key, value, updated',
         });
     }

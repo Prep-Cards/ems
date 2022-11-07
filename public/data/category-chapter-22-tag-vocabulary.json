@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-22-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-1",
+			"front": "A state of overwhelming obsession or physical need to continue the use of a substance.",
+			"back": "addiction"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-2",
+			"front": "A substance that is used to neutralize or counteract a poison.",
+			"back": "antidote"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-3",
+			"front": "A severe withdrawal syndrome seen in alcoholics who are deprived of ethyl alcohol; characterized by restlessness, fever, sweating, disorientation, agitation, and seizures; can be fatal if untreated.",
+			"back": "delirium tremens"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-4",
+			"front": "Vomiting.",
+			"back": "emesis"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-5",
+			"front": "An agent that produces false perceptions in any one of the five senses.",
+			"back": "hallucinogen"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-6",
+			"front": "Vomiting blood.",
+			"back": "hematemesis"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-7",
+			"front": "A sleep-inducing effect or agent.",
+			"back": "hypnotic"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-8",
+			"front": "Swallowing; taking a substance by mouth.",
+			"back": "ingestion"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-9",
+			"front": "A form, provided by manufacturers and compounders (blenders) of chemicals, containing information about chemical composition, physical and chemical properties, health and safety hazards, emergency response, and waste disposal of a specific material; also known as a safety data sheet (SDS).",
+			"back": "material safety data sheet"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-10",
+			"front": "A drug that produces sleep or altered mental consciousness.",
+			"back": "narcotic"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-11",
+			"front": "A subset of the opioid family, referring to natural, nonsynthetic opioids.",
+			"back": "opiate"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-12",
+			"front": "A synthetically produced narcotic medication, drug, or agent similar to the opiate morphine, but not derived from opium; used to relieve pain.",
+			"back": "opioid"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-13",
+			"front": "An excessive quantity of a drug that, when taken or administered, can have toxic or lethal consequences.",
+			"back": "overdose"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-14",
+			"front": "A substance whose chemical action could damage structures or impair function when introduced into the body.",
+			"back": "poison"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-15",
+			"front": "A substance that decreases activity and excitement.",
+			"back": "sedative"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-16",
+			"front": "An agent that produces an excited state.",
+			"back": "stimulant"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-17",
+			"front": "The misuse of any substance to produce a desired effect.",
+			"back": "substance abuse"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-18",
+			"front": "The need for increasing amounts of a drug to obtain the same effect.",
+			"back": "tolerance"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-19",
+			"front": "The study of toxic or poisonous substances.",
+			"back": "toxicology"
+		},
+		{
+			"id": "category-chapter-22-tag-vocabulary-card-20",
+			"front": "A poison or harmful substance.",
+			"back": "toxin"
+		}
+	],
+	"category": {
+		"value": "chapter-22",
+		"label": "Chapter 22"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

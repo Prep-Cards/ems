@@ -1,0 +1,195 @@
+{
+	"name": "category-chapter-04-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-1",
+			"front": "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+			"back": "base station"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-2",
+			"front": "A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+			"back": "cellular telephone"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-3",
+			"front": "An assigned frequency or frequencies that are used to carry voice and/or data communications.",
+			"back": "channel"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-4",
+			"front": "The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
+			"back": "chief complaint"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-5",
+			"front": "The condition requiring the most urgent intervention as determined by the provider’s assessment of the patient; it is not always the same as the chief complaint.",
+			"back": "chief concern"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-6",
+			"front": "Questions that can be answered in short or single-word responses.",
+			"back": "closed-ended questions"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-7",
+			"front": "The transmission of information to another person—verbally or through body language.",
+			"back": "communication"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-8",
+			"front": "When one person imposes his or her beliefs, values, and practices on another because he or she believe his or her ideals are superior.",
+			"back": "cultural imposition"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-9",
+			"front": "A special telephone line that is used for specific point-to-point communications; also known as a hotline.",
+			"back": "dedicated line"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-10",
+			"front": "The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient’s permanent medical record.",
+			"back": "documentation"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-11",
+			"front": "The ability to transmit and receive simultaneously.",
+			"back": "duplex"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-12",
+			"front": "The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
+			"back": "emotional intelligence"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-13",
+			"front": "When a person considers his or her own cultural values as more important when interacting with people of a different culture.",
+			"back": "ethnocentrism"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-14",
+			"front": "The federal agency that has jurisdiction over interstate and international telephone and telegraph services and satellite communications, all of which may involve EMS activity.",
+			"back": "Federal Communications Commission"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-15",
+			"front": "The transfer of pertinent patient information and the responsibility for the patient’s care; often involves the physical movement of the patient and associated equipment; also known as handoff.",
+			"back": "handover"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-16",
+			"front": "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid unnecessary duplication of effort in data entry, and view patient outcomes related to hospital care.",
+			"back": "health information exchange"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-17",
+			"front": "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to communicate and transmit data.",
+			"back": "interoperable communications system"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-18",
+			"front": "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
+			"back": "MED channels"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-19",
+			"front": "The picture an individual has in his or her head of “what’s going on” in a given situation.",
+			"back": "mental model"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-20",
+			"front": "Any communications where disruption will result in the failure of the mission at hand.",
+			"back": "mission-critical communications"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-21",
+			"front": "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+			"back": "mobile data terminal"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-22",
+			"front": "The ability to transmit audio and data signals through the use of more than one communications channel.",
+			"back": "multiplex"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-23",
+			"front": "Anything that dampens or obscures the true meaning of a message.",
+			"back": "noise"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-24",
+			"front": "Questions for which the patient must provide detail to give an answer.",
+			"back": "open-ended questions"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-25",
+			"front": "The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or desktop monitor radios.",
+			"back": "paging"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-26",
+			"front": "The legal document used to record all patient care activities. This report has direct patient care functions but also administrative and quality control functions. PCRs are also known as prehospital care reports.",
+			"back": "patient care report"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-27",
+			"front": "A trusting relationship that you build with your patient.",
+			"back": "rapport"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-28",
+			"front": "A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
+			"back": "repeater"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-29",
+			"front": "A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated.",
+			"back": "scanner"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-30",
+			"front": "Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
+			"back": "simplex"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-31",
+			"front": "Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+			"back": "standing orders"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-32",
+			"front": "A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
+			"back": "telemetry"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-33",
+			"front": "Verbal and nonverbal communication techniques that encourage patients to express their feelings and to achieve a positive relationship.",
+			"back": "therapeutic communication"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-34",
+			"front": "Telecommunication systems that allow a computer to maximize utilization of a group of frequencies.",
+			"back": "trunking"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-35",
+			"front": "Radio frequencies between 300 and 3,000 MHz.",
+			"back": "UHF"
+		},
+		{
+			"id": "category-chapter-04-tag-vocabulary-card-36",
+			"front": "Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
+			"back": "VHF"
+		}
+	],
+	"category": {
+		"value": "chapter-04",
+		"label": "Chapter 4"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

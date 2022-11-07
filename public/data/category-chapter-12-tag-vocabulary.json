@@ -1,0 +1,305 @@
+{
+	"name": "category-chapter-12-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-1",
+			"front": "The process by which medications travel through body tissues until they reach the bloodstream.",
+			"back": "absorption"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-2",
+			"front": "The therapeutic effect of a medication on the body.",
+			"back": "action"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-3",
+			"front": "Any unwanted clinical results of a medication.",
+			"back": "adverse effects"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-4",
+			"front": "A medication that causes stimulation of receptors.",
+			"back": "agonist"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-5",
+			"front": "A medication that binds to a receptor and blocks other medications.",
+			"back": "antagonist"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-6",
+			"front": "A medication used to treat infections caused by a bacterium.",
+			"back": "antibiotic"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-7",
+			"front": "A medication that impairs the ability of blood to clot.",
+			"back": "anticoagulant"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-8",
+			"front": "A medication used to treat infections caused by a fungus.",
+			"back": "antifungal"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-9",
+			"front": "A medication that prevents blood platelets from clumping or sticking together.",
+			"back": "antiplatelet"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-10",
+			"front": "Medications that treat or reduce a fever.",
+			"back": "antipyretics"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-11",
+			"front": "A medication that is an antipyretic (reduces fever), analgesic (reduces pain), anti-inflammatory (reduces inflammation), and a potent inhibitor of platelet aggregation (clumping).",
+			"back": "aspirin"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-12",
+			"front": "Conditions that make a particular medication or treatment inappropriate because it would not help, or may actually harm, a patient.",
+			"back": "contraindications"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-13",
+			"front": "The amount of medication given on the basis of the patient’s size and age.",
+			"back": "dose"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-14",
+			"front": "The amount of time that clinical effects of a medication last.",
+			"back": "duration"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-15",
+			"front": "The process of removing a medication or chemical from within the body.",
+			"back": "elimination"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-16",
+			"front": "Administration of a medication by the EMT directly to the patient.",
+			"back": "EMT-administered medication"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-17",
+			"front": "Medications that enter the body through the digestive system.",
+			"back": "enteral medications"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-18",
+			"front": "A medication that increases heart rate and blood pressure but also eases breathing problems by decreasing muscle tone of the bronchiole tree; a substance produced by the body (commonly called adrenaline), and a drug produced by pharmaceutical companies that increases pulse rate and blood pressure; the drug of choice for an anaphylactic reaction.",
+			"back": "epinephrine"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-19",
+			"front": "A semiliquid substance that is administered orally in capsule form or through plastic tubes.",
+			"back": "gel"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-20",
+			"front": "The original chemical name of a medication (in contrast to one of its proprietary or trade names); the name is not capitalized.",
+			"back": "generic name"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-21",
+			"front": "An abnormally low blood glucose level.",
+			"back": "hypoglycemia"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-22",
+			"front": "The therapeutic uses for a specific medication.",
+			"back": "indications"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-23",
+			"front": "The active, muscular part of breathing that draws air into the airway and lungs; a medication delivery route.",
+			"back": "inhalation"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-24",
+			"front": "An injection into a muscle; a medication delivery route.",
+			"back": "intramuscular injection"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-25",
+			"front": "A delivery route in which a medication is pushed through a specialized atomizer device called a mucosal atomizer device (MAD) into the naris.",
+			"back": "intranasal"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-26",
+			"front": "An injection into the bone; a medication delivery route.",
+			"back": "intraosseous injection"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-27",
+			"front": "An injection directly into a vein; a medication delivery route.",
+			"back": "intravenous injection"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-28",
+			"front": "A substance that is used to treat or prevent disease or relieve pain.",
+			"back": "medication"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-29",
+			"front": "Inappropriate use of a medication that could lead to patient harm.",
+			"back": "medication error"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-30",
+			"front": "A miniature spray canister used to direct medications through the mouth and into the lungs.",
+			"back": "metered-dose inhaler"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-31",
+			"front": "A device that is used to change a liquid medication into a spray and push it into a nostril.",
+			"back": "mucosal atomizer device"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-32",
+			"front": "A medication that increases cardiac perfusion by causing blood vessels to dilate; EMTs may be allowed to assist the patient to self-administer this medication.",
+			"back": "nitroglycerin"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-33",
+			"front": "The amount of time from the administration of a medication to the onset of clinical effects.",
+			"back": "onset of action"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-34",
+			"front": "By mouth; a medication delivery route.",
+			"back": "oral"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-35",
+			"front": "A simple sugar that is readily absorbed by the bloodstream; it is carried on the EMS unit.",
+			"back": "oral glucose"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-36",
+			"front": "Medications that may be purchased directly by a patient without a prescription.",
+			"back": "over-the-counter medication"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-37",
+			"front": "A gas that all cells need for metabolism; the heart and brain, especially, cannot function without it.",
+			"back": "oxygen"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-38",
+			"front": "Medications that enter the body by a route other than the digestive tract, skin, or mucous membranes.",
+			"back": "parenteral medications"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-39",
+			"front": "When the EMT assists the patient with the administration of his or her own medication.",
+			"back": "patient-assisted medication"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-40",
+			"front": "The point or period when the maximum clinical effect of a drug is achieved.",
+			"back": "peak"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-41",
+			"front": "When the EMT administers medication to himself or herself or to a partner.",
+			"back": "peer-assisted medication"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-42",
+			"front": "Through the mouth; a medication delivery route; same as oral.",
+			"back": "per os"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-43",
+			"front": "Through the rectum; a medication delivery route.",
+			"back": "per rectum"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-44",
+			"front": "The process by which a medication works in the body.",
+			"back": "pharmacodynamics"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-45",
+			"front": "The processes that the body performs on a medication, including how it is absorbed, distributed, possibly changed, and eliminated.",
+			"back": "pharmacokinetics"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-46",
+			"front": "The study of the properties and effects of medications.",
+			"back": "pharmacology"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-47",
+			"front": "The use of multiple medications on a regular basis.",
+			"back": "polypharmacy"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-48",
+			"front": "Medications that are distributed to patients only by pharmacists according to a physician’s order.",
+			"back": "prescription medications"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-49",
+			"front": "A liquid mixture that cannot be separated by filtering or allowing the mixture to stand.",
+			"back": "solution"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-50",
+			"front": "Injection into the fatty tissue between the skin and muscle; a medication delivery route.",
+			"back": "subcutaneous injection"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-51",
+			"front": "Under the tongue; a medication delivery route.",
+			"back": "sublingual"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-52",
+			"front": "A mixture of ground particles that are distributed evenly throughout a liquid but do not dissolve.",
+			"back": "suspension"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-53",
+			"front": "The desired or intended effect a medication is expected to have on the body.",
+			"back": "therapeutic effect"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-54",
+			"front": "Lotions, creams, and ointments that are applied to the surface of the skin and affect only that area; a medication delivery route.",
+			"back": "topical medications"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-55",
+			"front": "The brand name that a manufacturer gives a medication; the name is capitalized.",
+			"back": "trade name"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-56",
+			"front": "Through the skin; a medication delivery route.",
+			"back": "transcutaneous"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-57",
+			"front": "Actions that are undesirable but pose little risk to the patient.",
+			"back": "unintended effects"
+		},
+		{
+			"id": "category-chapter-12-tag-vocabulary-card-58",
+			"front": "Actions that can be harmful to the patient.",
+			"back": "untoward effects"
+		}
+	],
+	"category": {
+		"value": "chapter-12",
+		"label": "Chapter 12"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

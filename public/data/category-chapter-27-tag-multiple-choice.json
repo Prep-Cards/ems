@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-27-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-1",
+			"front": "Which of the following is a severe burn in a 35-year-old patient?\n\n(See Burns)",
+			"back": "Circumferential partial-thickness burn to the chest"
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-2",
+			"front": "When treating a partial-thickness burn, you should:\n\n(See Emergency Medical Care of Burns)",
+			"back": "avoid the use of creams, lotions, or antiseptics."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-3",
+			"front": "Functions of dressings and bandages include all of the following, except:\n\n(See Dressing and Bandages)",
+			"back": "immobilization of the injury."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-4",
+			"front": "An injury that separates various layers of soft tissue, resulting in complete detachment or a flap of skin, is called a(n):\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"back": "avulsion."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-5",
+			"front": "In contrast to animal bites, the bite of a human:\n\n(See Emergency Medical Care for Open Injuries)",
+			"back": "carries with it a wide variety of virulent bacteria and viruses."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-6",
+			"front": "In addition to external bleeding, the most significant risk that an open soft-tissue injury exposes a patient to is:\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"back": "infection."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-7",
+			"front": "A burn that is characterized by redness and pain is classified as a:\n\n(See Burns)",
+			"back": "superficial burn."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-8",
+			"front": "A hematoma develops when:\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"back": "large blood vessels beneath the skin are damaged."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-9",
+			"front": "A closed soft-tissue injury characterized by swelling and ecchymosis is called a(n):\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"back": "contusion."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-10",
+			"front": "Functions of the skin include all of the following, except:\n\n(See Anatomy and Physiology of the Skin)",
+			"back": "the production of key antibodies."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-11",
+			"front": "When caring for a patient whose arm is covered with a dry chemical, you should:\n\n(See Emergency Medical Care of Burns)",
+			"back": "brush away the chemical before flushing with water."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-12",
+			"front": "When assessing a patient with a closed soft-tissue injury, it is most important to:\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"back": "remain alert for more severe underlying injuries."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-13",
+			"front": "An abdominal evisceration:\n\n(See Emergency Medical Care for Open Injuries)",
+			"back": "occurs when organs protrude through an open wound."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-14",
+			"front": "You have applied a dressing and roller-gauze bandage to a laceration on the arm of a young female. During transport, she begins to complain of numbness and tingling in her hand. You should:\n\n(See Dressing and Bandages)",
+			"back": "assess distal circulation and readjust the bandage as needed."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-15",
+			"front": "Which of the following statements regarding the rule of nines is correct?\n\n(See Burns)",
+			"back": "The anterior trunk of an adult is equal to 18% of the body surface area."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-16",
+			"front": "Which of the following areas of the body has the thinnest skin?\n\n(See Anatomy and Physiology of the Skin)",
+			"back": "Ears"
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-17",
+			"front": "In addition to severe bleeding, the most life-threatening complication associated with an open neck injury is:\n\n(See Emergency Medical Care for Open Injuries)",
+			"back": "an air embolism."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-18",
+			"front": "What layer of the skin forms a watertight, protective seal for the body?\n\n(See Anatomy and Physiology of the Skin)",
+			"back": "Epidermis"
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-19",
+			"front": "All of the following body structures are lined with mucous membranes, except for the:\n\n(See Anatomy and Physiology of the Skin)",
+			"back": "lips."
+		},
+		{
+			"id": "category-chapter-27-tag-multiple-choice-card-20",
+			"front": "A partial-thickness burn involves the outer layer of skin and a portion of the:\n\n(See Burns)",
+			"back": "dermal layer."
+		}
+	],
+	"category": {
+		"value": "chapter-27",
+		"label": "Chapter 27"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

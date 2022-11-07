@@ -1,0 +1,170 @@
+{
+	"name": "category-chapter-35-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-1",
+			"front": "A young person age 12 to 18 years.",
+			"back": "adolescent"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-2",
+			"front": "An event that causes unresponsiveness, cyanosis, and apnea in an infant, who then resumes breathing with stimulation.",
+			"back": "apparent life-threatening event"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-3",
+			"front": "To turn white.",
+			"back": "blanch"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-4",
+			"front": "Slow respiratory rate; an ominous sign in a child that indicates impending respiratory arrest.",
+			"back": "bradypnea"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-5",
+			"front": "Inflammation of the bronchioles that usually occurs in children younger than 2 years and is often caused by the respiratory syncytial virus.",
+			"back": "bronchiolitis"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-6",
+			"front": "Pulses that are closest to the core (central) part of the body where the vital organs are located; include the carotid, femoral, and apical pulses.",
+			"back": "central pulses"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-7",
+			"front": "A general term applying to all forms of abuse and neglect of children.",
+			"back": "child abuse"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-8",
+			"front": "A viral inflammatory disease of the upper respiratory system that may cause a partial airway obstruction and is characterized by a barking cough; usually seen in children.",
+			"back": "croup"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-9",
+			"front": "A bacterial infection in which the epiglottis becomes inflamed and enlarged and may cause an upper airway obstruction.",
+			"back": "epiglottitis"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-10",
+			"front": "Areas where the neonate’s or infant’s skull has not fused together; usually disappear at approximately 18 months of age.",
+			"back": "fontanelles"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-11",
+			"front": "A seizure characterized by severe twitching of all of the body’s muscles that may last several minutes or more; formerly known as a grand mal seizure.",
+			"back": "generalized seizure"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-12",
+			"front": "An “uh” sound heard during exhalation; reflects the child’s attempt to keep the alveoli open; a sign of increased work of breathing.",
+			"back": "grunting"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-13",
+			"front": "The first year of life.",
+			"back": "infancy"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-14",
+			"front": "A tape used to estimate an infant’s or child’s weight on the basis of body length; appropriate drug doses and equipment sizes are listed on the tape.",
+			"back": "length-based resuscitation tape"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-15",
+			"front": "An inflammation of the meningeal coverings of the brain and spinal cord; it is usually caused by a virus or a bacterium.",
+			"back": "meningitis"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-16",
+			"front": "The external openings of the nostrils. A single nostril opening is called a naris.",
+			"back": "nares"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-17",
+			"front": "Refusal or failure on the part of the parent or caregiver to provide life necessities.",
+			"back": "neglect"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-18",
+			"front": "A form of bacterial meningitis characterized by rapid onset of symptoms, often leading to shock and death.",
+			"back": "Neisseria meningitides"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-19",
+			"front": "A structured assessment tool used to rapidly form a general impression of the infant or child without touching him or her; consists of assessing appearance, work of breathing, and circulation to the skin.",
+			"back": "pediatric assessment triangle"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-20",
+			"front": "A specialized medical practice devoted to the care of the young.",
+			"back": "pediatrics"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-21",
+			"front": "An airborne bacterial infection that affects mostly children younger than 6 years. Patients will be feverish and exhibit a “whoop” sound on inspiration after a coughing attack; highly contagious through droplet infection.",
+			"back": "pertussis"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-22",
+			"front": "Children between ages 3 and 6 years.",
+			"back": "preschool-age"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-23",
+			"front": "A person who is 6 to 12 years of age.",
+			"back": "school age"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-24",
+			"front": "A syndrome seen in abused infants and children; the patient has been subjected to violent, whiplash-type shaking injuries inflicted by the abusing individual that may cause coma, seizures, and increased intracranial pressure due to tearing of the cerebral veins with consequent bleeding into the brain.",
+			"back": "shaken baby syndrome"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-25",
+			"front": "An upright position in which the patient’s head and chin are thrust slightly forward to keep the airway open.",
+			"back": "sniffing position"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-26",
+			"front": "Death of an infant or young child that remains unexplained after a complete autopsy.",
+			"back": "sudden infant death syndrome"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-27",
+			"front": "Rapid respirations.",
+			"back": "tachypnea"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-28",
+			"front": "A child age 1 to 3 years.",
+			"back": "toddler"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-29",
+			"front": "Inflammation of the trachea.",
+			"back": "tracheitis"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-30",
+			"front": "An upright position in which the patient leans forward onto two arms stretched forward and thrusts the head and chin forward.",
+			"back": "tripod position"
+		},
+		{
+			"id": "category-chapter-35-tag-vocabulary-card-31",
+			"front": "An indicator of oxygenation and ventilation; reflects the child’s attempt to compensate for hypoxia.",
+			"back": "work of breathing"
+		}
+	],
+	"category": {
+		"value": "chapter-35",
+		"label": "Chapter 35"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

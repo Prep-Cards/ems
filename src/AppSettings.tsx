@@ -5,7 +5,6 @@ import Checkboxes from './shared/Checkboxes';
 import { Layout } from './shared/Layout';
 import Modal, { ModalState, useModalState } from './shared/Modal';
 import SVG from './shared/SVG';
-import { DEFAULT_CARD_STAT } from './utils/constants';
 import getCardProgress from './utils/getCardProgress';
 import { useFormState } from './utils/hooks';
 import VERSION from './utils/version';
@@ -51,12 +50,10 @@ function CardSet({ set }: { set: CardSet }) {
 
     const { proficiency, cardStats, setCardStats } = useAppContext();
 
-    const clearCardStats = async (cardIs: string[]) => {
+    const clearCardStats = (cardIs: string[]) => {
         const nextCardStats = { ...cardStats };
-        cardIs.forEach((cardId) => {
-            nextCardStats[cardId] = DEFAULT_CARD_STAT;
-        });
-        await setCardStats(nextCardStats);
+        cardIs.forEach((cardId) => delete nextCardStats[cardId]);
+        setCardStats(nextCardStats);
     };
 
     const progress = useMemo(

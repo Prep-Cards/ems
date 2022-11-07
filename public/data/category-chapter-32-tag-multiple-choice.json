@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-32-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-1",
+			"front": "The musculoskeletal system refers to the:\n\n(See Introduction)",
+			"back": "bones and voluntary muscles of the body."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-2",
+			"front": "The act of pulling on a body structure in the direction of its normal alignment is called:\n\n(See Specific Musculoskeletal Injuries)",
+			"back": "traction."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-3",
+			"front": "A(n) __________ fracture occurs in the growth section of a child’s bone and might lead to bone growth abnormalities.\n\n(See Musculoskeletal Injuries)",
+			"back": "epiphyseal"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-4",
+			"front": "Common signs and symptoms of a sprain include all of the following, except:\n\n(See Musculoskeletal Injuries)",
+			"back": "deformity."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-5",
+			"front": "A ____________ is a musculoskeletal injury in which there is partial or temporary separation of the bone ends as well as partial stretching or tearing of the supporting ligaments.\n\n(See Musculoskeletal Injuries)",
+			"back": "Sprain"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-6",
+			"front": "Traction splints primarily immobilize and secure fractures of the:\n\n(See Specific Musculoskeletal Injuries)",
+			"back": "femur."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-7",
+			"front": "Which of the following structures is regulated by smooth muscle?\n\n(See Anatomy and Physiology of the Musculoskeletal System)",
+			"back": "Blood vessels"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-8",
+			"front": "Bone marrow produces:\n\n(See Anatomy and Physiology of the Musculoskeletal System)",
+			"back": "blood cells."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-9",
+			"front": "Which of the following statements regarding compartment syndrome is correct?\n\n(See Compartment Syndrome)",
+			"back": "Compartment syndrome typically develops within 6 to 12 hours after an injury."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-10",
+			"front": "In which of the following situations should the EMT splint an injured limb in the position of deformity?\n\n(See Emergency Medical Care)",
+			"back": "If resistance is encountered or the patient experiences severe pain"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-11",
+			"front": "Skeletal muscle is attached to the bone by tough, ropelike fibrous structures called:\n\n(See Anatomy and Physiology of the Musculoskeletal System)",
+			"back": "tendons."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-12",
+			"front": "Atrophy is a condition that occurs when:\n\n(See Anatomy and Physiology of the Musculoskeletal System)",
+			"back": "muscle decreases in size and function because of disease or trauma."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-13",
+			"front": "When splinting a possible fracture of the foot, it is most important for the EMT to:\n\n(See Specific Musculoskeletal Injuries)",
+			"back": "leave the toes exposed."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-14",
+			"front": "Skeletal muscle is also referred to as __________ muscle.\n\n(See Anatomy and Physiology of the Musculoskeletal System)",
+			"back": "striated"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-15",
+			"front": "A fracture caused by minimal force that is associated with diseases such as cancer and osteoporosis is called a __________ fracture.\n\n(See Musculoskeletal Injuries)",
+			"back": "pathologic"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-16",
+			"front": "Which of the following types of muscle is under direct voluntary control of the brain?\n\n(See Anatomy and Physiology of the Musculoskeletal System)",
+			"back": "Skeletal"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-17",
+			"front": "Which of the following statements regarding striated muscle is correct?\n\n(See Anatomy and Physiology of the Musculoskeletal System)",
+			"back": "It forms the major muscle mass of the body and usually crosses at least one joint."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-18",
+			"front": "Which of the following fractures has the greatest potential for internal blood loss and shock?\n\n(See Specific Musculoskeletal Injuries)",
+			"back": "Pelvis"
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-19",
+			"front": "The most commonly fractured bone(s) in the body is the:\n\n(See Specific Musculoskeletal Injuries)",
+			"back": "clavicle."
+		},
+		{
+			"id": "category-chapter-32-tag-multiple-choice-card-20",
+			"front": "Of the following musculoskeletal injuries, which is the least severe?\n\n(See Musculoskeletal Injuries)",
+			"back": "Nondisplaced pelvic fracture"
+		}
+	],
+	"category": {
+		"value": "chapter-32",
+		"label": "Chapter 32"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

@@ -31,11 +31,7 @@ function DeckSettingsModal({ onClose, show }: ModalState) {
         onClose();
     });
 
-    // const form: any = { value: { categories: [], tags: [] } };
-
     const cards = useMemo(() => getCards(form.value), [form.value, getCards]);
-
-    // const cards = [];
 
     return (
         <>

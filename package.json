@@ -36,6 +36,7 @@
         "eject": "react-scripts eject",
         "build-svg": "node build-svg.js",
         "build-test-data": "ts-node --esm build-test-data.ts",
+        "build-data-index": "ts-node --esm build-data-index.ts",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
         "prod": "http-server build -S -C cert.pem  -o"

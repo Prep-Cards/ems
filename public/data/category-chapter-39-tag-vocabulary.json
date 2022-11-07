@@ -1,0 +1,100 @@
+{
+	"name": "category-chapter-39-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-1",
+			"front": "Gaining entry to an enclosed area and reaching a patient.",
+			"back": "access"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-2",
+			"front": "The designated field command center where the incident commander and support staff are located.",
+			"back": "command post"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-3",
+			"front": "Entry that requires special tools and training and includes the use of force.",
+			"back": "complex access"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-4",
+			"front": "An area where people can be exposed to hazards such as electric wires, sharp metal edges, broken glass, toxic substances, radiation, or fire.",
+			"back": "danger zone"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-5",
+			"front": "To be caught (trapped) within a vehicle, room, or container with no way out or to have a limb or other body part trapped.",
+			"back": "entrapment"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-6",
+			"front": "Removal of a patient from entrapment or a dangerous situation or position, such as removal from a wrecked vehicle, industrial incident, or collapsed building.",
+			"back": "extrication"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-7",
+			"front": "Any substance that is toxic, poisonous, radioactive, flammable, or explosive and causes injury or death with exposure.",
+			"back": "hazardous material"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-8",
+			"front": "The individual who has overall command of the incident in the field.",
+			"back": "incident commander"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-9",
+			"front": "An area of protection providing safety from the danger zone (hot zone).",
+			"back": "safe zone"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-10",
+			"front": "Respirator with independent air supply used by firefighters to enter toxic and otherwise dangerous atmospheres.",
+			"back": "self-contained breathing apparatus"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-11",
+			"front": "Access that is easily achieved without the use of tools or force.",
+			"back": "simple access"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-12",
+			"front": "The ongoing process of information gathering and scene evaluation to determine appropriate strategies and tactics to manage an emergency.",
+			"back": "size-up"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-13",
+			"front": "A specialized law enforcement tactical unit.",
+			"back": "special weapons and tactics team"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-14",
+			"front": "A fire in a house, apartment building, office, school, plant, warehouse, or other building.",
+			"back": "structure fire"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-15",
+			"front": "A hostage, robbery, or other situation in which armed conflict is threatened or shots have been fired and the threat of violence remains.",
+			"back": "tactical situation"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-16",
+			"front": "A team of emergency responders from one or more departments in a region who are trained and on call for certain types of technical rescue.",
+			"back": "technical rescue group"
+		},
+		{
+			"id": "category-chapter-39-tag-vocabulary-card-17",
+			"front": "A rescue that requires special technical skills and equipment in one of many specialized rescue areas, such as technical rope rescue, cave rescue, and dive rescue.",
+			"back": "technical rescue situation"
+		}
+	],
+	"category": {
+		"value": "chapter-39",
+		"label": "Chapter 39"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

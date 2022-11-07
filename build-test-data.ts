@@ -1,4 +1,4 @@
-import { writeFileSync, readdirSync, unlinkSync } from 'fs';
+import { writeFileSync, readdirSync, unlinkSync, readFileSync } from 'fs';
 import path from 'path';
 
 import slugify from './src/utils/slugify';
@@ -79,5 +79,3 @@ Back`,
         )
     );
 }
-
-generateFakeData();

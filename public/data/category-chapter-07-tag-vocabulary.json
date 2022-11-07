@@ -1,0 +1,120 @@
+{
+	"name": "category-chapter-07-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-1",
+			"front": "A young person age 12 to 18 years.",
+			"back": "adolescent"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-2",
+			"front": "A disorder in which cholesterol and calcium build up inside the walls of the blood vessels, forming plaque, which eventually leads to a partial or complete blockage of blood flow.",
+			"back": "atherosclerosis"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-3",
+			"front": "Injury caused by pressure to enclosed body surfaces, for example, from too much pressure in the lungs.",
+			"back": "barotrauma"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-4",
+			"front": "A type of reasoning in which a child looks for approval from peers and society.",
+			"back": "conventional reasoning"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-5",
+			"front": "A young adult age 19 to 40 years.",
+			"back": "early adult"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-6",
+			"front": "Areas where the neonate’s or infant’s skull has not fused together; usually disappear at approximately 18 months of age.",
+			"back": "fontanelles"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-7",
+			"front": "A young child age 1 month to 1 year.",
+			"back": "infant"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-8",
+			"front": "The average number of years a person can be expected to live.",
+			"back": "life expectancy"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-9",
+			"front": "An adult age 41 to 60 years.",
+			"back": "middle adult"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-10",
+			"front": "An infant reflex in which, when an infant is caught off guard, the infant opens his or her arms wide, spreads the fingers, and seems to grab at things.",
+			"back": "Moro reflex"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-11",
+			"front": "A newborn age birth to 1 month.",
+			"back": "neonate"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-12",
+			"front": "The basic filtering units in the kidneys.",
+			"back": "nephrons"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-13",
+			"front": "An adult age 61 years or older.",
+			"back": "older adult"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-14",
+			"front": "An infant reflex that occurs when something is placed in the infant’s palm; the infant grasps the object.",
+			"back": "palmar grasp reflex"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-15",
+			"front": "A type of reasoning in which a child bases decisions on his or her conscience.",
+			"back": "postconventional reasoning"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-16",
+			"front": "A type of reasoning in which a child acts almost purely to avoid punishment or to get what he or she wants.",
+			"back": "preconventional reasoning"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-17",
+			"front": "A child age 3 to 6 years.",
+			"back": "preschooler"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-18",
+			"front": "A person who is 6 to 12 years of age.",
+			"back": "school age"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-19",
+			"front": "An infant reflex in which the infant starts sucking when his or her lips are stroked.",
+			"back": "sucking reflex"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-20",
+			"front": "A child age 1 to 3 years.",
+			"back": "toddler"
+		},
+		{
+			"id": "category-chapter-07-tag-vocabulary-card-21",
+			"front": "The stage of development from birth to approximately 18 months of age, during which infants gain trust in their parents or caregivers if their world is planned, organized, and routine.",
+			"back": "trust versus mistrust"
+		}
+	],
+	"category": {
+		"value": "chapter-07",
+		"label": "Chapter 7"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

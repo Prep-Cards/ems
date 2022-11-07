@@ -1,0 +1,95 @@
+{
+	"name": "category-chapter-08-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-1",
+			"front": "A long, flat board made of rigid, rectangular material that is used to provide support to a patient who is suspected of having a hip, pelvic, spinal, or lower extremity injury; also called a spine board, trauma board, and longboard.",
+			"back": "backboard"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-2",
+			"front": "A branch of medicine concerned with the management (prevention or control) of obesity and allied diseases.",
+			"back": "bariatrics"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-3",
+			"front": "A rigid stretcher commonly used in technical and water rescues that surrounds and supports the patient yet allows water to drain through holes in the bottom; also called a Stokes litter.",
+			"back": "basket stretcher"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-4",
+			"front": "The relationship between the body’s anatomic structures and the physical forces associated with lifting, moving, and carrying; the ways in which the body moves to achieve a specific action.",
+			"back": "body mechanics"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-5",
+			"front": "A carrying technique in which one provider is located at the head end of the stretcher or backboard, one at the foot end, and one at each side of the patient; each of the two providers at the sides uses one hand to support the stretcher or backboard so that all are able to face forward as they walk.",
+			"back": "diamond carry"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-6",
+			"front": "A lifting technique that is used for patients who are found lying supine on the ground with no suspected spinal injury.",
+			"back": "direct ground lift"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-7",
+			"front": "A move in which the patient is dragged or pulled from a dangerous scene before assessment and care are provided.",
+			"back": "emergency move"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-8",
+			"front": "A lifting technique that is used for patients who are supine or in a sitting position with no suspected extremity or spinal injuries.",
+			"back": "extremity lift"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-9",
+			"front": "A stretcher that is a rigid carrying device when secured around a patient but can be folded or rolled when not in use.",
+			"back": "flexible stretcher"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-10",
+			"front": "A stretcher with a strong, rectangular, tubular metal frame and rigid fabric stretched across it.",
+			"back": "portable stretcher"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-11",
+			"front": "A technique in which the stretcher or backboard is gripped by inserting each hand under the handle with the palm facing up and the thumb extended, fully supporting the underside of the handle on the curved palm with the fingers and thumb.",
+			"back": "power grip"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-12",
+			"front": "A lifting technique in which the EMT’s back is held upright, with legs bent, and the patient is lifted when the EMT straightens the legs to raise the upper body and arms.",
+			"back": "power lift"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-13",
+			"front": "A technique to move a patient from a sitting position inside a vehicle to supine on a backboard in less than 1 minute when conditions do not allow for standard immobilization.",
+			"back": "rapid extrication technique"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-14",
+			"front": "A stretcher that is designed to be split into two or four sections that can be fitted around a patient who is lying on the ground or other relatively flat surface; also called an orthopaedic stretcher.",
+			"back": "scoop stretcher"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-15",
+			"front": "A lightweight folding device that is used to carry a conscious, seated patient up or down stairs.",
+			"back": "stair chair"
+		},
+		{
+			"id": "category-chapter-08-tag-vocabulary-card-16",
+			"front": "A specially designed stretcher that can be rolled along the ground. A collapsible undercarriage allows it to be loaded into the ambulance; also called an ambulance stretcher.",
+			"back": "wheeled ambulance stretcher"
+		}
+	],
+	"category": {
+		"value": "chapter-08",
+		"label": "Chapter 8"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

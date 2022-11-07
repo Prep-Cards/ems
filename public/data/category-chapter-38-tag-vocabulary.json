@@ -1,0 +1,95 @@
+{
+	"name": "category-chapter-38-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-1",
+			"front": "Fixed-wing and rotary-wing (known as helicopters) aircraft that have been modified for medical care; used to evacuate and transport patients with life-threatening injuries to treatment facilities.",
+			"back": "air ambulances"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-2",
+			"front": "A specialized vehicle for treating and transporting sick and injured patients.",
+			"back": "ambulance"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-3",
+			"front": "Areas of the road that are blocked from your view by your vehicle or mirrors.",
+			"back": "blind spots"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-4",
+			"front": "The process of removing dirt, dust, blood, or other visible contaminants from a surface.",
+			"back": "cleaning"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-5",
+			"front": "A device that provides a firm surface under the patient’s torso.",
+			"back": "CPR board"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-6",
+			"front": "A safe distance between your vehicle and any vehicles around you.",
+			"back": "cushion of safety"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-7",
+			"front": "To remove or neutralize radiation, chemical, or other hazardous material from clothing, equipment, vehicles, and personnel.",
+			"back": "decontaminate"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-8",
+			"front": "The killing of pathogenic agents by direct application of chemicals.",
+			"back": "disinfection"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-9",
+			"front": "Specialized vehicles used to transport EMS equipment and personnel to the scenes of medical emergencies.",
+			"back": "first-responder vehicles"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-10",
+			"front": "The killing of pathogenic agents by using potent means of disinfection.",
+			"back": "high-level disinfection"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-11",
+			"front": "Occurs when the tires of a vehicle are lifted off the road surface as a result of water piling up underneath them, making the vehicle feel as though it is floating.",
+			"back": "hydroplaning"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-12",
+			"front": "A portable kit containing items that are used in the initial care of the patient.",
+			"back": "jump kit"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-13",
+			"front": "Medical evacuation of a patient by helicopter.",
+			"back": "medevac"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-14",
+			"front": "A person who assists a driver in backing up an ambulance to help adjust for blind spots at the back of the vehicle.",
+			"back": "spotter"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-15",
+			"front": "The six-pointed star emblem that identifies vehicles that meet federal specifications as licensed or certified ambulances.",
+			"back": "Star of Life"
+		},
+		{
+			"id": "category-chapter-38-tag-vocabulary-card-16",
+			"front": "A process, such as heating, that removes microbial contamination.",
+			"back": "sterilization"
+		}
+	],
+	"category": {
+		"value": "chapter-38",
+		"label": "Chapter 38"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}
