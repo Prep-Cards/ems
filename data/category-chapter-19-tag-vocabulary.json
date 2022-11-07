@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-19-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-1",
+			"front": "A condition of sudden onset of pain within the abdomen, usually indicating peritonitis; immediate medical or surgical treatment is necessary.",
+			"back": "acute abdomen"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-2",
+			"front": "Inflammation or infection of the appendix.",
+			"back": "appendicitis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-3",
+			"front": "Inflammation of the gallbladder.",
+			"back": "cholecystitis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-4",
+			"front": "Inflammation of the bladder.",
+			"back": "cystitis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-5",
+			"front": "Inflammation in small pockets at weak areas in the muscle walls of the intestines.",
+			"back": "diverticulitis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-6",
+			"front": "Vomiting.",
+			"back": "emesis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-7",
+			"front": "A condition in which the sphincter between the esophagus and the stomach opens, allowing stomach acid to move up into the esophagus, usually resulting in a burning sensation within the chest; also called acid reflux.",
+			"back": "gastroesophageal reflux disease"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-8",
+			"front": "Involuntary muscle contractions (spasm) of the abdominal wall to minimize the pain of abdominal movement; a sign of peritonitis.",
+			"back": "guarding"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-9",
+			"front": "Vomiting blood.",
+			"back": "hematemesis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-10",
+			"front": "The protrusion of an organ or tissue through an abnormal body opening.",
+			"back": "hernia"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-11",
+			"front": "Paralysis of the bowel, arising from any one of several causes; stops contractions that move material through the intestine.",
+			"back": "ileus"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-12",
+			"front": "Solid crystalline masses formed in the kidney, resulting from an excess of insoluble salts or uric acid crystallizing in the urine; may become trapped anywhere along the urinary tract.",
+			"back": "kidney stones"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-13",
+			"front": "Black, foul-smelling, tarry stool containing digested blood.",
+			"back": "melena"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-14",
+			"front": "Inflammation of the pancreas.",
+			"back": "pancreatitis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-15",
+			"front": "The membrane lining the abdominal cavity (parietal) and covering the abdominal organs (visceral).",
+			"back": "peritoneum"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-16",
+			"front": "Inflammation of the peritoneum.",
+			"back": "peritonitis"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-17",
+			"front": "Pain felt in an area of the body other than the area where the cause of pain is located.",
+			"back": "referred pain"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-18",
+			"front": "Complete obstruction of blood circulation in a given organ as a result of compression or entrapment; an emergency situation causing death of tissue.",
+			"back": "strangulation"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-19",
+			"front": "Severe kidney failure resulting in the buildup of waste products within the blood. Eventually brain functions will be impaired.",
+			"back": "uremia"
+		},
+		{
+			"id": "category-chapter-19-tag-vocabulary-card-20",
+			"front": "An infection, usually of the lower urinary tract (urethra and bladder), that occurs when normal flora bacteria enter the urethra and grow.",
+			"back": "urinary tract infection"
+		}
+	],
+	"category": {
+		"value": "chapter-19",
+		"label": "Chapter 19"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

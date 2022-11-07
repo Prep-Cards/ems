@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-11-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-1",
+			"front": "The hypoxic drive is influenced by:\n\n(See Physiology of Breathing)",
+			"back": "low blood oxygen levels."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-2",
+			"front": "Which of the following organs or tissues can survive the longest without oxygen?\n\n(See Supplemental Oxygen)",
+			"back": "Muscle"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-3",
+			"front": "A patient who is suspected of being hypoxic and is breathing adequately should be given supplemental oxygen with a:\n\n(See Oxygen-Delivery Equipment)",
+			"back": "nonrebreathing mask."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-4",
+			"front": "Which of the following is a late sign of hypoxia?\n\n(See Physiology of Breathing)",
+			"back": "Cyanosis"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-5",
+			"front": "The pressure of gas in a full cylinder of oxygen is approximately _______ pounds per square inch (psi).\n\n(See Supplemental Oxygen)",
+			"back": "2,000"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-6",
+			"front": "The diaphragm is innervated by the _________ nerve, which allows it to contract.\n\n(See Anatomy of the Respiratory System)",
+			"back": "phrenic"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-7",
+			"front": "Irregular respirations characterized by an increasing rate and depth of breathing followed by periods of apnea are called:\n\n(See Patient Assessment)",
+			"back": "Cheyne-Stokes respirations."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-8",
+			"front": "Oxygen toxicity is a condition in which:\n\n(See Supplemental Oxygen)",
+			"back": "cellular tissue damage occurs from excessive oxygen levels in the blood."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-9",
+			"front": "Structures of the lower airway include all of the following, EXCEPT:\n\n(See Anatomy of the Respiratory System)",
+			"back": "the epiglottis."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-10",
+			"front": "Gas exchange in the lungs is facilitated by:\n\n(See Physiology of Breathing)",
+			"back": "adequate amounts of surfactant."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-11",
+			"front": "At a flow rate of 6 L/min, a nasal cannula can deliver an approximate oxygen concentration of up to:\n\n(See Oxygen-Delivery Equipment)",
+			"back": "44%."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-12",
+			"front": "Which of the following structures is NOT found in the upper airway?\n\n(See Anatomy of the Respiratory System)",
+			"back": "Bronchus"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-13",
+			"front": "Which of the following factors will cause a reduction in minute volume in an adult?\n\n(See Physiology of Breathing)",
+			"back": "Shallow breathing"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-14",
+			"front": "Which of the following oxygen flowmeters is NOT affected by gravity and can be used in any position when attached to an oxygen cylinder?\n\n(See Supplemental Oxygen)",
+			"back": "Bourdon-gauge flowmeter"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-15",
+			"front": "What is the MOST common cause of airway obstruction in an unconscious patient?\n\n(See Opening the Airway)",
+			"back": "The tongue"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-16",
+			"front": "High-flow oxygen with a nasal cannula during the preoxygenation phase of endotracheal intubation is called:\n\n(See Assisting With ALS Airway Procedures)",
+			"back": "apneic oxygenation."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-17",
+			"front": "With a good mask-to-face seal and an oxygen flow rate of 15 L/min, the nonrebreathing mask is capable of delivering up to ______% inspired oxygen.\n\n(See Oxygen-Delivery Equipment)",
+			"back": "90"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-18",
+			"front": "The presence of elevated carbon dioxide levels in the blood is called:\n\n(See Physiology of Breathing)",
+			"back": "hypercarbia."
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-19",
+			"front": "Which of the following patients is breathing adequately?\n\n(See Patient Assessment)",
+			"back": "A conscious male with respirations of 19 breaths/min and pink skin"
+		},
+		{
+			"id": "category-chapter-11-tag-multiple-choice-card-20",
+			"front": "An oxygen cylinder should be taken out of service and refilled when the pressure inside it is less than:\n\n(See Supplemental Oxygen)",
+			"back": "500 psi."
+		}
+	],
+	"category": {
+		"value": "chapter-11",
+		"label": "Chapter 11"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

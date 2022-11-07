@@ -1,0 +1,85 @@
+{
+	"name": "category-chapter-23-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-1",
+			"front": "The basic activities a person usually accomplishes during a normal day, such as eating, dressing, and bathing.",
+			"back": "activities of daily living"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-2",
+			"front": "A change in the way a person thinks and behaves that may signal disease in the central nervous system or elsewhere in the body.",
+			"back": "altered mental status"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-3",
+			"front": "How a person functions or acts in response to his or her environment.",
+			"back": "behavior"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-4",
+			"front": "The point at which a person’s reactions to events interfere with activities of daily living; this becomes a psychiatric emergency when it causes a major life interruption, such as attempted suicide.",
+			"back": "behavioral crisis"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-5",
+			"front": "An emergency in which abnormal behavior threatens a person’s own health and safety or the health and safety of another person—for example, when a person becomes suicidal or homicidal, or has a psychotic episode.",
+			"back": "behavioral health emergency"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-6",
+			"front": "A persistent mood of sadness, despair, and discouragement; may be a symptom of many different mental and physical disorders, or may be a disorder on its own.",
+			"back": "depression"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-7",
+			"front": "A serious behavioral condition in which a person exhibits agitated behavior combined with disorientation, hallucinations, or delusions; also called agitated delirium or exhaustive mania.",
+			"back": "excited delirium"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-8",
+			"front": "A disorder in which there is no known physiologic reason for the abnormal functioning of an organ or organ system.",
+			"back": "functional disorder"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-9",
+			"front": "Temporary or permanent dysfunction of the brain, caused by a disturbance in the physical or physiologic functioning of brain tissue.",
+			"back": "organic brain syndrome"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-10",
+			"front": "Restriction of chest wall movements and/or airway obstruction; can rapidly lead to sudden death.",
+			"back": "positional asphyxia"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-11",
+			"front": "A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
+			"back": "posttraumatic stress disorder"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-12",
+			"front": "An illness with psychological or behavioral symptoms and/or impairment in functioning caused by a social, psychological, genetic, physical, chemical, or biologic disturbance.",
+			"back": "psychiatric disorder"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-13",
+			"front": "A mental disorder characterized by the loss of contact with reality.",
+			"back": "psychosis"
+		},
+		{
+			"id": "category-chapter-23-tag-vocabulary-card-14",
+			"front": "A complex, difficult-to-identify mental disorder whose onset typically occurs during early adulthood. Symptoms typically become more prominent over time and include delusions, hallucinations, a lack of interest in pleasure, and erratic speech.",
+			"back": "schizophrenia"
+		}
+	],
+	"category": {
+		"value": "chapter-23",
+		"label": "Chapter 23"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

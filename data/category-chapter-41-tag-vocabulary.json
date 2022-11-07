@@ -1,0 +1,370 @@
+{
+	"name": "category-chapter-41-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-1",
+			"front": "An act of terror in which firearms are used in an ongoing assault of multiple people.",
+			"back": "active shooter event"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-2",
+			"front": "The process by which the temporary bond between an organophosphate and acetylcholinesterase undergoes hydrolysis, resulting in a permanent covalent bond.",
+			"back": "aging"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-3",
+			"front": "A type of energy that is emitted from a strong radiologic source; it is the least harmful penetrating type of radiation and cannot travel more than a few inches or penetrate most objects.",
+			"back": "alpha radiation"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-4",
+			"front": "A disease caused by a deadly bacterium (<ital>Bacillus anthracis</ital>) that lies dormant in a spore (protective shell); the germ is released from the spore when exposed to the optimal temperature and moisture. The routes of entry are inhalation, cutaneous, and gastrointestinal (from consuming food that contains spores).",
+			"back": "anthrax"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-5",
+			"front": "A nerve agent antidote kit containing atropine and pralidoxime chloride; delivered as a single dose through one needle.",
+			"back": "Antidote Treatment Nerve Agent Auto-Injector"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-6",
+			"front": "Microorganisms that reproduce by binary fission. These single-cell creatures reproduce rapidly. Some can form spores (encysted variants) when environmental conditions are harsh.",
+			"back": "bacteria"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-7",
+			"front": "A type of energy that is emitted from a strong radiologic source; it is slightly more penetrating than alpha radiation and requires a layer of clothing to stop it.",
+			"back": "beta radiation"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-8",
+			"front": "A memory device to recall the types of weapons of mass destruction: biologic, nuclear, incendiary, chemical, and explosive.",
+			"back": "B-NICE"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-9",
+			"front": "Produced by bacteria, this is the most potent neurotoxin known. When introduced into the body, this neurotoxin affects the nervous system’s ability to function and causes botulism.",
+			"back": "botulinum"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-10",
+			"front": "Enlarged lymph nodes (up to the size of a tennis ball) that are characteristic in people infected with the bubonic plague.",
+			"back": "buboes"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-11",
+			"front": "Bacterial infection that affects the lymphatic system. It is transmitted by infected rodents and fleas and characterized by acute malaise, fever, and the formation of tender, enlarged, inflamed lymph nodes that appear as lesions, called buboes. Also called the Black Death.",
+			"back": "bubonic plague"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-12",
+			"front": "The first chemical agent ever used in warfare. It has a distinct odor of bleach and creates a green haze when released as a gas. Initially it produces upper airway irritation and a choking sensation.",
+			"back": "chlorine"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-13",
+			"front": "The danger posed by a chemical whose primary route of entry into the body is through the skin; posed by a hazardous agent that gives off very little or no vapors; also called a skin hazard.",
+			"back": "contact hazard"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-14",
+			"front": "An infectious disease that spreads from one human to another; communicable.",
+			"back": "contagious"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-15",
+			"front": "An act in which the public safety community generally has no prior knowledge of the time, location, or nature of the attack.",
+			"back": "covert"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-16",
+			"front": "Occurs when a person is contaminated by an agent as a result of coming in contact with another contaminated person.",
+			"back": "cross-contamination"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-17",
+			"front": "An agent that affects the body’s ability to use oxygen. It is a colorless gas that has an odor similar to almonds. The effects begin on the cellular level and are very rapidly seen at the organ and system levels.",
+			"back": "cyanide"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-18",
+			"front": "A natural process in which a material that is unstable attempts to stabilize itself by changing its structure.",
+			"back": "decay"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-19",
+			"front": "Name given to an explosive radiologic dispersal device.",
+			"back": "dirty bomb"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-20",
+			"front": "An animal that, once infected, spreads a disease to another animal.",
+			"back": "disease vector"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-21",
+			"front": "The means by which a terrorist will spread an agent; for example, by poisoning the water supply or aerosolizing the agent into the air or ventilation system of a building.",
+			"back": "dissemination"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-22",
+			"front": "Terrorism that is carried out by people in their own country.",
+			"back": "domestic terrorism"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-23",
+			"front": "A nerve agent antidote kit containing atropine and pralidoxime chloride; delivered as a single dose through one needle.",
+			"back": "DuoDote Auto-Injector"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-24",
+			"front": "Early nerve agents that were developed by German scientists in the period after World War I and into World War II. There are three such agents: sarin, soman, and tabun.",
+			"back": "G agents"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-25",
+			"front": "A type of energy that is emitted from a strong radiologic source that travels faster and has more energy than alpha and beta rays. These rays easily penetrate through the human body and require lead or several inches of concrete to prevent penetration.",
+			"back": "gamma radiation"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-26",
+			"front": "The period of time between a person being exposed to an agent and the time when symptoms appear.",
+			"back": "incubation"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-27",
+			"front": "Terrorism that is carried out by people in a country other than their own; also known as cross-border terrorism.",
+			"back": "international terrorism"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-28",
+			"front": "Energy that is emitted in the form of rays, or particles.",
+			"back": "ionizing radiation"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-29",
+			"front": "A blistering agent that has a rapid onset of symptoms and produces immediate, intense pain and discomfort on contact.",
+			"back": "lewisite"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-30",
+			"front": "An act of terror carried out by a single person to further an ideological goal.",
+			"back": "lone wolf terrorist attack"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-31",
+			"front": "A passive circulatory system in the body that transports a plasmalike liquid called lymph, a thin fluid that bathes the tissues of the body.",
+			"back": "lymphatic system"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-32",
+			"front": "Tiny, oval-shaped structures located in various places along the lymph vessels that filter lymph.",
+			"back": "lymph nodes"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-33",
+			"front": "Excessively constricted pupil; often bilateral after exposure to nerve agents.",
+			"back": "miosis"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-34",
+			"front": "A substance that mutates, damages, and changes the structures of DNA in the body’s cells.",
+			"back": "mutagen"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-35",
+			"front": "A class of chemicals called organophosphates; they function by blocking an essential enzyme in the nervous system, which causes the body’s organs to become overstimulated and burn out.",
+			"back": "nerve agents"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-36",
+			"front": "Biologic agents that are the deadliest substances known to humans; they include botulinum toxin and ricin.",
+			"back": "neurotoxins"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-37",
+			"front": "The type of energy that is emitted from a strong radiologic source, involving particles that are among the most powerful forms of radiation; the particles easily penetrate through lead and require several feet of concrete to stop them.",
+			"back": "neutron radiation"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-38",
+			"front": "The release of an agent after exposure—for example, from a person’s clothes that have been exposed to the agent.",
+			"back": "off-gassing"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-39",
+			"front": "An outbreak that occurs on a global scale.",
+			"back": "pandemic"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-40",
+			"front": "How long a chemical agent will stay on a surface before it evaporates.",
+			"back": "persistency"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-41",
+			"front": "A pulmonary agent that is a product of combustion, resulting from a fire at a textile factory or house, or from metalwork or burning Freon. It is a very potent agent that has a delayed onset of symptoms, usually hours.",
+			"back": "phosgene"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-42",
+			"front": "A blistering agent that has a rapid onset of symptoms and produces immediate, intense pain and discomfort on contact.",
+			"back": "phosgene oxime"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-43",
+			"front": "A lung infection, also known as plague pneumonia, that is the result of inhalation of plague-causing bacteria.",
+			"back": "pneumonic plague"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-44",
+			"front": "Existing facilities used as mass distribution sites for antibiotics, antidotes, vaccinations, and other medications and supplies during an emergency.",
+			"back": "points of distribution"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-45",
+			"front": "Injuries caused by an explosive pressure wave to the hollow organs of the body.",
+			"back": "primary blast injury"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-46",
+			"front": "Pulmonary trauma resulting from short-range exposure to the detonation of high-energy explosives.",
+			"back": "pulmonary blast injuries"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-47",
+			"front": "A blast injury that falls into one of the following categories: burns, crush injuries, toxic inhalation, medical emergencies, or mental health disorders.",
+			"back": "quaternary blast injury"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-48",
+			"front": "Any material that emits radiation.",
+			"back": "radioactive material"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-49",
+			"front": "Any container that is designed to disperse radioactive material.",
+			"back": "radiologic dispersal device"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-50",
+			"front": "A neurotoxin derived from mash that is left from the castor bean; causes pulmonary edema and respiratory and circulatory failure leading to death.",
+			"back": "ricin"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-51",
+			"front": "The manner by which a toxic substance enters the body.",
+			"back": "route of exposure"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-52",
+			"front": "A nerve agent that is one of the G agents; a highly volatile colorless and odorless liquid that turns from liquid to gas within seconds to minutes at room temperature.",
+			"back": "sarin"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-53",
+			"front": "A penetrating or nonpenetrating injury caused by ordnance projectiles or secondary missiles.",
+			"back": "secondary blast injury"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-54",
+			"front": "A secondary explosive used by terrorists, set to explode after the initial bomb.",
+			"back": "secondary device"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-55",
+			"front": "A highly contagious viral disease; it is most contagious when blisters begin to form.",
+			"back": "smallpox"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-56",
+			"front": "A nerve agent that is one of the G agents; twice as persistent as sarin and five times as lethal; it has a fruity odor as a result of the type of alcohol used in the agent, and is a contact and an inhalation hazard that can enter the body through skin absorption and through the respiratory tract.",
+			"back": "soman"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-57",
+			"front": "Small suitcase-sized nuclear weapons that were designed to destroy individual targets, such as important buildings, bridges, tunnels, and large ships.",
+			"back": "Special Atomic Demolition Munitions"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-58",
+			"front": "Terrorism that is funded and/or supported by nations that hold close ties with terrorist groups.",
+			"back": "state-sponsored terrorism"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-59",
+			"front": "A vesicant; it is a brown-yellow oily substance that is generally considered very persistent; has the distinct smell of garlic or mustard and, when released, is quickly absorbed into the skin and/or mucous membranes and begins an irreversible process of damaging the cells. Also called mustard gas.",
+			"back": "sulfur mustard"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-60",
+			"front": "The monitoring, usually by local or state health departments, of patients presenting to emergency departments and alternative care facilities, the recording of EMS call volume, and the use of over-the-counter medications.",
+			"back": "syndromic surveillance"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-61",
+			"front": "A nerve agent that is one of the G agents; 36 times more persistent than sarin and approximately one-half as lethal; has a fruity smell and is unique because the components used to manufacture the agent are easy to acquire and the agent is easy to manufacture.",
+			"back": "tabun"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-62",
+			"front": "An injury from whole-body displacement and subsequent traumatic impact with environmental objects.",
+			"back": "tertiary blast injury"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-63",
+			"front": "One of the G agents; it is a clear, oily agent that has no odor and looks like baby oil; more than 100 times more lethal than sarin and extremely persistent.",
+			"back": "V agent"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-64",
+			"front": "The term used to describe danger posed by an agent that enters the body through the respiratory tract.",
+			"back": "vapor hazard"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-65",
+			"front": "Blister agents; the primary route of entry for such agents is through the skin.",
+			"back": "vesicants"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-66",
+			"front": "A group of diseases caused by viruses that include the Ebola, Rift Valley, and yellow fever viruses, among others. This group of viruses causes the blood in the body to seep out from the tissues and blood vessels.",
+			"back": "viral hemorrhagic fevers"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-67",
+			"front": "Germs that require a living host to multiply and survive.",
+			"back": "viruses"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-68",
+			"front": "How long a chemical agent will stay on a surface before it evaporates.",
+			"back": "volatility"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-69",
+			"front": "The creation of a weapon from a biologic agent that is generally found in nature and that causes disease; the agent is cultivated, synthesized, and/or mutated to maximize the target population’s exposure to the germ.",
+			"back": "weaponization"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-70",
+			"front": "Any agent designed to bring about mass death, casualties, and/or massive damage to property and infrastructure (bridges, tunnels, airports, and seaports); also known as a weapon of mass destruction (WMD).",
+			"back": "weapon of mass casualty"
+		},
+		{
+			"id": "category-chapter-41-tag-vocabulary-card-71",
+			"front": "Any agent designed to bring about mass death, casualties, and/or massive damage to property and infrastructure (bridges, tunnels, airports, and seaports); also known as a weapon of mass casualty (WMC).",
+			"back": "weapon of mass destruction"
+		}
+	],
+	"category": {
+		"value": "chapter-41",
+		"label": "Chapter 41"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

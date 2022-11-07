@@ -1,0 +1,380 @@
+{
+	"name": "category-chapter-10-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-1",
+			"front": "The secondary muscles of respiration. They include the neck muscles (sternocleidomastoids), the chest pectoralis major muscles, and the abdominal muscles.",
+			"back": "accessory muscles"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-2",
+			"front": "A change in the way a person thinks and behaves that may signal disease in the central nervous system or elsewhere in the body.",
+			"back": "altered mental status"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-3",
+			"front": "To listen to sounds within an organ with a stethoscope.",
+			"back": "auscultate"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-4",
+			"front": "A method of assessing the level of consciousness by determining whether the patient is awake and alert, responsive to verbal stimuli or pain, or unresponsive; used principally early in the assessment process.",
+			"back": "AVPU scale"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-5",
+			"front": "The pressure that the blood exerts against the walls of the arteries as it passes through them.",
+			"back": "blood pressure"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-6",
+			"front": "A slow heart rate, less than 60 beats/min.",
+			"back": "bradycardia"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-7",
+			"front": "An indication of air movement in the lungs, usually assessed with a stethoscope.",
+			"back": "breath sounds"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-8",
+			"front": "A test that evaluates distal circulatory system function by squeezing (blanching) blood from an area such as a nail bed and watching the speed of its return after releasing the pressure.",
+			"back": "capillary refill"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-9",
+			"front": "A noninvasive method to quickly and efficiently provide information on a patient’s ventilatory status, circulation, and metabolism; effectively measures the concentration of carbon dioxide in expired air over time.",
+			"back": "capnography"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-10",
+			"front": "A component of air that typically makes up 0.03% of air at sea level; also a waste product exhaled during expiration by the respiratory system.",
+			"back": "carbon dioxide"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-11",
+			"front": "The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
+			"back": "chief complaint"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-12",
+			"front": "The delicate membrane that lines the eyelids and covers the exposed surface of the eye.",
+			"back": "conjunctiva"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-13",
+			"front": "Crackling, rattling breath sounds that signal fluid in the air spaces of the lungs.",
+			"back": "crackles"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-14",
+			"front": "A grating or grinding sensation or sound caused by fractured bone ends or joints rubbing together.",
+			"back": "crepitus"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-15",
+			"front": "A blue skin discoloration that is caused by a reduced level of oxygen in the blood. Although paleness, or a decrease in blood flow, can be difficult to detect in dark-skinned people, it may be observed by examining mucous membranes inside the inner lower eyelid and capillary refill. On general observation, the patient may appear ashen or gray.",
+			"back": "cyanosis"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-16",
+			"front": "A mnemonic for assessment in which each area of the body is evaluated for Deformities, Contusions, Abrasions, Punctures/penetrations, Burns, Tenderness, Lacerations, and Swelling.",
+			"back": "DCAP-BTLS"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-17",
+			"front": "Characterized by light or profuse sweating.",
+			"back": "diaphoretic"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-18",
+			"front": "The pressure that remains in the arteries during the relaxing phase of the heart’s cycle (diastole) when the left ventricle is at rest.",
+			"back": "diastolic pressure"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-19",
+			"front": "Any injury that prevents the patient from noticing other injuries he or she may have, even severe injuries; for example, a painful femur or tibia fracture that prevents the patient from noticing back pain associated with a spinal fracture.",
+			"back": "distracting injury"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-20",
+			"front": "The conclusion about the cause of the patient’s condition after considering the situation, history, and examination findings.",
+			"back": "field impression"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-21",
+			"front": "A type of physical assessment typically performed on patients who have sustained nonsignificant mechanisms of injury or on responsive medical patients. This type of examination is based on the chief complaint and focuses on one body system or part.",
+			"back": "focused assessment"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-22",
+			"front": "Damage to tissues as the result of exposure to cold; frozen or partially frozen body parts are frostbitten.",
+			"back": "frostbite"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-23",
+			"front": "The overall initial impression that determines the priority for patient care; based on the patient’s surroundings, the mechanism of injury, signs and symptoms, and the chief complaint.",
+			"back": "general impression"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-24",
+			"front": "The time from injury to definitive care, during which treatment of shock and traumatic injuries should occur because survival potential is best; also called the Golden Period.",
+			"back": "Golden Hour"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-25",
+			"front": "Involuntary muscle contractions (spasm) of the abdominal wall to minimize the pain of abdominal movement; a sign of peritonitis.",
+			"back": "guarding"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-26",
+			"front": "A step within the patient assessment process that provides details about the patient’s chief complaint and an account of the patient’s signs and symptoms.",
+			"back": "history taking"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-27",
+			"front": "Blood pressure that is higher than the normal range.",
+			"back": "hypertension"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-28",
+			"front": "Blood pressure that is lower than the normal range.",
+			"back": "hypotension"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-29",
+			"front": "A condition in which the internal body temperature falls below 95 degrees F (35 degrees C).",
+			"back": "hypothermia"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-30",
+			"front": "A system implemented to manage disasters and mass-casualty incidents in which section chiefs, including finance/administration, logistics, operations, and planning, report to the incident commander.",
+			"back": "incident command system"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-31",
+			"front": "Yellow skin or sclera that is caused by liver disease or dysfunction.",
+			"back": "jaundice"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-32",
+			"front": "The use of muscles of the chest, back, and abdomen to assist in expanding the chest; occurs when air movement is impaired.",
+			"back": "labored breathing"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-33",
+			"front": "The average pressure in the circulatory system during one cardiac cycle.",
+			"back": "mean arterial pressure"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-34",
+			"front": "The forces, or energy transmission, applied to the body that cause injury.",
+			"back": "mechanism of injury"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-35",
+			"front": "The biochemical processes that result in production of energy from nutrients within the cells; also called cellular respiration.",
+			"back": "metabolism"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-36",
+			"front": "Widening of the nostrils, indicating that there is an airway obstruction.",
+			"back": "nasal flaring"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-37",
+			"front": "The general type of illness a patient is experiencing.",
+			"back": "nature of illness"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-38",
+			"front": "A mnemonic used in evaluating a patient’s pain: Onset, Provocation/palliation, Quality, Region/radiation, Severity, and Timing.",
+			"back": "OPQRST"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-39",
+			"front": "The mental status of a patient as measured by memory of person (name), place (current location), time (current year, month, and approximate date), and event (what happened).",
+			"back": "orientation"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-40",
+			"front": "To examine by touch.",
+			"back": "palpate"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-41",
+			"front": "The motion of the portion of the chest wall that is detached in a flail chest; the motion—in during inhalation, out during exhalation—is exactly the opposite of normal chest wall motion during breathing.",
+			"back": "paradoxical motion"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-42",
+			"front": "The flow of blood through body tissues and vessels.",
+			"back": "perfusion"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-43",
+			"front": "Protective equipment that blocks exposure to a pathogen or a hazardous material.",
+			"back": "personal protective equipment"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-44",
+			"front": "Negative findings that warrant no care or intervention.",
+			"back": "pertinent negatives"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-45",
+			"front": "A step within the patient assessment process that identifies and initiates treatment of immediate and potential life threats.",
+			"back": "primary assessment"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-46",
+			"front": "The wave of pressure created as the heart contracts and forces blood out the left ventricle and into the major arteries.",
+			"back": "pulse"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-47",
+			"front": "An assessment tool that measures oxygen saturation of hemoglobin in the capillary beds.",
+			"back": "pulse oximetry"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-48",
+			"front": "A step within the patient assessment process performed at regular intervals during the assessment process to identify and treat changes in a patient’s condition. A patient in unstable condition should be reassessed every 5 minutes, whereas a patient in stable condition should be reassessed every 15 minutes.",
+			"back": "reassessment"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-49",
+			"front": "The way in which a patient responds to external stimuli, including verbal stimuli (sound), tactile stimuli (touch), and painful stimuli.",
+			"back": "responsiveness"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-50",
+			"front": "Movements in which the skin pulls in around the ribs during inspiration.",
+			"back": "retractions"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-51",
+			"front": "Coarse, low-pitched breath sounds heard in patients with chronic mucus in the upper airways.",
+			"back": "rhonchi"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-52",
+			"front": "A brief history of a patient’s condition to determine signs and symptoms, allergies, medications, pertinent past history, last oral intake, and events leading to the injury or illness.",
+			"back": "SAMPLE history"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-53",
+			"front": "A step within the patient assessment process that involves a quick assessment of the scene and the surroundings to provide information about scene safety and the mechanism of injury or nature of illness before you enter and begin patient care.",
+			"back": "scene size-up"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-54",
+			"front": "The tough, fibrous, white portion of the eye that protects the more delicate inner structures.",
+			"back": "sclera"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-55",
+			"front": "A step within the patient assessment process in which a systematic physical examination of the patient is performed. The examination may be a systematic exam or an assessment that focuses on a certain area or region of the body, often determined through the chief complaint.",
+			"back": "secondary assessment"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-56",
+			"front": "Respirations characterized by little movement of the chest wall (reduced tidal volume) or poor chest excursion.",
+			"back": "shallow respirations"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-57",
+			"front": "Objective finding that can be seen, heard, felt, smelled, or measured.",
+			"back": "sign"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-58",
+			"front": "Knowledge and understanding of one’s surroundings and the ability to recognize potential risks to the safety of the patient or EMS team.",
+			"back": "situational awareness"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-59",
+			"front": "An upright position in which the patient’s head and chin are thrust slightly forward to keep the airway open.",
+			"back": "sniffing position"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-60",
+			"front": "Breathing that occurs without assistance.",
+			"back": "spontaneous respirations"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-61",
+			"front": "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease.",
+			"back": "standard precautions"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-62",
+			"front": "A harsh, high-pitched respiratory sound, generally heard during inspiration, that is caused by partial blockage or narrowing of the upper airway; may be audible without a stethoscope.",
+			"back": "stridor"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-63",
+			"front": "A characteristic crackling sensation felt on palpation of the skin, caused by the presence of air in soft tissues.",
+			"back": "subcutaneous emphysema"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-64",
+			"front": "Subjective findings that the patient feels but that can be identified only by the patient.",
+			"back": "symptom"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-65",
+			"front": "The increased pressure in an artery with each contraction of the ventricles (systole).",
+			"back": "systolic pressure"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-66",
+			"front": "A rapid heart rate, more than 100 beats/min.",
+			"back": "tachycardia"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-67",
+			"front": "The amount of air (in milliliters) that is moved into or out of the lungs during one breath.",
+			"back": "tidal volume"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-68",
+			"front": "The process of establishing treatment and transportation priorities according to severity of injury and medical need.",
+			"back": "triage"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-69",
+			"front": "An upright position in which the patient leans forward onto two arms stretched forward and thrusts the head and chin forward.",
+			"back": "tripod position"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-70",
+			"front": "A severe breathing problem in which a patient can speak only two to three words at a time without pausing to take a breath.",
+			"back": "two- to three-word dyspnea"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-71",
+			"front": "Narrowing of a blood vessel.",
+			"back": "vasoconstriction"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-72",
+			"front": "The key signs that are used to evaluate the patient’s overall condition, including respirations, pulse, blood pressure, level of consciousness, and skin characteristics.",
+			"back": "vital signs"
+		},
+		{
+			"id": "category-chapter-10-tag-vocabulary-card-73",
+			"front": "A high-pitched, whistling breath sound that is most prominent on expiration, and which suggests an obstruction or narrowing of the lower airways; occurs in asthma and bronchiolitis.",
+			"back": "wheezing"
+		}
+	],
+	"category": {
+		"value": "chapter-10",
+		"label": "Chapter 10"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

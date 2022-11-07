@@ -1,0 +1,55 @@
+{
+	"name": "category-chapter-09-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-1",
+			"front": "A health care model in which experienced paramedics receive advanced training to equip them to provide additional services in the prehospital environment, such as health evaluations, monitoring of chronic illnesses or conditions, and patient advocacy.",
+			"back": "community paramedicine"
+		},
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-2",
+			"front": "The concept of consistent patient care across the entire health care team from first patient contact to patient discharge; working together with a unified goal results in improved individual and team performance, better patient and provider safety, and improved patient outcome.",
+			"back": "continuum of care"
+		},
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-3",
+			"front": "A set of procedures for use in environments where human error can have disastrous consequences. It empowers people within a team to communicate effectively with one another with a goal of improving team situational awareness, patient and crew safety, and overall communication.",
+			"back": "crew resource management"
+		},
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-4",
+			"front": "In the context of EMS, a collection of individual health care providers working independently to help the patient.",
+			"back": "group"
+		},
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-5",
+			"front": "A method of delivering health care that involves providing health care within the community rather than at a physician’s office or hospital.",
+			"back": "mobile integrated health care"
+		},
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-6",
+			"front": "Knowledge and understanding of one’s surroundings and the ability to recognize potential risks to the safety of the patient or EMS team.",
+			"back": "situational awareness"
+		},
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-7",
+			"front": "In the context of EMS, a group of health care providers who are assigned specific roles and are working interdependently in a coordinated manner under a designated leader.",
+			"back": "team"
+		},
+		{
+			"id": "category-chapter-09-tag-vocabulary-card-8",
+			"front": "The team member who provides role assignments, coordination, oversight, centralized decision making, and support for the team to accomplish their goals and achieve desired results.",
+			"back": "team leader"
+		}
+	],
+	"category": {
+		"value": "chapter-09",
+		"label": "Chapter 9"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

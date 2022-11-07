@@ -1,0 +1,265 @@
+{
+	"name": "category-chapter-16-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-1",
+			"front": "The buildup of excess acid in the blood or body tissues that can result from a primary illness.",
+			"back": "acidosis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-2",
+			"front": "Abnormal breath sounds such as wheezing, stridor, rhonchi, and crackles.",
+			"back": "adventitious breath sounds"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-3",
+			"front": "The buildup of excess base (lack of acids) in the body fluids.",
+			"back": "alkalosis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-4",
+			"front": "A substance that cause an allergic reaction.",
+			"back": "allergen"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-5",
+			"front": "An extreme, life-threatening, systemic allergic reaction that may include shock and respiratory failure.",
+			"back": "anaphylaxis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-6",
+			"front": "An acute spasm of the smaller air passages, called bronchioles, associated with excessive mucus production and with swelling of the mucous lining of the respiratory passages.",
+			"back": "asthma"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-7",
+			"front": "Collapse of the alveolar air spaces of the lungs.",
+			"back": "atelectasis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-8",
+			"front": "Normal breath sounds made by air moving through the bronchi.",
+			"back": "bronchial breath sounds"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-9",
+			"front": "Inflammation of the bronchioles that usually occurs in children younger than 2 years and is often caused by the respiratory syncytial virus.",
+			"back": "bronchiolitis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-10",
+			"front": "An acute or chronic inflammation of the lung that may damage lung tissue; usually associated with cough and production of sputum and, depending on its cause, sometimes fever.",
+			"back": "bronchitis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-11",
+			"front": "A condition characterized by a chronically high blood level of carbon dioxide in which the respiratory center no longer responds to high blood levels of carbon dioxide.",
+			"back": "carbon dioxide retention"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-12",
+			"front": "An odorless, colorless, tasteless, and highly poisonous gas that results from incomplete oxidation of carbon in combustion.",
+			"back": "carbon monoxide"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-13",
+			"front": "Irritation of the major lung passageways from long-term exposure to infectious disease or irritants such as smoke.",
+			"back": "chronic bronchitis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-14",
+			"front": "A lung disease characterized by chronic obstruction of lung airflow that interferes with normal breathing and is not fully reversible.",
+			"back": "chronic obstructive pulmonary disease"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-15",
+			"front": "A method of ventilation used primarily in the treatment of critically ill patients with respiratory distress; can prevent the need for endotracheal intubation.",
+			"back": "continuous positive airway pressure"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-16",
+			"front": "A respiratory disease caused by the virus SARS-CoV-2. The virus is a coronavirus, similar to the one that causes the common cold.",
+			"back": "COVID-19"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-17",
+			"front": "Crackling, rattling breath sounds that signal fluid in the air spaces of the lungs.",
+			"back": "crackles"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-18",
+			"front": "A viral inflammatory disease of the upper respiratory system that may cause a partial airway obstruction and is characterized by a barking cough; usually seen in children.",
+			"back": "croup"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-19",
+			"front": "An infectious disease in which a pseudomembrane forms, lining the pharynx; this lining can severely obstruct the passage of air into the larynx.",
+			"back": "diphtheria"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-20",
+			"front": "Shortness of breath or difficulty breathing.",
+			"back": "dyspnea"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-21",
+			"front": "A blood clot or other substance in the circulatory system that travels to a blood vessel where it causes a blockage of blood flow.",
+			"back": "embolus"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-22",
+			"front": "A disease of the lungs in which there is extreme dilation and eventual destruction of the pulmonary alveoli with poor exchange of oxygen and carbon dioxide; it is one form of chronic obstructive pulmonary disease.",
+			"back": "emphysema"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-23",
+			"front": "A bacterial infection in which the epiglottis becomes inflamed and enlarged and may cause an upper airway obstruction.",
+			"back": "epiglottitis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-24",
+			"front": "An allergic response, usually to outdoor airborne allergens such as pollen or sometimes indoor allergens such as dust mites or pet dander; also called allergic rhinitis.",
+			"back": "hay fever"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-25",
+			"front": "Rapid or deep breathing that lowers the blood carbon dioxide level below normal; may lead to increased intrathoracic pressure, decreased venous return, and hypotension when associated with bag-mask device use.",
+			"back": "hyperventilation"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-26",
+			"front": "This syndrome occurs in the absence of physical problems. The respirations of a person who is experiencing this syndrome may be as high as 40 shallow breaths/min or as low as only 20 very deep breaths/min. It is often associated with panic attacks.",
+			"back": "hyperventilation syndrome"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-27",
+			"front": "Deficient oxygen concentration in the tissues.",
+			"back": "hypoxia"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-28",
+			"front": "A condition in which chronically low levels of oxygen in the blood stimulate the respiratory drive; seen in patients with chronic lung diseases.",
+			"back": "hypoxic drive"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-29",
+			"front": "Virus that has crossed the animal/human barrier and has infected humans, recently reaching a pandemic level with the H1N1 strain.",
+			"back": "influenza type A"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-30",
+			"front": "A miniature spray canister used to direct medications through the mouth and into the lungs.",
+			"back": "metered-dose inhaler"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-31",
+			"front": "Severe dyspnea experienced when lying down and relieved by sitting up.",
+			"back": "orthopnea"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-32",
+			"front": "The process of delivering oxygen to the blood by diffusion from the alveoli following inhalation into the lungs.",
+			"back": "oxygenation"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-33",
+			"front": "An outbreak that occurs on a global scale.",
+			"back": "pandemic"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-34",
+			"front": "Severe shortness of breath, especially at night after several hours of reclining; the person is forced to sit up to breathe.",
+			"back": "paroxysmal nocturnal dyspnea"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-35",
+			"front": "An airborne bacterial infection that affects mostly children younger than 6 years. Patients will be feverish and exhibit a “whoop” sound on inspiration after a coughing attack; highly contagious through droplet infection.",
+			"back": "pertussis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-36",
+			"front": "A collection of fluid between the lung and chest wall that may compress the lung.",
+			"back": "pleural effusion"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-37",
+			"front": "Sharp, stabbing pain in the chest that is worsened by a deep breath or other chest wall movement; often caused by inflammation or irritation of the pleura.",
+			"back": "pleuritic chest pain"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-38",
+			"front": "An infectious disease of the lung that damages lung tissue.",
+			"back": "pneumonia"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-39",
+			"front": "An accumulation of air or gas in the pleural cavity.",
+			"back": "pneumothorax"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-40",
+			"front": "A buildup of fluid in the lungs, often as a result of congestive heart failure.",
+			"back": "pulmonary edema"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-41",
+			"front": "A blood clot that breaks off from a large vein and travels to the blood vessels of the lung, causing obstruction of blood flow.",
+			"back": "pulmonary embolism"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-42",
+			"front": "The process of exchanging oxygen and carbon dioxide.",
+			"back": "respiration"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-43",
+			"front": "A virus that causes an infection of the lungs and breathing passages; can lead to other serious illnesses that affect the lungs or heart, such as bronchiolitis and pneumonia. RSV is highly contagious and spread through droplets.",
+			"back": "respiratory syncytial virus"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-44",
+			"front": "Coarse, low-pitched breath sounds heard in patients with chronic mucus in the upper airways.",
+			"back": "rhonchi"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-45",
+			"front": "A respiratory device that holds liquid medicine that is turned into a fine mist. The patient inhales the medication into the airways and lungs as a treatment for conditions such as asthma.",
+			"back": "small-volume nebulizer"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-46",
+			"front": "A harsh, high-pitched respiratory sound, generally heard during inspiration, that is caused by partial blockage or narrowing of the upper airway; may be audible without a stethoscope.",
+			"back": "stridor"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-47",
+			"front": "A chronic bacterial disease, caused by<ital>Mycobacterium tuberculosis</ital>, that usually affects the lungs but can also affect other organs such as the brain and kidneys; it is spread by cough and can lie dormant in a person’s lungs for decades and then reactivate.",
+			"back": "tuberculosis"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-48",
+			"front": "The exchange of air between the lungs and the environment; occurs spontaneously by the patient or with assistance from another person, such as an EMT.",
+			"back": "ventilation"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-49",
+			"front": "Normal breath sounds made by air moving in and out of the alveoli.",
+			"back": "vesicular breath sounds"
+		},
+		{
+			"id": "category-chapter-16-tag-vocabulary-card-50",
+			"front": "A high-pitched, whistling breath sound that is most prominent on expiration, and which suggests an obstruction or narrowing of the lower airways; occurs in asthma and bronchiolitis.",
+			"back": "wheezing"
+		}
+	],
+	"category": {
+		"value": "chapter-16",
+		"label": "Chapter 16"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

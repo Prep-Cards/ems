@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-25-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-1",
+			"front": "Evaluation of the interior of a crashed motor vehicle during extrication will allow the EMT to:\n\n(See Blunt Trauma)",
+			"back": "identify contact points and predict potential injuries."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-2",
+			"front": "In contrast to a Level III trauma center, a Level I trauma center must:\n\n(See Management: Transport and Destinations)",
+			"back": "have general surgeons in-house 24 hours a day."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-3",
+			"front": "Signs of a pulmonary blast injury include:\n\n(See Blast Injuries)",
+			"back": "coughing up blood."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-4",
+			"front": "When assessing an elderly patient who fell, it is important to remember that:\n\n(See Blunt Trauma)",
+			"back": "osteoporosis can cause a fracture as a result of a fall from a standing position."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-5",
+			"front": "Airbags are designed to:\n\n(See Blunt Trauma)",
+			"back": "decrease the severity of deceleration injuries."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-6",
+			"front": "If one or more occupants in the same vehicle are killed in a crash, the EMT should:\n\n(See Blunt Trauma)",
+			"back": "suspect that all living occupants experienced the same serious trauma."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-7",
+			"front": "Which of the following interventions is the MOST critical to the outcome of a patient with multisystem trauma?\n\n(See Multisystem Trauma)",
+			"back": "Rapid transport to a trauma center"
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-8",
+			"front": "The index of suspicion is MOST accurately defined as:\n\n(See Introduction)",
+			"back": "your awareness and concern for potentially serious underlying injuries."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-9",
+			"front": "Which of the following findings would be LEAST suggestive of the presence of high-energy trauma?\n\n(See Blunt Trauma)",
+			"back": "Deployment of the airbag"
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-10",
+			"front": "Internal injuries caused by gunshot wounds are difficult to predict because:\n\n(See Penetrating Trauma)",
+			"back": "the bullet may tumble or ricochet within the body."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-11",
+			"front": "When assessing the interior of a crashed motor vehicle for damage, you are gathering information regarding the:\n\n(See Energy and Trauma)",
+			"back": "mechanism of injury."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-12",
+			"front": "Which of the following would MOST likely occur as the direct result of the second collision in a motor vehicle crash?\n\n(See Blunt Trauma)",
+			"back": "Deformed steering wheel"
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-13",
+			"front": "According to the American College of Surgeons Committee on Trauma (ACS-COT), an adult trauma patient should be transported to the highest level of trauma center if he or she:\n\n(See Management: Transport and Destinations)",
+			"back": "has a GCS score of less than or equal to 13 with a mechanism attributed to trauma."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-14",
+			"front": "Force acting over a distance is the definition of:\n\n(See Energy and Trauma)",
+			"back": "work."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-15",
+			"front": "The phenomenon of pressure waves emanating from the bullet, causing damage remote from its path, is known as:\n\n(See Penetrating Trauma)",
+			"back": "cavitation."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-16",
+			"front": "A driver involved in a rollover motor vehicle crash will MOST likely experience serious injuries or death if he or she:\n\n(See Blunt Trauma)",
+			"back": "is ejected or partially ejected."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-17",
+			"front": "Factors that should be considered when assessing a patient who has fallen include all of the following, EXCEPT:\n\n(See Blunt Trauma)",
+			"back": "the speed of the fall."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-18",
+			"front": "The energy of a moving object is called:\n\n(See Energy and Trauma)",
+			"back": "kinetic energy."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-19",
+			"front": "When treating a patient who experienced a pulmonary blast injury, you should:\n\n(See Blast Injuries)",
+			"back": "avoid giving oxygen under positive pressure."
+		},
+		{
+			"id": "category-chapter-25-tag-multiple-choice-card-20",
+			"front": "When the speed of a motor vehicle doubles, the amount of kinetic energy:\n\n(See Energy and Trauma)",
+			"back": "quadruples."
+		}
+	],
+	"category": {
+		"value": "chapter-25",
+		"label": "Chapter 25"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

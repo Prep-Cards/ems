@@ -1,0 +1,125 @@
+{
+	"name": "category-chapter-25-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-1",
+			"front": "Air bubbles in the arterial blood vessels.",
+			"back": "arterial air embolism"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-2",
+			"front": "An impact on the body by objects that cause injury without penetrating soft tissues or internal organs and cavities.",
+			"back": "blunt trauma"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-3",
+			"front": "A phenomenon in which speed causes a bullet to generate pressure waves, which cause damage distant from the bullet’s path.",
+			"back": "cavitation"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-4",
+			"front": "A brain injury that occurs when force is applied to the head and energy transmission through brain tissue causes injury on the opposite side of original impact.",
+			"back": "coup-contrecoup brain injury"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-5",
+			"front": "The slowing of an object.",
+			"back": "deceleration"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-6",
+			"front": "Resistance that slows a projectile, such as air.",
+			"back": "drag"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-7",
+			"front": "An evaluation tool used to determine level of consciousness, which evaluates and assigns point values (scores) for eye opening, verbal response, and motor response, which are then totaled; effective in helping predict patient outcomes.",
+			"back": "Glasgow Coma Scale score"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-8",
+			"front": "Awareness that unseen life-threatening injuries may exist when determining the mechanism of injury.",
+			"back": "index of suspicion"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-9",
+			"front": "The energy of a moving object.",
+			"back": "kinetic energy"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-10",
+			"front": "The forces, or energy transmission, applied to the body that cause injury.",
+			"back": "mechanism of injury"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-11",
+			"front": "Emergencies that are not caused by an outside force; illnesses or conditions.",
+			"back": "medical emergencies"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-12",
+			"front": "Trauma that affects more than one body system.",
+			"back": "multisystem trauma"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-13",
+			"front": "Injury caused by objects, such as knives and bullets, that pierce the surface of the body and damage internal tissues and organs.",
+			"back": "penetrating trauma"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-14",
+			"front": "The product of mass, gravity, and height, which is converted into kinetic energy and results in injury, such as from a fall.",
+			"back": "potential energy"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-15",
+			"front": "Any object propelled by force, such as a bullet by a weapon.",
+			"back": "projectile"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-16",
+			"front": "Pulmonary trauma resulting from short-range exposure to the detonation of high-energy explosives.",
+			"back": "pulmonary blast injuries"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-17",
+			"front": "A scoring system used for patients with head trauma.",
+			"back": "Revised Trauma Score"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-18",
+			"front": "The path a projectile takes once it is propelled.",
+			"back": "trajectory"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-19",
+			"front": "Emergencies that are the result of physical forces applied to the body; injuries.",
+			"back": "trauma emergencies"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-20",
+			"front": "A score calculated from 1 to 16, with 16 being the best possible score. It relates to the likelihood of patient survival, with the exception of a severe head injury. It takes into account the Glasgow Coma Scale (GCS) score, respiratory rate, respiratory expansion, systolic blood pressure, and capillary refill.",
+			"back": "trauma score"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-21",
+			"front": "The eardrum; a thin, semitransparent membrane in the middle ear that transmits sound vibrations to the internal ear by means of auditory ossicles.",
+			"back": "tympanic membrane"
+		},
+		{
+			"id": "category-chapter-25-tag-vocabulary-card-22",
+			"front": "The measure of force over distance.",
+			"back": "work"
+		}
+	],
+	"category": {
+		"value": "chapter-25",
+		"label": "Chapter 25"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

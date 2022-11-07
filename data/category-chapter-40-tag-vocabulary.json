@@ -1,0 +1,345 @@
+{
+	"name": "category-chapter-40-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-1",
+			"front": "The shipping papers used for transport of chemicals over roads and highways; also referred to as freight bills.",
+			"back": "bills of lading"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-2",
+			"front": "Any container other than nonbulk storage containers, such as fixed tanks, highway cargo tanks, rail tank cars, totes, and intermodal tanks. These are typically found in manufacturing facilities and are often surrounded by a secondary containment system to help control an accidental release.",
+			"back": "bulk storage containers"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-3",
+			"front": "Glass, plastic, or steel containers, ranging in volume from 5 to 15 gallons (19 to 57 L).",
+			"back": "carboys"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-4",
+			"front": "An area set up by physicians, nurses, and other hospital staff near a major disaster scene where patients can receive further triage and medical care.",
+			"back": "casualty collection area"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-5",
+			"front": "An agency that assists emergency responders in identifying and handling hazardous materials transport incidents.",
+			"back": "Chemical Transportation Emergency Center"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-6",
+			"front": "An incident that is contained; all casualties are accounted for.",
+			"back": "closed incident"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-7",
+			"front": "A safe area at a hazardous materials incident for the agencies involved in the operations. The incident commander, the command post, EMS providers, and other support functions necessary to control the incident should be located in this zone. Also referred to as the clean zone or the support zone.",
+			"back": "cold zone"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-8",
+			"front": "In the NIMS, the position that oversees the incident, establishes the objectives and priorities, and develops a response plan.",
+			"back": "command"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-9",
+			"front": "The designated field command center where the incident commander and support staff are located.",
+			"back": "command post"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-10",
+			"front": "Any vessel or receptacle that holds material, including storage vessels, pipelines, and packaging.",
+			"back": "container"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-11",
+			"front": "Areas at a hazardous materials incident that are designated as hot, warm, or cold, based on safety issues and the degree of hazard found there.",
+			"back": "control zones"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-12",
+			"front": "Portable, compressed gas containers used to hold liquids and gases such as nitrogen, argon, helium, and oxygen. They have a range of sizes and internal pressures.",
+			"back": "cylinders"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-13",
+			"front": "The process of removing or neutralizing and properly disposing of hazardous materials from equipment, patients, and responders.",
+			"back": "decontamination"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-14",
+			"front": "The designated area in a hazardous materials incident where all patients and responders must be decontaminated before going to another area.",
+			"back": "decontamination area"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-15",
+			"front": "The process of directing responders to return to their facilities when work at a disaster or mass-casualty incident has finished, at least for those particular responders.",
+			"back": "demobilization"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-16",
+			"front": "A widespread event that disrupts community resources and functions, in turn threatening public safety, citizens’ lives, and property.",
+			"back": "disaster"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-17",
+			"front": "Barrel-like containers used to store a wide variety of substances, including food-grade materials, corrosives, flammable liquids, and grease. May be constructed of low-carbon steel, polyethylene, cardboard, stainless steel, nickel, or other materials.",
+			"back": "drums"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-18",
+			"front": "A preliminary action guide for first responders operating at a hazardous materials incident in coordination with the US Department of Transportation’s labels and placards marking system. Jointly developed by the DOT, the Secretariat of Communications and Transportation of Mexico, and Transport Canada.",
+			"back": "Emergency Response Guidebook"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-19",
+			"front": "In incident command, the person appointed to determine the type of equipment and resources needed for a situation involving extrication or special rescue; also called the rescue officer.",
+			"back": "extrication supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-20",
+			"front": "In incident command, the position in an incident responsible for accounting of all expenditures.",
+			"back": "finance/administration"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-21",
+			"front": "When individual units or different organizations make independent and often inefficient decisions about the next appropriate action.",
+			"back": "freelancing"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-22",
+			"front": "The shipping papers used for transport of chemicals along roads and highways; also referred to as bills of lading.",
+			"back": "freight bills"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-23",
+			"front": "Any substance that is toxic, poisonous, radioactive, flammable, or explosive and causes injury or death with exposure.",
+			"back": "hazardous material"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-24",
+			"front": "An incident in which a hazardous material is no longer properly contained and isolated.",
+			"back": "hazardous materials incident"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-25",
+			"front": "The area immediately surrounding a hazardous materials spill or incident site that endangers life and health. All responders working in this zone must wear appropriate protective clothing and equipment. Entry requires approval by the incident commander or other designated officer.",
+			"back": "hot zone"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-26",
+			"front": "An oral or written plan stating general objectives reflecting the overall strategy for managing an incident.",
+			"back": "incident action plan"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-27",
+			"front": "The individual who has overall command of the incident in the field.",
+			"back": "incident commander"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-28",
+			"front": "A system implemented to manage disasters and mass-casualty incidents in which section chiefs, including finance/administration, logistics, operations, and planning, report to the incident commander.",
+			"back": "incident command system"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-29",
+			"front": "Shipping and storage vessels that can be either pressurized or nonpressurized.",
+			"back": "intermodal tanks"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-30",
+			"front": "An area designated by the incident commander, or a designee, in which public information officers from multiple agencies distribute information about the incident.",
+			"back": "joint information center"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-31",
+			"front": "A sorting system for pediatric patients younger than 8 years or weighing less than 100 pounds (45 kg). There is a minor adaptation for infants because they cannot ambulate on their own.",
+			"back": "JumpSTART triage"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-32",
+			"front": "In incident command, the person who relays information, concerns, and requests among responding agencies.",
+			"back": "liaison officer"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-33",
+			"front": "In incident command, the position that helps procure and stockpile equipment and supplies during an incident.",
+			"back": "logistics"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-34",
+			"front": "An emergency situation involving three or more patients or that can place great demand on the equipment or personnel of the EMS system or has the potential to produce multiple casualties.",
+			"back": "mass-casualty incident"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-35",
+			"front": "A form, provided by manufacturers and compounders (blenders) of chemicals, containing information about chemical composition, physical and chemical properties, health and safety hazards, emergency response, and waste disposal of a specific material; also known as a safety data sheet (SDS).",
+			"back": "material safety data sheet"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-36",
+			"front": "In incident command, the person who works with area medical examiners, coroners, and law enforcement agencies to coordinate the disposition of dead victims.",
+			"back": "morgue supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-37",
+			"front": "An agreement between neighboring EMS systems to respond to mass-casualty incidents or disasters in each other’s region when local resources are insufficient to handle the response.",
+			"back": "mutual aid response"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-38",
+			"front": "A Department of Homeland Security system designed to enable federal, state, and local governments and private-sector and nongovernmental organizations to effectively and efficiently prepare for, prevent, respond to, and recover from domestic incidents, regardless of cause, size, or complexity, including acts of catastrophic terrorism.",
+			"back": "National Incident Management System"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-39",
+			"front": "Any container other than bulk storage containers, such as drums, bags, compressed gas cylinders, and cryogenic containers. These hold commonly used commercial and industrial chemicals such as solvents, industrial cleaners, and compounds.",
+			"back": "nonbulk storage vessels"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-40",
+			"front": "An incident that is not yet contained; there may be patients to be located and the situation may be ongoing, producing more patients.",
+			"back": "open incident"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-41",
+			"front": "In incident command, the position that carries out the orders of the commander to help resolve the incident.",
+			"back": "operations"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-42",
+			"front": "Indicates the amount and type of protective equipment that an individual needs to avoid injury during contact with a hazardous material.",
+			"back": "personal protective equipment levels"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-43",
+			"front": "Signage required to be placed on all four sides of highway transport vehicles, railroad tank cars, and other forms of hazardous materials transportation; the sign identifies the hazardous contents of the vehicle, using a standardization system with diamond-shaped indicators.",
+			"back": "placards"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-44",
+			"front": "In incident command, the position that ultimately produces a plan to resolve any incident.",
+			"back": "planning"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-45",
+			"front": "A type of patient sorting used to rapidly categorize patients; the focus is on speed in locating all patients and determining an initial priority as warranted by their conditions.",
+			"back": "primary triage"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-46",
+			"front": "In incident command, the person who keeps the public informed and relates any information to the media.",
+			"back": "public information officer"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-47",
+			"front": "The area that provides protection and treatment to firefighters and other responders working at an emergency. Here, workers are medically monitored and receive any needed care as they enter and leave the scene.",
+			"back": "rehabilitation area"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-48",
+			"front": "In incident command, the person who establishes an area that provides protection for responders from the elements and the situation.",
+			"back": "rehabilitation supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-49",
+			"front": "In incident command, the person appointed to determine the type of equipment and resources needed for a situation involving extrication or special rescue; also called the extrication officer.",
+			"back": "rescue supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-50",
+			"front": "In incident command, the person who monitors the scene for conditions or operations that may present a hazard to responders and patients; he or she may stop an operation when responder safety is an issue.",
+			"back": "safety officer"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-51",
+			"front": "An engineered method to control a spilled or released product if the main containment vessel fails.",
+			"back": "secondary containment"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-52",
+			"front": "A type of patient sorting used in the treatment area that involves retriage of patients.",
+			"back": "secondary triage"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-53",
+			"front": "A command system in which one person is in charge; generally used with small incidents that involve only one responding agency or one jurisdiction.",
+			"back": "single command system"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-54",
+			"front": "In incident command, the subordinate positions under the commander’s direction to which the workload is distributed; the ideal supervisor/worker ratio is one supervisor for five subordinates.",
+			"back": "span of control"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-55",
+			"front": "In incident command, the person who locates an area to stage equipment and personnel and tracks unit arrival and deployment from the staging area.",
+			"back": "staging supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-56",
+			"front": "A patient sorting process that stands for Simple Triage And Rapid Treatment and uses a limited assessment of the patient’s ability to walk, respiratory status, hemodynamic status, and neurologic status.",
+			"back": "START triage"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-57",
+			"front": "The end of the incident command structure when an incident draws to a close.",
+			"back": "termination of command"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-58",
+			"front": "Indicates the risk that a hazardous material poses to the health of an individual who comes into contact with it.",
+			"back": "toxicity levels"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-59",
+			"front": "The area in a mass-casualty incident where ambulances and crews are organized to transport patients from the treatment area to receiving hospitals.",
+			"back": "transportation area"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-60",
+			"front": "In incident command, the person in charge of the transportation sector in a mass-casualty incident who assigns patients from the treatment area to waiting ambulances in the transportation area.",
+			"back": "transportation supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-61",
+			"front": "The location in a mass-casualty incident where patients are brought after being triaged and assigned a priority, where they are reassessed, treated, and monitored until transport to the hospital.",
+			"back": "treatment area"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-62",
+			"front": "In incident command, the person, usually a physician, who is in charge of and directs EMS providers at the treatment area in a mass-casualty incident.",
+			"back": "treatment supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-63",
+			"front": "The process of establishing treatment and transportation priorities according to severity of injury and medical need.",
+			"back": "triage"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-64",
+			"front": "In incident command, the person in charge of the incident command triage sector who directs the sorting of patients into triage categories in a mass-casualty incident.",
+			"back": "triage supervisor"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-65",
+			"front": "A command system used in larger incidents in which there is a multiagency response or multiple jurisdictions are involved.",
+			"back": "unified command system"
+		},
+		{
+			"id": "category-chapter-40-tag-vocabulary-card-66",
+			"front": "The area located between the hot zone and the cold zone at a hazardous materials incident. The decontamination corridor is located in this zone.",
+			"back": "warm zone"
+		}
+	],
+	"category": {
+		"value": "chapter-40",
+		"label": "Chapter 40"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

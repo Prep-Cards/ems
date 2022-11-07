@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-01-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-1",
+			"front": "The standards for prehospital emergency care and the individuals who provide it are typically regulated by the:\n\n(See Introduction)",
+			"back": "state office of EMS."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-2",
+			"front": "Which type of medical direction do standing orders and protocols describe?\n\n(See Components of the EMS System)",
+			"back": "Off-line"
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-3",
+			"front": "Which of the following criteria is required to become licensed and employed as an EMT?\n\n(See Licensure Requirements)",
+			"back": "Proof of immunization against certain communicable diseases"
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-4",
+			"front": "The continuous quality improvement (CQI) process is designed to:\n\n(See Components of the EMS System)",
+			"back": "identify areas of improvement and provide remedial training if needed."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-5",
+			"front": "If a defibrillator manufacturer claims that its device terminates ventricular fibrillation on the first shock 95% of the time, you should:\n\n(See Components of the EMS System)",
+			"back": "recognize that this does not mean the device will save more lives."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-6",
+			"front": "According to the National EMS Scope of Practice Model, an EMT should be able to:\n\n(See Levels of Training)",
+			"back": "assist a patient with certain prescribed medications."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-7",
+			"front": "Which of the following statements regarding the NREMT is correct?\n\n(See Introduction)",
+			"back": "The NREMT provides a national standard for EMS testing."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-8",
+			"front": "EMS as we know it today had its origins in 1966 with the publication of:\n\n(See Overview of the EMS System)",
+			"back": "Accidental Death and Disability: The Neglected Disease of Modern Society."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-9",
+			"front": "An EMS provider who has extensive training in various aspects of advanced life support (ALS) is called a(n):\n\n(See Introduction)",
+			"back": "paramedic."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-10",
+			"front": "The determination that prompt surgical care in the hospital is more important than performing time-consuming procedures in the field on a major trauma patient is based mostly on:\n\n(See Components of the EMS System)",
+			"back": "EMS research."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-11",
+			"front": "The EMT certification exam is designed to:\n\n(See Introduction)",
+			"back": "ensure that EMTs are competent and have the same level of knowledge and skills."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-12",
+			"front": "Which of the following skills or interventions is included at every level of prehospital emergency training?\n\n(See Levels of Training)",
+			"back": "Automated external defibrillation"
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-13",
+			"front": "Which of the following is an example of a primary prevention strategy?\n\n(See Components of the EMS System)",
+			"back": "Community awareness programs that emphasize the dangers of drinking and driving"
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-14",
+			"front": "Continuing education in EMS serves to:\n\n(See Components of the EMS System)",
+			"back": "maintain, update, and expand the EMT’s knowledge and skills."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-15",
+			"front": "Which of the following scenarios involves the administration of ALS?\n\n(See Introduction)",
+			"back": "A 48-year-old patient whose airway is secured with a supraglottic device"
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-16",
+			"front": "Cardiac monitoring, pharmacologic interventions, and other advanced treatment skills are functions of the:\n\n(See Introduction)",
+			"back": "paramedic."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-17",
+			"front": "Which of the following errors is an example of a knowledge-based failure?\n\n(See Components of the EMS System)",
+			"back": "An EMT administers the wrong drug to a patient because she did not know the pertinent information about the drug."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-18",
+			"front": "Obtaining continuing medical education is the responsibility of the:\n\n(See Components of the EMS System)",
+			"back": "individual EMT."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-19",
+			"front": "An appropriate demonstration of professionalism when your patient is frightened, demanding, or unpleasant is to:\n\n(See Roles and Responsibilities of the EMT)",
+			"back": "continue to be nonjudgmental, compassionate, and respectful."
+		},
+		{
+			"id": "category-chapter-01-tag-multiple-choice-card-20",
+			"front": "Which of the following descriptions most accurately portrays emergency medical services (EMS)?\n\n(See Introduction)",
+			"back": "A team of health care professionals who are responsible for providing emergency care and transportation to the sick and injured"
+		}
+	],
+	"category": {
+		"value": "chapter-01",
+		"label": "Chapter 1"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

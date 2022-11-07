@@ -1,0 +1,290 @@
+{
+	"name": "category-chapter-03-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-1",
+			"front": "Unilateral termination of care by the EMT without the patient’s consent and without making provisions for transferring care to another medical professional with the skills and training necessary to meet the needs of the patient.",
+			"back": "abandonment"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-2",
+			"front": "Written documentation that specifies medical treatment for a competent patient should the patient become unable to make decisions; also called a living will or health care directive.",
+			"back": "advance directive"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-3",
+			"front": "Cooling of the body after death until it matches the ambient temperature.",
+			"back": "algor mortis"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-4",
+			"front": "The manner in which principles of ethics are incorporated into professional conduct.",
+			"back": "applied ethics"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-5",
+			"front": "Unlawfully placing a patient in fear of bodily harm.",
+			"back": "assault"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-6",
+			"front": "Unlawfully touching a patient or providing emergency care without consent.",
+			"back": "battery"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-7",
+			"front": "The study of ethics related to issues that arise in health care.",
+			"back": "bioethics"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-8",
+			"front": "Disclosure of information without proper authorization.",
+			"back": "breach of confidentiality"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-9",
+			"front": "Damages awarded in a civil lawsuit that are intended to restore the plaintiff to the same condition that he or she was in prior to the incident.",
+			"back": "compensatory damages"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-10",
+			"front": "Able to make rational decisions about personal well-being.",
+			"back": "competent"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-11",
+			"front": "Permission to render care.",
+			"back": "consent"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-12",
+			"front": "A legal defense that may be raised when the defendant thinks that the conduct of the plaintiff somehow contributed to any injuries or damages that were sustained by the plaintiff.",
+			"back": "contributory negligence"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-13",
+			"front": "Ability to understand and process information and make a choice regarding appropriate medical care.",
+			"back": "decision-making capacity"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-14",
+			"front": "The communication of false information about a person that is damaging to that person’s reputation or standing in the community.",
+			"back": "defamation"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-15",
+			"front": "Blood settling to the lowest point of the body, causing discoloration of the skin; a definitive sign of death.",
+			"back": "dependent lividity"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-16",
+			"front": "Oral questions asked of parties and witnesses under oath.",
+			"back": "depositions"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-17",
+			"front": "The phase of a civil lawsuit where the plaintiff and defense obtain information from each other that will enable the attorneys to have a better understanding of the case and which will assist in negotiating a possible settlement or in preparing for trial. This includes depositions, interrogatories, and demands for production of records.",
+			"back": "discovery"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-18",
+			"front": "Written documentation by a physician giving permission to medical personnel not to attempt resuscitation in the event of cardiac arrest.",
+			"back": "do not resuscitate order"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-19",
+			"front": "A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf, in the event that the person making the appointment loses decision-making capacity.",
+			"back": "durable power of attorney for health care"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-20",
+			"front": "A medicolegal term relating to certain personnel who either by statute or by function have a responsibility to provide care.",
+			"back": "duty to act"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-21",
+			"front": "A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult.",
+			"back": "emancipated minor"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-22",
+			"front": "A serious situation, such as injury or illness that threatens the life or welfare of a person or group of people and requires immediate intervention.",
+			"back": "emergency"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-23",
+			"front": "The principle of law that permits a health care provider to treat a patient in an emergency situation when the patient is incapable of granting consent because of an altered level of consciousness, disability, the effects of drugs or alcohol, or the patient’s age.",
+			"back": "emergency doctrine"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-24",
+			"front": "Immediate care or treatment.",
+			"back": "emergency medical care"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-25",
+			"front": "The philosophy of right and wrong, of moral duties, and of ideal professional behavior.",
+			"back": "ethics"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-26",
+			"front": "A type of consent in which a patient gives verbal or nonverbal authorization for provision of care or transport.",
+			"back": "expressed consent"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-27",
+			"front": "The confinement of a person without legal authority or the person’s consent.",
+			"back": "false imprisonment"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-28",
+			"front": "The act of physically preventing an individual from initiating any physical action.",
+			"back": "forcible restraint"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-29",
+			"front": "Statutory provisions enacted by many states to protect citizens from liability for errors and omissions in giving good-faith emergency medical care, unless there is wanton, gross, or willful negligence.",
+			"back": "Good Samaritan laws"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-30",
+			"front": "Legal doctrine that can protect an EMS provider from being sued or that may limit the amount of the monetary judgment that the plaintiff may recover; generally applies only to EMS systems that are operated by municipalities or other governmental entities.",
+			"back": "governmental immunity"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-31",
+			"front": "Conduct that constitutes a willful or reckless disregard for a duty or standard of care.",
+			"back": "gross negligence"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-32",
+			"front": "A written document that specifies medical treatment for a competent patient, should he or she become unable to make decisions. Also known as an advance directive or a living will.",
+			"back": "health care directive"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-33",
+			"front": "A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf in the event that the person making the appointment loses decision-making capacity. Also known as a durable power of attorney for health care.",
+			"back": "health care proxy"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-34",
+			"front": "Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
+			"back": "implied consent"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-35",
+			"front": "Permission for treatment given by a competent patient after the potential risks, benefits, and alternatives to treatment have been explained.",
+			"back": "informed consent"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-36",
+			"front": "Refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent.",
+			"back": "in loco parentis"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-37",
+			"front": "Written questions that the defense and plaintiff send to one another.",
+			"back": "interrogatories"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-38",
+			"front": "The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment without his or her consent.",
+			"back": "kidnapping"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-39",
+			"front": "False and damaging information about a person that is communicated in writing.",
+			"back": "libel"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-40",
+			"front": "A term relating to medical jurisprudence (law) or forensic medicine.",
+			"back": "medicolegal"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-41",
+			"front": "A code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience.",
+			"back": "morality"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-42",
+			"front": "Failure to provide the same care that a person with similar training would provide.",
+			"back": "negligence"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-43",
+			"front": "A theory that may be used when the conduct of the person being sued is alleged to have occurred in clear violation of a statute.",
+			"back": "negligence per se"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-44",
+			"front": "The right of a patient to make informed choices regarding his or her health care.",
+			"back": "patient autonomy"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-45",
+			"front": "Any information about health status, provision of health care, or payment for health care that can be linked to an individual. This is interpreted rather broadly and includes any part of a patient’s medical record or payment history.",
+			"back": "protected health information"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-46",
+			"front": "When a person who has a duty abuses it, and causes harm to another individual, the EMT, the agency, and/or the medical director may be sued for negligence.",
+			"back": "proximate causation"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-47",
+			"front": "Damages that are sometimes awarded in a civil lawsuit when the conduct of the defendant was intentional or constituted a reckless disregard for the safety of the public.",
+			"back": "punitive damages"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-48",
+			"front": "Decomposition of body tissues; a definitive sign of death.",
+			"back": "putrefaction"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-49",
+			"front": "When the EMT or an EMS system is held liable even when the plaintiff is unable to clearly demonstrate how an injury occurred.",
+			"back": "res ipsa loquitur"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-50",
+			"front": "Stiffening of the body muscles; a definitive sign of death.",
+			"back": "rigor mortis"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-51",
+			"front": "Most commonly defined by state law; outlines the care that the EMT is able to provide for the patient.",
+			"back": "scope of practice"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-52",
+			"front": "False and damaging information about a person that is communicated by spoken word.",
+			"back": "slander"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-53",
+			"front": "Written, accepted levels of emergency care expected by reason of training and profession; written by legal or professional organizations so that patients are not exposed to unreasonable risk or harm.",
+			"back": "standard of care"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-54",
+			"front": "The time within which a legal case must be commenced.",
+			"back": "statute of limitations"
+		},
+		{
+			"id": "category-chapter-03-tag-vocabulary-card-55",
+			"front": "Wrongful acts that give rise to a civil lawsuit.",
+			"back": "torts"
+		}
+	],
+	"category": {
+		"value": "chapter-03",
+		"label": "Chapter 3"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"name": "category-chapter-30-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-1",
+			"front": "Compression of the heart as the result of buildup of blood or other fluid in the pericardial sac, leading to decreased cardiac output.",
+			"back": "cardiac tamponade"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-2",
+			"front": "An injury to the chest in which the skin is not broken, usually caused by blunt trauma.",
+			"back": "closed chest injury"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-3",
+			"front": "A blunt chest injury caused by a sudden, direct blow to the chest that occurs only during the critical portion of a person’s heartbeat.",
+			"back": "commotio cordis"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-4",
+			"front": "A grating or grinding sensation or sound caused by fractured bone ends or joints rubbing together.",
+			"back": "crepitus"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-5",
+			"front": "A condition in which two or more adjacent ribs are fractured in two or more places or in association with a fracture of the sternum so that a segment of the chest wall is effectively detached from the rest of the thoracic cage.",
+			"back": "flail chest"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-6",
+			"front": "A one-way valve that allows air to leave the chest cavity but not return; formed by taping three sides of an occlusive dressing to the chest wall, leaving the fourth side open as a valve; may also be part of a commercial vented occlusive dressing.",
+			"back": "flutter valve"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-7",
+			"front": "The accumulation of blood and air in the pleural space of the chest.",
+			"back": "hemopneumothorax"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-8",
+			"front": "A collection of blood in the pleural cavity.",
+			"back": "hemothorax"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-9",
+			"front": "Bruising of the heart muscle.",
+			"back": "myocardial contusion"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-10",
+			"front": "An airtight dressing that protects a wound from air and bacteria; a commercial vented version allows air to passively escape from the chest, while an unvented dressing may be made of petroleum jelly–based (Vaseline) gauze, aluminum foil, or plastic.",
+			"back": "occlusive dressing"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-11",
+			"front": "An injury to the chest in which the chest wall itself is penetrated by a fractured rib or, more frequently, by an external object such as a bullet or knife.",
+			"back": "open chest injury"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-12",
+			"front": "An open or penetrating chest wall wound through which air passes during inspiration and expiration, creating a sucking sound; also referred to as a sucking chest wound.",
+			"back": "open pneumothorax"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-13",
+			"front": "The motion of the portion of the chest wall that is detached in a flail chest; the motion—in during inhalation, out during exhalation—is exactly the opposite of normal chest wall motion during breathing.",
+			"back": "paradoxical motion"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-14",
+			"front": "The fibrous sac that surrounds the heart.",
+			"back": "pericardium"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-15",
+			"front": "An accumulation of air or gas in the pleural cavity.",
+			"back": "pneumothorax"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-16",
+			"front": "Injury or bruising of lung tissue that results in hemorrhage.",
+			"back": "pulmonary contusion"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-17",
+			"front": "Any pneumothorax that is free from significant physiologic changes and does not cause drastic changes in the vital signs of the patient.",
+			"back": "simple pneumothorax"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-18",
+			"front": "A pneumothorax that occurs when a weak area on the lung ruptures in the absence of major injury, allowing air to leak into the pleural space.",
+			"back": "spontaneous pneumothorax"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-19",
+			"front": "An open or penetrating chest wall wound through which air passes during inspiration and expiration, creating a sucking sound. See also open pneumothorax.",
+			"back": "sucking chest wound"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-20",
+			"front": "Rapid respirations.",
+			"back": "tachypnea"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-21",
+			"front": "An accumulation of air or gas in the pleural cavity that progressively increases pressure in the chest and that interferes with cardiac function, with potentially fatal results.",
+			"back": "tension pneumothorax"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-22",
+			"front": "A pattern of injuries seen after a severe force is applied to the chest, forcing blood from the great vessels back into the head and neck.",
+			"back": "traumatic asphyxia"
+		},
+		{
+			"id": "category-chapter-30-tag-vocabulary-card-23",
+			"front": "An occlusive dressing designed to allow air to escape through the dressing but not be drawn back in.",
+			"back": "vented chest seal"
+		}
+	],
+	"category": {
+		"value": "chapter-30",
+		"label": "Chapter 30"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

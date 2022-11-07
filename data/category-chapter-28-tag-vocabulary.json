@@ -1,0 +1,140 @@
+{
+	"name": "category-chapter-28-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-1",
+			"front": "The presence of air in the veins, which can lead to cardiac arrest if it enters the heart.",
+			"back": "air embolism"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-2",
+			"front": "Naturally occurring uneven pupil size.",
+			"back": "anisocoria"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-3",
+			"front": "A fracture of the orbit or of the bones that support the floor of the orbit.",
+			"back": "blow-out fracture"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-4",
+			"front": "The delicate membrane that lines the eyelids and covers the exposed surface of the eye.",
+			"back": "conjunctiva"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-5",
+			"front": "Inflammation of the conjunctiva.",
+			"back": "conjunctivitis"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-6",
+			"front": "The transparent tissue layer in front of the pupil and iris of the eye.",
+			"back": "cornea"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-7",
+			"front": "A tube that connects the middle ear to the oropharynx.",
+			"back": "eustachian tube"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-8",
+			"front": "The ear canal; leads to the tympanic membrane.",
+			"back": "external auditory canal"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-9",
+			"front": "The eyeball.",
+			"back": "globe"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-10",
+			"front": "The muscle and surrounding tissue behind the cornea that dilate and constrict the pupil, regulating the amount of light that enters the eye; pigment in this tissue gives the eye its color.",
+			"back": "iris"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-11",
+			"front": "The glands that produce fluids to keep the eye moist; also called tear glands.",
+			"back": "lacrimal glands"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-12",
+			"front": "The transparent part of the eye through which images are focused on the retina.",
+			"back": "lens"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-13",
+			"front": "The prominent bony mass at the base of the skull about 1 inch (2.5 cm) posterior to the external opening of the ear.",
+			"back": "mastoid process"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-14",
+			"front": "A cranial nerve that transmits visual information to the brain.",
+			"back": "optic nerve"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-15",
+			"front": "The external, visible part of the ear.",
+			"back": "pinna"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-16",
+			"front": "The circular opening in the middle of the iris that admits light to the back of the eye.",
+			"back": "pupil"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-17",
+			"front": "The light-sensitive area of the eye where images are projected; a layer of cells at the back of the eye that changes the light image into electric impulses, which are carried by the optic nerve to the brain.",
+			"back": "retina"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-18",
+			"front": "Separation of the retina from its attachments at the back of the eye.",
+			"back": "retinal detachment"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-19",
+			"front": "The tough, fibrous, white portion of the eye that protects the more delicate inner structures.",
+			"back": "sclera"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-20",
+			"front": "The muscles on either side of the neck that allow movement of the head.",
+			"back": "sternocleidomastoid muscles"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-21",
+			"front": "A characteristic crackling sensation felt on palpation of the skin, caused by the presence of air in soft tissues.",
+			"back": "subcutaneous emphysema"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-22",
+			"front": "The joint formed where the mandible and cranium meet, just in front of the ear.",
+			"back": "temporomandibular joint"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-23",
+			"front": "The small, rounded, fleshy bulge that lies immediately anterior to the ear canal.",
+			"back": "tragus"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-24",
+			"front": "Layers of bone within the nasal cavity.",
+			"back": "turbinates"
+		},
+		{
+			"id": "category-chapter-28-tag-vocabulary-card-25",
+			"front": "The eardrum; a thin, semitransparent membrane in the middle ear that transmits sound vibrations to the internal ear by means of auditory ossicles.",
+			"back": "tympanic membrane"
+		}
+	],
+	"category": {
+		"value": "chapter-28",
+		"label": "Chapter 28"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

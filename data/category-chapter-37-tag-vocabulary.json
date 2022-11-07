@@ -1,0 +1,95 @@
+{
+	"name": "category-chapter-37-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-1",
+			"front": "A group of complex disorders of brain development, characterized by difficulties in social interaction, repetitive behaviors, and verbal and nonverbal communication.",
+			"back": "autism spectrum disorder"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-2",
+			"front": "A group of disorders characterized by poorly controlled body movement.",
+			"back": "cerebral palsy"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-3",
+			"front": "A surgical procedure to create an opening (stoma) between the colon and the surface of the body.",
+			"back": "colostomy"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-4",
+			"front": "Hearing loss caused by a faulty transmission of sound waves.",
+			"back": "conductive hearing loss"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-5",
+			"front": "Insufficient development of the brain, resulting in some level of dysfunction or impairment.",
+			"back": "developmental disability"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-6",
+			"front": "A genetic chromosomal defect that can occur during fetal development and that results in intellectual impairment as well as certain physical characteristics, such as a round head with a flat occiput and slanted, wide-set eyes.",
+			"back": "Down syndrome"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-7",
+			"front": "A surgical procedure to create an opening (stoma) between the small intestine and the surface of the body.",
+			"back": "ileostomy"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-8",
+			"front": "A subset of developmental disability characterized by significant limitations in both intellectual functioning and skills needed for daily living.",
+			"back": "intellectual disability"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-9",
+			"front": "A complex condition in which a person has an excessive amount of body fat.",
+			"back": "obesity"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-10",
+			"front": "A permanent lack of hearing caused by a lesion or damage of the inner ear.",
+			"back": "sensorineural deafness"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-11",
+			"front": "Tubes that drain excess cerebrospinal fluid from the brain to another part of the body outside of the brain, such as the abdomen; lowers pressure in the brain.",
+			"back": "shunts"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-12",
+			"front": "A development defect in which a portion of the spinal cord or meninges may protrude outside of the vertebrae and possibly even outside of the body, usually at the lower third of the spine in the lumbar area.",
+			"back": "spina bifida"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-13",
+			"front": "An opening through the skin and into an organ or other structure.",
+			"back": "stoma"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-14",
+			"front": "A surgical procedure to create an opening (stoma) into the trachea; a stoma in the neck connects the trachea directly to the skin.",
+			"back": "tracheostomy"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-15",
+			"front": "A plastic tube placed within the tracheostomy site (stoma).",
+			"back": "tracheostomy tube"
+		},
+		{
+			"id": "category-chapter-37-tag-vocabulary-card-16",
+			"front": "A surgical procedure to create an opening (stoma) that connects the urinary system to the surface of the skin and allows urine to drain through the abdominal wall.",
+			"back": "urostomy"
+		}
+	],
+	"category": {
+		"value": "chapter-37",
+		"label": "Chapter 37"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

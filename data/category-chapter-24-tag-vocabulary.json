@@ -1,0 +1,90 @@
+{
+	"name": "category-chapter-24-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-1",
+			"front": "An overgrowth of bacteria in the vagina; characterized by itching, burning, or pain, and possibly a “fishy”-smelling discharge.",
+			"back": "bacterial vaginosis"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-2",
+			"front": "The lower third, or neck, of the uterus.",
+			"back": "cervix"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-3",
+			"front": "A sexually transmitted disease caused by the bacterium <ital>Chlamydia trachomatis</ital>.",
+			"back": "chlamydia"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-4",
+			"front": "The tubes that connect each ovary with the uterus and are the primary location for fertilization of the ovum.",
+			"back": "fallopian tubes"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-5",
+			"front": "A sexually transmitted disease caused by <ital>Neisseria gonorrhoeae</ital>.",
+			"back": "gonorrhea"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-6",
+			"front": "Outer fleshy “lips” covered with pubic hair that protect the vagina.",
+			"back": "labia majora"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-7",
+			"front": "Inner fleshy “lips” devoid of pubic hair that protect the vagina.",
+			"back": "labia minora"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-8",
+			"front": "The primary female reproductive organs that produce an ovum, or egg, that, if fertilized, will develop into a fetus.",
+			"back": "ovaries"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-9",
+			"front": "The process in which an ovum is released from a follicle.",
+			"back": "ovulation"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-10",
+			"front": "An infection of the fallopian tubes and the surrounding tissues of the pelvis.",
+			"back": "pelvic inflammatory disease"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-11",
+			"front": "The area of the skin between the vagina and the anus.",
+			"back": "perineum"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-12",
+			"front": "Sexual intercourse forcibly inflicted on another person, against that person’s will.",
+			"back": "rape"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-13",
+			"front": "An attack against a person that is sexual in nature, the most common of which is rape.",
+			"back": "sexual assault"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-14",
+			"front": "The muscular organ where the fetus grows; also called the womb; responsible for contractions during labor.",
+			"back": "uterus"
+		},
+		{
+			"id": "category-chapter-24-tag-vocabulary-card-15",
+			"front": "The outermost cavity of a woman’s reproductive tract; the lower part of the birth canal.",
+			"back": "vagina"
+		}
+	],
+	"category": {
+		"value": "chapter-24",
+		"label": "Chapter 24"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

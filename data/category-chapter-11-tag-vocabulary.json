@@ -1,0 +1,470 @@
+{
+	"name": "category-chapter-11-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-1",
+			"front": "Metabolism that can proceed only in the presence of oxygen.",
+			"back": "aerobic metabolism"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-2",
+			"front": "Any airway manipulation that induces the production of aerosols that may present a risk for airborne transmission of pathogens, such as CPR.",
+			"back": "aerosol-generating procedure"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-3",
+			"front": "Abnormal breathing pattern characterized by slow, gasping breaths, sometimes seen in patients in cardiac arrest.",
+			"back": "agonal gasps"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-4",
+			"front": "The upper tract or the passage above the larynx, which includes the nose, mouth, and throat.",
+			"back": "airway"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-5",
+			"front": "The volume of air moved through the lungs in 1 minute minus the dead space; calculated by multiplying tidal volume (minus dead space) and respiratory rate.",
+			"back": "alveolar minute volume"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-6",
+			"front": "The volume of air that reaches the alveoli. It is determined by subtracting the amount of dead space air from the tidal volume.",
+			"back": "alveolar ventilation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-7",
+			"front": "A safety system for large oxygen cylinders, designed to prevent the accidental attachment of a regulator to a cylinder containing the wrong type of gas.",
+			"back": "American Standard Safety System"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-8",
+			"front": "Metabolism that takes place in the absence of oxygen; the main by-product is lactic acid.",
+			"back": "anaerobic metabolism"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-9",
+			"front": "Absence of spontaneous breathing.",
+			"back": "apnea"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-10",
+			"front": "A technique in which oxygen administered via a high-flow nasal cannula is left in place during an intubation attempt, allowing for continuous oxygen delivery into the airways during all phases of the procedure.",
+			"back": "apneic oxygenation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-11",
+			"front": "In the context of the airway, the introduction of vomitus or other foreign material into the lungs.",
+			"back": "aspiration"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-12",
+			"front": "Irregular, ineffective respirations that may or may not have an identifiable pattern.",
+			"back": "ataxic respirations"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-13",
+			"front": "A ventilation device attached to a control box that allows the variables of ventilation to be set. It frees the EMT to perform other tasks while the patient is being ventilated.",
+			"back": "automatic transport ventilator"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-14",
+			"front": "A device with a one-way valve and a face mask attached to a ventilation bag; when attached to a reservoir and connected to oxygen, it delivers more than 90% supplemental oxygen.",
+			"back": "bag-mask device"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-15",
+			"front": "A protective item, such as a pocket mask with a valve, that limits exposure to a patient’s body fluids.",
+			"back": "barrier device"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-16",
+			"front": "A body part or condition that appears on both sides of the midline.",
+			"back": "bilateral"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-17",
+			"front": "Subdivision of the smaller bronchi in the lungs; made of smooth muscle and dilate or constrict in response to various stimuli.",
+			"back": "bronchioles"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-18",
+			"front": "A noninvasive method to quickly and efficiently provide information on a patient’s ventilatory status, circulation, and metabolism; effectively measures the concentration of carbon dioxide in expired air over time.",
+			"back": "capnography"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-19",
+			"front": "The use of a capnometer, a device that measures the amount of expired carbon dioxide.",
+			"back": "capnometry"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-20",
+			"front": "Point at which the trachea bifurcates (divides) into the left and right main stem bronchi.",
+			"back": "carina"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-21",
+			"front": "Monitor the levels of oxygen, carbon dioxide, and pH of the cerebrospinal fluid and then provide feedback to the respiratory centers to modify the rate and depth of breathing based on the body’s needs at any given time.",
+			"back": "chemoreceptors"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-22",
+			"front": "A cyclical pattern of abnormal breathing that increases and then decreases in rate and depth, followed by a period of apnea.",
+			"back": "Cheyne-Stokes respirations"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-23",
+			"front": "The ability of the alveoli to expand when air is drawn in during inhalation.",
+			"back": "compliance"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-24",
+			"front": "A method of ventilation used primarily in the treatment of critically ill patients with respiratory distress; can prevent the need for endotracheal intubation.",
+			"back": "continuous positive airway pressure"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-25",
+			"front": "Any portion of the airway that does contain air and cannot participate in gas exchange, such as the trachea and bronchi.",
+			"back": "dead space"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-26",
+			"front": "The process of replacing nitrogen in the lungs with oxygen to maintain a normal oxygen saturation level during advanced airway management.",
+			"back": "denitrogenation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-27",
+			"front": "Movement of a gas from an area of higher concentration to an area of lower concentration.",
+			"back": "diffusion"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-28",
+			"front": "Visualization of the airway with a laryngoscope.",
+			"back": "direct laryngoscopy"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-29",
+			"front": "Shortness of breath or difficulty breathing.",
+			"back": "dyspnea"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-30",
+			"front": "Insertion of an endotracheal tube directly through the larynx between the vocal cords and into the trachea to maintain and protect an airway.",
+			"back": "endotracheal intubation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-31",
+			"front": "The amount of carbon dioxide present at the end of an exhaled breath.",
+			"back": "end-tidal CO2"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-32",
+			"front": "Improper placement of an advanced airway device into the esophagus rather than into the trachea.",
+			"back": "esophageal intubation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-33",
+			"front": "The passive part of the breathing process in which the diaphragm and the intercostal muscles relax, forcing air out of the lungs.",
+			"back": "exhalation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-34",
+			"front": "The exchange of gases between the lungs and the blood cells in the pulmonary capillaries; also called pulmonary respiration.",
+			"back": "external respiration"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-35",
+			"front": "A normal reflex mechanism that causes retching; activated by touching the soft palate or the back of the throat.",
+			"back": "gag reflex"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-36",
+			"front": "A condition in which air fills the stomach, often as a result of high volume and pressure during artificial ventilation.",
+			"back": "gastric distention"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-37",
+			"front": "The space in between the vocal cords that is the narrowest portion of the adult’s airway; also called the glottic opening.",
+			"back": "glottis"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-38",
+			"front": "A term used to distinguish the degree of distress in a patient with a mild airway obstruction. If present, the patient is still conscious and able to cough forcefully, although wheezing may be heard.",
+			"back": "good air exchange"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-39",
+			"front": "A flexible device that is inserted between the glottis under direct laryngoscopy; the endotracheal tube is threaded over the device, facilitating its entry into the trachea.",
+			"back": "gum elastic bougie"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-40",
+			"front": "A combination of two movements to open the airway by tilting the forehead back and lifting the chin; not used for trauma patients.",
+			"back": "head tilt–chin lift maneuver"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-41",
+			"front": "A collection of blood in the pleural cavity.",
+			"back": "hemothorax"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-42",
+			"front": "Increased carbon dioxide level in the bloodstream.",
+			"back": "hypercarbia"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-43",
+			"front": "Deficient oxygen concentration in the tissues.",
+			"back": "hypoxia"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-44",
+			"front": "A condition in which chronically low levels of oxygen in the blood stimulate the respiratory drive; seen in patients with chronic lung diseases.",
+			"back": "hypoxic drive"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-45",
+			"front": "The active, muscular part of breathing that draws air into the airway and lungs; a medication delivery route.",
+			"back": "inhalation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-46",
+			"front": "The exchange of gases between the blood cells and the tissues.",
+			"back": "internal respiration"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-47",
+			"front": "Bypassing of oxygen-poor blood past nonfunctional alveoli to the left side of the heart.",
+			"back": "intrapulmonary shunting"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-48",
+			"front": "Technique to open the airway by placing the fingers behind the angle of the jaw and bringing the jaw forward; used for patients who may have a cervical spine injury.",
+			"back": "jaw-thrust maneuver"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-49",
+			"front": "The use of muscles of the chest, back, and abdomen to assist in expanding the chest; occurs when air movement is impaired.",
+			"back": "labored breathing"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-50",
+			"front": "A complex structure formed by many independent cartilaginous structures that all work together; where the upper airway ends and the lower airway begins; also called the voice box.",
+			"back": "larynx"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-51",
+			"front": "Space within the chest that contains the heart, major blood vessels, vagus nerve, trachea, major bronchi, and esophagus; located between the two lungs.",
+			"back": "mediastinum"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-52",
+			"front": "The biochemical processes that result in production of energy from nutrients within the cells; also called cellular respiration.",
+			"back": "metabolism"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-53",
+			"front": "Occurs when a foreign body partially obstructs the patient’s airway. The patient is able to move adequate amounts of air, but also experiences some degree of respiratory distress.",
+			"back": "mild airway obstruction"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-54",
+			"front": "The volume of air that moves in and out of the lungs per minute; calculated by multiplying the tidal volume and respiratory rate; also called minute ventilation.",
+			"back": "minute volume"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-55",
+			"front": "An oxygen-delivery device in which oxygen flows through two small, tubelike prongs that fit into the patient’s nostrils; delivers 24% to 44% supplemental oxygen, depending on the flow rate.",
+			"back": "nasal cannula"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-56",
+			"front": "Airway adjunct inserted into the nostril of an unresponsive patient or a patient with an altered level of consciousness who is unable to maintain airway patency independently.",
+			"back": "nasopharyngeal airway"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-57",
+			"front": "The part of the pharynx that lies above the level of the roof of the mouth, or palate.",
+			"back": "nasopharynx"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-58",
+			"front": "A combination mask and reservoir bag system that is the preferred way to give oxygen in the prehospital setting; delivers up to 90% inspired oxygen and prevents inhaling the exhaled gases (carbon dioxide).",
+			"back": "nonrebreathing mask"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-59",
+			"front": "Airway adjunct inserted into the mouth of an unresponsive patient to keep the tongue from blocking the upper airway and to facilitate suctioning the airway, if necessary.",
+			"back": "oropharyngeal airway"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-60",
+			"front": "A tubular structure that extends vertically from the back of the mouth to the esophagus and trachea.",
+			"back": "oropharynx"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-61",
+			"front": "The process of delivering oxygen to the blood by diffusion from the alveoli following inhalation into the lungs.",
+			"back": "oxygenation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-62",
+			"front": "A condition of excessive oxygen consumption resulting in cellular and tissue damage.",
+			"back": "oxygen toxicity"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-63",
+			"front": "Thin membrane that lines the chest cavity.",
+			"back": "parietal pleura"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-64",
+			"front": "The term used to describe the amount of gas in air or dissolved in fluid, such as blood.",
+			"back": "partial pressure"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-65",
+			"front": "The act of air moving into and out of the lungs during chest compressions.",
+			"back": "passive ventilation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-66",
+			"front": "Open, clear of obstruction.",
+			"back": "patent"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-67",
+			"front": "The two nerves that innervate the diaphragm; necessary for adequate breathing to occur.",
+			"back": "phrenic nerves"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-68",
+			"front": "A system established for portable cylinders to ensure that a regulator is not connected to a cylinder containing the wrong type of gas.",
+			"back": "pin-indexing system"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-69",
+			"front": "An accumulation of air or gas in the pleural cavity.",
+			"back": "pneumothorax"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-70",
+			"front": "A term used to describe the degree of distress in a patient with a mild airway obstruction. If present, the patient often has a weak, ineffective cough, increased difficulty breathing, or possible cyanosis and may produce a high-pitched noise during inhalation (stridor).",
+			"back": "poor air exchange"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-71",
+			"front": "The process of providing oxygen, often in combination with ventilation, prior to intubation in order to raise the oxygen levels of body tissues; a critical step in advanced airway management. This extends the time during which an advanced airway can be placed in an apneic patient, because the more oxygen that is available in the alveoli, the longer the patient can maintain adequate gas exchange in the lungs during the procedure.",
+			"back": "preoxygenation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-72",
+			"front": "An assessment tool that measures oxygen saturation of hemoglobin in the capillary beds.",
+			"back": "pulse oximetry"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-73",
+			"front": "A side-lying position used to maintain a clear airway in unresponsive patients who are breathing adequately and do not have suspected injuries to the spine, hips, or pelvis.",
+			"back": "recovery position"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-74",
+			"front": "The air that remains in the lungs after maximal expiration.",
+			"back": "residual volume"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-75",
+			"front": "The process of exchanging oxygen and carbon dioxide.",
+			"back": "respiration"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-76",
+			"front": "Movements in which the skin pulls in around the ribs during inspiration.",
+			"back": "retractions"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-77",
+			"front": "Occurs when a foreign body completely obstructs the patient’s airway. The patient cannot breathe, talk, or cough.",
+			"back": "severe airway obstruction"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-78",
+			"front": "An opening through the skin and into an organ or other structure.",
+			"back": "stoma"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-79",
+			"front": "A harsh, high-pitched respiratory sound, generally heard during inspiration, that is caused by partial blockage or narrowing of the upper airway; may be audible without a stethoscope.",
+			"back": "stridor"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-80",
+			"front": "A hollow, cylindrical device used to remove fluid from the patient’s airway.",
+			"back": "suction catheter"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-81",
+			"front": "A liquid protein substance that coats the alveoli in the lungs, decreases alveolar surface tension, and keeps the alveoli expanded; a low level in a premature infant contributes to respiratory distress syndrome.",
+			"back": "surfactant"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-82",
+			"front": "An accumulation of air or gas in the pleural cavity that progressively increases pressure in the chest and that interferes with cardiac function, with potentially fatal results.",
+			"back": "tension pneumothorax"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-83",
+			"front": "The amount of air (in milliliters) that is moved into or out of the lungs during one breath.",
+			"back": "tidal volume"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-84",
+			"front": "Large, semi-rigid suction tips recommended for suctioning the pharynx.",
+			"back": "tonsil tips"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-85",
+			"front": "A surgical procedure to create an opening (stoma) into the trachea; a stoma in the neck connects the trachea directly to the skin.",
+			"back": "tracheostomy"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-86",
+			"front": "The exchange of air between the lungs and the environment; occurs spontaneously by the patient or with assistance from another person, such as an EMT.",
+			"back": "ventilation"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-87",
+			"front": "Visualization of the vocal cords, and thereby placement of the endotracheal tube, that is facilitated by use of a video camera and monitor.",
+			"back": "video laryngoscopy"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-88",
+			"front": "Thin membrane that covers the lungs.",
+			"back": "visceral pleura"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-89",
+			"front": "The amount of air that can be forcibly expelled from the lungs after breathing in as deeply as possible.",
+			"back": "vital capacity"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-90",
+			"front": "Thin white bands of tough muscular tissue that are lateral borders of the glottis and serve as the primary center for speech production.",
+			"back": "vocal cords"
+		},
+		{
+			"id": "category-chapter-11-tag-vocabulary-card-91",
+			"front": "A high-pitched, whistling breath sound that is most prominent on expiration, and which suggests an obstruction or narrowing of the lower airways; occurs in asthma and bronchiolitis.",
+			"back": "wheezing"
+		}
+	],
+	"category": {
+		"value": "chapter-11",
+		"label": "Chapter 11"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

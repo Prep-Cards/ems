@@ -1,0 +1,95 @@
+{
+	"name": "category-chapter-21-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-1",
+			"front": "A substance that cause an allergic reaction.",
+			"back": "allergen"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-2",
+			"front": "The body’s exaggerated immune response to an internal or surface agent.",
+			"back": "allergic reaction"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-3",
+			"front": "An extreme, life-threatening, systemic allergic reaction that may include shock and respiratory failure.",
+			"back": "anaphylaxis"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-4",
+			"front": "Localized areas of swelling beneath the skin, often around the eyes and lips, but can also involve other body areas as well.",
+			"back": "angioedema"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-5",
+			"front": "The act of injecting venom.",
+			"back": "envenomation"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-6",
+			"front": "A medication that increases heart rate and blood pressure but also eases breathing problems by decreasing muscle tone of the bronchiole tree; a substance produced by the body (commonly called adrenaline), and a drug produced by pharmaceutical companies that increases pulse rate and blood pressure; the drug of choice for an anaphylactic reaction.",
+			"back": "epinephrine"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-7",
+			"front": "Chemical substances released by the immune system in allergic reactions that are responsible for many of the symptoms of anaphylaxis, such as vasodilation.",
+			"back": "histamines"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-8",
+			"front": "The body’s response to a substance perceived by the body as foreign.",
+			"back": "immune response"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-9",
+			"front": "The body system that includes all of the structures and processes designed to mount a defense against foreign substances and disease-causing agents.",
+			"back": "immune system"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-10",
+			"front": "The study of the body’s immune system.",
+			"back": "immunology"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-11",
+			"front": "Chemical substances that contribute to anaphylaxis; released by the immune system in allergic reactions.",
+			"back": "leukotrienes"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-12",
+			"front": "A harsh, high-pitched respiratory sound, generally heard during inspiration, that is caused by partial blockage or narrowing of the upper airway; may be audible without a stethoscope.",
+			"back": "stridor"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-13",
+			"front": "A poison or harmful substance.",
+			"back": "toxin"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-14",
+			"front": "Small areas of generalized itching and/or burning that appear as multiple raised areas on the skin; hives.",
+			"back": "urticaria"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-15",
+			"front": "A raised, swollen, well-defined area on the skin resulting from an insect bite or allergic reaction.",
+			"back": "wheal"
+		},
+		{
+			"id": "category-chapter-21-tag-vocabulary-card-16",
+			"front": "A high-pitched, whistling breath sound that is most prominent on expiration, and which suggests an obstruction or narrowing of the lower airways; occurs in asthma and bronchiolitis.",
+			"back": "wheezing"
+		}
+	],
+	"category": {
+		"value": "chapter-21",
+		"label": "Chapter 21"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}
