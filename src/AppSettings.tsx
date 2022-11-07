@@ -8,6 +8,7 @@ import SVG from './shared/SVG';
 import { DEFAULT_CARD_STAT } from './utils/constants';
 import getCardProgress from './utils/getCardProgress';
 import { useFormState } from './utils/hooks';
+import VERSION from './utils/version';
 
 interface SliderProps extends Omit<InputHTMLAttributes<HTMLInputElement>, 'type' | 'onChange' | 'step' | 'value'> {
     onChange: (value: number) => void;
@@ -128,7 +129,10 @@ function AppSettingsModal({ onClose, show }: ModalState) {
             <Modal data-app-modal show={show} onClose={onClose}>
                 <Modal.Body>
                     <div className="settings">
-                        <h1>Settings</h1>
+                        <Layout>
+                            <h1>Settings</h1>
+                            <span className="text-slate-600">{VERSION}</span>
+                        </Layout>
 
                         {/* <section>
                             <h2>Progress Transfer</h2>
