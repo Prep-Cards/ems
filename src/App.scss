@@ -167,7 +167,7 @@ main.deck {
 
                 .front,
                 .back {
-                    @apply contents overflow-hidden flex-center text-center p-6 border-slate-200 border-solid border absolute inset-4 rounded-lg bg-slate-200 text-slate-700;
+                    @apply contents overflow-hidden flex-center text-center p-4 border-slate-200 border-solid border absolute inset-0 rounded-lg bg-slate-200 text-slate-700;
                     backface-visibility: hidden;
                 }
 
