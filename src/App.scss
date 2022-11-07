@@ -156,7 +156,7 @@ main.deck {
 
         .card {
             @apply flex-center cursor-grab px-4 pt-2 h-full w-full rounded-lg overflow-hidden absolute will-change-transform;
-            transition: all 0.3s ease-in-out;
+            transition: all 0.2s ease-in-out;
 
             &.moving {
                 @apply cursor-grabbing transition-none;

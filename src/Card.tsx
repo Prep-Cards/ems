@@ -1,4 +1,4 @@
-import { CSSProperties, Fragment, useState } from 'react';
+import { CSSProperties, useState } from 'react';
 import Lines from './shared/LInes';
 import clsx from './utils/clsx';
 import { MAX_CARDS } from './utils/constants';

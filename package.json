@@ -30,14 +30,15 @@
     },
     "license": "",
     "scripts": {
-        "start": "HTTPS=true SSL_CRT_FILE=../192.168.1.172.pem SSL_KEY_FILE=../192.168.1.172-key.pem react-scripts start",
+        "start": "HTTPS=true SSL_CRT_FILE=cert.pem SSL_KEY_FILE=key.pem react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "build-svg": "node build-svg.js",
         "build-test-data": "ts-node --esm build-test-data.ts",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d build",
+        "prod": "http-server build -S -C cert.pem  -o"
     },
     "eslintConfig": {
         "extends": [

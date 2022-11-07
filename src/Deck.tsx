@@ -26,9 +26,15 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
 
     const appEl = document.querySelector('.App') as HTMLElement;
 
-    const [animating, setAnimating] = useState(false);
+    const isAnimating = useRef(false);
+    const setAnimating = (is: boolean) => (isAnimating.current = is);
 
     const triggerMove = (move: Move) => {
+        if (isAnimating.current) {
+            console.log('kill');
+            return;
+        }
+
         appEl.classList.add('moving-' + move);
 
         const stack = stackRef.current!;
@@ -40,18 +46,16 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
         setAnimating(true);
 
         const transitionListener = () => {
-            handleMove(move, cardEl.id);
-
-            setAnimating(false);
-
             cardEl.classList.remove('flip');
 
             appEl.classList.remove('moving-right', 'moving-left');
 
-            cardEl.removeEventListener('transitionend', transitionListener);
+            handleMove(move, cardEl.id);
+
+            setAnimating(false);
         };
 
-        cardEl.addEventListener('transitionend', transitionListener);
+        setTimeout(() => transitionListener(), 250);
 
         if (move === 'right') {
             cardEl.style.transform = 'translate(' + moveOutWidth * 2 + 'px, -100px) rotate(-30deg)';
@@ -69,7 +73,7 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
         const hammer = new Hammer(cardEl);
 
         hammer.on('pan', (event) => {
-            if (animating) return;
+            if (isAnimating.current) return;
 
             cardEl.classList.add('moving');
 
@@ -124,9 +128,11 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
         setCardStat(cardId, move);
 
         setCards((prevCards) => {
-            const newOrder = [...prevCards];
-            newOrder.push(newOrder.splice(0, 1)[0]);
-            return newOrder;
+            const newCards = [...prevCards];
+            newCards.push(newCards.splice(0, 1)[0]);
+
+            console.log({ prevCards, newCards });
+            return newCards;
         });
     };
 
@@ -147,7 +153,7 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
                     onClick={() => triggerMove('left')}
                     className="rounded-full p-1 overflow-hidden active:bg-white active:bg-opacity-25"
                     draggable={false}
-                    disabled={animating}
+                    disabled={isAnimating.current}
                 >
                     <SVG.CircleXmark className="h-full w-auto fill-red-500" />
                 </Button>
@@ -155,7 +161,7 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
                     onClick={() => triggerMove('right')}
                     className="rounded-full p-1 overflow-hidden active:bg-white active:bg-opacity-25"
                     draggable={false}
-                    disabled={animating}
+                    disabled={isAnimating.current}
                 >
                     <SVG.CircleCheck className="h-full w-auto fill-green-500 pointer-events-none" />
                 </Button>
