@@ -133,14 +133,16 @@ function Deck({ cards: cardsInit }: { cards: Card[] }) {
     return (
         <main className="deck">
             <div ref={stackRef} className="stack">
-                {cards.map((card, index) => (
-                    <Card
-                        key={card.id}
-                        index={index}
-                        {...card}
-                        progress={getCardProgress(proficiency.goal, cardStats[card.id])}
-                    />
-                ))}
+                {cards
+                    .filter((_, index) => index < 3)
+                    .map((card, index) => (
+                        <Card
+                            key={card.id}
+                            index={index}
+                            {...card}
+                            progress={getCardProgress(proficiency.goal, cardStats[card.id])}
+                        />
+                    ))}
             </div>
             <Layout as="nav" justify="around" className="mt-1 h-16 p-2">
                 <Button
