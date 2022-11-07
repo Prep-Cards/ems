@@ -1,0 +1,30 @@
+{
+	"name": "category-chapter-2-tag-vocabulary",
+	"cards": [
+		{
+			"id": "category-chapter-2-tag-vocabulary-card-1",
+			"front": "Card 1\nChapter 2\nVocabulary\nFront",
+			"back": "Card 1\nChapter 2\nVocabulary\nBack"
+		},
+		{
+			"id": "category-chapter-2-tag-vocabulary-card-2",
+			"front": "Card 2\nChapter 2\nVocabulary\nFront",
+			"back": "Card 2\nChapter 2\nVocabulary\nBack"
+		},
+		{
+			"id": "category-chapter-2-tag-vocabulary-card-3",
+			"front": "Card 3\nChapter 2\nVocabulary\nFront",
+			"back": "Card 3\nChapter 2\nVocabulary\nBack"
+		}
+	],
+	"category": {
+		"value": "chapter-2",
+		"label": "Chapter 2"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
+}

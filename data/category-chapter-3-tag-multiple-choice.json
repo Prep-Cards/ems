@@ -1,0 +1,30 @@
+{
+	"name": "category-chapter-3-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-3-tag-multiple-choice-card-1",
+			"front": "Card 1\nChapter 3\nMultiple Choice\nFront",
+			"back": "Card 1\nChapter 3\nMultiple Choice\nBack"
+		},
+		{
+			"id": "category-chapter-3-tag-multiple-choice-card-2",
+			"front": "Card 2\nChapter 3\nMultiple Choice\nFront",
+			"back": "Card 2\nChapter 3\nMultiple Choice\nBack"
+		},
+		{
+			"id": "category-chapter-3-tag-multiple-choice-card-3",
+			"front": "Card 3\nChapter 3\nMultiple Choice\nFront",
+			"back": "Card 3\nChapter 3\nMultiple Choice\nBack"
+		}
+	],
+	"category": {
+		"value": "chapter-3",
+		"label": "Chapter 3"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}
