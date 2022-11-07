@@ -3,16 +3,16 @@ import Card from './Card';
 import Hammer from 'hammerjs';
 import SVG from './shared/SVG';
 import { Layout } from './shared/Layout';
-import { useState, useRef, useEffect, useLayoutEffect } from 'react';
+import { useState, useRef, useLayoutEffect } from 'react';
 import getCardProgress from './utils/getCardProgress';
 import { shuffle } from './utils/shuffle';
 import { useAppContext } from './AppContext';
 import { DEFAULT_CARD_STAT } from './utils/constants';
 
-function Deck({ cards }: { cards: Card[] }) {
+function Deck({ cards: cardsInit }: { cards: Card[] }) {
     const { cardStats, setCardStats, proficiency } = useAppContext();
 
-    const [cardOrder, setCardOrder] = useState(shuffle(cards.map(({ id }) => id) || []));
+    const [cards, setCards] = useState(shuffle(cardsInit));
 
     const setCardStat = async (cardId: string, move: Move) => {
         const prevStat: CardStat = cardStats[cardId] || DEFAULT_CARD_STAT;
@@ -21,10 +21,6 @@ function Deck({ cards }: { cards: Card[] }) {
             [cardId]: { ...prevStat, [move]: prevStat[move] + 1 },
         });
     };
-
-    useEffect(() => {
-        setCardOrder(cards.map(({ id }) => id));
-    }, [cards]);
 
     const stackRef = useRef<HTMLDivElement>(null);
 
@@ -68,7 +64,7 @@ function Deck({ cards }: { cards: Card[] }) {
         const stack = stackRef.current;
         const cardEl = stack?.firstChild as HTMLElement;
 
-        if (!stack || !cardEl || cardEl.id !== cardOrder[0]) return;
+        if (!stack || !cardEl || cardEl.id !== cards[0].id) return;
 
         const hammer = new Hammer(cardEl);
 
@@ -122,24 +118,22 @@ function Deck({ cards }: { cards: Card[] }) {
 
         return () => hammer.destroy();
         // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, [cardOrder]);
+    }, [cards]);
 
     const handleMove = (move: Move, cardId: string) => {
         setCardStat(cardId, move);
 
-        setCardOrder((prevOrder) => {
-            const newOrder = [...prevOrder];
+        setCards((prevCards) => {
+            const newOrder = [...prevCards];
             newOrder.push(newOrder.splice(0, 1)[0]);
             return newOrder;
         });
     };
 
-    const cardsToDisplay = cardOrder.map((cardId) => cards.find(({ id }) => id === cardId)).filter(Boolean) as Card[];
-
     return (
         <main className="deck">
             <div ref={stackRef} className="stack">
-                {cardsToDisplay.map((card, index) => (
+                {cards.map((card, index) => (
                     <Card
                         key={card.id}
                         index={index}
