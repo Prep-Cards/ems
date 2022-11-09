@@ -2,7 +2,7 @@ import { Fragment, InputHTMLAttributes, useMemo, useState } from 'react';
 import { useAppContext } from './AppContext';
 import Button from './shared/Button';
 import Checkboxes from './shared/Checkboxes';
-import { Layout } from './shared/Layout';
+import Layout from './shared/Layout';
 import Modal, { ModalState, useModalState } from './shared/Modal';
 import SVG from './shared/SVG';
 import getCardProgress from './utils/getCardProgress';
@@ -36,9 +36,8 @@ function AppSettings() {
 
     return (
         <>
-            <Button data-app-settings onClick={modalState.onOpen} className="px-2 space-x-2 flex-center">
-                <span className="text-blue-100 opacity-40">Settings</span>
-                <SVG.Gear className="fill-blue-100 w-5" />
+            <Button data-app-settings onClick={modalState.onOpen} className="px-2 space-x-2 flex-center flex-shrink-0">
+                <SVG.Gear className="fill-blue-200 w-5 flex-shrink-0" />
             </Button>
             {modalState.show && <AppSettingsModal {...modalState} />}
         </>
@@ -48,10 +47,10 @@ function AppSettings() {
 function CardSet({ set }: { set: CardSet }) {
     const [reset, setReset] = useState(false);
 
-    const { proficiency, cardStats, setCardStats } = useAppContext();
+    const { getProficiency, getCardStats, setCardStats } = useAppContext();
 
     const clearCardStats = (cardIs: string[]) => {
-        const nextCardStats = { ...cardStats };
+        const nextCardStats = { ...getCardStats() };
         cardIs.forEach((cardId) => delete nextCardStats[cardId]);
         setCardStats(nextCardStats);
     };
@@ -60,10 +59,11 @@ function CardSet({ set }: { set: CardSet }) {
         () =>
             Math.round(
                 (set.cards || [])
-                    .map((card) => getCardProgress(proficiency.goal, cardStats[card.id]))
+                    .map((card) => getCardProgress(getProficiency().goal, getCardStats()[card.id]))
                     .reduce((s, n) => s + n, 0) / set.cards.length
             ),
-        [set.cards, proficiency, cardStats]
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+        [set.cards]
     );
 
     const handleReset = () => {
@@ -108,9 +108,9 @@ function CardSet({ set }: { set: CardSet }) {
 }
 
 function AppSettingsModal({ onClose, show }: ModalState) {
-    const { cardSets, setProficiency, proficiency } = useAppContext();
+    const { cardSets, setProficiency, getProficiency } = useAppContext();
 
-    const form = useFormState(proficiency, async (values) => setProficiency(values));
+    const form = useFormState(getProficiency(), async (values) => setProficiency(values));
 
     const hideCardOption: Option = {
         label: (

@@ -3,7 +3,8 @@ import { AppContextProvider } from './AppContext';
 import AppSettings from './AppSettings';
 import DeckLoader from './DeckLoader';
 import DeckSettings from './DeckSettings';
-import { Layout } from './shared/Layout';
+import IntroLoader from './IntroLoader';
+import Layout from './shared/Layout';
 
 function App() {
     return (
@@ -14,11 +15,17 @@ function App() {
             }}
         >
             <AppContextProvider>
-                <Layout as="header">
+                <Layout
+                    as="header"
+                    justify={null}
+                    className="flex-nowrap h-12 p-2 pb-0 max-w-full overflow-hidden justify-between"
+                    style={{ minWidth: 0 }}
+                >
                     <DeckSettings />
                     <AppSettings />
                 </Layout>
                 <DeckLoader />
+                <IntroLoader />
             </AppContextProvider>
         </div>
     );

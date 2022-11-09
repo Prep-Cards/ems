@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { createContext, ReactNode, useContext, useEffect, useState } from 'react';
-import { DEFAULT_SETTINGS, MAX_CARDS } from './utils/constants';
+import { createContext, ReactNode, useContext, useEffect, useMemo, useState } from 'react';
+import { DEFAULT_SETTINGS } from './utils/constants';
 import SVG from './shared/SVG';
 import { useMountEffect } from './utils/hooks';
 import { db } from './utils/db';
@@ -28,45 +28,46 @@ export function AppLoader({ children, settings, data }: Props & { settings: Sett
     const [cardStats, setCardStats] = useSettingState<CardStats>('cardStats', settings.cardStats);
     const [deck, setDeck] = useSettingState<Deck>('deck', settings.deck);
     const [proficiency, setProficiency] = useSettingState<Proficiency>('proficiency', settings.proficiency);
+    const [versionIntro, setVersionIntro] = useSettingState<string>('versionIntro', settings.versionIntro);
+
+    const getCards = (deck?: Deck): Card[] => {
+        const categories = deck?.categories.filter((c) => data.categories.some((dc) => dc.value === c.value)) || [];
+
+        const tags = deck?.tags.filter((c) => data.tags.some((dc) => dc.value === c.value)) || [];
+
+        if (!categories.length && !tags.length) return [];
+
+        return data.cardSets
+            .filter((set) => {
+                const hasCategory =
+                    !categories.length || !!categories?.some((item) => item.value === set.category.value);
+
+                const hasTags =
+                    !tags.length || !!tags?.some((item) => set.tags.some((sTag) => sTag.value === item.value));
+
+                return Boolean(hasCategory && hasTags);
+            })
+            .flatMap((set) => set.cards);
+    };
 
     return (
         <AppContext.Provider
             value={
                 {
-                    cardStats,
+                    cards: useMemo(() => getCards(deck), [deck]),
+
                     setCardStats,
-
-                    deck,
                     setDeck,
-
-                    proficiency,
                     setProficiency,
+                    setVersionIntro,
+
+                    getProficiency: () => proficiency,
+                    getCardStats: () => cardStats,
+                    getDeck: () => deck,
+                    getVersionIntro: () => versionIntro,
 
                     ...data,
-
-                    getCards: (deck?: Deck): Card[] => {
-                        const categories =
-                            deck?.categories.filter((c) => data.categories.some((dc) => dc.value === c.value)) || [];
-
-                        const tags = deck?.tags.filter((c) => data.tags.some((dc) => dc.value === c.value)) || [];
-
-                        if (!categories.length && !tags.length) return [];
-
-                        return data.cardSets
-                            .filter((set) => {
-                                const hasCategory =
-                                    !categories.length ||
-                                    !!categories?.some((item) => item.value === set.category.value);
-
-                                const hasTags =
-                                    !tags.length ||
-                                    !!tags?.some((item) => set.tags.some((sTag) => sTag.value === item.value));
-
-                                return Boolean(hasCategory && hasTags);
-                            })
-                            .flatMap((set) => set.cards)
-                            .slice(0, MAX_CARDS);
-                    },
+                    getCards,
                 } as Context
             }
         >
@@ -95,6 +96,17 @@ export function AppContextProvider({ children }: Props) {
                 if (!settingMeta?.value) return;
 
                 dbSettings[settingMeta.key] = settingMeta.value as any;
+
+                if (settingMeta.key === 'deck') {
+                    const { categories, tags } = settingMeta.value as Deck;
+
+                    dbSettings[settingMeta.key] = {
+                        categories: categories?.filter((c) =>
+                            initialData.categories.some((dc) => c.label === dc.label)
+                        ),
+                        tags: tags?.filter((c) => initialData.tags.some((dc) => c.label === dc.label)),
+                    };
+                }
             });
 
             setTimeout(() => {

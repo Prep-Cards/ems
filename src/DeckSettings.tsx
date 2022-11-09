@@ -10,13 +10,23 @@ import plural from './utils/plural';
 function DeckSettings() {
     const modalState = useModalState();
 
-    const { deck } = useAppContext();
+    const { getDeck, cards } = useAppContext();
+
+    const deck = getDeck();
 
     return (
         <>
             <Button data-deck-settings onClick={modalState.onOpen} className="px-2 space-x-2 flex-center">
-                <SVG.Cards className="fill-blue-100 w-7" />
-                <span className="text-blue-100 opacity-40">{deck ? 'Update Deck' : 'Load Deck'}</span>
+                <SVG.Cards className="fill-blue-200 w-7 flex-shrink-0" />
+                {!!cards?.length && (
+                    <span className="text-blue-100 opacity-70 overflow-hidden overflow-ellipsis whitespace-nowrap">
+                        {[
+                            cards.length + ' ' + plural(cards.length, 'Cards'),
+                            ...deck.categories.map((c) => c.label),
+                            ...deck.tags.map((c) => c.label),
+                        ].join(', ')}
+                    </span>
+                )}
             </Button>
             {modalState.show && <DeckSettingsModal {...modalState} />}
         </>
@@ -24,7 +34,9 @@ function DeckSettings() {
 }
 
 function DeckSettingsModal({ onClose, show }: ModalState) {
-    const { deck, setDeck, getCards, categories, tags } = useAppContext();
+    const { getDeck, setDeck, getCards, categories, tags } = useAppContext();
+
+    const deck = getDeck();
 
     const form = useFormState(deck, async (next) => {
         await setDeck(next);

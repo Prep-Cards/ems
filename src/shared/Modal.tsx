@@ -1,12 +1,7 @@
-import {
-    createContext,
-    HTMLAttributes,
-    ReactNode,
-    useContext,
-    useState,
-} from 'react';
+import { createContext, ReactNode, useContext, useState } from 'react';
+import clsx from '../utils/clsx';
 import Button from './Button';
-import { Layout } from './Layout';
+import Layout, { LayoutProps } from './Layout';
 
 export type ModalState = {
     show: boolean;
@@ -41,9 +36,7 @@ function Modal({ show, onClose, children }: ModalProps) {
                             tabIndex={-1}
                             hidden={!show}
                         >
-                            <ModalContext.Provider
-                                value={{ show, onClose, children }}
-                            >
+                            <ModalContext.Provider value={{ show, onClose, children }}>
                                 {children}
                             </ModalContext.Provider>
                         </Layout>
@@ -54,9 +47,9 @@ function Modal({ show, onClose, children }: ModalProps) {
     );
 }
 
-function ModalBody({ children, ...props }: HTMLAttributes<HTMLDivElement>) {
+function ModalBody({ children, className, ...props }: LayoutProps) {
     return (
-        <Layout {...props} column className="body">
+        <Layout {...props} column className={clsx('body', className)}>
             {children}
         </Layout>
     );
@@ -64,13 +57,15 @@ function ModalBody({ children, ...props }: HTMLAttributes<HTMLDivElement>) {
 
 function ModalFooter({
     children,
+    className,
     closeText = 'Cancel',
+    justify = 'between',
     ...props
-}: HTMLAttributes<HTMLDivElement> & { closeText?: string }) {
+}: LayoutProps & { closeText?: string }) {
     const { onClose } = useContext(ModalContext)!;
 
     return (
-        <Layout justify="between" {...props} className="footer">
+        <Layout justify={justify} {...props} className={clsx('footer', className)}>
             <Button onClick={onClose} variant="text">
                 {closeText}
             </Button>

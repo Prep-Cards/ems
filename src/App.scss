@@ -13,31 +13,33 @@ html {
 }
 
 body {
-    @apply flex justify-center items-center bg-slate-700 m-0 h-full font-sans;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: slatescale;
+    @apply antialiased flex justify-center items-center bg-slate-700 m-0 h-full font-sans transition-[box-shadow] duration-200;
+
+    &.moving-left {
+        //box-shadow: 84px -2px 53px -27px inset;
+        @apply shadow-[200px_-2px_113px_-86px_inset] shadow-red-600/30;
+    }
+
+    &.moving-right {
+        //box-shadow: 84px -2px 53px -27px inset;
+        @apply shadow-[-200px_-2px_113px_-86px_inset] shadow-green-600/30;
+    }
 }
 
 #root {
     display: contents;
 }
 
+.flex {
+    > * {
+        @apply min-w-0;
+    }
+}
+
 .App {
-    @apply w-full h-full flex flex-col max-w-4xl transition-[background-color] duration-200;
-
-    &.moving-left {
-        @apply bg-red-600 bg-opacity-20 text-slate-800;
-    }
-
-    &.moving-right {
-        @apply bg-green-600 bg-opacity-20;
-    }
+    @apply w-full h-full flex flex-col max-w-4xl;
 
     min-height: -webkit-fill-available;
-
-    > header {
-        @apply flex flex-row h-12 p-2 pb-0 justify-between;
-    }
 
     .settings {
         section {
@@ -153,17 +155,16 @@ main.deck {
 
     .stack {
         @apply flex-grow flex relative;
-
         .card {
-            @apply flex-center cursor-grab px-4 pt-2 h-full w-full rounded-lg overflow-hidden absolute will-change-transform;
+            @apply absolute bottom-1 top-3 inset-x-4 cursor-grab rounded-lg overflow-hidden will-change-transform opacity-80;
             transition: all 0.2s ease-in-out;
 
-            &.moving {
+            &[data-moving] {
                 @apply cursor-grabbing transition-none;
             }
 
             .content {
-                @apply relative inset-0 rounded-lg shadow-xl h-full w-full pointer-events-none;
+                @apply relative inset-0 rounded-lg h-full w-full pointer-events-none shadow-lg shadow-black/10;
 
                 .front,
                 .back {

@@ -41,12 +41,14 @@ declare global {
         proficiency: Proficiency;
         cardStats: CardStats;
         deck: Deck;
+        versionIntro: string;
     };
 
     type SettingsMeta = { updated?: Date } & (
         | { key: 'proficiency'; value: Proficiency }
         | { key: 'cardStats'; value: CardStats }
         | { key: 'deck'; value: Deck }
+        | { key: 'versionIntro'; value: string }
     );
 
     type Data = {
@@ -55,15 +57,22 @@ declare global {
         cardSets: CardSet[];
     };
 
-    type Context = Data &
-        Settings & {
-            // settings
-            setProficiency: Dispatch<SetStateAction<Proficiency>>;
-            setCardStats: Dispatch<SetStateAction<CardStats>>;
-            setDeck: Dispatch<SetStateAction<Deck>>;
-            // data
-            getCards: (next?: Deck | undefined) => Card[];
-        };
+    type Context = Data & {
+        cards: Card[];
+        // settings
+        setProficiency: Dispatch<SetStateAction<Proficiency>>;
+        setCardStats: Dispatch<SetStateAction<CardStats>>;
+        setDeck: Dispatch<SetStateAction<Deck>>;
+        setVersionIntro: Dispatch<SetStateAction<string>>;
+
+        getProficiency: () => Proficiency;
+        getCardStats: () => CardStats;
+        getDeck: () => Deck;
+        getVersionIntro: () => string;
+
+        // data
+        getCards: (next?: Deck | undefined) => Card[];
+    };
 
     /**
      * DeepNonNullable

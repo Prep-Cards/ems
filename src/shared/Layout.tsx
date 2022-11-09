@@ -12,7 +12,9 @@ type Props<T extends ComponentType> = ComponentProps<T> & {
     as?: T;
 };
 
-export function Layout<T extends ComponentType>({
+export type LayoutProps = Props<any>;
+
+export default function Layout<T extends ComponentType>({
     children,
     justify = 'between',
     items,

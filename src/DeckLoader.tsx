@@ -1,18 +1,16 @@
-import { useMemo } from 'react';
 import { useAppContext } from './AppContext';
 import Deck from './Deck';
+import { shuffle } from './utils/shuffle';
 
 function DeckLoader() {
-    const { getCards, deck } = useAppContext();
-
-    const cards = useMemo(() => getCards(deck), [deck, getCards]);
+    const { cards } = useAppContext();
 
     return (
         <>
             {!!cards?.length ? (
-                <Deck cards={cards} />
+                <Deck cards={shuffle(cards)} />
             ) : (
-                <div className="flex-col flex-grow flex-center overflow-hidden text-gray-400">No deck loaded</div>
+                <div className="flex-col flex-grow flex-center overflow-hidden text-gray-400">No cards loaded.</div>
             )}
         </>
     );

@@ -59,12 +59,12 @@ Back`,
         });
     });
 
-    const directory = './public/data/';
+    const directory = './public/fake-data/';
 
     readdirSync(directory).forEach((file) => unlinkSync(path.join(directory, file)));
 
     cardSets.forEach((data) => {
-        writeFileSync(directory + data + '.json', JSON.stringify(data, null, '\t'));
+        writeFileSync(directory + data.name + '.json', JSON.stringify(data, null, '\t'));
     });
 
     writeFileSync(
@@ -79,3 +79,5 @@ Back`,
         )
     );
 }
+
+generateFakeData();
