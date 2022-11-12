@@ -5,7 +5,7 @@ type ComponentType = JSXElementConstructor<any> | keyof JSX.IntrinsicElements;
 
 type Props<T extends ComponentType> = ComponentProps<T> & {
     children: ReactNode;
-    justify?: string;
+    justify?: Justify;
     items?: string;
     className?: string;
     column?: true;
@@ -14,9 +14,11 @@ type Props<T extends ComponentType> = ComponentProps<T> & {
 
 export type LayoutProps = Props<any>;
 
+type Justify = 'start' | 'end' | 'center' | 'between' | 'around' | 'evenly';
+
 export default function Layout<T extends ComponentType>({
     children,
-    justify,
+    justify = 'between',
     items,
     as: Component = 'div',
     column,
@@ -29,7 +31,12 @@ export default function Layout<T extends ComponentType>({
             className={clsx(
                 'flex',
                 column ? 'flex-col' : 'flex-row',
-                justify && 'justify-' + justify,
+                justify === 'start' && 'justify-start',
+                justify === 'end' && 'justify-end',
+                justify === 'center' && 'justify-center',
+                justify === 'between' && 'justify-between',
+                justify === 'around' && 'justify-around',
+                justify === 'evenly' && 'justify-evenly',
                 items && 'items-' + items,
                 className
             )}

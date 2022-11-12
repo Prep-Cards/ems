@@ -13,7 +13,7 @@ export default function IntroLoader() {
                 setVersionIntro(version);
             }}
         >
-            <Modal.Body column justify="between" className="text-center text-slate-300">
+            <Modal.Body column className="text-center text-slate-300">
                 <h1 className="mt-4 mb-0 text-white">Prep Cards</h1>
 
                 <p>

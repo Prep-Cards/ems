@@ -62,7 +62,7 @@ function CardSet({ set }: { set: CardSet }) {
 
     return (
         <Layout as="section" column>
-            <Layout justify="between">
+            <Layout>
                 <div className="category">{set.category.label}</div>
                 <div className="tags">
                     {set.tags.map((tag, index) => (
@@ -70,7 +70,7 @@ function CardSet({ set }: { set: CardSet }) {
                     ))}
                 </div>
             </Layout>
-            <Layout justify="between">
+            <Layout>
                 <div className="count">Cards: {set.cards.length}</div>
                 <div className="progress">{progress}% Progress</div>
             </Layout>
@@ -118,7 +118,7 @@ function AppSettingsModal({ onClose, show }: ModalState) {
             <Modal data-app-modal show={show} onClose={onClose}>
                 <Modal.Body>
                     <div className="settings">
-                        <Layout justify="between">
+                        <Layout>
                             <h1>Settings</h1>
                             <span className="text-slate-600">{VERSION}</span>
                         </Layout>
