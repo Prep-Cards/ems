@@ -1,9 +1,11 @@
 import { Fragment, InputHTMLAttributes, useMemo, useState } from 'react';
 import { useAppContext } from './AppContext';
+import DeckInfo from './DeckInfo';
 import Button from './shared/Button';
-import Checkboxes from './shared/Checkboxes';
+import { Checkbox } from './shared/Checkboxes';
 import Layout from './shared/Layout';
 import Modal, { ModalState, useModalState } from './shared/Modal';
+import Select from './shared/Select';
 import SVG from './shared/SVG';
 import getCardProgress from './utils/getCardProgress';
 import { useFormState } from './utils/hooks';
@@ -28,19 +30,6 @@ function Slider({ onChange, value, ...props }: SliderProps) {
                 }}
             />
         </div>
-    );
-}
-
-function AppSettings() {
-    const modalState = useModalState();
-
-    return (
-        <>
-            <Button data-app-settings onClick={modalState.onOpen} className="px-2 space-x-2 flex-center flex-shrink-0">
-                <SVG.Gear className="fill-blue-200 w-5 flex-shrink-0" />
-            </Button>
-            {modalState.show && <AppSettingsModal {...modalState} />}
-        </>
     );
 }
 
@@ -73,7 +62,7 @@ function CardSet({ set }: { set: CardSet }) {
 
     return (
         <Layout as="section" column>
-            <Layout>
+            <Layout justify="between">
                 <div className="category">{set.category.label}</div>
                 <div className="tags">
                     {set.tags.map((tag, index) => (
@@ -81,19 +70,19 @@ function CardSet({ set }: { set: CardSet }) {
                     ))}
                 </div>
             </Layout>
-            <Layout>
+            <Layout justify="between">
                 <div className="count">Cards: {set.cards.length}</div>
                 <div className="progress">{progress}% Progress</div>
             </Layout>
             {!!progress && !reset && (
                 <Layout>
-                    <Button onClick={() => setReset(true)} className="ml-auto text-slate-400">
+                    <Button onClick={() => setReset(true)} className="ml-auto text-slate-400 px-0">
                         Reset
                     </Button>
                 </Layout>
             )}
             {reset && (
-                <Layout justify={null} className="description justify-end space-x-4">
+                <Layout className="description justify-end space-x-4">
                     <span>Are you sure?</span>
                     <Button onClick={() => handleReset()} className="text-slate-400">
                         Yes
@@ -108,25 +97,28 @@ function CardSet({ set }: { set: CardSet }) {
 }
 
 function AppSettingsModal({ onClose, show }: ModalState) {
-    const { cardSets, setProficiency, getProficiency } = useAppContext();
+    const { cardSets, setProficiency, getProficiency, categories, tags, getDeck, setDeck } = useAppContext();
 
-    const form = useFormState(getProficiency(), async (values) => setProficiency(values));
-
-    const hideCardOption: Option = {
-        label: (
-            <>
-                Hide card when correct <strong>{form.value.goal} times</strong>
-            </>
-        ),
-        value: 'hideProficientCard',
-    };
+    const {
+        value: { proficiency: formProficiency, deck: formDeck },
+        ...form
+    } = useFormState<Omit<Settings, 'cardStats' | 'versionIntro'>>(
+        {
+            proficiency: getProficiency(),
+            deck: getDeck(),
+        },
+        async (values) => {
+            if (values.proficiency) setProficiency(values.proficiency);
+            if (values.deck) setDeck(values.deck);
+        }
+    );
 
     return (
         <>
             <Modal data-app-modal show={show} onClose={onClose}>
                 <Modal.Body>
                     <div className="settings">
-                        <Layout>
+                        <Layout justify="between">
                             <h1>Settings</h1>
                             <span className="text-slate-600">{VERSION}</span>
                         </Layout>
@@ -150,28 +142,63 @@ function AppSettingsModal({ onClose, show }: ModalState) {
                         </section> */}
 
                         <section>
-                            <h2>Proficiency</h2>
+                            <h2>Current Deck</h2>
+                            <p className="description mb-2">
+                                Select cards to add to the current deck from categories and tags.
+                            </p>
+                            <Layout className="space-x-4">
+                                <Select
+                                    className="flex-1"
+                                    placeholder="Category"
+                                    options={categories}
+                                    selected={formDeck.categories}
+                                    onChange={(values: Option[] | undefined) => {
+                                        form.update({
+                                            deck: { ...formDeck, categories: values || [] },
+                                        });
+                                    }}
+                                />
+                                <Select
+                                    className="flex-1"
+                                    placeholder="Tag"
+                                    options={tags}
+                                    selected={formDeck.tags}
+                                    onChange={(values: Option[] | undefined) => {
+                                        form.update({
+                                            deck: { ...formDeck, tags: values || [] },
+                                        });
+                                    }}
+                                />
+                            </Layout>
+                            <DeckInfo className="pt-2" deck={formDeck} />
+                        </section>
 
+                        <section>
+                            <h2>Proficiency</h2>
                             <h4>Proficiency Goal</h4>
                             <p className="description">The correct swipe goal for each card.</p>
                             <Slider
                                 min={1}
                                 max={20}
-                                value={form.value.goal}
-                                onChange={(goal) => form.update({ goal })}
+                                value={formProficiency.goal}
+                                onChange={(goal) => form.update({ proficiency: { ...formProficiency, goal } })}
                             />
-                            <Checkboxes
-                                values={form.value.hide ? [hideCardOption] : []}
-                                options={[hideCardOption]}
-                                onChange={(_, values) => {
-                                    form.update({ hide: values?.[0] === hideCardOption.value });
+                            <Checkbox
+                                label={
+                                    <>
+                                        Hide card when correct <strong>{formProficiency.goal} times</strong>
+                                    </>
+                                }
+                                isChecked={formProficiency.hide}
+                                onChange={(hide) => {
+                                    form.update({ proficiency: { ...formProficiency, hide } });
                                 }}
                                 name="hide-proficient-card"
                             />
                         </section>
 
                         <section>
-                            <h2>Card Sets</h2>
+                            <h2>All Card Sets</h2>
                             {cardSets.map((set, index) => (
                                 <CardSet key={index} set={set} />
                             ))}
@@ -195,6 +222,23 @@ function AppSettingsModal({ onClose, show }: ModalState) {
                     )}
                 </Modal.Footer>
             </Modal>
+        </>
+    );
+}
+
+function AppSettings() {
+    const modalState = useModalState();
+
+    return (
+        <>
+            <Button
+                data-app-settings
+                onClick={modalState.onOpen}
+                className="px-2 mr-1 space-x-2 flex-center flex-shrink-0"
+            >
+                <SVG.Cards className="fill-blue-200 w-6 flex-shrink-0" />
+            </Button>
+            {modalState.show && <AppSettingsModal {...modalState} />}
         </>
     );
 }

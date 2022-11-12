@@ -1,25 +1,25 @@
-import { ChangeEvent } from 'react';
+import { ChangeEvent, ReactNode, useMemo } from 'react';
 
-function Checkboxes({
+function Checkboxes<TOption extends Option>({
     options,
     name,
     onChange,
     values,
 }: {
-    values: Option[];
-    options: Option[];
+    values: TOption[];
+    options: TOption[];
     name: string;
-    onChange: (options: Option[], values?: Option['value'][]) => void;
+    onChange: (options: TOption[], values?: TOption['value'][]) => void;
 }) {
-    const handleChange = (option: Option) => (event: ChangeEvent<HTMLInputElement>) => {
+    const handleChange = (TOption: TOption) => (event: ChangeEvent<HTMLInputElement>) => {
         let next = [...values];
 
-        const hasValue = !!values.find(({ value: v }) => option.value === v);
+        const hasValue = !!values.find(({ value: v }) => TOption.value === v);
 
         if (!event.currentTarget.checked) {
-            if (hasValue) next = next.filter(({ value: v }) => option.value !== v);
+            if (hasValue) next = next.filter(({ value: v }) => TOption.value !== v);
         } else {
-            if (!hasValue) next.push(option);
+            if (!hasValue) next.push(TOption);
         }
 
         onChange(
@@ -30,16 +30,16 @@ function Checkboxes({
 
     return (
         <fieldset className="checkboxes">
-            {options.map((option, index) => (
+            {options.map((TOption, index) => (
                 <label key={index}>
                     <input
                         type="checkbox"
-                        value={option.value}
+                        value={TOption.value}
                         name={name}
-                        checked={!!values.find((v) => v.value === option.value)}
-                        onChange={handleChange(option)}
+                        checked={!!values.find((v) => v.value === TOption.value)}
+                        onChange={handleChange(TOption)}
                     />
-                    {option.label}
+                    {TOption.label}
                 </label>
             ))}
         </fieldset>
@@ -47,3 +47,29 @@ function Checkboxes({
 }
 
 export default Checkboxes;
+
+export function Checkbox<TOption extends Option>({
+    label,
+    name,
+    onChange,
+    isChecked,
+}: {
+    label: ReactNode;
+    name: string;
+    onChange: (isChecked: boolean) => void;
+    isChecked: boolean;
+}) {
+    const { option, values } = useMemo((): { option: TOption; values: TOption[] } => {
+        const option = { value: name, label } as TOption;
+        return {
+            option,
+            values: isChecked ? [option] : [],
+        };
+    }, [name, label, isChecked]);
+
+    const onChangeMultiple = (options: TOption[], values?: TOption['value'][] | undefined) => {
+        onChange(values?.[0] === option.value);
+    };
+
+    return <Checkboxes options={[option]} name={name} values={values} onChange={onChangeMultiple} />;
+}

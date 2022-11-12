@@ -13,8 +13,8 @@ export default function IntroLoader() {
                 setVersionIntro(version);
             }}
         >
-            <Modal.Body column justify="" className="space-y-6 text-center">
-                <h2>Welcome to the Prep Cards App</h2>
+            <Modal.Body column justify="between" className="text-center text-slate-300">
+                <h1 className="mt-4 mb-0 text-white">Prep Cards</h1>
 
                 <p>
                     <strong>Tap</strong> to flip the card.
@@ -28,13 +28,8 @@ export default function IntroLoader() {
                 <p>Get it right enough times the card will be hidden.</p>
 
                 <p>
-                    Change the cards by clicking <SVG.Cards className="fill-blue-200 w-7 inline-block" /> on the top
-                    left.
-                </p>
-
-                <p>
-                    Change other settings by clicking <SVG.Gear className="fill-blue-200 w-7 inline-block" /> on the top
-                    right.
+                    Change the cards and other settings by clicking the cards{' '}
+                    <SVG.Cards className="fill-blue-200 w-7 mx-1 inline-block" /> on the top right.
                 </p>
 
                 <p>
@@ -45,9 +40,7 @@ export default function IntroLoader() {
                     .
                 </p>
 
-                <p className="text-slate-500">
-                    Version {version} <span className="text-1xl"> ♥</span>
-                </p>
+                <p className="text-slate-500">Version {version}</p>
             </Modal.Body>
             <Modal.Footer justify="around" closeText="Close"></Modal.Footer>
         </Modal>

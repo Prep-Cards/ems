@@ -7,7 +7,7 @@ type Props = ComponentProps<'button'> & {
 
 export default function Button({ children, className, variant = null, type = 'button', ...props }: Props) {
     return (
-        <button {...props} type={type} className={clsx(className, variant)}>
+        <button {...props} type={type} className={clsx(variant && 'btn', className, variant)}>
             {children}
         </button>
     );

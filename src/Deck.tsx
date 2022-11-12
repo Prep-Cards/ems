@@ -2,13 +2,19 @@ import Button from './shared/Button';
 import Hammer from 'hammerjs';
 import SVG from './shared/SVG';
 import Layout from './shared/Layout';
-import { useState, useRef, useMemo, useCallback, useEffect } from 'react';
+import { useState, useRef, useMemo, useCallback, useEffect, Fragment } from 'react';
 import getCardProgress from './utils/getCardProgress';
 import { useAppContext } from './AppContext';
-import runAfterFramePaint from './utils/runAfterFramePaint';
-import Lines from './shared/LInes';
 import clsx from './utils/clsx';
 import { useMountEffect } from './utils/hooks';
+
+function runAfterFramePaint(callback: () => void) {
+    requestAnimationFrame(() => {
+        const messageChannel = new MessageChannel();
+        messageChannel.port1.onmessage = callback;
+        messageChannel.port2.postMessage(undefined);
+    });
+}
 
 const resizeText = (el: HTMLElement) => {
     if (el.firstElementChild!.clientHeight > el.clientHeight) {
@@ -17,6 +23,19 @@ const resizeText = (el: HTMLElement) => {
         runAfterFramePaint(() => resizeText(el));
     }
 };
+
+function Lines({ value }: { value: string }) {
+    return (
+        <div>
+            {value.split('\n').map((line, index) => (
+                <Fragment key={index}>
+                    {line}
+                    <br />
+                </Fragment>
+            ))}
+        </div>
+    );
+}
 
 function Card({
     id,
@@ -45,15 +64,26 @@ function Card({
 
         const hammer = new Hammer(cardEl);
 
+        const notMovedEnough = () => {
+            document.body.classList.remove('moving-right', 'moving-left');
+            cardEl.style.transform = '';
+        };
+
+        let timeoutPan: ReturnType<typeof setTimeout>;
+
         hammer.on('pan', (event) => {
             if (event.deltaX === 0 || (event.center.x === 0 && event.center.y === 0)) {
                 return;
             }
 
+            if (timeoutPan) clearTimeout(timeoutPan);
+            timeoutPan = setTimeout(() => notMovedEnough(), 1000);
+
             let direction: Move | null = null;
             if (event.deltaX > 0) direction = 'right';
             if (event.deltaX < 0) direction = 'left';
 
+            document.body.classList.remove('moving-right', 'moving-left');
             document.body.classList.add('moving-' + direction);
 
             cardEl.dataset.moving = direction || '';
@@ -73,8 +103,7 @@ function Card({
             const movedEnough = !(Math.abs(event.deltaX) < 80 || Math.abs(event.velocityX) < 0.5);
 
             if (!movedEnough) {
-                document.body.classList.remove('moving-right', 'moving-left');
-                event.target.style.transform = '';
+                notMovedEnough();
                 return;
             }
 
@@ -88,6 +117,14 @@ function Card({
         };
     });
 
+    const Progress = () => (
+        <div className="progress">
+            <div>
+                <div style={{ width: progress + '%' }}></div>
+            </div>
+        </div>
+    );
+
     return (
         <div
             className={clsx('card', flipped && 'flip')}
@@ -99,19 +136,12 @@ function Card({
         >
             <div className="content" ref={contentRef}>
                 <div className="front" style={{ fontSize: '1.3rem' }}>
-                    <div>
-                        <Lines value={front} />
-                    </div>
+                    <Lines value={front} />
+                    <Progress />
                 </div>
                 <div className="back" style={{ fontSize: '1.3rem' }}>
-                    <div>
-                        <Lines value={back} />
-                    </div>
-                </div>
-            </div>
-            <div className="absolute right-1 left-1 bottom-1 px-4 rounded-lg overflow-hidden">
-                <div className="w-full bg-white bg-opacity-25 rounded-lg">
-                    <div className="h-2 bg-green-400 rounded-lg" style={{ width: progress + '%' }}></div>
+                    <Lines value={back} />
+                    <Progress />
                 </div>
             </div>
         </div>
@@ -245,26 +275,12 @@ function Deck({ cards }: { cards: Card[] }) {
             <div ref={stackRef} className="stack">
                 {CardDisplay}
             </div>
-            <Layout
-                as="nav"
-                justify="around"
-                className={clsx('mt-1 h-16 p-2', currentCard.index === -1 && 'opacity-0')}
-            >
-                <Button
-                    onClick={() => triggerMove('left')}
-                    className="rounded-full p-1 overflow-hidden active:bg-white active:bg-opacity-25"
-                    draggable={false}
-                    disabled={cardSwitching}
-                >
-                    <SVG.CircleXmark className="h-full w-auto fill-red-500" />
+            <Layout as="nav" justify="around" className={clsx(currentCard.index === -1 && 'disabled')}>
+                <Button onClick={() => triggerMove('left')} draggable={false} disabled={cardSwitching}>
+                    <SVG.CircleXmark className="fill-red-500" />
                 </Button>
-                <Button
-                    onClick={() => triggerMove('right')}
-                    className="rounded-full p-1 overflow-hidden active:bg-white active:bg-opacity-25"
-                    draggable={false}
-                    disabled={cardSwitching}
-                >
-                    <SVG.CircleCheck className="h-full w-auto fill-green-500 pointer-events-none" />
+                <Button onClick={() => triggerMove('right')} draggable={false} disabled={cardSwitching}>
+                    <SVG.CircleCheck className="fill-green-500 " />
                 </Button>
             </Layout>
         </main>

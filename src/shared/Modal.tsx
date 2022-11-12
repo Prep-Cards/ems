@@ -18,19 +18,21 @@ export interface ModalProps {
     show: boolean;
     onClose: () => void;
     children: ReactNode;
+    className?: string;
+    size?: 'full' | null;
 }
 
 const ModalContext = createContext<ModalProps | null>(null);
 
-function Modal({ show, onClose, children }: ModalProps) {
+function Modal({ show, onClose, children, className, size = 'full' }: ModalProps) {
     return (
         <>
             {show && (
-                <div className="modal">
+                <div className={clsx('modal', className)}>
                     <Layout column className="overlay" onClick={onClose}>
                         <Layout
                             column
-                            className="dialog"
+                            className={clsx('dialog', size)}
                             onClick={(e: MouseEvent) => e.stopPropagation()}
                             role="dialog"
                             tabIndex={-1}

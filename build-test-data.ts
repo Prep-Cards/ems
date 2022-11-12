@@ -1,7 +1,18 @@
-import { writeFileSync, readdirSync, unlinkSync, readFileSync } from 'fs';
+import { writeFileSync, readdirSync, unlinkSync } from 'fs';
 import path from 'path';
 
-import slugify from './src/utils/slugify';
+function slugify(text: string) {
+    return text
+        .toString() // Cast to string (optional)
+        .normalize('NFKD') // The normalize() using NFKD method returns the Unicode Normalization Form of a given string.
+        .toLowerCase() // Convert the string to lowercase letters
+        .trim() // Remove whitespace from both sides of a string (optional)
+        .replace(/\s+/g, '-') // Replace spaces with -
+        .replace(/[^\w\-]+/g, '') // Remove all non-word chars
+        .replace(/_/g, '-') // Replace _ with -
+        .replace(/\-\-+/g, '-') // Replace multiple - with single -
+        .replace(/\-$/g, ''); // Remove trailing -
+}
 
 const labelsToOptions = (labels: string[]): Option[] => labels.map((label) => ({ value: slugify(label), label }));
 

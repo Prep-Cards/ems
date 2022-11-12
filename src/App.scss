@@ -2,6 +2,7 @@ html {
     height: 100%;
     touch-action: pan-x pan-y;
     height: 100%;
+    overflow: hidden;
 }
 
 *,
@@ -13,16 +14,16 @@ html {
 }
 
 body {
-    @apply antialiased flex justify-center items-center bg-slate-700 m-0 h-full font-sans transition-[box-shadow] duration-200;
+    @apply antialiased flex justify-center items-center bg-slate-700 m-0 h-full font-sans transition-[box-shadow] duration-200 overflow-hidden;
 
     &.moving-left {
         //box-shadow: 84px -2px 53px -27px inset;
-        @apply shadow-[200px_-2px_113px_-86px_inset] shadow-red-600/30;
+        @apply shadow-[300px_-2px_113px_-86px_inset] shadow-red-600/30;
     }
 
     &.moving-right {
         //box-shadow: 84px -2px 53px -27px inset;
-        @apply shadow-[-200px_-2px_113px_-86px_inset] shadow-green-600/30;
+        @apply shadow-[-300px_-2px_113px_-86px_inset] shadow-green-600/30;
     }
 }
 
@@ -33,25 +34,6 @@ body {
 .flex {
     > * {
         @apply min-w-0;
-    }
-}
-
-.App {
-    @apply w-full h-full flex flex-col max-w-4xl;
-
-    min-height: -webkit-fill-available;
-
-    .settings {
-        section {
-            @apply my-6;
-            & + section {
-                @apply border-t-2 border-t-zinc-600 pt-4;
-            }
-
-            & section {
-                @apply my-3 pt-2;
-            }
-        }
     }
 }
 
@@ -81,6 +63,7 @@ h3 {
 
 button {
     @apply font-semibold;
+    text-shadow: inherit;
 
     -webkit-tap-highlight-color: transparent;
 
@@ -148,14 +131,78 @@ code {
 
 svg {
     @apply pointer-events-none;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.37));
+}
+
+.modal {
+    @apply contents;
+
+    .overlay {
+        @apply bg-opacity-70 bg-black fixed inset-0 z-[100000] pt-14 max-w-full;
+
+        .dialog {
+            @apply max-h-full flex-grow rounded-md bg-slate-700 text-slate-200 max-w-4xl overflow-hidden mb-12;
+
+            &.full {
+                @apply mx-4;
+            }
+
+            .body {
+                @apply flex-grow p-4 overflow-auto;
+
+                .description {
+                    @apply text-slate-400;
+                }
+            }
+
+            .footer {
+                @apply btn-group h-14 flex-grow-0 flex-shrink-0 bg-slate-600;
+            }
+        }
+    }
+}
+
+.deck-info {
+    @apply text-blue-100 opacity-70;
+    > span {
+        @apply comma-separated;
+    }
+}
+
+.App {
+    @apply overflow-hidden;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.37);
+
+    > header {
+        @apply flex-nowrap h-12 p-2 pb-0 max-w-full overflow-hidden justify-between relative z-[100000];
+
+        min-width: 0;
+    }
+
+    .settings {
+        section {
+            @apply mb-6;
+
+            & + section {
+                @apply mt-6;
+                @apply border-t-2 border-t-zinc-100/10 pt-4;
+            }
+            & section {
+                @apply my-3 pt-2;
+            }
+        }
+    }
 }
 
 main.deck {
-    @apply flex-grow flex flex-col overflow-hidden;
+    @apply flex-grow flex flex-col;
 
     .stack {
         @apply flex-grow flex relative;
+
         .card {
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.17);
+
             @apply absolute bottom-1 top-3 inset-x-4 cursor-grab rounded-lg overflow-hidden will-change-transform opacity-80;
             transition: all 0.2s ease-in-out;
 
@@ -183,6 +230,17 @@ main.deck {
                 transform-style: preserve-3d;
             }
 
+            .progress {
+                @apply absolute right-1 left-1 bottom-1 px-4 rounded-lg overflow-hidden;
+
+                div {
+                    @apply w-full bg-white bg-opacity-25 rounded-lg;
+
+                    div {
+                        @apply h-2 bg-green-400 rounded-lg;
+                    }
+                }
+            }
             &.flip {
                 .content {
                     transform: rotateY(180deg);
@@ -191,27 +249,105 @@ main.deck {
             }
         }
     }
+
+    > nav {
+        @apply mt-1 h-16 p-2;
+
+        &.disabled {
+            @apply opacity-0 pointer-events-none;
+        }
+
+        button {
+            @apply rounded-full p-1 overflow-hidden active:bg-white active:bg-opacity-25;
+
+            svg {
+                @apply h-full w-auto;
+            }
+        }
+    }
 }
 
-.modal {
-    @apply contents;
+:root {
+    --select-border: #777;
+    --select-focus: blue;
+    --select-arrow: var(--select-border);
+}
 
+.comma-separated {
+    > span + span::before {
+        content: ', ';
+    }
+}
+
+.select {
+    @apply flex-center relative pl-3 pr-3 bg-slate-500 h-10 rounded-md justify-between border border-slate-900;
+
+    cursor: pointer;
+    line-height: 1.1;
+
+    .selected {
+        @apply flex-grow overflow-hidden text-ellipsis whitespace-nowrap text-left comma-separated;
+    }
+
+    .placeholder {
+        @apply text-slate-400;
+    }
+
+    // Custom arrow
+    .arrow {
+        @apply bg-slate-400 w-3 h-2 block flex-shrink-0;
+        clip-path: polygon(100% 0%, 0 0%, 50% 100%);
+    }
+
+    &.disabled {
+        cursor: not-allowed;
+        background-color: #eee;
+        background-image: linear-gradient(to top, #ddd, #eee 33%);
+    }
+}
+
+.modal.select-popup {
     .overlay {
-        @apply bg-opacity-70 bg-black fixed inset-0 z-[100000] pt-14 max-w-full;
+        @apply pt-20;
+        justify-content: flex-start;
+    }
 
-        .dialog {
-            @apply max-h-full flex-grow rounded-md bg-slate-700 text-slate-200 max-w-4xl overflow-hidden mb-12 mx-4;
+    .dialog {
+        @apply mx-14 flex-grow-0;
 
-            .body {
-                @apply flex-grow p-4 overflow-auto;
+        .body {
+            @apply p-0 overflow-hidden;
 
-                .description {
-                    @apply text-slate-400;
+            .option {
+                @apply text-left py-3 px-4 flex justify-between rounded-none font-normal whitespace-nowrap;
+
+                &.all {
+                    @apply font-bold;
+                }
+
+                &.checked {
+                    @apply bg-slate-800;
+                }
+
+                svg {
+                    @apply mr-4 fill-slate-300 w-4;
+                }
+
+                & + .option {
+                    @apply border-t border-slate-500;
                 }
             }
 
-            .footer {
-                @apply btn-group h-14 flex-grow-0 flex-shrink-0 bg-slate-600;
+            .top {
+                @apply flex-shrink-0 flex flex-col bg-slate-700 border-b border-slate-500;
+
+                .selected {
+                    display: none;
+                }
+            }
+
+            .options {
+                @apply flex-grow flex flex-col overflow-auto;
             }
         }
     }
