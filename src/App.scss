@@ -141,10 +141,10 @@ svg {
         @apply bg-opacity-70 bg-black fixed inset-0 z-[100000] pt-14 max-w-full;
 
         .dialog {
-            @apply max-h-full flex-grow rounded-md bg-slate-700 text-slate-200 max-w-4xl overflow-hidden mb-12;
+            @apply max-h-full flex-grow rounded-md bg-slate-700 text-slate-200 max-w-4xl overflow-hidden mb-12 mx-auto;
 
             &.full {
-                @apply mx-4;
+                @apply max-w-full mx-4 lg:mx-10;
             }
 
             .body {
@@ -313,7 +313,7 @@ main.deck {
     }
 
     .dialog {
-        @apply mx-14 flex-grow-0;
+        @apply flex-grow-0;
 
         .body {
             @apply p-0 overflow-hidden;
