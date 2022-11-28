@@ -1,0 +1,115 @@
+{
+	"name": "category-chapter-33-tag-multiple-choice",
+	"cards": [
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-1",
+			"front": "The transfer of heat to circulating air, such as when cool air moves across the body’s surface, is called:\n\nA. conduction.\nB. evaporation.\nC. radiation.\nD. convection.\nSee Cold Exposure",
+			"back": "convection."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-2",
+			"front": "Covering a patient’s _________ will significantly minimize radiation heat loss.\n\nA. chest\nB. abdomen\nC. extremities\nD. head\nSee Cold Exposure",
+			"back": "head"
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-3",
+			"front": "To obtain the most accurate reading of a patient’s core body temperature, you should place a special hypothermia thermometer:\n\nA. into the patient’s rectum.\nB. behind the patient’s knee.\nC. under the patient’s armpit.\nD. under the patient’s tongue.\nSee Cold Exposure",
+			"back": "into the patient’s rectum."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-4",
+			"front": "The two most efficient ways for the body to eliminate excess heat are:\n\nA. respiration and bradycardia.\nB. hyperventilation and tachycardia.\nC. perspiration and tachycardia.\nD. sweating and vasodilation.\nSee Heat Exposure",
+			"back": "sweating and vasodilation."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-5",
+			"front": "Common signs and symptoms of heat exhaustion include all of the following, except:\n\nA. nausea.\nB. hot, dry skin.\nC. dry tongue and thirst.\nD. tachycardia.\nSee Heat Exposure",
+			"back": "hot, dry skin."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-6",
+			"front": "A dysbarism injury refers to the signs and symptoms related to changes in:\n\nA. decompression.\nB. barometric pressure.\nC. rapid ascent.\nD. rapid descent.\nSee High Altitude",
+			"back": "barometric pressure."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-7",
+			"front": "The most prominent symptom of decompression sickness is:\n\nA. abdominal or joint pain.\nB. difficulty with vision.\nC. tightness in the chest.\nD. dizziness and nausea.\nSee Diving Emergencies",
+			"back": "abdominal or joint pain."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-8",
+			"front": "The diving reflex might allow a person to survive extended periods of submersion in cold water secondary to:\n\nA. laryngospasm that protects the lungs from water.\nB. increases in the metabolic rate and oxygen demand.\nC. bradycardia and a slowing of the metabolic rate.\nD. tachycardia and a lowering of the blood pressure.\nSee Drowning",
+			"back": "bradycardia and a slowing of the metabolic rate."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-9",
+			"front": "High air temperature reduces the body’s ability to lose heat by:\n\nA. radiation.\nB. evaporation.\nC. conduction.\nD. convection.\nSee Heat Exposure",
+			"back": "radiation."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-10",
+			"front": "Which of the following is an early sign of pit viper envenomation?\n\nA. Local swelling and ecchymosis\nB. General weakness and diaphoresis\nC. Syncope and bleeding at distal sites\nD. Signs and symptoms of hypoperfusion\nSee Bites and Envenomation",
+			"back": "Local swelling and ecchymosis"
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-11",
+			"front": "High humidity reduces the body’s ability to lose heat through:\n\nA. convection.\nB. conduction.\nC. radiation.\nD. evaporation.\nSee Heat Exposure",
+			"back": "evaporation."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-12",
+			"front": "When a warm hand is immersed in water that is 70°F (21°C), heat is transferred from the hand to the water through a process called:\n\nA. radiation.\nB. convection.\nC. conduction.\nD. evaporation.\nSee Cold Exposure",
+			"back": "conduction."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-13",
+			"front": "Burns associated with lightning strikes are typically:\n\nA. partial-thickness.\nB. third-degree.\nC. superficial.\nD. full-thickness.\nSee Lightning",
+			"back": "superficial."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-14",
+			"front": "Which of the following statements regarding lightning strikes is correct?\n\nA. The tissue damage pathway caused by lightning usually occurs through the skin.\nB. Lightning strikes might cause cardiac dysrhythmias that spontaneously resolve.\nC. Victims who are struck by lightning often experience severe full-thickness burns.\nD. Cervical spine fractures are the most common cause of lightning-related deaths.\nSee Lightning",
+			"back": "Lightning strikes might cause cardiac dysrhythmias that spontaneously resolve."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-15",
+			"front": "Drowning is most accurately defined as:\n\nA. water in the lungs following submersion in water.\nB. temporary survival after submersion in water.\nC. death beyond 24 hours after submersion in water.\nD. death from suffocation after submersion in water.\nSee Drowning",
+			"back": "death from suffocation after submersion in water."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-16",
+			"front": "Which of the following statements regarding drowning is correct?\n\nA. Artificial ventilations can easily be performed in patients with a laryngospasm.\nB. Large amounts of water enter the lungs in a small number of drowning victims.\nC. Patients with a submersion injury might deteriorate rap­idly because of pulmonary injury and cerebral hypoxia.\nD. Hypoxia in the drowning victim initially occurs due to water in the lungs.\nSee Assessment of Drowning and Diving Emergencies",
+			"back": "Patients with a submersion injury might deteriorate rap­idly because of pulmonary injury and cerebral hypoxia."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-17",
+			"front": "Geriatric patients, newborns, and infants are especially prone to hyperthermia because they:\n\nA. have smaller body surface areas.\nB. exhibit poor thermoregulation.\nC. have less body fat.\nD. have relatively smaller heads.\nSee Heat Exposure",
+			"back": "exhibit poor thermoregulation."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-18",
+			"front": "Breath-holding syncope is caused by a decreased stimulus to breathe and occurs when:\n\nA. a swimmer hyperventilates prior to entering the water.\nB. a diver holds his or her breath during a staged ascent.\nC. a diver holds his or her breath for a long period of time.\nD. a swimmer breathes shallowly before entering the water.\nSee Emergency Care for Drowning and Diving Emergencies",
+			"back": "a swimmer hyperventilates prior to entering the water."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-19",
+			"front": "The venom of a black widow spider is toxic to the:\n\nA. nervous system.\nB. cardiovascular system.\nC. renal system.\nD. respiratory system.\nSee Bites and Envenomation",
+			"back": "nervous system."
+		},
+		{
+			"id": "category-chapter-33-tag-multiple-choice-card-20",
+			"front": "An air embolism associated with diving occurs when:\n\nA. the diver holds his or her breath during a rapid ascent.\nB. the diver hyperventilates prior to entering the water.\nC. high water pressure forces air into the mediastinum.\nD. the alveoli completely collapse due to high pressure.\nSee Diving Emergencies",
+			"back": "the diver holds his or her breath during a rapid ascent."
+		}
+	],
+	"category": {
+		"value": "chapter-33",
+		"label": "Chapter 33"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}
