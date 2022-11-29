@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-03-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-1",
-			"front": "Which of the following most accurately defines negligence?\n\nA. Transferring patient care to a provider with a lower level of training\nB. Transport of a mentally incompetent patient against his or her will\nC. Providing care that is consistent with care provided by other EMTs\nD. Deviation from the standard of care that might result in further injury\n\n(See Negligence)",
+			"front": {
+				"choices": [
+					"Transferring patient care to a provider with a lower level of training",
+					"Transport of a mentally incompetent patient against his or her will",
+					"Providing care that is consistent with care provided by other EMTs",
+					"Deviation from the standard of care that might result in further injury"
+				],
+				"question": "Which of the following most accurately defines negligence?",
+				"source": "See Negligence"
+			},
 			"back": "Deviation from the standard of care that might result in further injury"
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-2",
-			"front": "Putrefaction is defined as:\n\nA. profound cyanosis to the trunk and face.\nB. blood settling to the lowest point of the body.\nC. decomposition of the body’s tissues.\nD. separation of the torso from the rest of the body.\n\n(See Physical Signs of Death)",
+			"front": {
+				"choices": [
+					"profound cyanosis to the trunk and face.",
+					"blood settling to the lowest point of the body.",
+					"decomposition of the body’s tissues.",
+					"separation of the torso from the rest of the body."
+				],
+				"question": "Putrefaction is defined as:",
+				"source": "See Physical Signs of Death"
+			},
 			"back": "decomposition of the body’s tissues."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-3",
-			"front": "The EMT’s scope of practice within his or her local response area is defined by the:\n\nA. state EMS office.\nB. EMS supervisor.\nC. local health district.\nD. medical director.\n\n(See Scope of Practice)",
+			"front": {
+				"choices": [
+					"state EMS office.",
+					"EMS supervisor.",
+					"local health district.",
+					"medical director."
+				],
+				"question": "The EMT’s scope of practice within his or her local response area is defined by the:",
+				"source": "See Scope of Practice"
+			},
 			"back": "medical director."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-4",
-			"front": "Two EMTs witnessed a call in which a coworker gave adequate medical care but ignored the patient’s emotional needs. The coworker was deliberately rude solely because the patient was thought to be infected with the human immunodeficiency virus (HIV). The EMTs ignored the coworker’s treatment of this patient and took no steps to prevent this behavior from happening again. This lack of action on the part of the two EMTs is considered:\n\nA. illegal and unethical.\nB. legal but unethical.\nC. illegal but ethical.\nD. legal and ethical.\n\n(See Ethical Responsibilities)",
+			"front": {
+				"choices": [
+					"illegal and unethical.",
+					"legal but unethical.",
+					"illegal but ethical.",
+					"legal and ethical."
+				],
+				"question": "Two EMTs witnessed a call in which a coworker gave adequate medical care but ignored the patient’s emotional needs. The coworker was deliberately rude solely because the patient was thought to be infected with the human immunodeficiency virus (HIV). The EMTs ignored the coworker’s treatment of this patient and took no steps to prevent this behavior from happening again. This lack of action on the part of the two EMTs is considered:",
+				"source": "See Ethical Responsibilities"
+			},
 			"back": "legal but unethical."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-5",
-			"front": "Which of the following general statements regarding consent is correct?\n\nA. Patients who are intoxicated are generally allowed to refuse treatment.\nB. Expressed consent is valid only if given in writing by a family member.\nC. A patient can consent to transport but can legally refuse treatment.\nD. All patients older than 18 years can legally refuse treatment or transport.\n\n(See Consent)",
+			"front": {
+				"choices": [
+					"Patients who are intoxicated are generally allowed to refuse treatment.",
+					"Expressed consent is valid only if given in writing by a family member.",
+					"A patient can consent to transport but can legally refuse treatment.",
+					"All patients older than 18 years can legally refuse treatment or transport."
+				],
+				"question": "Which of the following general statements regarding consent is correct?",
+				"source": "See Consent"
+			},
 			"back": "A patient can consent to transport but can legally refuse treatment."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-6",
-			"front": "Which aspect of the Health Insurance Portability and Accountability Act (HIPAA) most affects EMS personnel?\n\nA. Ensuring access to insurance\nB. Protecting patient privacy\nC. Controlling insurance costs\nD. Preventing insurance fraud\n\n(See Confidentiality)",
+			"front": {
+				"choices": [
+					"Ensuring access to insurance",
+					"Protecting patient privacy",
+					"Controlling insurance costs",
+					"Preventing insurance fraud"
+				],
+				"question": "Which aspect of the Health Insurance Portability and Accountability Act (HIPAA) most affects EMS personnel?",
+				"source": "See Confidentiality"
+			},
 			"back": "Protecting patient privacy"
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-7",
-			"front": "An EMT would most likely be held liable for abandonment if he or she:\n\nA. remained at the hospital for 30 minutes to give a patient report.\nB. terminated care of a competent adult patient at his or her request.\nC. did not make provisions for continued care of an injured patient.\nD. refused to care for a violent patient who is armed with a knife.\n\n(See Abandonment)",
+			"front": {
+				"choices": [
+					"remained at the hospital for 30 minutes to give a patient report.",
+					"terminated care of a competent adult patient at his or her request.",
+					"did not make provisions for continued care of an injured patient.",
+					"refused to care for a violent patient who is armed with a knife."
+				],
+				"question": "An EMT would most likely be held liable for abandonment if he or she:",
+				"source": "See Abandonment"
+			},
 			"back": "did not make provisions for continued care of an injured patient."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-8",
-			"front": "For a do not resuscitate (DNR) order to be valid, it must:\n\nA. be signed by the local justice of the peace.\nB. clearly state the patient’s medical problem.\nC. be dated within the previous 24 months.\nD. be updated a minimum of every 6 months.\n\n(See Advance Directives)",
+			"front": {
+				"choices": [
+					"be signed by the local justice of the peace.",
+					"clearly state the patient’s medical problem.",
+					"be dated within the previous 24 months.",
+					"be updated a minimum of every 6 months."
+				],
+				"question": "For a do not resuscitate (DNR) order to be valid, it must:",
+				"source": "See Advance Directives"
+			},
 			"back": "clearly state the patient’s medical problem."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-9",
-			"front": "Which of the following patients has decision-making capacity and can legally refuse emergency medical treatment?\n\nA. A man who is staggering and states that he had three beers\nB. A conscious and alert woman with severe abdominal pain\nC. A confused young male who says he is the president\nD. A diabetic woman who has slurred speech and is not aware of the date\n\n(See Consent)",
+			"front": {
+				"choices": [
+					"A man who is staggering and states that he had three beers",
+					"A conscious and alert woman with severe abdominal pain",
+					"A confused young male who says he is the president",
+					"A diabetic woman who has slurred speech and is not aware of the date"
+				],
+				"question": "Which of the following patients has decision-making capacity and can legally refuse emergency medical treatment?",
+				"source": "See Consent"
+			},
 			"back": "A conscious and alert woman with severe abdominal pain"
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-10",
-			"front": "Acting in such a way as to make another person fear immediate bodily harm is called:\n\nA. libel.\nB. negligence.\nC. assault.\nD. battery.\n\n(See Assault and Battery and Kidnapping)",
+			"front": {
+				"choices": [
+					"libel.",
+					"negligence.",
+					"assault.",
+					"battery."
+				],
+				"question": "Acting in such a way as to make another person fear immediate bodily harm is called:",
+				"source": "See Assault and Battery and Kidnapping"
+			},
 			"back": "assault."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-11",
-			"front": "Which of the following scenarios most accurately depicts abandonment?\n\nA. A physician assumes patient care from an EMT.\nB. An AEMT transfers patient care to a paramedic.\nC. A paramedic transfers patient care to an EMT.\nD. An EMT gives a verbal report to an emergency room nurse.\n\n(See Abandonment)",
+			"front": {
+				"choices": [
+					"A physician assumes patient care from an EMT.",
+					"An AEMT transfers patient care to a paramedic.",
+					"A paramedic transfers patient care to an EMT.",
+					"An EMT gives a verbal report to an emergency room nurse."
+				],
+				"question": "Which of the following scenarios most accurately depicts abandonment?",
+				"source": "See Abandonment"
+			},
 			"back": "A paramedic transfers patient care to an EMT."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-12",
-			"front": "You arrive at the scene of an apparent death. When evaluating the patient, which of the following is a definitive sign of death?\n\nA. Absence of a pulse\nB. Profound cyanosis\nC. Absent breath sounds\nD. Dependent lividity\n\n(See Physical Signs of Death)",
+			"front": {
+				"choices": [
+					"Absence of a pulse",
+					"Profound cyanosis",
+					"Absent breath sounds",
+					"Dependent lividity"
+				],
+				"question": "You arrive at the scene of an apparent death. When evaluating the patient, which of the following is a definitive sign of death?",
+				"source": "See Physical Signs of Death"
+			},
 			"back": "Dependent lividity"
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-13",
-			"front": "Maintaining the chain of evidence at the scene of a crime should include:\n\nA. quickly moving any weapons out of the patient’s sight.\nB. not cutting through holes in clothing that were caused by weapons.\nC. making brief notes at the scene and then completing them later.\nD. placing the patient in a private area until the police arrive.\n\n(See Special Mandatory Reporting Requirements)",
+			"front": {
+				"choices": [
+					"quickly moving any weapons out of the patient’s sight.",
+					"not cutting through holes in clothing that were caused by weapons.",
+					"making brief notes at the scene and then completing them later.",
+					"placing the patient in a private area until the police arrive."
+				],
+				"question": "Maintaining the chain of evidence at the scene of a crime should include:",
+				"source": "See Special Mandatory Reporting Requirements"
+			},
 			"back": "not cutting through holes in clothing that were caused by weapons."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-14",
-			"front": "Which of the following statements regarding Good Samaritan laws is correct?\n\nA. Such laws do not protect EMTs who are off duty.\nB. Such laws provide the EMT with absolute immunity from a lawsuit.\nC. Such laws will not protect the EMT in cases of gross negligence.\nD. Such laws guarantee that the EMT will not be held liable if he or she is sued.\n\n(See Good Samaritan Laws and Immunity)",
+			"front": {
+				"choices": [
+					"Such laws do not protect EMTs who are off duty.",
+					"Such laws provide the EMT with absolute immunity from a lawsuit.",
+					"Such laws will not protect the EMT in cases of gross negligence.",
+					"Such laws guarantee that the EMT will not be held liable if he or she is sued."
+				],
+				"question": "Which of the following statements regarding Good Samaritan laws is correct?",
+				"source": "See Good Samaritan Laws and Immunity"
+			},
 			"back": "Such laws will not protect the EMT in cases of gross negligence."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-15",
-			"front": "As an EMT, the performance of your duties will be compared to that of:\n\nA. the general public.\nB. another EMT.\nC. a paramedic supervisor.\nD. the medical director.\n\n(See Standards of Care)",
+			"front": {
+				"choices": [
+					"the general public.",
+					"another EMT.",
+					"a paramedic supervisor.",
+					"the medical director."
+				],
+				"question": "As an EMT, the performance of your duties will be compared to that of:",
+				"source": "See Standards of Care"
+			},
 			"back": "another EMT."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-16",
-			"front": "In many states, a minor may be treated as an adult for the purpose of consenting to or refusing medical treatment if the minor:\n\nA. possesses a valid driver’s license.\nB. is mentally competent and able to refuse.\nC. is self-supporting and lives by him- or herself.\nD. has a poor relationship with his or her parents.\n\n(See Consent)",
+			"front": {
+				"choices": [
+					"possesses a valid driver’s license.",
+					"is mentally competent and able to refuse.",
+					"is self-supporting and lives by him- or herself.",
+					"has a poor relationship with his or her parents."
+				],
+				"question": "In many states, a minor may be treated as an adult for the purpose of consenting to or refusing medical treatment if the minor:",
+				"source": "See Consent"
+			},
 			"back": "is self-supporting and lives by him- or herself."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-17",
-			"front": "Which of the following situations requires you to notify the appropriate authorities?\n\nA. Accidental knife wound\nB. Cardiac arrest\nC. Drug overdose\nD. Attempted suicide\n\n(See Special Mandatory Reporting Requirements)",
+			"front": {
+				"choices": [
+					"Accidental knife wound",
+					"Cardiac arrest",
+					"Drug overdose",
+					"Attempted suicide"
+				],
+				"question": "Which of the following situations requires you to notify the appropriate authorities?",
+				"source": "See Special Mandatory Reporting Requirements"
+			},
 			"back": "Attempted suicide"
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-18",
-			"front": "The manner in which the EMT must act or behave when caring for a patient is called the:\n\nA. scope of practice.\nB. EMT oath.\nC. standard of care.\nD. code of ethics.\n\n(See Standards of Care)",
+			"front": {
+				"choices": [
+					"scope of practice.",
+					"EMT oath.",
+					"standard of care.",
+					"code of ethics."
+				],
+				"question": "The manner in which the EMT must act or behave when caring for a patient is called the:",
+				"source": "See Standards of Care"
+			},
 			"back": "standard of care."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-19",
-			"front": "In the eyes of the courts, an incomplete or untidy patient care form indicates:\n\nA. the EMT was too busy providing patient care to fill out the form.\nB. potential falsification of the patient care form.\nC. thorough documentation was not required.\nD. inadequate patient care was administered.\n\n(See Records and Reports)",
+			"front": {
+				"choices": [
+					"the EMT was too busy providing patient care to fill out the form.",
+					"potential falsification of the patient care form.",
+					"thorough documentation was not required.",
+					"inadequate patient care was administered."
+				],
+				"question": "In the eyes of the courts, an incomplete or untidy patient care form indicates:",
+				"source": "See Records and Reports"
+			},
 			"back": "inadequate patient care was administered."
 		},
 		{
 			"id": "category-chapter-03-tag-multiple-choice-card-20",
-			"front": "Which of the following types of consent allows treatment of a patient who is unconscious or mentally incapacitated?\n\nA. Implied\nB. Actual\nC. Expressed\nD. Informed\n\n(See Consent)",
+			"front": {
+				"choices": [
+					"Implied",
+					"Actual",
+					"Expressed",
+					"Informed"
+				],
+				"question": "Which of the following types of consent allows treatment of a patient who is unconscious or mentally incapacitated?",
+				"source": "See Consent"
+			},
 			"back": "Implied"
 		}
 	],

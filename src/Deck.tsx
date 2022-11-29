@@ -7,6 +7,7 @@ import getCardProgress from './utils/getCardProgress';
 import { useAppContext } from './AppContext';
 import clsx from './utils/clsx';
 import { useMountEffect } from './utils/hooks';
+import shuffle from './utils/shuffle';
 
 function runAfterFramePaint(callback: () => void) {
     requestAnimationFrame(() => {
@@ -34,6 +35,37 @@ function Lines({ value }: { value: string }) {
                 </Fragment>
             ))}
         </div>
+    );
+}
+
+function MultipleChoice({
+    value,
+}: {
+    value: {
+        question: string;
+        choices: string[];
+        source: string;
+    };
+}) {
+    const choices = useMemo(() => {
+        const letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+        return shuffle(value.choices).map((choice, index) => (
+            <Fragment key={index}>
+                {`${letters[index]}.  ${choice}`}
+                <br />
+            </Fragment>
+        ));
+    }, [value.choices]);
+
+    return (
+        <Layout column justify="center" className="w-full h-full space-y-6">
+            <div>{value.question}</div>
+            <div>{choices}</div>
+
+            <div>
+                <em>{value.source}</em>
+            </div>
+        </Layout>
     );
 }
 
@@ -72,6 +104,8 @@ function Card({
         let timeoutPan: ReturnType<typeof setTimeout>;
 
         hammer.on('pan', (event) => {
+            if (!cardEl.classList.contains('flip')) return;
+
             if (event.deltaX === 0 || (event.center.x === 0 && event.center.y === 0)) {
                 return;
             }
@@ -97,6 +131,8 @@ function Card({
         });
 
         hammer.on('panend', (event) => {
+            if (!cardEl.classList.contains('flip')) return;
+
             const move = cardEl.dataset.moving as Move;
             delete cardEl.dataset.moving;
 
@@ -136,7 +172,7 @@ function Card({
         >
             <div className="content" ref={contentRef}>
                 <div className="front" style={{ fontSize: '1.3rem' }}>
-                    <Lines value={front} />
+                    {typeof front === 'string' ? <Lines value={back} /> : <MultipleChoice value={front} />}
                     <Progress />
                 </div>
                 <div className="back" style={{ fontSize: '1.3rem' }}>

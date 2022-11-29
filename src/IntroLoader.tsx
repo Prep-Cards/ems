@@ -25,6 +25,11 @@ export default function IntroLoader() {
                 <p>
                     <strong>Swipe left</strong> if you got it wrong.
                 </p>
+
+                <p>
+                    <em>You must flip the card before you can swipe it.</em>
+                </p>
+
                 <p>Get it right enough times the card will be hidden.</p>
 
                 <p>

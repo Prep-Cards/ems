@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"C3, C4, and C5.",
+					"C3 and C4.",
+					"C1, C2, and C3.",
+					"C1 and C2."
+				],
+				"question": "The phrenic nerves control the diaphragm and exit the spinal cord at:",
+				"source": "See Mechanics of Ventilation"
+			},
+			"back": "C3, C4, and C5."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"is caused by penetrating chest trauma.",
+					"is commonly caused by blunt chest trauma.",
+					"often has a nontraumatic cause.",
+					"heals on its own without any treatment."
+				],
+				"question": "A simple pneumothorax:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "is commonly caused by blunt chest trauma."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"has most likely experienced a ruptured aorta.",
+					"is most likely experiencing severe blood loss.",
+					"requires prompt ventilation and oxygenation.",
+					"should be placed in Trendelenburg’s position."
+				],
+				"question": "A patient who presents with profound cyanosis following a chest injury:",
+				"source": "See Injuries of the Chest"
+			},
+			"back": "requires prompt ventilation and oxygenation."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"minute volume will decrease.",
+					"minute volume will increase.",
+					"minute volume will remain unchanged.",
+					"excess carbon dioxide will be eliminated."
+				],
+				"question": "If a person’s tidal volume decreases, but his or her respiratory rate remains unchanged:",
+				"source": "See Mechanics of Ventilation"
+			},
+			"back": "minute volume will decrease."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"Trachea",
+					"Vena cavae",
+					"Esophagus",
+					"Lungs"
+				],
+				"question": "Which of the following organs or structures does not reside within the mediastinum?",
+				"source": "See Anatomy and Physiology"
+			},
+			"back": "Lungs"
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"myocardial contusion.",
+					"pericardial tamponade.",
+					"ruptured aorta.",
+					"tension pneumothorax."
+				],
+				"question": "A rapid, irregular pulse following blunt trauma to the chest is most suggestive of a:",
+				"source": "See Other Chest Injuries"
+			},
+			"back": "myocardial contusion."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"often breathes at a slower rate because of lung damage caused by the injury.",
+					"will eliminate more carbon dioxide than if he or she were breathing deeply.",
+					"must increase his or her respiratory rate to maintain adequate minute volume.",
+					"will maintain adequate minute volume if his or her respiratory rate stays the same."
+				],
+				"question": "If a patient with a chest injury only inhales small amounts of air per breath, he or she:",
+				"source": "See Mechanics of Ventilation"
+			},
+			"back": "must increase his or her respiratory rate to maintain adequate minute volume."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"contracts and flattens inferiorly.",
+					"is less prone to penetrating trauma.",
+					"descends below the level of the navel.",
+					"might rise as high as the nipple line."
+				],
+				"question": "When a person is lying supine at the end of exhalation, the diaphragm:",
+				"source": "See Anatomy and Physiology"
+			},
+			"back": "might rise as high as the nipple line."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"at least half of one lung has completely collapsed.",
+					"air is escaping into the chest wall from a damaged lung.",
+					"your patient is experiencing a pericardial tamponade.",
+					"blood is slowly accumulating within the tissue of the lung."
+				],
+				"question": "Subcutaneous emphysema is an indication that:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "air is escaping into the chest wall from a damaged lung."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"a segment of the chest wall is detached from the thoracic cage.",
+					"more than three ribs are fractured on the same side of the chest.",
+					"a segment of fractured ribs bulges during the inhalation phase.",
+					"multiple ribs are fractured on both sides of the thoracic cage."
+				],
+				"question": "A flail chest occurs when:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "a segment of the chest wall is detached from the thoracic cage."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"anterior rib cage.",
+					"costovertebral angle.",
+					"diaphragm.",
+					"intercostal margin."
+				],
+				"question": "The thoracic cavity is separated from the abdominal cavity by the:",
+				"source": "See Anatomy and Physiology"
+			},
+			"back": "diaphragm."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"accumulation of air between the lungs.",
+					"blood collection within the pleural space.",
+					"blood collection within the lung tissue.",
+					"accumulation of air in the pleural space."
+				],
+				"question": "Pneumothorax is defined as:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "accumulation of air in the pleural space."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"dyspnea.",
+					"pneumothorax.",
+					"pneumonitis.",
+					"pleurisy."
+				],
+				"question": "Irritation or damage to the pleural surfaces that causes sharp chest pain during inhalation is called:",
+				"source": "See Injuries of the Chest"
+			},
+			"back": "pleurisy."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"the diaphragm descends.",
+					"the intercostal muscles contract.",
+					"abdominal contents descend.",
+					"intrathoracic pressure decreases."
+				],
+				"question": "Elevation of the rib cage during inhalation occurs when:",
+				"source": "See Mechanics of Ventilation"
+			},
+			"back": "the intercostal muscles contract."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"jugular venous engorgement.",
+					"signs and symptoms of shock.",
+					"ipsilateral tracheal deviation.",
+					"distant or muffled heart tones."
+				],
+				"question": "When assessing a patient with a hemothorax, you will most likely find:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "signs and symptoms of shock."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"intercostal",
+					"vagus",
+					"phrenic",
+					"costal"
+				],
+				"question": "The ________ nerves supply the diaphragm.",
+				"source": "See Mechanics of Ventilation"
+			},
+			"back": "phrenic"
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"altered mental status.",
+					"collapsed jugular veins.",
+					"profound cyanosis.",
+					"unilaterally absent breath sounds."
+				],
+				"question": "Signs and symptoms of a tension pneumothorax include all of the following, except:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "collapsed jugular veins."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"vomiting blood.",
+					"abnormal blood clotting.",
+					"blood in the pleural space.",
+					"coughing up blood."
+				],
+				"question": "Hemoptysis is defined as:",
+				"source": "See Injuries of the Chest"
+			},
+			"back": "coughing up blood."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"a fractured rib that perforates the tissue of the lung surface.",
+					"extreme pleural pressure that causes the lung to rupture.",
+					"an open chest wound through which air moves during breathing.",
+					"the entry of air into the pleural space from a perforated lung."
+				],
+				"question": "An open pneumothorax is:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "an open chest wound through which air moves during breathing."
+		},
+		{
+			"id": "category-chapter-30-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"take a series of deep breaths.",
+					"prefer to lie in a supine position.",
+					"breathe rapidly and shallowly.",
+					"develop a sucking chest wound."
+				],
+				"question": "Patients with rib fractures will commonly:",
+				"source": "See Complications and Management of Chest Injuries"
+			},
+			"back": "breathe rapidly and shallowly."
+		}
+	],
+	"category": {
+		"value": "chapter-30",
+		"label": "Chapter 30"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

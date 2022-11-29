@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"Treatment",
+					"Transport",
+					"Triage",
+					"Extrication"
+				],
+				"question": "Which of the following duties or responsibilities does not fall within the realm of the medical branch of the incident command system?",
+				"source": "See The Medical Branch of Incident Command"
+			},
+			"back": "Extrication"
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"maintain responsibility for all of the command functions.",
+					"delegate all of the command functions to the appropriate personnel.",
+					"designate a safety officer but retain other command functions.",
+					"relinquish command when a senior EMS provider arrives at the scene."
+				],
+				"question": "During a motor vehicle collision involving multiple patients, the incident commander would most likely:",
+				"source": "See Incident Command System"
+			},
+			"back": "designate a safety officer but retain other command functions."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"protect the public from the effects of large- and small-scale disasters and to minimize the financial impact from such incidents.",
+					"reduce overall mortality and morbidity from large-scale, mass-casualty incidents and to restore key infrastructure.",
+					"ensure responder and public safety, achieve incident management goals, and ensure the effective use of resources.",
+					"quickly and efficiently respond to natural disasters and terrorist incidents, regardless of the complexity of the incident."
+				],
+				"question": "The purpose of the incident command system (ICS) is to:",
+				"source": "See Incident Command System"
+			},
+			"back": "ensure responder and public safety, achieve incident management goals, and ensure the effective use of resources."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"immediately check for a pulse.",
+					"open the airway and reassess breathing.",
+					"give five rescue breaths and reassess.",
+					"triage him or her as expectant."
+				],
+				"question": "According to the JumpSTART triage system, if a pediatric patient is not breathing, you should:",
+				"source": "See Triage"
+			},
+			"back": "immediately check for a pulse."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"Command",
+					"Decontamination",
+					"Personnel staging",
+					"Medical monitoring"
+				],
+				"question": "Which of the following activities occurs in the warm zone?",
+				"source": "See Recognizing a Hazardous Material"
+			},
+			"back": "Command"
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"undermining.",
+					"single command.",
+					"logistical chaos.",
+					"freelancing."
+				],
+				"question": "The term used when individual units or different organizations make independent and often inefficient decisions regarding an incident is called:",
+				"source": "See Incident Command System"
+			},
+			"back": "freelancing."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"definitive care is provided and preparations for transport will be made.",
+					"they will be rapidly assessed and prioritized according to their injuries.",
+					"secondary triage is performed, and the appropriate treatment is rendered.",
+					"all uninjured patients are placed in a holding area and closely observed."
+				],
+				"question": "When victims involved in a multiple-casualty incident are moved to the treatment area:",
+				"source": "See The Medical Branch of Incident Command"
+			},
+			"back": "secondary triage is performed, and the appropriate treatment is rendered."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"31-year-old male with an open fracture of the forearm and minimal external bleeding",
+					"29-year-old female with a back injury and numbness and tingling in her extremities",
+					"22-year-old male with blunt abdominal trauma, tachycardia, pallor, and diaphoresis",
+					"36-year-old female with an open head injury, agonal breathing, and a slow pulse rate"
+				],
+				"question": "Which of the following patients should be assigned an immediate (red tag) category?",
+				"source": "See Triage"
+			},
+			"back": "22-year-old male with blunt abdominal trauma, tachycardia, pallor, and diaphoresis"
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"A package or truck need only contain small quantities of a hazardous chemical before it must bear a placard or label.",
+					"Identifying the presence of a hazardous material is generally very easy because of the consistent use of placards.",
+					"Some substances are not hazardous by themselves but become toxic when mixed with another chemical.",
+					"Most hazardous materials are odorless and colorless, even when a substantial leak or spill has occurred."
+				],
+				"question": "Which of the following statements regarding hazardous materials is correct?",
+				"source": "See Recognizing a Hazardous Material"
+			},
+			"back": "Some substances are not hazardous by themselves but become toxic when mixed with another chemical."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"Flammable liquids",
+					"Air-reactive solids",
+					"Nonflammable gases",
+					"Water-reactive solids"
+				],
+				"question": "Which of the following chemicals requires identification with a placard, regardless of how many pounds the shipment weighs?",
+				"source": "See Recognizing a Hazardous Material"
+			},
+			"back": "Water-reactive solids"
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"the bill of lading.",
+					"the material safety data sheet (MSDS).",
+					"the Emergency Response Guidebook.",
+					"your local EMS protocols."
+				],
+				"question": "The reference used as a base for your initial actions at a HazMat incident is/are:",
+				"source": "See Recognizing a Hazardous Material"
+			},
+			"back": "the Emergency Response Guidebook."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"agencies of different types or from different jurisdictions to communicate with each other.",
+					"the federal government to intervene during any large- or small-scale incident involving terrorism.",
+					"EMS systems and fire departments in the same jurisdiction to effectively work as a team.",
+					"county and state law enforcement agencies to acquire information and pass it along to EMS personnel."
+				],
+				"question": "Interoperability, an important feature of the NIMS, refers to the ability of:",
+				"source": "See National Incident Management System"
+			},
+			"back": "agencies of different types or from different jurisdictions to communicate with each other."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"triage officer.",
+					"safety officer.",
+					"liaison officer.",
+					"public information officer"
+				],
+				"question": "Command functions under the incident command system include all of the following, except:",
+				"source": "See Incident Command System"
+			},
+			"back": "triage officer."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"Open the airway and reassess breathing status.",
+					"Assign the patient in the “immediate” category.",
+					"Ventilate the patient for 2 minutes and reassess.",
+					"Triage the patient as “expectant” and move on."
+				],
+				"question": "According to the START triage system, what should you do if you encounter an unresponsive patient who is not breathing?",
+				"source": "See Triage"
+			},
+			"back": "Open the airway and reassess breathing status."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"black",
+					"yellow",
+					"green",
+					"red"
+				],
+				"question": "A patient who has experienced a back injury, with or without spinal cord damage, would be triaged with a __________ tag during a mass-casualty incident.",
+				"source": "See Triage"
+			},
+			"back": "yellow"
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"triage",
+					"transportation",
+					"staging",
+					"support"
+				],
+				"question": "The __________ area is where incoming ambulances meet and await further instructions at the scene of a multiple-casualty incident.",
+				"source": "See The Medical Branch of Incident Command"
+			},
+			"back": "staging"
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"often requires personnel to remain on scene for several days.",
+					"is typically short-lived and does not require as much manpower.",
+					"usually does not require the incident command system process.",
+					"exists when there are more than 100 critically injured patients."
+				],
+				"question": "Unlike a multiple-casualty incident, a natural disaster:",
+				"source": "See Disaster Management"
+			},
+			"back": "often requires personnel to remain on scene for several days."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"explosives.",
+					"combustible materials.",
+					"flammable liquids.",
+					"corrosives."
+				],
+				"question": "A carboy is a container that would most likely be used to store and transport:",
+				"source": "See Recognizing a Hazardous Material"
+			},
+			"back": "corrosives."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"accountability.",
+					"lack of personnel.",
+					"communication.",
+					"incident briefing."
+				],
+				"question": "Historically, the weak point at most major incidents has been:",
+				"source": "See Incident Command System"
+			},
+			"back": "communication."
+		},
+		{
+			"id": "category-chapter-40-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"transportation",
+					"medical",
+					"triage",
+					"treatment"
+				],
+				"question": "The ____________ supervisor is responsible for notifying area hospitals and determining their availability and capabilities.",
+				"source": "See The Medical Branch of Incident Command"
+			},
+			"back": "transportation"
+		}
+	],
+	"category": {
+		"value": "chapter-40",
+		"label": "Chapter 40"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

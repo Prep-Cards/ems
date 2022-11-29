@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"protect the cervical spine during the entire process.",
+					"release c-spine control to facilitate rapid removal.",
+					"remove him or her using a short backboard.",
+					"move him or her in one fast, continuous step."
+				],
+				"question": "When removing a critically injured patient from his or her vehicle, you should:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "protect the cervical spine during the entire process."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"an ongoing process of information gathering and scene evaluation to determine appropriate strategies and tactics.",
+					"predicting the presence of certain hazards at the scene after receiving initial information from the dispatcher.",
+					"the ability to recognize any possible issues once you arrive at the scene and act proactively to avoid a negative impact.",
+					"performing an initial scan of the scene to identify hazards that will pose an immediate threat to you and your crew."
+				],
+				"question": "Situational awareness is most accurately defined as:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "the ability to recognize any possible issues once you arrive at the scene and act proactively to avoid a negative impact."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"Providing emergency care during extrication",
+					"Initial triage and patient prioritization",
+					"Shutting off power to downed electrical lines",
+					"Providing safe entry and access to patients"
+				],
+				"question": "Which of the following is a typical function of the rescue team?",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "Providing safe entry and access to patients"
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"have fire personnel initiate the rescue process if they are at the scene.",
+					"check with the incident commander to ensure that the team is en route.",
+					"don personal protective equipment and begin the rescue process.",
+					"remain with your ambulance until the rescue team arrives at the scene."
+				],
+				"question": "If a technical rescue team is required at the scene but is not present when you arrive, you should:",
+				"source": "See Specialized Rescue Situations"
+			},
+			"back": "check with the incident commander to ensure that the team is en route."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"extrication techniques that EMTs are trained in.",
+					"removing a patient from a dangerous position.",
+					"gaining access to a patient in a crashed vehicle.",
+					"the use of simple access tools such as a pry bar."
+				],
+				"question": "Disentanglement involves:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "removing a patient from a dangerous position."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"underutilizing personnel at the scene.",
+					"undertrained to correctly utilize equipment.",
+					"unprepared to effectively manage the scene.",
+					"underestimating the logistics of the incident."
+				],
+				"question": "The reasons for rescue failure can be recalled by the mnemonic FAILURE. According to this mnemonic, the “U” stands for:",
+				"source": "See Specialized Rescue Situations"
+			},
+			"back": "underestimating the logistics of the incident."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"immobilizing a patient before moving him or her.",
+					"removal from a dangerous situation or position.",
+					"using heavy equipment to access a patient.",
+					"dismantling an automobile to remove a victim."
+				],
+				"question": "Extrication is defined as:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "removal from a dangerous situation or position."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"involves forcible entry into a vehicle.",
+					"often involves simply unlocking a door.",
+					"does not involve the breaking of glass.",
+					"is a skill commonly taught to EMTs."
+				],
+				"question": "In contrast to simple access, complex access:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "involves forcible entry into a vehicle."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"surveying the area for hazards.",
+					"gaining access to the patient(s).",
+					"requesting additional resources.",
+					"immediately beginning triage."
+				],
+				"question": "Your primary concern when arriving at the scene of a motor vehicle crash is:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "surveying the area for hazards."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"50 lbs",
+					"150 lbs",
+					"100 lbs",
+					"200 lbs"
+				],
+				"question": "Trench collapses usually involve large areas of falling dirt that weigh approximately _______ per cubic foot.",
+				"source": "See Specialized Rescue Situations"
+			},
+			"back": "100 lbs"
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"direct the search effort from a centralized location.",
+					"stand by at the command post until the person is located.",
+					"accompany search team members and provide care.",
+					"report to a location where the patient will be carried."
+				],
+				"question": "The EMT’s role at the scene of a search and rescue attempt is to:",
+				"source": "See Specialized Rescue Situations"
+			},
+			"back": "stand by at the command post until the person is located."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"Using a pry bar to open a damaged door",
+					"Removing the roof to access a critical patient",
+					"Breaking glass to gain access to the patient",
+					"Entering a vehicle through an open window"
+				],
+				"question": "Which of the following is the best example of gaining simple access to a patient?",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "Entering a vehicle through an open window"
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"perform a primary assessment.",
+					"allow extrication to commence.",
+					"administer high-flow oxygen.",
+					"begin treating his or her injuries."
+				],
+				"question": "Once entrance and access to the patient have been provided, you should:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "perform a primary assessment."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"is a quick visual assessment of the scene prior to entry.",
+					"determines who is allowed to safely enter the hot zone.",
+					"is an ongoing process until the incident is terminated.",
+					"should be performed by the most experienced EMT."
+				],
+				"question": "The scene size-up at a motor vehicle crash or other incident:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "is an ongoing process until the incident is terminated."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"Ground vibration is a primary cause of secondary collapse.",
+					"A trench less than 15’ deep usually does not require shoring.",
+					"Most deaths involving cave-ins are caused by head injury.",
+					"Rescue vehicles should park at least 250′ from the scene."
+				],
+				"question": "Which of the following statements regarding trench rescue is correct?",
+				"source": "See Specialized Rescue Situations"
+			},
+			"back": "Ground vibration is a primary cause of secondary collapse."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"An obese patient who must be moved to the ambulance",
+					"A patient trapped in a cave or a confined space",
+					"A patient found floating face down in a swimming pool",
+					"A patient in a badly damaged car, not entrapped"
+				],
+				"question": "Which of the following situations would require the use of a specialized rescue team?",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "A patient trapped in a cave or a confined space"
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"obtain baseline vital signs and transport at once.",
+					"stabilize her legs with long board splints.",
+					"direct your partner to begin ventilatory assistance.",
+					"apply oxygen via a nonrebreathing mask."
+				],
+				"question": "A 19-year-old female has just been extricated from her severely damaged car. She is on a long backboard and has been moved to a place of safety. As your partner maintains manual stabilization of her head, you perform a rapid assessment. The patient is unresponsive, has slow and shallow respirations, and has bilateral closed femur deformities. You should:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "direct your partner to begin ventilatory assistance."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"the make and model of the vehicle.",
+					"the position of the crashed vehicle.",
+					"the possibility of vehicle instability.",
+					"hazards that pose a risk to rescuers."
+				],
+				"question": "When determining the exact location and position of the patient(s) in a wrecked vehicle, you and your team should routinely consider all of the following, except:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "the make and model of the vehicle."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"locate all injured personnel and begin treatment.",
+					"report to the incident commander for instructions.",
+					"begin immediate triage of any injured personnel.",
+					"apprise medical control of the tactical situation."
+				],
+				"question": "Upon arriving at the scene of a law enforcement tactical situation, you should ensure your own safety and then:",
+				"source": "See Specialized Rescue Situations"
+			},
+			"back": "report to the incident commander for instructions."
+		},
+		{
+			"id": "category-chapter-39-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"ask the patient if he can unlock the door.",
+					"request the rescue team to extricate him.",
+					"break the window and unlock the door.",
+					"use a pry bar to attempt to open the door."
+				],
+				"question": "You are attempting to gain access to a patient who was injured when his truck struck another vehicle from behind. The patient is conscious and alert but is screaming in pain. You try to open the door, but it is locked. You should:",
+				"source": "See Fundamentals of Extrication"
+			},
+			"back": "ask the patient if he can unlock the door."
+		}
+	],
+	"category": {
+		"value": "chapter-39",
+		"label": "Chapter 39"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

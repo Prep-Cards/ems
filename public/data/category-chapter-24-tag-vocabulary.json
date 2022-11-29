@@ -1,5 +1,4 @@
 {
-	"name": "category-chapter-24-tag-vocabulary",
 	"cards": [
 		{
 			"id": "category-chapter-24-tag-vocabulary-card-1",
@@ -13,7 +12,7 @@
 		},
 		{
 			"id": "category-chapter-24-tag-vocabulary-card-3",
-			"front": "A sexually transmitted disease caused by the bacterium <ital>Chlamydia trachomatis</ital>.",
+			"front": "A sexually transmitted disease caused by the bacterium Chlamydia trachomatis.",
 			"back": "chlamydia"
 		},
 		{
@@ -23,7 +22,7 @@
 		},
 		{
 			"id": "category-chapter-24-tag-vocabulary-card-5",
-			"front": "A sexually transmitted disease caused by <ital>Neisseria gonorrhoeae</ital>.",
+			"front": "A sexually transmitted disease caused by Neisseria gonorrhoeae.",
 			"back": "gonorrhea"
 		},
 		{

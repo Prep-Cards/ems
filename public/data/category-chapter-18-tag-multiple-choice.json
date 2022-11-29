@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"not able to swallow without choking.",
+					"usually conscious but has slurred speech.",
+					"experiencing a right hemispheric stroke.",
+					"unable to produce or understand speech."
+				],
+				"question": "A patient who is experiencing aphasia is:",
+				"source": "See Stroke"
+			},
+			"back": "unable to produce or understand speech."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"brain stem.",
+					"cerebrum.",
+					"cerebral cortex.",
+					"cerebellum."
+				],
+				"question": "The most basic functions of the body, such as breathing, blood pressure, and swallowing, are controlled by the:",
+				"source": "See Anatomy and Physiology"
+			},
+			"back": "brain stem."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"Normal level of consciousness",
+					"Generalized twitching of all muscles",
+					"Absence of breathing",
+					"No change in vision, smell, or taste"
+				],
+				"question": "Which of the following is characteristic of a focal-onset aware seizure?",
+				"source": "See Seizures"
+			},
+			"back": "Normal level of consciousness"
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"vertebral foramen.",
+					"foramen lamina.",
+					"cauda equina.",
+					"foramen magnum."
+				],
+				"question": "The spinal cord exits the cranium through the:",
+				"source": "See Anatomy and Physiology"
+			},
+			"back": "foramen magnum."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"generalized seizures that last less than 5 minutes.",
+					"an absence seizure that is not preceded by an aura.",
+					"prolonged seizures without a return of consciousness.",
+					"profound tachycardia and total muscle flaccidity."
+				],
+				"question": "Status epilepticus is characterized by:",
+				"source": "See Seizures"
+			},
+			"back": "prolonged seizures without a return of consciousness."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"often result in permanent brain damage.",
+					"occur when a child’s fever rises slowly.",
+					"are also referred to as absence seizures.",
+					"are usually benign but should be evaluated."
+				],
+				"question": "Febrile seizures:",
+				"source": "See Seizures"
+			},
+			"back": "are usually benign but should be evaluated."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"arm drift, speech, and facial droop.",
+					"arm drift, memory, and grip strength.",
+					"facial droop, speech, and pupil size.",
+					"speech, pupil reaction, and memory."
+				],
+				"question": "Components of the Cincinnati Prehospital Stroke Scale include:",
+				"source": "See Patient Assessment"
+			},
+			"back": "arm drift, speech, and facial droop."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"an acute stroke.",
+					"a seizure.",
+					"respiratory distress.",
+					"a febrile convulsion."
+				],
+				"question": "When caring for a patient with documented hypoglycemia, you should be MOST alert for:",
+				"source": "See Altered Mental Status"
+			},
+			"back": "a seizure."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"hypertension.",
+					"diabetes mellitus.",
+					"severe stress.",
+					"heavy exertion."
+				],
+				"question": "The MOST significant risk factor for a hemorrhagic stroke is:",
+				"source": "See Stroke"
+			},
+			"back": "hypertension."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"Rupture of a cerebral artery",
+					"Blockage of a cerebral artery",
+					"Narrowing of a carotid artery",
+					"Acute atherosclerotic disease"
+				],
+				"question": "Which of the following MOST accurately describes the cause of an ischemic stroke?",
+				"source": "See Pathophysiology"
+			},
+			"back": "Blockage of a cerebral artery"
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"cerebellum, medulla, and occiput.",
+					"midbrain, cerebellum, and spinal cord.",
+					"cerebrum, cerebellum, and brain stem.",
+					"brain stem, midbrain, and spinal cord."
+				],
+				"question": "The three major parts of the brain are the:",
+				"source": "See Anatomy and Physiology"
+			},
+			"back": "cerebrum, cerebellum, and brain stem."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"ask the patient to hold his or her arms up with the palms down.",
+					"expect to see one arm slowly drift down to the patient’s side.",
+					"observe movement of the arms for approximately 2 minutes.",
+					"ask the patient to close his or her eyes during the assessment."
+				],
+				"question": "When assessing for arm drift of a patient with a suspected stroke, you should:",
+				"source": "See Patient Assessment"
+			},
+			"back": "ask the patient to close his or her eyes during the assessment."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"kidneys.",
+					"pancreas.",
+					"liver.",
+					"brain."
+				],
+				"question": "Individuals with chronic alcoholism are predisposed to intracranial bleeding and hypoglycemia secondary to abnormalities in the:",
+				"source": "See Altered Mental Status"
+			},
+			"back": "liver."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"Reduced blood supply to the left hemisphere",
+					"Ruptured cerebral artery in the occipital lobe",
+					"Blocked cerebral artery in the frontal lobe",
+					"Respiratory failure or cardiopulmonary arrest"
+				],
+				"question": "Which of the following conditions would MOST likely affect the entire brain?",
+				"source": "See Pathophysiology"
+			},
+			"back": "Respiratory failure or cardiopulmonary arrest"
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"has a GCS score that is less than 8.",
+					"is older than 60 years of age.",
+					"has bleeding within the brain.",
+					"has had a prior heart attack."
+				],
+				"question": "A patient who is possibly experiencing a stroke is NOT eligible for thrombolytic (fibrinolytic) therapy if he or she:",
+				"source": "See Emergency Medical Care"
+			},
+			"back": "has bleeding within the brain."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"History of migraines",
+					"Slow onset of symptoms",
+					"Sinus congestion",
+					"Neck stiffness or pain"
+				],
+				"question": "Which of the following findings should concern the EMT the MOST when assessing a patient who complains of a headache?",
+				"source": "See Headache"
+			},
+			"back": "Neck stiffness or pain"
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"cerebral cortex.",
+					"cerebrum.",
+					"cerebellum.",
+					"brain stem."
+				],
+				"question": "Muscle control and body coordination are controlled by the:",
+				"source": "See Anatomy and Physiology"
+			},
+			"back": "cerebellum."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"Nasal discharge of blood",
+					"Confusion and weakness",
+					"Unilateral hemiparesis",
+					"Sudden, severe headache"
+				],
+				"question": "Which of the following clinical signs is MOST suggestive of a ruptured aneurysm?",
+				"source": "See Stroke"
+			},
+			"back": "Sudden, severe headache"
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"usually able to be aroused with a painful stimulus.",
+					"completely unresponsive to all forms of stimuli.",
+					"not thinking clearly or is incapable of being aroused.",
+					"typically alert but is confused as to preceding events."
+				],
+				"question": "A patient with an altered mental status is:",
+				"source": "See Altered Mental Status"
+			},
+			"back": "not thinking clearly or is incapable of being aroused."
+		},
+		{
+			"id": "category-chapter-18-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"intracranial bleeding.",
+					"epilepsy.",
+					"a serious infection.",
+					"a brain tumor."
+				],
+				"question": "A 40-year-old patient without a history of seizures experiences a generalized (tonic-clonic) seizure. The LEAST likely cause of this seizure is:",
+				"source": "See Patient Assessment"
+			},
+			"back": "epilepsy."
+		}
+	],
+	"category": {
+		"value": "chapter-18",
+		"label": "Chapter 18"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

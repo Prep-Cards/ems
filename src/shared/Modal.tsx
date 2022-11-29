@@ -57,19 +57,13 @@ function ModalBody({ children, className, ...props }: LayoutProps) {
     );
 }
 
-function ModalFooter({
-    children,
-    className,
-    closeText = 'Cancel',
-    justify = 'between',
-    ...props
-}: LayoutProps & { closeText?: string }) {
+function ModalFooter({ children, className, justify = 'between', ...props }: LayoutProps & { closeText?: string }) {
     const { onClose } = useContext(ModalContext)!;
 
     return (
         <Layout justify={justify} {...props} className={clsx('footer', className)}>
             <Button onClick={onClose} variant="text">
-                {closeText}
+                Close
             </Button>
             {children}
         </Layout>

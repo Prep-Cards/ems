@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-13-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-1",
-			"front": "To protect vital organs, the body compensates by directing blood flow away from organs that are more tolerant of low flow, such as:\n\nA. the heart.\nB. the skin.\nC. the brain.\nD. the lungs.\n\n(See Pathophysiology)",
+			"front": {
+				"choices": [
+					"the heart.",
+					"the skin.",
+					"the brain.",
+					"the lungs."
+				],
+				"question": "To protect vital organs, the body compensates by directing blood flow away from organs that are more tolerant of low flow, such as:",
+				"source": "See Pathophysiology"
+			},
 			"back": "the skin."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-2",
-			"front": "A 20-year-old male has a large laceration to his wrist. He is holding a blood-soaked towel over the wound, but it continues to bleed rapidly. You should:\n\nA. apply pressure to the brachial artery.\nB. apply a tourniquet proximal to the wrist.\nC. administer high-flow supplemental oxygen.\nD. wrap the towel with pressure bandages.\n\n(See Emergency Medical Care for Shock)",
+			"front": {
+				"choices": [
+					"apply pressure to the brachial artery.",
+					"apply a tourniquet proximal to the wrist.",
+					"administer high-flow supplemental oxygen.",
+					"wrap the towel with pressure bandages."
+				],
+				"question": "A 20-year-old male has a large laceration to his wrist. He is holding a blood-soaked towel over the wound, but it continues to bleed rapidly. You should:",
+				"source": "See Emergency Medical Care for Shock"
+			},
 			"back": "apply a tourniquet proximal to the wrist."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-3",
-			"front": "Hypovolemic shock caused by severe burns is the result of a loss of:\n\nA. whole blood.\nB. platelets.\nC. plasma.\nD. red blood cells.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"whole blood.",
+					"platelets.",
+					"plasma.",
+					"red blood cells."
+				],
+				"question": "Hypovolemic shock caused by severe burns is the result of a loss of:",
+				"source": "See Types of Shock"
+			},
 			"back": "plasma."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-4",
-			"front": "Shock is the result of:\n\nA. hypoperfusion to the cells of the body.\nB. temporary dysfunction of a major organ.\nC. widespread constriction of the blood vessels.\nD. the body’s maintenance of homeostasis.\n\n(See Introduction)",
+			"front": {
+				"choices": [
+					"hypoperfusion to the cells of the body.",
+					"temporary dysfunction of a major organ.",
+					"widespread constriction of the blood vessels.",
+					"the body’s maintenance of homeostasis."
+				],
+				"question": "Shock is the result of:",
+				"source": "See Introduction"
+			},
 			"back": "hypoperfusion to the cells of the body."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-5",
-			"front": "Which of the following clinical signs is unique to anaphylactic shock?\n\nA. Pallor\nB. Dizziness\nC. Hypotension\nD. Wheezing\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"Pallor",
+					"Dizziness",
+					"Hypotension",
+					"Wheezing"
+				],
+				"question": "Which of the following clinical signs is unique to anaphylactic shock?",
+				"source": "See Types of Shock"
+			},
 			"back": "Wheezing"
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-6",
-			"front": "Which of the following statements regarding anaphylactic shock is correct?\n\nA. Sensitized people will experience less severe reactions upon subsequent exposure.\nB. Anaphylactic shock occurs immediately after a person is sensitized to an allergen.\nC. Subsequent exposure after sensitization often produces a more severe reaction.\nD. Anaphylactic shock is caused by immune system failure due to a toxic exposure.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"Sensitized people will experience less severe reactions upon subsequent exposure.",
+					"Anaphylactic shock occurs immediately after a person is sensitized to an allergen.",
+					"Subsequent exposure after sensitization often produces a more severe reaction.",
+					"Anaphylactic shock is caused by immune system failure due to a toxic exposure."
+				],
+				"question": "Which of the following statements regarding anaphylactic shock is correct?",
+				"source": "See Types of Shock"
+			},
 			"back": "Subsequent exposure after sensitization often produces a more severe reaction."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-7",
-			"front": "All of the following conditions should make you suspect shock, EXCEPT:\n\nA. spinal injury.\nB. ischemic stroke.\nC. severe infection.\nD. anaphylaxis.\n\n(See The Progression of Shock)",
+			"front": {
+				"choices": [
+					"spinal injury.",
+					"ischemic stroke.",
+					"severe infection.",
+					"anaphylaxis."
+				],
+				"question": "All of the following conditions should make you suspect shock, EXCEPT:",
+				"source": "See The Progression of Shock"
+			},
 			"back": "ischemic stroke."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-8",
-			"front": "Capillary sphincters are:\n\nA. under complete control of the voluntary portion of the nervous system.\nB. circular muscular walls that regulate blood flow through the capillaries.\nC. responsible for constricting to compensate for decreased cell perfusion.\nD. capable of dilating in order to increase perfusion to crucial body organs.\n\n(See Pathophysiology)",
+			"front": {
+				"choices": [
+					"under complete control of the voluntary portion of the nervous system.",
+					"circular muscular walls that regulate blood flow through the capillaries.",
+					"responsible for constricting to compensate for decreased cell perfusion.",
+					"capable of dilating in order to increase perfusion to crucial body organs."
+				],
+				"question": "Capillary sphincters are:",
+				"source": "See Pathophysiology"
+			},
 			"back": "circular muscular walls that regulate blood flow through the capillaries."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-9",
-			"front": "Which of the following injuries would MOST likely cause obstructive shock?\n\nA. Liver laceration\nB. Simple pneumothorax\nC. Spinal cord injury\nD. Cardiac tamponade\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"Liver laceration",
+					"Simple pneumothorax",
+					"Spinal cord injury",
+					"Cardiac tamponade"
+				],
+				"question": "Which of the following injuries would MOST likely cause obstructive shock?",
+				"source": "See Types of Shock"
+			},
 			"back": "Cardiac tamponade"
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-10",
-			"front": "Which of the following patients is in decompensated shock?\n\nA. A 23-year-old restless male with cool, clammy skin and tachycardia\nB. A 32-year-old male with anxiety and a systolic blood pressure of 110 mm Hg\nC. A 28-year-old female with pale skin and rapid, shallow respirations\nD. A 20-year-old female with absent radial pulses and dilated pupils\n\n(See The Progression of Shock)",
+			"front": {
+				"choices": [
+					"A 23-year-old restless male with cool, clammy skin and tachycardia",
+					"A 32-year-old male with anxiety and a systolic blood pressure of 110 mm Hg",
+					"A 28-year-old female with pale skin and rapid, shallow respirations",
+					"A 20-year-old female with absent radial pulses and dilated pupils"
+				],
+				"question": "Which of the following patients is in decompensated shock?",
+				"source": "See The Progression of Shock"
+			},
 			"back": "A 20-year-old female with absent radial pulses and dilated pupils"
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-11",
-			"front": "Clinical signs of compensated shock include all of the following, EXCEPT:\n\nA. absent peripheral pulses.\nB. cool and clammy skin.\nC. rapid, shallow breathing.\nD. restlessness or anxiety.\n\n(See The Progression of Shock)",
+			"front": {
+				"choices": [
+					"absent peripheral pulses.",
+					"cool and clammy skin.",
+					"rapid, shallow breathing.",
+					"restlessness or anxiety."
+				],
+				"question": "Clinical signs of compensated shock include all of the following, EXCEPT:",
+				"source": "See The Progression of Shock"
+			},
 			"back": "absent peripheral pulses."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-12",
-			"front": "A 70-year-old female was recently discharged from the hospital following a total hip replacement. Today, she presents with restlessness, tachycardia, and a blood pressure of 90/64 mm Hg. Her skin is hot and moist. You should be MOST suspicious that she is experiencing:\n\nA. septic shock.\nB. a local infection.\nC. pump failure.\nD. decompensated shock.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"septic shock.",
+					"a local infection.",
+					"pump failure.",
+					"decompensated shock."
+				],
+				"question": "A 70-year-old female was recently discharged from the hospital following a total hip replacement. Today, she presents with restlessness, tachycardia, and a blood pressure of 90/64 mm Hg. Her skin is hot and moist. You should be MOST suspicious that she is experiencing:",
+				"source": "See Types of Shock"
+			},
 			"back": "septic shock."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-13",
-			"front": "Pulmonary edema and impaired ventilation occur during:\n\nA. neurogenic shock.\nB. anaphylactic shock.\nC. septic shock.\nD. cardiogenic shock.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"neurogenic shock.",
+					"anaphylactic shock.",
+					"septic shock.",
+					"cardiogenic shock."
+				],
+				"question": "Pulmonary edema and impaired ventilation occur during:",
+				"source": "See Types of Shock"
+			},
 			"back": "cardiogenic shock."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-14",
-			"front": "In an acute injury setting, neurogenic shock is commonly accompanied by:\n\nA. tachycardia.\nB. hypovolemia.\nC. hypothermia.\nD. diaphoresis.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"tachycardia.",
+					"hypovolemia.",
+					"hypothermia.",
+					"diaphoresis."
+				],
+				"question": "In an acute injury setting, neurogenic shock is commonly accompanied by:",
+				"source": "See Types of Shock"
+			},
 			"back": "hypothermia."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-15",
-			"front": "One of the primary waste products of normal cellular metabolism that must be removed from the body by the lungs is:\n\nA. carbon dioxide.\nB. lactic acid.\nC. pyruvic acid.\nD. carbon monoxide.\n\n(See Pathophysiology)",
+			"front": {
+				"choices": [
+					"carbon dioxide.",
+					"lactic acid.",
+					"pyruvic acid.",
+					"carbon monoxide."
+				],
+				"question": "One of the primary waste products of normal cellular metabolism that must be removed from the body by the lungs is:",
+				"source": "See Pathophysiology"
+			},
 			"back": "carbon dioxide."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-16",
-			"front": "Distributive shock occurs when:\n\nA. widespread dilation of the blood vessels causes blood to pool in the vascular beds.\nB. temporary but severe vasodilation causes a decrease in blood supply to the brain.\nC. an injury causes restriction of the heart muscle and impairs its pumping function.\nD. severe bleeding causes tachycardia in order to distribute blood to the organs faster.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"widespread dilation of the blood vessels causes blood to pool in the vascular beds.",
+					"temporary but severe vasodilation causes a decrease in blood supply to the brain.",
+					"an injury causes restriction of the heart muscle and impairs its pumping function.",
+					"severe bleeding causes tachycardia in order to distribute blood to the organs faster."
+				],
+				"question": "Distributive shock occurs when:",
+				"source": "See Types of Shock"
+			},
 			"back": "widespread dilation of the blood vessels causes blood to pool in the vascular beds."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-17",
-			"front": "Cardiogenic shock may result from all of the following, EXCEPT:\n\nA. increased afterload.\nB. heart attack.\nC. poor contractility.\nD. increased preload.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"increased afterload.",
+					"heart attack.",
+					"poor contractility.",
+					"increased preload."
+				],
+				"question": "Cardiogenic shock may result from all of the following, EXCEPT:",
+				"source": "See Types of Shock"
+			},
 			"back": "increased preload."
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-18",
-			"front": "Which of the following would MOST likely result in hemorrhagic shock?\n\nA. Liver laceration\nB. Excessive sweating\nC. Severe vomiting\nD. Repeated diarrhea\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"Liver laceration",
+					"Excessive sweating",
+					"Severe vomiting",
+					"Repeated diarrhea"
+				],
+				"question": "Which of the following would MOST likely result in hemorrhagic shock?",
+				"source": "See Types of Shock"
+			},
 			"back": "Liver laceration"
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-19",
-			"front": "Which of the following is the ONLY action that can prevent death from a tension pneumothorax?\n\nA. Decompression of the injured side of the chest\nB. Positive-pressure ventilation with a bag-valve mask\nC. Early administration of high-flow oxygen\nD. Rapid administration of intravenous fluids\n\n(See Emergency Medical Care for Shock)",
+			"front": {
+				"choices": [
+					"Decompression of the injured side of the chest",
+					"Positive-pressure ventilation with a bag-valve mask",
+					"Early administration of high-flow oxygen",
+					"Rapid administration of intravenous fluids"
+				],
+				"question": "Which of the following is the ONLY action that can prevent death from a tension pneumothorax?",
+				"source": "See Emergency Medical Care for Shock"
+			},
 			"back": "Decompression of the injured side of the chest"
 		},
 		{
 			"id": "category-chapter-13-tag-multiple-choice-card-20",
-			"front": "Neurogenic shock occurs when:\n\nA. massive vasoconstriction occurs distal to a spinal cord injury.\nB. failure of the nervous system causes widespread vasodilation.\nC. there is too much blood to fill a smaller vascular container.\nD. the spinal cord is severed and causes massive hemorrhaging.\n\n(See Types of Shock)",
+			"front": {
+				"choices": [
+					"massive vasoconstriction occurs distal to a spinal cord injury.",
+					"failure of the nervous system causes widespread vasodilation.",
+					"there is too much blood to fill a smaller vascular container.",
+					"the spinal cord is severed and causes massive hemorrhaging."
+				],
+				"question": "Neurogenic shock occurs when:",
+				"source": "See Types of Shock"
+			},
 			"back": "failure of the nervous system causes widespread vasodilation."
 		}
 	],

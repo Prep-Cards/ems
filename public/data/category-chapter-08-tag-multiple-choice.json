@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-08-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-1",
-			"front": "When a person is standing upright, the weight of anything being lifted and carried in the hands is first reflected onto the:\n\nA. shoulder girdle.\nB. thigh muscles.\nC. pelvic girdle.\nD. spinal column.\n\n(See Body Mechanics)",
+			"front": {
+				"choices": [
+					"shoulder girdle.",
+					"thigh muscles.",
+					"pelvic girdle.",
+					"spinal column."
+				],
+				"question": "When a person is standing upright, the weight of anything being lifted and carried in the hands is first reflected onto the:",
+				"source": "See Body Mechanics"
+			},
 			"back": "shoulder girdle."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-2",
-			"front": "Which of the following situations would require an urgent patient move?\n\nA. Semiconscious patient with shallow respirations and signs of shock\nB. Imminent risk of a fire or explosion in or near the patient’s vehicle\nC. Conscious patient with abrasions and a possibly fractured humerus\nD. Stable patient who is blocking access to a critically injured patient\n\n(See Urgent Moves)",
+			"front": {
+				"choices": [
+					"Semiconscious patient with shallow respirations and signs of shock",
+					"Imminent risk of a fire or explosion in or near the patient’s vehicle",
+					"Conscious patient with abrasions and a possibly fractured humerus",
+					"Stable patient who is blocking access to a critically injured patient"
+				],
+				"question": "Which of the following situations would require an urgent patient move?",
+				"source": "See Urgent Moves"
+			},
 			"back": "Semiconscious patient with shallow respirations and signs of shock"
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-3",
-			"front": "When carrying a patient up or down stairs, you should avoid:\n\nA. flexing your body at the knees.\nB. using a wheeled stretcher whenever possible.\nC. the use of a long backboard or scoop stretcher.\nD. the use of more than two EMTs.\n\n(See The Wheeled Ambulance Stretcher)",
+			"front": {
+				"choices": [
+					"flexing your body at the knees.",
+					"using a wheeled stretcher whenever possible.",
+					"the use of a long backboard or scoop stretcher.",
+					"the use of more than two EMTs."
+				],
+				"question": "When carrying a patient up or down stairs, you should avoid:",
+				"source": "See The Wheeled Ambulance Stretcher"
+			},
 			"back": "using a wheeled stretcher whenever possible."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-4",
-			"front": "Which is the most appropriate method to use when moving a patient from his or her bed to a wheeled stretcher?\n\nA. Direct carry\nB. Draw sheet method\nC. Extremity carry\nD. Log roll\n\n(See Nonurgent Moves)",
+			"front": {
+				"choices": [
+					"Direct carry",
+					"Draw sheet method",
+					"Extremity carry",
+					"Log roll"
+				],
+				"question": "Which is the most appropriate method to use when moving a patient from his or her bed to a wheeled stretcher?",
+				"source": "See Nonurgent Moves"
+			},
 			"back": "Draw sheet method"
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-5",
-			"front": "The most serious consequence of a poorly planned or rushed patient move is:\n\nA. confusion among team members.\nB. injury to you or your patient.\nC. unnecessarily wasting time.\nD. causing patient anxiety or fear.\n\n(See Nonurgent Moves)",
+			"front": {
+				"choices": [
+					"confusion among team members.",
+					"injury to you or your patient.",
+					"unnecessarily wasting time.",
+					"causing patient anxiety or fear."
+				],
+				"question": "The most serious consequence of a poorly planned or rushed patient move is:",
+				"source": "See Nonurgent Moves"
+			},
 			"back": "injury to you or your patient."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-6",
-			"front": "Which of the following statements regarding patient weight distribution is correct?\n\nA. Most of the patient’s weight rests on the foot end of the stretcher.\nB. The majority of a horizontal patient’s weight is in the torso.\nC. A semi-sitting patient’s weight is equally distributed on both ends.\nD. The EMT at the patient’s head will bear the least amount of weight.\n\n(See Principles of Safe Lifting and Carrying)",
+			"front": {
+				"choices": [
+					"Most of the patient’s weight rests on the foot end of the stretcher.",
+					"The majority of a horizontal patient’s weight is in the torso.",
+					"A semi-sitting patient’s weight is equally distributed on both ends.",
+					"The EMT at the patient’s head will bear the least amount of weight."
+				],
+				"question": "Which of the following statements regarding patient weight distribution is correct?",
+				"source": "See Principles of Safe Lifting and Carrying"
+			},
 			"back": "The majority of a horizontal patient’s weight is in the torso."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-7",
-			"front": "The _________ is both the mechanical weight-bearing base of the spinal column and the fused central posterior section of the pelvic girdle.\n\nA. coccyx\nB. ischium\nC. sacrum\nD. thorax\n\n(See Body Mechanics)",
+			"front": {
+				"choices": [
+					"coccyx",
+					"ischium",
+					"sacrum",
+					"thorax"
+				],
+				"question": "The _________ is both the mechanical weight-bearing base of the spinal column and the fused central posterior section of the pelvic girdle.",
+				"source": "See Body Mechanics"
+			},
 			"back": "sacrum"
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-8",
-			"front": "To minimize the risk of injuring yourself when lifting or moving a patient, you should:\n\nA. avoid the use of log rolls or body drags.\nB. flex at the waist instead of the hips.\nC. use a direct carry whenever possible.\nD. keep the weight as close to your body as possible.\n\n(See Principles of Safe Lifting and Carrying)",
+			"front": {
+				"choices": [
+					"avoid the use of log rolls or body drags.",
+					"flex at the waist instead of the hips.",
+					"use a direct carry whenever possible.",
+					"keep the weight as close to your body as possible."
+				],
+				"question": "To minimize the risk of injuring yourself when lifting or moving a patient, you should:",
+				"source": "See Principles of Safe Lifting and Carrying"
+			},
 			"back": "keep the weight as close to your body as possible."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-9",
-			"front": "Which of the following statements regarding the scoop stretcher is not correct?\n\nA. Both sides of the patient must be accessible for a scoop stretcher to be used.\nB. The construction of the scoop stretcher prohibits X-rays while the patient is on it.\nC. A scoop stretcher will provide adequate immobilization of a patient’s spinal column.\nD. You must fully secure the patient to the scoop stretcher before moving him or her.\n\n(See Nonurgent Moves)",
+			"front": {
+				"choices": [
+					"Both sides of the patient must be accessible for a scoop stretcher to be used.",
+					"The construction of the scoop stretcher prohibits X-rays while the patient is on it.",
+					"A scoop stretcher will provide adequate immobilization of a patient’s spinal column.",
+					"You must fully secure the patient to the scoop stretcher before moving him or her."
+				],
+				"question": "Which of the following statements regarding the scoop stretcher is not correct?",
+				"source": "See Nonurgent Moves"
+			},
 			"back": "A scoop stretcher will provide adequate immobilization of a patient’s spinal column."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-10",
-			"front": "When using a body drag to pull a patient who is on the ground, you should:\n\nA. extend your elbows as far beyond your anterior torso as possible.\nB. avoid situations involving strenuous effort lasting more than five minutes.\nC. kneel to minimize the distance that you will have to lean over.\nD. bend your back laterally to maximize your amount of pulling power.\n\n(See Principles of Safe Reaching and Pulling)",
+			"front": {
+				"choices": [
+					"extend your elbows as far beyond your anterior torso as possible.",
+					"avoid situations involving strenuous effort lasting more than five minutes.",
+					"kneel to minimize the distance that you will have to lean over.",
+					"bend your back laterally to maximize your amount of pulling power."
+				],
+				"question": "When using a body drag to pull a patient who is on the ground, you should:",
+				"source": "See Principles of Safe Reaching and Pulling"
+			},
 			"back": "kneel to minimize the distance that you will have to lean over."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-11",
-			"front": "Which of the following most accurately describes the correct position of the EMTs who are executing the diamond carry technique?\n\nA. Two at the head, two at the feet, and a fifth EMT balancing the torso\nB. Two at the head, one at the feet, and one on the left side of the patient’s torso\nC. One at the head, two at the feet, and a fourth EMT balancing the torso\nD. One at the head, one at the feet, and one on each side of the patient’s torso\n\n(See Principles of Safe Lifting and Carrying)",
+			"front": {
+				"choices": [
+					"Two at the head, two at the feet, and a fifth EMT balancing the torso",
+					"Two at the head, one at the feet, and one on the left side of the patient’s torso",
+					"One at the head, two at the feet, and a fourth EMT balancing the torso",
+					"One at the head, one at the feet, and one on each side of the patient’s torso"
+				],
+				"question": "Which of the following most accurately describes the correct position of the EMTs who are executing the diamond carry technique?",
+				"source": "See Principles of Safe Lifting and Carrying"
+			},
 			"back": "One at the head, one at the feet, and one on each side of the patient’s torso"
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-12",
-			"front": "The extremity lift would not be appropriate to use on a patient:\n\nA. with a deformed humerus.\nB. who complains of nausea.\nC. with forearm lacerations.\nD. without a spinal injury.\n\n(See Nonurgent Moves)",
+			"front": {
+				"choices": [
+					"with a deformed humerus.",
+					"who complains of nausea.",
+					"with forearm lacerations.",
+					"without a spinal injury."
+				],
+				"question": "The extremity lift would not be appropriate to use on a patient:",
+				"source": "See Nonurgent Moves"
+			},
 			"back": "with a deformed humerus."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-13",
-			"front": "It is essential that you ____________ your equipment to prevent the spread of disease.\n\nA. properly store\nB. incinerate\nC. decontaminate\nD. throw out\n\n(See Additional Patient-Moving Equipment)",
+			"front": {
+				"choices": [
+					"properly store",
+					"incinerate",
+					"decontaminate",
+					"throw out"
+				],
+				"question": "It is essential that you ____________ your equipment to prevent the spread of disease.",
+				"source": "See Additional Patient-Moving Equipment"
+			},
 			"back": "decontaminate"
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-14",
-			"front": "The direct carry is used to transfer a patient:\n\nA. who cannot be placed on a backboard.\nB. with multiple long bone injuries.\nC. from a bed to the ambulance stretcher.\nD. with a possible cervical spine injury.\n\n(See Nonurgent Moves)",
+			"front": {
+				"choices": [
+					"who cannot be placed on a backboard.",
+					"with multiple long bone injuries.",
+					"from a bed to the ambulance stretcher.",
+					"with a possible cervical spine injury."
+				],
+				"question": "The direct carry is used to transfer a patient:",
+				"source": "See Nonurgent Moves"
+			},
 			"back": "from a bed to the ambulance stretcher."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-15",
-			"front": "You should not attempt to lift a patient who weighs more than 250 pounds with fewer than _______ rescuers, regardless of individual strength.\n\nA. five\nB. three\nC. six\nD. four\n\n(See Principles of Safe Lifting and Carrying)",
+			"front": {
+				"choices": [
+					"five",
+					"three",
+					"six",
+					"four"
+				],
+				"question": "You should not attempt to lift a patient who weighs more than 250 pounds with fewer than _______ rescuers, regardless of individual strength.",
+				"source": "See Principles of Safe Lifting and Carrying"
+			},
 			"back": "four"
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-16",
-			"front": "The first rule of safe lifting is to:\n\nA. keep your back in a slightly curved position.\nB. keep your back in a straight, vertical position.\nC. always lift with your palms facing down.\nD. spread your legs approximately 20″ apart.\n\n(See Body Mechanics)",
+			"front": {
+				"choices": [
+					"keep your back in a slightly curved position.",
+					"keep your back in a straight, vertical position.",
+					"always lift with your palms facing down.",
+					"spread your legs approximately 20″ apart."
+				],
+				"question": "The first rule of safe lifting is to:",
+				"source": "See Body Mechanics"
+			},
 			"back": "keep your back in a straight, vertical position."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-17",
-			"front": "After applying medical restraints to a combative patient, you should:\n\nA. remove them only after hospital personnel have requested you to do so.\nB. position the patient prone in order to further prevent injury to yourself.\nC. inform the patient that the restraints are punishment for their behavior.\nD. remove them only if the patient verbally commits to calming down.\n\n(See Patient Positioning)",
+			"front": {
+				"choices": [
+					"remove them only after hospital personnel have requested you to do so.",
+					"position the patient prone in order to further prevent injury to yourself.",
+					"inform the patient that the restraints are punishment for their behavior.",
+					"remove them only if the patient verbally commits to calming down."
+				],
+				"question": "After applying medical restraints to a combative patient, you should:",
+				"source": "See Patient Positioning"
+			},
 			"back": "remove them only after hospital personnel have requested you to do so."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-18",
-			"front": "The most appropriate carrying device to use when moving a patient across rough or uneven terrain is the:\n\nA. wheeled stretcher.\nB. basket stretcher.\nC. scoop stretcher.\nD. stair chair.\n\n(See Additional Patient-Moving Equipment)",
+			"front": {
+				"choices": [
+					"wheeled stretcher.",
+					"basket stretcher.",
+					"scoop stretcher.",
+					"stair chair."
+				],
+				"question": "The most appropriate carrying device to use when moving a patient across rough or uneven terrain is the:",
+				"source": "See Additional Patient-Moving Equipment"
+			},
 			"back": "basket stretcher."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-19",
-			"front": "In contrast to typical wheeled ambulance stretchers, features of a bariatric stretcher include:\n\nA. weight capacity of up to 650 pounds.\nB. increased stability from a wider wheelbase.\nC. a collapsible undercarriage.\nD. two safety rails on both sides of the stretcher.\n\n(See Additional Patient-Moving Equipment)",
+			"front": {
+				"choices": [
+					"weight capacity of up to 650 pounds.",
+					"increased stability from a wider wheelbase.",
+					"a collapsible undercarriage.",
+					"two safety rails on both sides of the stretcher."
+				],
+				"question": "In contrast to typical wheeled ambulance stretchers, features of a bariatric stretcher include:",
+				"source": "See Additional Patient-Moving Equipment"
+			},
 			"back": "increased stability from a wider wheelbase."
 		},
 		{
 			"id": "category-chapter-08-tag-multiple-choice-card-20",
-			"front": "When the shoulder girdle is aligned over the pelvis during lifting:\n\nA. the risk of back injuries is significantly increased.\nB. the hands can be held further apart from the body.\nC. the muscles of the back experience increased strain.\nD. the weight is exerted straight down the vertebrae.\n\n(See Body Mechanics)",
+			"front": {
+				"choices": [
+					"the risk of back injuries is significantly increased.",
+					"the hands can be held further apart from the body.",
+					"the muscles of the back experience increased strain.",
+					"the weight is exerted straight down the vertebrae."
+				],
+				"question": "When the shoulder girdle is aligned over the pelvis during lifting:",
+				"source": "See Body Mechanics"
+			},
 			"back": "the weight is exerted straight down the vertebrae."
 		}
 	],

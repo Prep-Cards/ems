@@ -1,150 +1,149 @@
 {
-    "name": "category-chapter-01-tag-vocabulary",
-    "cards": [
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-1",
-            "front": "An individual who has training in specific aspects of advanced life support, such as intravenous therapy, and the administration of certain emergency medications.",
-            "back": "advanced EMT"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-2",
-            "front": "Advanced life-saving procedures, some of which are now being provided by the EMT.",
-            "back": "advanced life support"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-3",
-            "front": "Comprehensive legislation that is designed to protect people with disabilities against discrimination.",
-            "back": "Americans With Disabilities Act"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-4",
-            "front": "A device that detects treatable life-threatening cardiac dysrhythmias (ventricular fibrillation and ventricular tachycardia) and delivers the appropriate electrical shock to the patient.",
-            "back": "automated external defibrillator"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-5",
-            "front": "A process in which a person, an institution, or a program is evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care.",
-            "back": "certification"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-6",
-            "front": "A health care model in which experienced paramedics receive advanced training to equip them to provide additional services in the prehospital environment, such as health evaluations, monitoring of chronic illnesses or conditions, and patient advocacy.",
-            "back": "community paramedicine"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-7",
-            "front": "A system of internal and external reviews and audits of all aspects of an EMS system aimed at improving outcomes.",
-            "back": "continuous quality improvement"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-8",
-            "front": "An established process to determine the qualifications necessary to be allowed to practice a particular profession, or to function as an organization.",
-            "back": "credentialing"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-9",
-            "front": "A system that assists dispatchers in selecting appropriate units to respond to a particular call for assistance and provides callers with vital instructions until the arrival of EMS crews.",
-            "back": "emergency medical dispatch"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-10",
-            "front": "A trained professional, such as police officer, firefighter, lifeguard, or other rescuer, who may arrive first at the scene of an emergency to provide initial medical assistance.",
-            "back": "emergency medical responder"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-11",
-            "front": "A multidisciplinary system that represents the combined efforts of several professionals and agencies to provide prehospital emergency care to the sick and injured.",
-            "back": "emergency medical services"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-12",
-            "front": "An individual who has training in basic life support, including automated external defibrillation, use of a definitive airway adjunct, and assisting patients with certain medications.",
-            "back": "emergency medical technician"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-13",
-            "front": "An approach to medicine where decisions are based on well-conducted research, classifying recommendations based on the strength of the scientific evidence; also called science-based medicine.",
-            "back": "evidence-based medicine"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-14",
-            "front": "Federal legislation passed in 1996. Its main effect in EMS is in limiting availability of patients’ health care information and penalizing violations of patient privacy.",
-            "back": "Health Insurance Portability and Accountability Act"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-15",
-            "front": "The delivery of medication directly into a vein.",
-            "back": "intravenous therapy"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-16",
-            "front": "The process whereby a competent authority, usually the state, allows people to perform a regulated act.",
-            "back": "licensure"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-17",
-            "front": "Physician instructions given directly by radio or cell phone (online/direct) or indirectly by protocol/guidelines (off-line/indirect), as authorized by the medical director of the service program.",
-            "back": "medical control"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-18",
-            "front": "The physician who authorizes or delegates to the EMT the authority to provide medical care in the field.",
-            "back": "medical director"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-19",
-            "front": "A method of delivering health care that involves providing health care within the community rather than at a physician’s office or hospital.",
-            "back": "mobile integrated health care"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-20",
-            "front": "A document created by the National Highway Traffic Safety Administration (NHTSA) that outlines the skills performed by various EMS providers.",
-            "back": "National EMS Scope of Practice Model"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-21",
-            "front": "An individual who has extensive training in advanced life support, including endotracheal intubation, emergency pharmacology, cardiac monitoring, and other advanced assessment and treatment skills.",
-            "back": "paramedic"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-22",
-            "front": "Efforts to prevent an injury or illness from ever occurring.",
-            "back": "primary prevention"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-23",
-            "front": "The designated area in which the EMS agency is responsible for the provision of prehospital emergency care and transportation to the hospital.",
-            "back": "primary service area"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-24",
-            "front": "The branch of medicine that is focused on examining the health needs of entire populations with the goal of preventing health problems.",
-            "back": "public health"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-25",
-            "front": "A call center, staffed by trained personnel who are responsible for managing requests for police, fire, and ambulance services.",
-            "back": "public safety access point"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-26",
-            "front": "Oversight by the medical director to ensure the appropriate medical care standards are met by EMTs on each call.",
-            "back": "quality control"
-        },
-        {
-            "id": "category-chapter-01-tag-vocabulary-card-27",
-            "front": "Efforts to limit the effects of an injury or illness that you cannot completely prevent.",
-            "back": "secondary prevention"
-        }
-    ],
-    "category": {
-        "value": "chapter-01",
-        "label": "Chapter 1"
-    },
-    "tags": [
-        {
-            "value": "vocabulary",
-            "label": "Vocabulary"
-        }
-    ]
+	"cards": [
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-1",
+			"front": "An individual who has training in specific aspects of advanced life support, such as intravenous therapy, and the administration of certain emergency medications.",
+			"back": "advanced EMT"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-2",
+			"front": "Advanced life-saving procedures, some of which are now being provided by the EMT.",
+			"back": "advanced life support"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-3",
+			"front": "Comprehensive legislation that is designed to protect people with disabilities against discrimination.",
+			"back": "Americans With Disabilities Act"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-4",
+			"front": "A device that detects treatable life-threatening cardiac dysrhythmias (ventricular fibrillation and ventricular tachycardia) and delivers the appropriate electrical shock to the patient.",
+			"back": "automated external defibrillator"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-5",
+			"front": "A process in which a person, an institution, or a program is evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care.",
+			"back": "certification"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-6",
+			"front": "A health care model in which experienced paramedics receive advanced training to equip them to provide additional services in the prehospital environment, such as health evaluations, monitoring of chronic illnesses or conditions, and patient advocacy.",
+			"back": "community paramedicine"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-7",
+			"front": "A system of internal and external reviews and audits of all aspects of an EMS system aimed at improving outcomes.",
+			"back": "continuous quality improvement"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-8",
+			"front": "An established process to determine the qualifications necessary to be allowed to practice a particular profession, or to function as an organization.",
+			"back": "credentialing"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-9",
+			"front": "A system that assists dispatchers in selecting appropriate units to respond to a particular call for assistance and provides callers with vital instructions until the arrival of EMS crews.",
+			"back": "emergency medical dispatch"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-10",
+			"front": "A trained professional, such as police officer, firefighter, lifeguard, or other rescuer, who may arrive first at the scene of an emergency to provide initial medical assistance.",
+			"back": "emergency medical responder"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-11",
+			"front": "A multidisciplinary system that represents the combined efforts of several professionals and agencies to provide prehospital emergency care to the sick and injured.",
+			"back": "emergency medical services"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-12",
+			"front": "An individual who has training in basic life support, including automated external defibrillation, use of a definitive airway adjunct, and assisting patients with certain medications.",
+			"back": "emergency medical technician"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-13",
+			"front": "An approach to medicine where decisions are based on well-conducted research, classifying recommendations based on the strength of the scientific evidence; also called science-based medicine.",
+			"back": "evidence-based medicine"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-14",
+			"front": "Federal legislation passed in 1996. Its main effect in EMS is in limiting availability of patients’ health care information and penalizing violations of patient privacy.",
+			"back": "Health Insurance Portability and Accountability Act"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-15",
+			"front": "The delivery of medication directly into a vein.",
+			"back": "intravenous therapy"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-16",
+			"front": "The process whereby a competent authority, usually the state, allows people to perform a regulated act.",
+			"back": "licensure"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-17",
+			"front": "Physician instructions given directly by radio or cell phone (online/direct) or indirectly by protocol/guidelines (off-line/indirect), as authorized by the medical director of the service program.",
+			"back": "medical control"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-18",
+			"front": "The physician who authorizes or delegates to the EMT the authority to provide medical care in the field.",
+			"back": "medical director"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-19",
+			"front": "A method of delivering health care that involves providing health care within the community rather than at a physician’s office or hospital.",
+			"back": "mobile integrated health care"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-20",
+			"front": "A document created by the National Highway Traffic Safety Administration (NHTSA) that outlines the skills performed by various EMS providers.",
+			"back": "National EMS Scope of Practice Model"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-21",
+			"front": "An individual who has extensive training in advanced life support, including endotracheal intubation, emergency pharmacology, cardiac monitoring, and other advanced assessment and treatment skills.",
+			"back": "paramedic"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-22",
+			"front": "Efforts to prevent an injury or illness from ever occurring.",
+			"back": "primary prevention"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-23",
+			"front": "The designated area in which the EMS agency is responsible for the provision of prehospital emergency care and transportation to the hospital.",
+			"back": "primary service area"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-24",
+			"front": "The branch of medicine that is focused on examining the health needs of entire populations with the goal of preventing health problems.",
+			"back": "public health"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-25",
+			"front": "A call center, staffed by trained personnel who are responsible for managing requests for police, fire, and ambulance services.",
+			"back": "public safety access point"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-26",
+			"front": "Oversight by the medical director to ensure the appropriate medical care standards are met by EMTs on each call.",
+			"back": "quality control"
+		},
+		{
+			"id": "category-chapter-01-tag-vocabulary-card-27",
+			"front": "Efforts to limit the effects of an injury or illness that you cannot completely prevent.",
+			"back": "secondary prevention"
+		}
+	],
+	"category": {
+		"value": "chapter-01",
+		"label": "Chapter 1"
+	},
+	"tags": [
+		{
+			"value": "vocabulary",
+			"label": "Vocabulary"
+		}
+	]
 }

@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"Falls",
+					"Burns",
+					"Suicide",
+					"Abuse"
+				],
+				"question": "Which of the following is the most common mechanism of injury in older patients?",
+				"source": "See Trauma and Geriatric Patients"
+			},
+			"back": "Falls"
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"of decreased perception of pain.",
+					"the nervous system has deteriorated.",
+					"he or she fears hospitalization.",
+					"of conditions such as dementia."
+				],
+				"question": "An elderly patient might understate or minimize the symptoms of his or her illness because:",
+				"source": "See Changes in the Immune System"
+			},
+			"back": "he or she fears hospitalization."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"explaining procedures while you are performing them.",
+					"having at least two EMTs talk to the patient at a time.",
+					"frequently asking the patient if he or she understands.",
+					"using medical terms to ensure patient understanding."
+				],
+				"question": "Good general communication techniques with the elderly include:",
+				"source": "See Communication and Older Adults"
+			},
+			"back": "frequently asking the patient if he or she understands."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"an abnormality near the growth plate.",
+					"decreased bone marrow production.",
+					"a decrease in bone mass and density.",
+					"increased flexibility of bone mass."
+				],
+				"question": "Osteoporosis is defined as:",
+				"source": "See Changes in the Musculoskeletal System"
+			},
+			"back": "a decrease in bone mass and density."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"contact medical control for advice.",
+					"allow the patient to die in peace.",
+					"attempt to resuscitate the patient.",
+					"try to locate the documentation."
+				],
+				"question": "When faced with a situation in which an older patient with a terminal illness is in cardiac arrest, but written documentation regarding the patient’s wishes cannot be located, the EMT should:",
+				"source": "See Dying Patients"
+			},
+			"back": "attempt to resuscitate the patient."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"is usually not repairable, even if discovered early.",
+					"is often the result of hypertension and atherosclerosis.",
+					"causes dull pain that often radiates to the shoulders.",
+					"can sometimes be palpated as a mass in the groin area."
+				],
+				"question": "An abdominal aortic aneurysm:",
+				"source": "See Changes in the Gastrointestinal System"
+			},
+			"back": "is often the result of hypertension and atherosclerosis."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"most elderly patients have dementia.",
+					"they fear retribution from the abuser.",
+					"they do not want to be bothersome.",
+					"they are protective of the abuser."
+				],
+				"question": "Many older victims of physical abuse might make false statements or lie about the origin of their injuries because:",
+				"source": "See Elder Abuse and Neglect"
+			},
+			"back": "they fear retribution from the abuser."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"have only one EMT speak to the patient at a time.",
+					"perform a physical exam and then talk to the patient.",
+					"dismiss the family members from the room or area.",
+					"elevate your voice and speak directly to the patient."
+				],
+				"question": "To minimize distractions and confusion when assessing an older patient, you should:",
+				"source": "See Communication and Older Adults"
+			},
+			"back": "have only one EMT speak to the patient at a time."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"caused by an interruption of blood flow to the brain.",
+					"most commonly caused by a silent myocardial infarction.",
+					"generally of no concern unless the patient was injured.",
+					"rarely life threatening but should be evaluated by a physician."
+				],
+				"question": "Syncope in the older patient is:",
+				"source": "See Changes in the Nervous System"
+			},
+			"back": "caused by an interruption of blood flow to the brain."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"emphysema.",
+					"bronchitis.",
+					"pneumonia.",
+					"heart failure."
+				],
+				"question": "A productive cough, fever, and chills in an 80-year-old patient with a compromised immune system should make you most suspicious for:",
+				"source": "See Changes in the Respiratory System"
+			},
+			"back": "pneumonia."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"The patient’s residence is cold due to a malfunctioning heater.",
+					"The patient’s medications have not been filled in 2 months.",
+					"Elderly patients present atypically and deserve your respect.",
+					"A patient is assisted with his or her activities of daily living."
+				],
+				"question": "Which of the following observations or statements represents the “E” in the GEMS diamond?",
+				"source": "See The GEMS Diamond"
+			},
+			"back": "The patient’s residence is cold due to a malfunctioning heater."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"jugular venous distention and peripheral edema.",
+					"swelling of the lower extremities and weakness.",
+					"tachypnea and paroxysmal nocturnal dyspnea.",
+					"fever and a cough that produces green sputum."
+				],
+				"question": "The EMT should suspect left-sided heart failure in the geriatric patient who presents with:",
+				"source": "See Changes in the Cardiovascular System"
+			},
+			"back": "tachypnea and paroxysmal nocturnal dyspnea."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"transport him or her to a hospital that he or she is familiar with.",
+					"avoid the use of a long backboard, even if trauma is suspected.",
+					"perform frequent detailed assessments to gain the patient’s trust.",
+					"allow at least two family members to accompany the patient."
+				],
+				"question": "When transporting a stable older patient to the hospital, the most effective way to reduce his or her anxiety is to:",
+				"source": "See Special Considerations in Assessing a Geriatric Medical Patient"
+			},
+			"back": "transport him or her to a hospital that he or she is familiar with."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"are taking blood-thinning medications.",
+					"have minor abrasions to the head area.",
+					"do not have deformities to the skull.",
+					"have a history of Alzheimer disease."
+				],
+				"question": "Patients who have experienced even minor-appearing head injuries should be suspected of having a brain injury, especially if they:",
+				"source": "See Trauma and Geriatric Patients"
+			},
+			"back": "are taking blood-thinning medications."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"drug tolerance.",
+					"polypharmacy.",
+					"drug dependency.",
+					"potentiation."
+				],
+				"question": "The use of multiple prescription drugs by a single patient, causing the potential for negative effects such as overdosing or drug interaction, is called:",
+				"source": "See Toxicology"
+			},
+			"back": "polypharmacy."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"chronic medical conditions.",
+					"prescription medication use.",
+					"an acute onset of dementia.",
+					"alcohol abuse and dependence."
+				],
+				"question": "Common causes of depression in the elderly include all of the following, except:",
+				"source": "See Behavioral Emergencies"
+			},
+			"back": "an acute onset of dementia."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"provide the EMT with a standard format for assessing elderly patients.",
+					"replace the typical ABC approach to patient care when caring for the elderly.",
+					"provide clues about an elderly patient’s problem by observing his or her home.",
+					"help EMS personnel remember what is different about elderly patients."
+				],
+				"question": "The purpose of the GEMS diamond is to:",
+				"source": "See The GEMS Diamond"
+			},
+			"back": "help EMS personnel remember what is different about elderly patients."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"stroke.",
+					"delirium.",
+					"dementia.",
+					"head trauma."
+				],
+				"question": "The reduction in brain weight and volume increases an older person’s risk for:",
+				"source": "See Changes in the Nervous System"
+			},
+			"back": "head trauma."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"increased bone density and car crashes.",
+					"arthritic joints and high-energy trauma.",
+					"acetabular separation and severe falls.",
+					"osteoporosis and low-energy trauma."
+				],
+				"question": "Fractures of the pelvis in older patients often occur as the result of a combination of:",
+				"source": "See Trauma and Geriatric Patients"
+			},
+			"back": "osteoporosis and low-energy trauma."
+		},
+		{
+			"id": "category-chapter-36-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"physical",
+					"emotional",
+					"psychological",
+					"financial"
+				],
+				"question": "Poor maintenance of home, poor personal care, and dietary neglect are all possible indicators of ____________ elder abuse.",
+				"source": "See Elder Abuse and Neglect"
+			},
+			"back": "physical"
+		}
+	],
+	"category": {
+		"value": "chapter-36",
+		"label": "Chapter 36"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

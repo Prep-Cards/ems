@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"awareness to place, pink and dry skin, and consistent eye contact.",
+					"crying or combativeness, good muscle tone, and awareness to time.",
+					"normal interactiveness, awareness to time, and pink skin color.",
+					"age-appropriate behavior, good muscle tone, and good eye contact."
+				],
+				"question": "A normal level of consciousness in an infant or child is characterized by:",
+				"source": "See Patient Assessment"
+			},
+			"back": "age-appropriate behavior, good muscle tone, and good eye contact."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"a rash.",
+					"ear pain.",
+					"chills.",
+					"a headache."
+				],
+				"question": "The EMT should be most concerned when a child presents with fever and:",
+				"source": "See Fever Emergencies and Management"
+			},
+			"back": "a rash."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"stridorous breathing.",
+					"a cough that resembles the bark of a seal.",
+					"wheezing.",
+					"a weak cough."
+				],
+				"question": "Signs of an upper airway obstruction in an infant or child include all of the following, except:",
+				"source": "See Respiratory Emergencies and Management"
+			},
+			"back": "wheezing."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"put padding behind his or her head.",
+					"place him or her on a firm surface.",
+					"rule out an injury to the spinal cord.",
+					"thoroughly suction his or her airway."
+				],
+				"question": "Before positioning an infant or child’s airway, you should:",
+				"source": "See Patient Assessment"
+			},
+			"back": "place him or her on a firm surface."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"swimming pools.",
+					"alcohol.",
+					"hyperthermia.",
+					"child abuse."
+				],
+				"question": "Submersion injuries in the adolescent age group are most commonly associated with:",
+				"source": "See Drowning Emergencies and Management"
+			},
+			"back": "alcohol."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"gather critical data by performing a rapid hands-on assessment of the child.",
+					"allow you to rapidly and visually form a general impression of the child.",
+					"determine if the child’s vital signs are within the age-appropriate limits.",
+					"facilitate a rapid head-to-toe assessment of the child by visualization only."
+				],
+				"question": "The purpose of the pediatric assessment triangle (PAT) is to:",
+				"source": "See Patient Assessment"
+			},
+			"back": "allow you to rapidly and visually form a general impression of the child."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"excessive tearing.",
+					"moist oral mucosa.",
+					"bulging fontanelles.",
+					"absent urine output."
+				],
+				"question": "An infant with severe dehydration would be expected to present with:",
+				"source": "See Poisoning Emergencies and Management"
+			},
+			"back": "absent urine output."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"toddler period.",
+					"premature phase.",
+					"neonatal period.",
+					"start of infancy."
+				],
+				"question": "The first month of life after birth is referred to as the:",
+				"source": "See Growth and Development"
+			},
+			"back": "neonatal period."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"there is usually obvious injury to the external chest wall.",
+					"the sudden force against the ribs causes them to fracture.",
+					"the flexible rib cage protects the vital thoracic organs.",
+					"the flexible ribs can be compressed without breaking."
+				],
+				"question": "When a child experiences a blunt chest injury:",
+				"source": "See Pediatric Trauma Emergencies and Management"
+			},
+			"back": "the flexible ribs can be compressed without breaking."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"face",
+					"back",
+					"shins",
+					"buttocks"
+				],
+				"question": "Bruising to the _________ is least suggestive of child abuse.",
+				"source": "See Child Abuse and Neglect"
+			},
+			"back": "shins"
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"are typically consistent among all age and weight groups.",
+					"are most severe if the child ingested a poisonous substance.",
+					"vary widely, depending on the child’s age and weight.",
+					"usually present within the first 10 minutes of ingestion."
+				],
+				"question": "The signs and symptoms of poisoning in children:",
+				"source": "See Poisoning Emergencies and Management"
+			},
+			"back": "vary widely, depending on the child’s age and weight."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"his or her respirations are shallow.",
+					"his or her tidal volume is adequate.",
+					"he or she is breathing inadequately.",
+					"an oral airway has been inserted."
+				],
+				"question": "Use of a nonrebreathing mask or nasal cannula in a child is appropriate only if:",
+				"source": "See Respiratory Emergencies and Management"
+			},
+			"back": "his or her tidal volume is adequate."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"positioning, ice packs, and extremity elevation.",
+					"avoiding the placement of a splint, if possible.",
+					"separating the child from his or her parents.",
+					"heat compresses and lowering the injured extremity."
+				],
+				"question": "Effective methods for providing pain relief to a child with an extremity injury include:",
+				"source": "See Pediatric Trauma Emergencies and Management"
+			},
+			"back": "positioning, ice packs, and extremity elevation."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"18 months and 10 years.",
+					"8 months and 8 years.",
+					"6 months and 6 years.",
+					"3 months and 4 years."
+				],
+				"question": "Febrile seizures are most common in children between:",
+				"source": "See Neurologic Emergencies and Management"
+			},
+			"back": "6 months and 6 years."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"hypothermia and an irregular pulse.",
+					"a generalized rash with intense itching.",
+					"a low-grade fever and tachycardia.",
+					"cherry-red spots or a purplish rash."
+				],
+				"question": "Children with N. meningitides would most likely present with:",
+				"source": "See Neurologic Emergencies and Management"
+			},
+			"back": "cherry-red spots or a purplish rash."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"use a toe-to-head assessment approach.",
+					"talk to the child, not just the caregiver.",
+					"rely solely on the parent for information.",
+					"refrain from taking a blood pressure."
+				],
+				"question": "When assessing an 8-year-old child, you should:",
+				"source": "See Growth and Development"
+			},
+			"back": "talk to the child, not just the caregiver."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"EMTs must report all suspected cases of child abuse.",
+					"EMTs should document their perceptions on the run form.",
+					"A supervisor can forbid an EMT from reporting possible abuse.",
+					"Child abuse must be reported only if it can be proven."
+				],
+				"question": "Which of the following is true regarding the legal implications of child abuse?",
+				"source": "See Child Abuse and Neglect"
+			},
+			"back": "EMTs must report all suspected cases of child abuse."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"is experiencing mild to moderate pain.",
+					"has a possible closed fracture of the radius.",
+					"falls from a height greater than 4 to 5 feet.",
+					"has a history compatible with a serious illness."
+				],
+				"question": "Immediate transport is indicated for a child when he or she:",
+				"source": "See Patient Assessment"
+			},
+			"back": "has a history compatible with a serious illness."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"place oxygen tubing through a hole in a paper cup.",
+					"have a parent restrain the child as you give oxygen.",
+					"use a nasal cannula instead of a nonrebreathing mask.",
+					"tightly secure the oxygen mask straps to the face."
+				],
+				"question": "When administering oxygen to a frightened child, it would be most appropriate to:",
+				"source": "See Respiratory Emergencies and Management"
+			},
+			"back": "place oxygen tubing through a hole in a paper cup."
+		},
+		{
+			"id": "category-chapter-35-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"At this age, the infant typically sleeps for up to 8 hours a day.",
+					"The infant is unable to turn his or her head and focus.",
+					"The infant should be aroused easily from a sleeping state.",
+					"A 3-month-old infant can distinguish a parent from a stranger."
+				],
+				"question": "Which of the following statements regarding a 3-month-old infant is correct?",
+				"source": "See Growth and Development"
+			},
+			"back": "A 3-month-old infant can distinguish a parent from a stranger."
+		}
+	],
+	"category": {
+		"value": "chapter-35",
+		"label": "Chapter 35"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

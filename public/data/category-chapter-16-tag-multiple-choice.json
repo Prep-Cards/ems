@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"blood acidity is reduced by excessive breathing.",
+					"slow, shallow breathing eliminates too much carbon dioxide.",
+					"the level of carbon dioxide in the blood increases.",
+					"dangerous acids accumulate in the bloodstream."
+				],
+				"question": "Alkalosis is a condition that occurs when:",
+				"source": "See Causes of Dyspnea"
+			},
+			"back": "blood acidity is reduced by excessive breathing."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"Trachea",
+					"Alveoli",
+					"Bronchi",
+					"Capillaries"
+				],
+				"question": "In what area of the lungs does respiration occur?",
+				"source": "See Anatomy of the Respiratory System"
+			},
+			"back": "Alveoli"
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"a complete cessation of respiratory effort.",
+					"labored breathing with reduced tidal volume.",
+					"shortness of breath or difficulty breathing.",
+					"a marked increase in the exhalation phase."
+				],
+				"question": "Dyspnea is MOST accurately defined as:",
+				"source": "See Introduction"
+			},
+			"back": "shortness of breath or difficulty breathing."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"there must be low quantities of pulmonary surfactant to allow for full alveolar expansion.",
+					"the percentage of inhaled carbon dioxide must exceed the percentage of inhaled oxygen.",
+					"oxygen and carbon dioxide must be able to freely diffuse across the alveolar–capillary membrane.",
+					"the pulmonary capillaries must be completely constricted and the alveoli must be collapsed."
+				],
+				"question": "In order for efficient pulmonary gas exchange to occur:",
+				"source": "See Physiology of Respiration"
+			},
+			"back": "oxygen and carbon dioxide must be able to freely diffuse across the alveolar–capillary membrane."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"the brain stem inhibits respirations.",
+					"respirations decrease in rate and depth.",
+					"respirations increase in rate and depth.",
+					"exhalation lasts longer than inhalation."
+				],
+				"question": "When the level of arterial carbon dioxide rises above normal:",
+				"source": "See Physiology of Respiration"
+			},
+			"back": "respirations increase in rate and depth."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"The pulse oximeter is a valuable assessment tool that measures the percentage of red blood cells that contain hemoglobin molecules.",
+					"Most otherwise healthy patients can maintain adequate oxygenation and good skin color with oxygen saturation readings as low as 70% to 80%.",
+					"Caution must be exercised when using the pulse oximeter on a patient with carbon monoxide poisoning because falsely low readings are common.",
+					"Pulse oximetry measures the percentage of hemoglobin that is saturated with oxygen but does not measure the actual hemoglobin content of the blood."
+				],
+				"question": "Which of the following statements regarding pulse oximetry is correct?",
+				"source": "See Patient Assessment"
+			},
+			"back": "Pulse oximetry measures the percentage of hemoglobin that is saturated with oxygen but does not measure the actual hemoglobin content of the blood."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"place her in a recumbent position to facilitate breathing.",
+					"determine if she has been prescribed a beta-agonist inhaler.",
+					"call medical control and ask how to proceed with treatment.",
+					"contact medical control and administer an antihistamine."
+				],
+				"question": "A conscious and alert 29-year-old female with a history of asthma complains of difficulty breathing that began after her morning jog. The temperature outside is 40°F (5°C). On exam, you hear bilateral expiratory wheezing. After providing supplemental oxygen, you should:",
+				"source": "See Patient Assessment"
+			},
+			"back": "determine if she has been prescribed a beta-agonist inhaler."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"start at the lower lung fields and determine at which level you start hearing clear breath sounds.",
+					"pay special attention to the exhalation phase because this is when you will likely hear rales or rhonchi.",
+					"note the presence of a high-pitched whistling sound, which is an indicator of fluid in the lungs.",
+					"auscultate the posterior chest first and compare the apex of one lung to the base of the opposite lung."
+				],
+				"question": "When assessing for fluid collection in the lungs during auscultation of lung sounds, you should:",
+				"source": "See Patient Assessment"
+			},
+			"back": "start at the lower lung fields and determine at which level you start hearing clear breath sounds."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"diffuse collapsing of the alveoli.",
+					"a unilaterally collapsed lung.",
+					"a bacterial infection of the lung tissue.",
+					"fluid accumulation outside the lung."
+				],
+				"question": "A pleural effusion is MOST accurately defined as:",
+				"source": "See Causes of Dyspnea"
+			},
+			"back": "fluid accumulation outside the lung."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"inspiration and expiration.",
+					"oxygenation and ventilation.",
+					"diffusion and oxygenation.",
+					"ventilation and diffusion."
+				],
+				"question": "The two processes that occur during respiration are:",
+				"source": "See Physiology of Respiration"
+			},
+			"back": "inspiration and expiration."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"respiratory system.",
+					"cardiovascular system.",
+					"endocrine system.",
+					"immune system."
+				],
+				"question": "Asthma is caused by a response of the:",
+				"source": "See Causes of Dyspnea"
+			},
+			"back": "immune system."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"normal breath sounds.",
+					"abnormal breath sounds.",
+					"an absence of breath sounds.",
+					"diminished breath sounds."
+				],
+				"question": "When auscultating the lungs of a patient with respiratory distress, you hear adventitious sounds. This means that the patient has:",
+				"source": "See Patient Assessment"
+			},
+			"back": "abnormal breath sounds."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"stridor.",
+					"rales.",
+					"rhonchi.",
+					"wheezing."
+				],
+				"question": "Harsh, high-pitched inspiratory sounds are characteristic of:",
+				"source": "See Patient Assessment"
+			},
+			"back": "stridor."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"30 breaths/min with supraclavicular retractions and clammy skin",
+					"22 breaths/min with an irregular pattern of breathing and cyanosis",
+					"20 breaths/min with shallow movement of the chest wall and pallor",
+					"24 breaths/min with bilaterally equal breath sounds and pink skin"
+				],
+				"question": "Which of the following is MOST characteristic of adequate breathing?",
+				"source": "See Pathophysiology"
+			},
+			"back": "24 breaths/min with bilaterally equal breath sounds and pink skin"
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"a narcotic overdose.",
+					"an overdose of aspirin.",
+					"high blood glucose levels.",
+					"a respiratory infection."
+				],
+				"question": "Hyperventilation could be associated with all of the following, EXCEPT:",
+				"source": "See Causes of Dyspnea"
+			},
+			"back": "a narcotic overdose."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"unilateral paralysis and slurred speech.",
+					"anxiety, dizziness, and severe bradypnea.",
+					"tachypnea and tingling in the extremities.",
+					"altered mental status and bradycardia."
+				],
+				"question": "Common signs and symptoms of acute hyperventilation syndrome include:",
+				"source": "See Causes of Dyspnea"
+			},
+			"back": "tachypnea and tingling in the extremities."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"Narcotic overdose",
+					"Pulmonary edema",
+					"Severe anxiety",
+					"Pleural effusion"
+				],
+				"question": "Which of the following conditions would be LEAST likely to result in hypoxia?",
+				"source": "See Causes of Dyspnea"
+			},
+			"back": "Severe anxiety"
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"respiratory difficulty.",
+					"adequate air exchange.",
+					"respiratory insufficiency.",
+					"an obstructed airway."
+				],
+				"question": "An alert patient presents with a regular pattern of inhalation and exhalation and breath sounds that are clear and equal on both sides of the chest. These findings are consistent with:",
+				"source": "See Pathophysiology"
+			},
+			"back": "adequate air exchange."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"expiratory wheezing.",
+					"profound cyanosis.",
+					"rales and rhonchi.",
+					"audible stridor."
+				],
+				"question": "At the onset of an acute asthma attack, patients commonly experience difficulty breathing and:",
+				"source": "See Causes of Dyspnea"
+			},
+			"back": "audible stridor."
+		},
+		{
+			"id": "category-chapter-16-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"Alupent.",
+					"Singulair.",
+					"Ventolin.",
+					"Atrovent."
+				],
+				"question": "Albuterol is a generic name for:",
+				"source": "See Emergency Medical Care"
+			},
+			"back": "Ventolin."
+		}
+	],
+	"category": {
+		"value": "chapter-16",
+		"label": "Chapter 16"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

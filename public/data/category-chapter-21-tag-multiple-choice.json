@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"Fire ant bites rarely cause anaphylaxis.",
+					"Fire ants often bite a person repeatedly.",
+					"Fire ant bites typically occur on the face.",
+					"Most people are allergic to fire ant toxin."
+				],
+				"question": "Which of the following statements regarding fire ants is correct?",
+				"source": "See Common Allergens"
+			},
+			"back": "Fire ants often bite a person repeatedly."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"record the time and dose given.",
+					"notify medical control of your action.",
+					"reassess the patient’s vital signs.",
+					"properly dispose of the syringe."
+				],
+				"question": "Immediately after giving an epinephrine injection, you should:",
+				"source": "See Emergency Medical Care of Immunologic Emergencies"
+			},
+			"back": "properly dispose of the syringe."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"A direct negative effect on the body by an external substance",
+					"An exaggerated immune system response to any substance",
+					"Destruction of the immune system by an external substance",
+					"A release of erythrocytes in response to a foreign substance"
+				],
+				"question": "Which of the following MOST accurately defines an allergic reaction?",
+				"source": "See Pathophysiology"
+			},
+			"back": "An exaggerated immune system response to any substance"
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"3 seconds.",
+					"8 seconds.",
+					"15 seconds.",
+					"10 seconds."
+				],
+				"question": "When administering epinephrine via auto-injector, you should hold the injector in place for:",
+				"source": "See Emergency Medical Care of Immunologic Emergencies"
+			},
+			"back": "3 seconds."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"urticaria.",
+					"a pustule.",
+					"purpura.",
+					"a wheal."
+				],
+				"question": "A raised, swollen, well-defined area on the skin that is the result of an insect bite or sting is called:",
+				"source": "See Common Allergens"
+			},
+			"back": "a wheal."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"histamine.",
+					"antibody.",
+					"leukotriene.",
+					"allergen."
+				],
+				"question": "The foreign substance responsible for causing an allergic reaction is called a(n):",
+				"source": "See Pathophysiology"
+			},
+			"back": "allergen."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"swelling.",
+					"hives.",
+					"burning.",
+					"a wheal."
+				],
+				"question": "Urticaria is the medical term for:",
+				"source": "See Pathophysiology"
+			},
+			"back": "hives."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"lateral portion of the thigh.",
+					"medial portion of the thigh.",
+					"lateral portion of the arm.",
+					"medial part of the buttocks."
+				],
+				"question": "When an auto-injector is used to give epinephrine, the primary injection site is the:",
+				"source": "See Emergency Medical Care of Immunologic Emergencies"
+			},
+			"back": "lateral portion of the thigh."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"place her supine with her legs elevated.",
+					"perform a rapid secondary assessment.",
+					"assist her ventilations with 100% oxygen.",
+					"locate the area where the fire ants bit her."
+				],
+				"question": "A 38-year-old woman was bitten by fire ants while at the park. Your primary assessment reveals that she is semiconscious; has labored breathing; and has a rapid, thready pulse. She has a red rash on her entire body, and her face is swollen. You should:",
+				"source": "See Patient Assessment of an Immunologic Emergency"
+			},
+			"back": "assist her ventilations with 100% oxygen."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"Wheezing",
+					"Stridor",
+					"Rales",
+					"Rhonchi"
+				],
+				"question": "Which of the following sounds indicates swelling of the upper airway?",
+				"source": "See Patient Assessment of an Immunologic Emergency"
+			},
+			"back": "Stridor"
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"enlargement of the bronchioles in the lungs.",
+					"a significant amount of fluid in the alveoli.",
+					"rapid swelling of the upper airway tissues.",
+					"narrowing of the bronchioles in the lungs."
+				],
+				"question": "While auscultating breath sounds of a patient who was stung multiple times by a yellow jacket, you hear bilateral wheezing over all lung fields. This indicates:",
+				"source": "See Patient Assessment of an Immunologic Emergency"
+			},
+			"back": "narrowing of the bronchioles in the lungs."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"scraped away from the skin.",
+					"squeezed with tweezers and removed.",
+					"irrigated with copious amounts of water.",
+					"left in place and covered."
+				],
+				"question": "The stinger from a honeybee should be:",
+				"source": "See Common Allergens"
+			},
+			"back": "scraped away from the skin."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"urticaria and angioedema.",
+					"watery eyes and localized itching.",
+					"hypertension and swollen hands.",
+					"expiratory stridor and tachycardia."
+				],
+				"question": "Two of the MOST common signs of anaphylaxis are:",
+				"source": "See Pathophysiology"
+			},
+			"back": "urticaria and angioedema."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"the patient is anxious and tachycardic.",
+					"wheezing and hypotension are present.",
+					"the reaction produces severe urticaria.",
+					"a paramedic is present at the scene."
+				],
+				"question": "Epinephrine is indicated for patients with an allergic reaction when:",
+				"source": "See Emergency Medical Care of Immunologic Emergencies"
+			},
+			"back": "wheezing and hypotension are present."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"Diffuse urticaria",
+					"Upper airway swelling",
+					"Systemic vasodilation",
+					"Severe hypotension"
+				],
+				"question": "Which of the following negative effects of anaphylaxis will be the MOST rapidly fatal if not treated immediately?",
+				"source": "See Patient Assessment of an Immunologic Emergency"
+			},
+			"back": "Upper airway swelling"
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"1 hour",
+					"1 minute",
+					"30 seconds",
+					"30 minutes"
+				],
+				"question": "The effects of epinephrine are typically observed within _________ following administration.",
+				"source": "See Emergency Medical Care of Immunologic Emergencies"
+			},
+			"back": "1 minute"
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"persistent dry cough.",
+					"abdominal cramps.",
+					"drying of the eyes.",
+					"flushing of the skin."
+				],
+				"question": "Common signs and symptoms of an allergic reaction include all of the following, EXCEPT:",
+				"source": "See Patient Assessment of an Immunologic Emergency"
+			},
+			"back": "drying of the eyes."
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"A 45-year-old male who ingested penicillin",
+					"A 21-year-old female who inhaled pollen",
+					"A 30-year-old male who was stung by a bee",
+					"A 50-year-old male who was exposed to latex"
+				],
+				"question": "Which of the following patients would MOST likely have a delayed onset of an allergic reaction?",
+				"source": "See Common Allergens"
+			},
+			"back": "A 45-year-old male who ingested penicillin"
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"The environment in which the patient is found",
+					"The patient’s family history",
+					"The patient’s general physical appearance",
+					"The time of year in which the exposure occurred"
+				],
+				"question": "Which of the following would MOST likely provide clues regarding the source of a patient’s allergic reaction?",
+				"source": "See Patient Assessment of an Immunologic Emergency"
+			},
+			"back": "The environment in which the patient is found"
+		},
+		{
+			"id": "category-chapter-21-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"leukocytes and epinephrine.",
+					"the bee venom itself.",
+					"adrenaline and histamines.",
+					"histamines and leukotrienes."
+				],
+				"question": "Chemicals that are responsible for the signs and symptoms of an allergic reaction to a bee sting include:",
+				"source": "See Pathophysiology"
+			},
+			"back": "histamines and leukotrienes."
+		}
+	],
+	"category": {
+		"value": "chapter-21",
+		"label": "Chapter 21"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

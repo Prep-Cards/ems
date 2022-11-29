@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"The Salmonella bacterium itself causes food poisoning.",
+					"Refrigeration of food will prevent salmonellosis.",
+					"The Salmonella bacterium produces toxins that cause food poisoning.",
+					"Symptoms of salmonellosis appear within 12 hours."
+				],
+				"question": "Which of the following statements regarding the Salmonella bacterium is correct?",
+				"source": "See Food Poisoning"
+			},
+			"back": "The Salmonella bacterium itself causes food poisoning."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"How long ago was the substance taken?",
+					"Why was the substance ingested?",
+					"What type of substance was taken?",
+					"How much of the substance was taken?"
+				],
+				"question": "Which of the following questions would be least pertinent during the initial questioning of a patient who ingested a substance?",
+				"source": "See Identifying the Patient and the Poison"
+			},
+			"back": "Why was the substance ingested?"
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"avoid contaminating yourself.",
+					"obtain and maintain a patent airway.",
+					"decontaminate the patient’s skin.",
+					"move the patient to a safe area."
+				],
+				"question": "Your priority in caring for a patient with a surface contact poisoning is to:",
+				"source": "See How Poisons Enter the Body"
+			},
+			"back": "avoid contaminating yourself."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"ibuprofen.",
+					"acetaminophen.",
+					"aspirin.",
+					"cocaine."
+				],
+				"question": "A patient who presents with rapid breathing, nausea and vomiting, ringing in the ears, and hyperthermia should be suspected of ingesting a significant quantity of:",
+				"source": "See Specific Poisons"
+			},
+			"back": "aspirin."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"try to find the container the substance was in.",
+					"administer naloxone via the intranasal route.",
+					"keep the patient supine and elevate his legs.",
+					"encourage the patient to drink milk or water."
+				],
+				"question": "If you are uncertain how to treat a patient who has been poisoned or exposed to a specific substance, you should:",
+				"source": "See How Poisons Enter the Body"
+			},
+			"back": "try to find the container the substance was in."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"dependence.",
+					"withdrawal.",
+					"addiction.",
+					"tolerance."
+				],
+				"question": "A person who routinely misuses a substance and requires increasing amounts to achieve the same effect is experiencing:",
+				"source": "See Specific Poisons"
+			},
+			"back": "tolerance."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"call medical control.",
+					"monitor the patient’s blood pressure.",
+					"document the intervention.",
+					"be alert for vomiting."
+				],
+				"question": "After administering activated charcoal to a patient, it is most important to:",
+				"source": "See Emergency Medical Care"
+			},
+			"back": "be alert for vomiting."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"knows why the patient overdosed on the drug.",
+					"is aware of the substance that is involved.",
+					"knows the location of the closest hospital.",
+					"is aware of the patient’s age and gender."
+				],
+				"question": "The poison control center will provide you with the most information regarding the appropriate treatment for a patient with a drug overdose if the center:",
+				"source": "See How Poisons Enter the Body"
+			},
+			"back": "is aware of the substance that is involved."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"black stools.",
+					"abdominal pain.",
+					"headache.",
+					"ringing in the ears."
+				],
+				"question": "The major side effect associated with administration of activated charcoal is:",
+				"source": "See Emergency Medical Care"
+			},
+			"back": "black stools."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"Injected poison.",
+					"Plant poisoning.",
+					"Alkaline poison.",
+					"Inhaled poison."
+				],
+				"question": "What type of poisoning will cause burns around the mouth in children?",
+				"source": "See How Poisons Enter the Body"
+			},
+			"back": "Alkaline poison."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"InstaChar.",
+					"Fructose.",
+					"Actidose.",
+					"LiquiChar."
+				],
+				"question": "Common names for activated charcoal include all of the following, except:",
+				"source": "See Emergency Medical Care"
+			},
+			"back": "Fructose."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"crack cocaine.",
+					"oxycodone (Percocet).",
+					"ecstasy.",
+					"amphetamine sulfate (Benzedrine)."
+				],
+				"question": "Hypotension, hypoventilation, and pinpoint pupils would be expected following an overdose of:",
+				"source": "See Specific Poisons"
+			},
+			"back": "oxycodone (Percocet)."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"injection",
+					"inhalation",
+					"absorption",
+					"ingestion"
+				],
+				"question": "Most poisonings occur via the __________ route.",
+				"source": "See How Poisons Enter the Body"
+			},
+			"back": "ingestion"
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"sympathomimetic.",
+					"hypnotic.",
+					"cholinergic.",
+					"opioid."
+				],
+				"question": "Heroin is an example of a(n):",
+				"source": "See Specific Poisons"
+			},
+			"back": "opioid."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"recognize that a poisoning occurred.",
+					"administer the appropriate antidote.",
+					"contact poison control immediately.",
+					"administer 25 g of activated charcoal."
+				],
+				"question": "An EMT’s primary responsibility to the patient who has been poisoned is to:",
+				"source": "See Identifying the Patient and the Poison"
+			},
+			"back": "recognize that a poisoning occurred."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"tachycardia.",
+					"hypotension.",
+					"slurred speech.",
+					"hypothermia."
+				],
+				"question": "Signs and symptoms of a sympathomimetic drug overdose include:",
+				"source": "See Specific Poisons"
+			},
+			"back": "tachycardia."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"methanol.",
+					"ethanol.",
+					"aspirin.",
+					"iron."
+				],
+				"question": "Activated charcoal may be indicated for a patient who ingested:",
+				"source": "See Emergency Medical Care"
+			},
+			"back": "aspirin."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"increases the senses.",
+					"induces sleep.",
+					"increases the pulse.",
+					"prevents amnesia."
+				],
+				"question": "A hypnotic drug is one that:",
+				"source": "See Specific Poisons"
+			},
+			"back": "induces sleep."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"an alkaline antidote.",
+					"activated charcoal.",
+					"oxygen.",
+					"syrup of ipecac."
+				],
+				"question": "Airborne substances should be diluted with:",
+				"source": "See Patient Assessment"
+			},
+			"back": "oxygen."
+		},
+		{
+			"id": "category-chapter-22-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"knowingly selling illicit drugs to buy more drugs.",
+					"misusing a substance to produce a desired effect.",
+					"unwillingly and unknowingly consuming drugs or alcohol.",
+					"willfully using a therapeutic drug to treat a medical illness."
+				],
+				"question": "Substance abuse is most accurately defined as:",
+				"source": "See Identifying the Patient and the Poison"
+			},
+			"back": "misusing a substance to produce a desired effect."
+		}
+	],
+	"category": {
+		"value": "chapter-22",
+		"label": "Chapter 22"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

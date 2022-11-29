@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-06-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-1",
-			"front": "The electrical impulse of the heart normally begins at the:\n\nA. Purkinje fibers.\nB. sinoatrial node.\nC. atrioventricular node.\nD. bundle of His.\n\n(See The Circulatory System: Anatomy)",
+			"front": {
+				"choices": [
+					"Purkinje fibers.",
+					"sinoatrial node.",
+					"atrioventricular node.",
+					"bundle of His."
+				],
+				"question": "The electrical impulse of the heart normally begins at the:",
+				"source": "See The Circulatory System: Anatomy"
+			},
 			"back": "sinoatrial node."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-2",
-			"front": "The nose, chin, umbilicus (navel), and spine are examples of ___________ anatomic structures.\n\nA. midline\nB. midaxillary\nC. proximal\nD. superior\n\n(See Topographic Anatomy)",
+			"front": {
+				"choices": [
+					"midline",
+					"midaxillary",
+					"proximal",
+					"superior"
+				],
+				"question": "The nose, chin, umbilicus (navel), and spine are examples of ___________ anatomic structures.",
+				"source": "See Topographic Anatomy"
+			},
 			"back": "midline"
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-3",
-			"front": "Oxygen and carbon dioxide pass across the alveolar membrane in the lungs through a process called:\n\nA. ventilation.\nB. breathing.\nC. diffusion.\nD. osmosis.\n\n(See The Respiratory System: Physiology)",
+			"front": {
+				"choices": [
+					"ventilation.",
+					"breathing.",
+					"diffusion.",
+					"osmosis."
+				],
+				"question": "Oxygen and carbon dioxide pass across the alveolar membrane in the lungs through a process called:",
+				"source": "See The Respiratory System: Physiology"
+			},
 			"back": "diffusion."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-4",
-			"front": "The most distal four spinal vertebrae, which are fused together, form the:\n\nA. ischium.\nB. coccyx.\nC. ilium.\nD. sacrum.\n\n(See The Skeletal System: Anatomy)",
+			"front": {
+				"choices": [
+					"ischium.",
+					"coccyx.",
+					"ilium.",
+					"sacrum."
+				],
+				"question": "The most distal four spinal vertebrae, which are fused together, form the:",
+				"source": "See The Skeletal System: Anatomy"
+			},
 			"back": "coccyx."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-5",
-			"front": "White blood cells, which are also called leukocytes, function by:\n\nA. carrying oxygen and other nutrients.\nB. producing blood-clotting factors.\nC. producing the body’s erythrocytes.\nD. protecting the body from infection.\n\n(See The Circulatory System: Anatomy)",
+			"front": {
+				"choices": [
+					"carrying oxygen and other nutrients.",
+					"producing blood-clotting factors.",
+					"producing the body’s erythrocytes.",
+					"protecting the body from infection."
+				],
+				"question": "White blood cells, which are also called leukocytes, function by:",
+				"source": "See The Circulatory System: Anatomy"
+			},
 			"back": "protecting the body from infection."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-6",
-			"front": "The muscle tissue of the heart is called the:\n\nA. epicardium.\nB. pericardium.\nC. endocardium.\nD. myocardium.\n\n(See The Circulatory System: Anatomy)",
+			"front": {
+				"choices": [
+					"epicardium.",
+					"pericardium.",
+					"endocardium.",
+					"myocardium."
+				],
+				"question": "The muscle tissue of the heart is called the:",
+				"source": "See The Circulatory System: Anatomy"
+			},
 			"back": "myocardium."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-7",
-			"front": "The left side of the heart receives oxygenated blood from the lungs through the:\n\nA. pulmonary arteries.\nB. inferior venae cavae.\nC. superior venae cavae.\nD. pulmonary veins.\n\n(See The Circulatory System: Anatomy)",
+			"front": {
+				"choices": [
+					"pulmonary arteries.",
+					"inferior venae cavae.",
+					"superior venae cavae.",
+					"pulmonary veins."
+				],
+				"question": "The left side of the heart receives oxygenated blood from the lungs through the:",
+				"source": "See The Circulatory System: Anatomy"
+			},
 			"back": "pulmonary veins."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-8",
-			"front": "The central nervous system is composed of the:\n\nA. brain and spinal cord.\nB. brain and sensory nerves.\nC. motor and sensory nerves.\nD. spinal cord and sensory nerves.\n\n(See The Nervous System: Anatomy and Physiology)",
+			"front": {
+				"choices": [
+					"brain and spinal cord.",
+					"brain and sensory nerves.",
+					"motor and sensory nerves.",
+					"spinal cord and sensory nerves."
+				],
+				"question": "The central nervous system is composed of the:",
+				"source": "See The Nervous System: Anatomy and Physiology"
+			},
 			"back": "brain and spinal cord."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-9",
-			"front": "The axial skeleton is composed of the:\n\nA. skull, face, thorax, and vertebral column.\nB. bones that constitute the pelvic girdle.\nC. lower part of the torso and the legs.\nD. arms, legs, and pelvis.\n\n(See The Skeletal System: Anatomy)",
+			"front": {
+				"choices": [
+					"skull, face, thorax, and vertebral column.",
+					"bones that constitute the pelvic girdle.",
+					"lower part of the torso and the legs.",
+					"arms, legs, and pelvis."
+				],
+				"question": "The axial skeleton is composed of the:",
+				"source": "See The Skeletal System: Anatomy"
+			},
 			"back": "skull, face, thorax, and vertebral column."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-10",
-			"front": "All critical life functions are coordinated in which part of the brain?\n\nA. Cerebellum\nB. Brainstem\nC. Gray matter\nD. Cerebrum\n\n(See The Nervous System: Anatomy and Physiology)",
+			"front": {
+				"choices": [
+					"Cerebellum",
+					"Brainstem",
+					"Gray matter",
+					"Cerebrum"
+				],
+				"question": "All critical life functions are coordinated in which part of the brain?",
+				"source": "See The Nervous System: Anatomy and Physiology"
+			},
 			"back": "Brainstem"
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-11",
-			"front": "Dead space is the portion of the respiratory system that:\n\nA. must be filled with air before gas exchange can take place.\nB. receives oxygen but is unable to release carbon dioxide.\nC. includes the alveoli and capillaries surrounding the alveoli.\nD. contains no alveoli and does not participate in gas exchange.\n\n(See The Respiratory System: Physiology)",
+			"front": {
+				"choices": [
+					"must be filled with air before gas exchange can take place.",
+					"receives oxygen but is unable to release carbon dioxide.",
+					"includes the alveoli and capillaries surrounding the alveoli.",
+					"contains no alveoli and does not participate in gas exchange."
+				],
+				"question": "Dead space is the portion of the respiratory system that:",
+				"source": "See The Respiratory System: Physiology"
+			},
 			"back": "contains no alveoli and does not participate in gas exchange."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-12",
-			"front": "The elbow is an example of a ____________ joint.\n\nA. ball-and-socket\nB. hinge\nC. saddle\nD. gliding\n\n(See The Skeletal System: Anatomy)",
+			"front": {
+				"choices": [
+					"ball-and-socket",
+					"hinge",
+					"saddle",
+					"gliding"
+				],
+				"question": "The elbow is an example of a ____________ joint.",
+				"source": "See The Skeletal System: Anatomy"
+			},
 			"back": "hinge"
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-13",
-			"front": "As the bronchus divides into smaller bronchioles, the terminal ends of these smaller passages form the:\n\nA. bronchi.\nB. capillaries.\nC. pleura.\nD. alveoli.\n\n(See The Respiratory System: Anatomy)",
+			"front": {
+				"choices": [
+					"bronchi.",
+					"capillaries.",
+					"pleura.",
+					"alveoli."
+				],
+				"question": "As the bronchus divides into smaller bronchioles, the terminal ends of these smaller passages form the:",
+				"source": "See The Respiratory System: Anatomy"
+			},
 			"back": "alveoli."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-14",
-			"front": "Which of the following glands regulates the function of all other endocrine glands in the body?\n\nA. Thyroid\nB. Adrenal\nC. Parathyroid\nD. Pituitary\n\n(See The Endocrine System: Anatomy and Physiology)",
+			"front": {
+				"choices": [
+					"Thyroid",
+					"Adrenal",
+					"Parathyroid",
+					"Pituitary"
+				],
+				"question": "Which of the following glands regulates the function of all other endocrine glands in the body?",
+				"source": "See The Endocrine System: Anatomy and Physiology"
+			},
 			"back": "Pituitary"
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-15",
-			"front": "The exchange of oxygen and nutrients for waste products of metabolism occurs at the cellular level in the:\n\nA. arteries.\nB. arterioles.\nC. capillaries.\nD. venules.\n\n(See The Circulatory System: Anatomy)",
+			"front": {
+				"choices": [
+					"arteries.",
+					"arterioles.",
+					"capillaries.",
+					"venules."
+				],
+				"question": "The exchange of oxygen and nutrients for waste products of metabolism occurs at the cellular level in the:",
+				"source": "See The Circulatory System: Anatomy"
+			},
 			"back": "capillaries."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-16",
-			"front": "Key hormones of the sympathetic nervous system include:\n\nA. glucagon and noradrenaline.\nB. acetylcholine and insulin.\nC. norepinephrine and acetylcholine.\nD. epinephrine and norepinephrine.\n\n(See The Circulatory System: Physiology)",
+			"front": {
+				"choices": [
+					"glucagon and noradrenaline.",
+					"acetylcholine and insulin.",
+					"norepinephrine and acetylcholine.",
+					"epinephrine and norepinephrine."
+				],
+				"question": "Key hormones of the sympathetic nervous system include:",
+				"source": "See The Circulatory System: Physiology"
+			},
 			"back": "epinephrine and norepinephrine."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-17",
-			"front": "Which of the following organs or structures lies within the retroperitoneal space?\n\nA. Kidneys\nB. Spleen\nC. Ascending aorta\nD. Gallbladder\n\n(See The Digestive System: Anatomy)",
+			"front": {
+				"choices": [
+					"Kidneys",
+					"Spleen",
+					"Ascending aorta",
+					"Gallbladder"
+				],
+				"question": "Which of the following organs or structures lies within the retroperitoneal space?",
+				"source": "See The Digestive System: Anatomy"
+			},
 			"back": "Kidneys"
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-18",
-			"front": "The carpal bones form the:\n\nA. wrist.\nB. ankle.\nC. foot.\nD. hand.\n\n(See The Skeletal System: Anatomy)",
+			"front": {
+				"choices": [
+					"wrist.",
+					"ankle.",
+					"foot.",
+					"hand."
+				],
+				"question": "The carpal bones form the:",
+				"source": "See The Skeletal System: Anatomy"
+			},
 			"back": "wrist."
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-19",
-			"front": "Which of the following is not a facial bone?\n\nA. Zygoma\nB. Mandible\nC. Maxilla\nD. Mastoid\n\n(See The Skeletal System: Anatomy)",
+			"front": {
+				"choices": [
+					"Zygoma",
+					"Mandible",
+					"Maxilla",
+					"Mastoid"
+				],
+				"question": "Which of the following is not a facial bone?",
+				"source": "See The Skeletal System: Anatomy"
+			},
 			"back": "Mastoid"
 		},
 		{
 			"id": "category-chapter-06-tag-multiple-choice-card-20",
-			"front": "Skeletal muscle is also called:\n\nA. autonomic muscle.\nB. voluntary muscle.\nC. smooth muscle.\nD. involuntary muscle.\n\n(See The Musculoskeletal System: Anatomy)",
+			"front": {
+				"choices": [
+					"autonomic muscle.",
+					"voluntary muscle.",
+					"smooth muscle.",
+					"involuntary muscle."
+				],
+				"question": "Skeletal muscle is also called:",
+				"source": "See The Musculoskeletal System: Anatomy"
+			},
 			"back": "voluntary muscle."
 		}
 	],

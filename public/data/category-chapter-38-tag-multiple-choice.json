@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"stop the ambulance and confront the driver.",
+					"slow down and allow the driver to pass you.",
+					"increase your speed to create more distance.",
+					"slam on the brakes to frighten the tailgater."
+				],
+				"question": "When being tailgated by another vehicle while responding to an emergency call, you should:",
+				"source": "See Defensive Ambulance Driving Techniques"
+			},
+			"back": "slow down and allow the driver to pass you."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"disinfection.",
+					"sterilization.",
+					"high-level disinfection.",
+					"cleaning."
+				],
+				"question": "The process of removing dirt, dust, blood, or other visible contaminants from a surface or equipment is called:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "cleaning."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"hold a minimum capacity of 1,500 L of oxygen.",
+					"undergo hydrostatic testing on a weekly basis.",
+					"be capable of delivering oxygen at 1 to 15 L/min.",
+					"be easily identifiable by their bright green color."
+				],
+				"question": "Regardless of where portable and mounted oxygen cylinders are stored in the ambulance, they must:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "be capable of delivering oxygen at 1 to 15 L/min."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"transferring the patient to the ambulance.",
+					"emergency care provided at the scene.",
+					"checking equipment on the ambulance.",
+					"transport of the patient to the hospital."
+				],
+				"question": "Phases of an ambulance call include all of the following activities, except:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "emergency care provided at the scene."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"completing a detailed written report.",
+					"restocking any disposable items you used.",
+					"giving a verbal report to the triage clerk.",
+					"informing the dispatcher of your arrival."
+				],
+				"question": "Delivering a patient to the hospital involves all of the following activities, except:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "giving a verbal report to the triage clerk."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"remain in the extreme right-hand lane.",
+					"pass other drivers on the right side.",
+					"remain in the extreme left-hand lane.",
+					"drive in the center lane of the highway."
+				],
+				"question": "When driving an ambulance on a multilane highway in emergency mode, you should:",
+				"source": "See Defensive Ambulance Driving Techniques"
+			},
+			"back": "remain in the extreme left-hand lane."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"stop signs.",
+					"stop lights.",
+					"intersections.",
+					"railroad crossings."
+				],
+				"question": "The most common and usually the most serious ambulance crashes occur at:",
+				"source": "See Defensive Ambulance Driving Techniques"
+			},
+			"back": "intersections."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"I",
+					"II",
+					"IV",
+					"III"
+				],
+				"question": "A type _____ ambulance features a conventional, truck cab-chassis with a modular ambulance body that can be transferred to a newer chassis as needed.",
+				"source": "See Emergency Vehicle Design"
+			},
+			"back": "I"
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"an EMT and an AEMT.",
+					"at least one EMT.",
+					"an EMT and a paramedic.",
+					"at least two EMTs."
+				],
+				"question": "Minimum staffing in the patient compartment of a basic life support (BLS) ambulance includes:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "at least one EMT."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"Emergency childbirth kit",
+					"Long bone splinting device",
+					"Bleeding control supplies",
+					"Stethoscope and penlight"
+				],
+				"question": "Other than personal safety equipment, which of the following should be the most readily accessible item in the back of an ambulance?",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "Bleeding control supplies"
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"a positive attitude about the ability to tolerate other drivers.",
+					"realizing that lights and siren will be effective traffic tools.",
+					"the ability to operate an ambulance at a high rate of speed.",
+					"an offensive attitude about driving during an emergency call."
+				],
+				"question": "Characteristics of a safe ambulance operator include:",
+				"source": "See Defensive Ambulance Driving Techniques"
+			},
+			"back": "a positive attitude about the ability to tolerate other drivers."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"park downhill from the scene.",
+					"ask the driver to exit the vehicle.",
+					"position the ambulance upwind.",
+					"quickly gain access to the patient."
+				],
+				"question": "When arriving at the scene of an overturned tractor-trailer rig, you note that a green cloud is being emitted from the crashed vehicle. The driver is still in the truck; he is conscious but bleeding profusely from the head. After notifying the hazardous materials team, you should:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "position the ambulance upwind."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"120 and 140 mph.",
+					"100 and 120 mph.",
+					"150 and 200 mph.",
+					"130 and 150 mph."
+				],
+				"question": "Typically, medevac helicopters fly at speeds between:",
+				"source": "See Air Medical Operations"
+			},
+			"back": "130 and 150 mph."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"If the patient is stable, you may use the warning lights without the siren.",
+					"If it is necessary to use the siren, you should tell the patient beforehand.",
+					"Warning lights and siren should be avoided, even if the patient is unstable.",
+					"It is generally acceptable to increase your speed if lights and siren are in use."
+				],
+				"question": "Which of the following statements regarding the use of the warning lights and siren on the ambulance is correct?",
+				"source": "See Defensive Ambulance Driving Techniques"
+			},
+			"back": "If it is necessary to use the siren, you should tell the patient beforehand."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"pass the bus only after all the children have exited.",
+					"slowly and carefully pass the bus on the left side.",
+					"stop and wait until the warning lights stop flashing.",
+					"back up and take an alternate route to the scene."
+				],
+				"question": "While en route to a call for a patient in cardiac arrest, you approach a stopped school bus with its red warning lights flashing. You should:",
+				"source": "See Defensive Ambulance Driving Techniques"
+			},
+			"back": "stop and wait until the warning lights stop flashing."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"complete the run form before arrival at the hospital.",
+					"converse with the patient and provide reassurance.",
+					"reassess the patient only if he or she deteriorates.",
+					"reassess unstable patients at least every 15 minutes."
+				],
+				"question": "During the transport phase of an ambulance call, it is most important to:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "converse with the patient and provide reassurance."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"contain anything that you might need during the first 5 minutes of patient care.",
+					"facilitate defibrillation within 5 to 10 minutes after making patient contact.",
+					"carry advanced life support equipment approved by the EMS medical director.",
+					"manage a critically injured patient until he or she is loaded into the ambulance."
+				],
+				"question": "The purpose of a jump kit is to:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "contain anything that you might need during the first 5 minutes of patient care."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"400",
+					"100",
+					"200",
+					"300"
+				],
+				"question": "Portable and mounted suction units must be powerful enough to generate a vacuum of at least ____ mm Hg when the tubing is clamped.",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "300"
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"turnout gear.",
+					"safety goggles.",
+					"face shields.",
+					"hazardous materials gear."
+				],
+				"question": "Common safety equipment carried on the ambulance includes all of the following, except:",
+				"source": "See Phases of an Ambulance Call"
+			},
+			"back": "hazardous materials gear."
+		},
+		{
+			"id": "category-chapter-38-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"30",
+					"20",
+					"10",
+					"15"
+				],
+				"question": "Hydroplaning of the ambulance on wet roads would most likely occur at speeds of greater than _____ mph.",
+				"source": "See Defensive Ambulance Driving Techniques"
+			},
+			"back": "30"
+		}
+	],
+	"category": {
+		"value": "chapter-38",
+		"label": "Chapter 38"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

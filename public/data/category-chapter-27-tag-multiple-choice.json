@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-27-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-1",
-			"front": "Which of the following is a severe burn in a 35-year-old patient?\n\nA. Full-thickness burn to 5% of the body surface area\nB. Partial-thickness burn to 20% of the body surface area\nC. Superficial burn covering 50% of the body surface area\nD. Circumferential partial-thickness burn to the chest\n\n(See Burns)",
+			"front": {
+				"choices": [
+					"Full-thickness burn to 5% of the body surface area",
+					"Partial-thickness burn to 20% of the body surface area",
+					"Superficial burn covering 50% of the body surface area",
+					"Circumferential partial-thickness burn to the chest"
+				],
+				"question": "Which of the following is a severe burn in a 35-year-old patient?",
+				"source": "See Burns"
+			},
 			"back": "Circumferential partial-thickness burn to the chest"
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-2",
-			"front": "When treating a partial-thickness burn, you should:\n\nA. cover the burn with a moist, sterile dressing.\nB. immerse the affected part in warm water.\nC. avoid the use of creams, lotions, or antiseptics.\nD. rupture any blisters to prevent an infection.\n\n(See Emergency Medical Care of Burns)",
+			"front": {
+				"choices": [
+					"cover the burn with a moist, sterile dressing.",
+					"immerse the affected part in warm water.",
+					"avoid the use of creams, lotions, or antiseptics.",
+					"rupture any blisters to prevent an infection."
+				],
+				"question": "When treating a partial-thickness burn, you should:",
+				"source": "See Emergency Medical Care of Burns"
+			},
 			"back": "avoid the use of creams, lotions, or antiseptics."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-3",
-			"front": "Functions of dressings and bandages include all of the following, except:\n\nA. prevention of contamination.\nB. protection from further injury.\nC. control of external hemorrhage.\nD. immobilization of the injury.\n\n(See Dressing and Bandages)",
+			"front": {
+				"choices": [
+					"prevention of contamination.",
+					"protection from further injury.",
+					"control of external hemorrhage.",
+					"immobilization of the injury."
+				],
+				"question": "Functions of dressings and bandages include all of the following, except:",
+				"source": "See Dressing and Bandages"
+			},
 			"back": "immobilization of the injury."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-4",
-			"front": "An injury that separates various layers of soft tissue, resulting in complete detachment or a flap of skin, is called a(n):\n\nA. laceration.\nB. amputation.\nC. avulsion.\nD. incision.\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"front": {
+				"choices": [
+					"laceration.",
+					"amputation.",
+					"avulsion.",
+					"incision."
+				],
+				"question": "An injury that separates various layers of soft tissue, resulting in complete detachment or a flap of skin, is called a(n):",
+				"source": "See Pathophysiology of Closed and Open Injuries"
+			},
 			"back": "avulsion."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-5",
-			"front": "In contrast to animal bites, the bite of a human:\n\nA. typically results in a minor infection that is slow-spreading.\nB. is usually less severe because the human mouth is cleaner.\nC. is associated with a much higher incidence of rabies infection.\nD. carries with it a wide variety of virulent bacteria and viruses.\n\n(See Emergency Medical Care for Open Injuries)",
+			"front": {
+				"choices": [
+					"typically results in a minor infection that is slow-spreading.",
+					"is usually less severe because the human mouth is cleaner.",
+					"is associated with a much higher incidence of rabies infection.",
+					"carries with it a wide variety of virulent bacteria and viruses."
+				],
+				"question": "In contrast to animal bites, the bite of a human:",
+				"source": "See Emergency Medical Care for Open Injuries"
+			},
 			"back": "carries with it a wide variety of virulent bacteria and viruses."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-6",
-			"front": "In addition to external bleeding, the most significant risk that an open soft-tissue injury exposes a patient to is:\n\nA. vessel damage.\nB. nerve damage.\nC. infection.\nD. hypothermia.\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"front": {
+				"choices": [
+					"vessel damage.",
+					"nerve damage.",
+					"infection.",
+					"hypothermia."
+				],
+				"question": "In addition to external bleeding, the most significant risk that an open soft-tissue injury exposes a patient to is:",
+				"source": "See Pathophysiology of Closed and Open Injuries"
+			},
 			"back": "infection."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-7",
-			"front": "A burn that is characterized by redness and pain is classified as a:\n\nA. full-thickness burn.\nB. superficial burn.\nC. second-degree burn.\nD. partial-thickness burn.\n\n(See Burns)",
+			"front": {
+				"choices": [
+					"full-thickness burn.",
+					"superficial burn.",
+					"second-degree burn.",
+					"partial-thickness burn."
+				],
+				"question": "A burn that is characterized by redness and pain is classified as a:",
+				"source": "See Burns"
+			},
 			"back": "superficial burn."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-8",
-			"front": "A hematoma develops when:\n\nA. cells and small vessels in the dermis are damaged.\nB. large blood vessels beneath the skin are damaged.\nC. small amounts of blood leak into the epidermis.\nD. severe swelling compromises arterial circulation.\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"front": {
+				"choices": [
+					"cells and small vessels in the dermis are damaged.",
+					"large blood vessels beneath the skin are damaged.",
+					"small amounts of blood leak into the epidermis.",
+					"severe swelling compromises arterial circulation."
+				],
+				"question": "A hematoma develops when:",
+				"source": "See Pathophysiology of Closed and Open Injuries"
+			},
 			"back": "large blood vessels beneath the skin are damaged."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-9",
-			"front": "A closed soft-tissue injury characterized by swelling and ecchymosis is called a(n):\n\nA. contusion.\nB. hematoma.\nC. crush injury.\nD. abrasion.\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"front": {
+				"choices": [
+					"contusion.",
+					"hematoma.",
+					"crush injury.",
+					"abrasion."
+				],
+				"question": "A closed soft-tissue injury characterized by swelling and ecchymosis is called a(n):",
+				"source": "See Pathophysiology of Closed and Open Injuries"
+			},
 			"back": "contusion."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-10",
-			"front": "Functions of the skin include all of the following, except:\n\nA. maintenance of water balance.\nB. regulation of body temperature.\nC. sending information to the brain.\nD. the production of key antibodies.\n\n(See Anatomy and Physiology of the Skin)",
+			"front": {
+				"choices": [
+					"maintenance of water balance.",
+					"regulation of body temperature.",
+					"sending information to the brain.",
+					"the production of key antibodies."
+				],
+				"question": "Functions of the skin include all of the following, except:",
+				"source": "See Anatomy and Physiology of the Skin"
+			},
 			"back": "the production of key antibodies."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-11",
-			"front": "When caring for a patient whose arm is covered with a dry chemical, you should:\n\nA. quickly irrigate the arm with large amounts of water.\nB. brush away the chemical before flushing with water.\nC. deactivate the chemical with a 5% vinegar solution.\nD. use forceful streams of water to remove the chemical.\n\n(See Emergency Medical Care of Burns)",
+			"front": {
+				"choices": [
+					"quickly irrigate the arm with large amounts of water.",
+					"brush away the chemical before flushing with water.",
+					"deactivate the chemical with a 5% vinegar solution.",
+					"use forceful streams of water to remove the chemical."
+				],
+				"question": "When caring for a patient whose arm is covered with a dry chemical, you should:",
+				"source": "See Emergency Medical Care of Burns"
+			},
 			"back": "brush away the chemical before flushing with water."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-12",
-			"front": "When assessing a patient with a closed soft-tissue injury, it is most important to:\n\nA. manipulate the injury site for signs of a fracture.\nB. remain alert for more severe underlying injuries.\nC. assess circulation distal to the site of the injury.\nD. recognize that the integrity of the skin is broken.\n\n(See Pathophysiology of Closed and Open Injuries)",
+			"front": {
+				"choices": [
+					"manipulate the injury site for signs of a fracture.",
+					"remain alert for more severe underlying injuries.",
+					"assess circulation distal to the site of the injury.",
+					"recognize that the integrity of the skin is broken."
+				],
+				"question": "When assessing a patient with a closed soft-tissue injury, it is most important to:",
+				"source": "See Pathophysiology of Closed and Open Injuries"
+			},
 			"back": "remain alert for more severe underlying injuries."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-13",
-			"front": "An abdominal evisceration:\n\nA. is most commonly the result of blunt force trauma.\nB. often causes severe hypothermia because of heat loss.\nC. should be covered with bulky dry, sterile dressings.\nD. occurs when organs protrude through an open wound.\n\n(See Emergency Medical Care for Open Injuries)",
+			"front": {
+				"choices": [
+					"is most commonly the result of blunt force trauma.",
+					"often causes severe hypothermia because of heat loss.",
+					"should be covered with bulky dry, sterile dressings.",
+					"occurs when organs protrude through an open wound."
+				],
+				"question": "An abdominal evisceration:",
+				"source": "See Emergency Medical Care for Open Injuries"
+			},
 			"back": "occurs when organs protrude through an open wound."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-14",
-			"front": "You have applied a dressing and roller-gauze bandage to a laceration on the arm of a young female. During transport, she begins to complain of numbness and tingling in her hand. You should:\n\nA. carefully manipulate her arm until the symptoms subside.\nB. remove the gauze bandage and replace it with an elastic one.\nC. assess distal circulation and readjust the bandage as needed.\nD. remove the bandage and dressing and apply another one.\n\n(See Dressing and Bandages)",
+			"front": {
+				"choices": [
+					"carefully manipulate her arm until the symptoms subside.",
+					"remove the gauze bandage and replace it with an elastic one.",
+					"assess distal circulation and readjust the bandage as needed.",
+					"remove the bandage and dressing and apply another one."
+				],
+				"question": "You have applied a dressing and roller-gauze bandage to a laceration on the arm of a young female. During transport, she begins to complain of numbness and tingling in her hand. You should:",
+				"source": "See Dressing and Bandages"
+			},
 			"back": "assess distal circulation and readjust the bandage as needed."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-15",
-			"front": "Which of the following statements regarding the rule of nines is correct?\n\nA. The anterior trunk of an adult is equal to 18% of the body surface area.\nB. A child’s head is equal to 14% of his or her total body surface area.\nC. The anterior arm in the adult is equal to 9% of the total body surface area.\nD. The posterior of a child’s leg is equal to 13.5% of the body surface area.\n\n(See Burns)",
+			"front": {
+				"choices": [
+					"The anterior trunk of an adult is equal to 18% of the body surface area.",
+					"A child’s head is equal to 14% of his or her total body surface area.",
+					"The anterior arm in the adult is equal to 9% of the total body surface area.",
+					"The posterior of a child’s leg is equal to 13.5% of the body surface area."
+				],
+				"question": "Which of the following statements regarding the rule of nines is correct?",
+				"source": "See Burns"
+			},
 			"back": "The anterior trunk of an adult is equal to 18% of the body surface area."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-16",
-			"front": "Which of the following areas of the body has the thinnest skin?\n\nA. Scalp\nB. Back\nC. Ears\nD. Soles of the feet\n\n(See Anatomy and Physiology of the Skin)",
+			"front": {
+				"choices": [
+					"Scalp",
+					"Back",
+					"Ears",
+					"Soles of the feet"
+				],
+				"question": "Which of the following areas of the body has the thinnest skin?",
+				"source": "See Anatomy and Physiology of the Skin"
+			},
 			"back": "Ears"
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-17",
-			"front": "In addition to severe bleeding, the most life-threatening complication associated with an open neck injury is:\n\nA. an ischemic stroke.\nB. an air embolism.\nC. a spinal fracture.\nD. nerve fiber damage.\n\n(See Emergency Medical Care for Open Injuries)",
+			"front": {
+				"choices": [
+					"an ischemic stroke.",
+					"an air embolism.",
+					"a spinal fracture.",
+					"nerve fiber damage."
+				],
+				"question": "In addition to severe bleeding, the most life-threatening complication associated with an open neck injury is:",
+				"source": "See Emergency Medical Care for Open Injuries"
+			},
 			"back": "an air embolism."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-18",
-			"front": "What layer of the skin forms a watertight, protective seal for the body?\n\nA. Subcutaneous layer\nB. Dermis\nC. Epidermis\nD. Muscular layer\n\n(See Anatomy and Physiology of the Skin)",
+			"front": {
+				"choices": [
+					"Subcutaneous layer",
+					"Dermis",
+					"Epidermis",
+					"Muscular layer"
+				],
+				"question": "What layer of the skin forms a watertight, protective seal for the body?",
+				"source": "See Anatomy and Physiology of the Skin"
+			},
 			"back": "Epidermis"
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-19",
-			"front": "All of the following body structures are lined with mucous membranes, except for the:\n\nA. mouth.\nB. anus.\nC. nose.\nD. lips.\n\n(See Anatomy and Physiology of the Skin)",
+			"front": {
+				"choices": [
+					"mouth.",
+					"anus.",
+					"nose.",
+					"lips."
+				],
+				"question": "All of the following body structures are lined with mucous membranes, except for the:",
+				"source": "See Anatomy and Physiology of the Skin"
+			},
 			"back": "lips."
 		},
 		{
 			"id": "category-chapter-27-tag-multiple-choice-card-20",
-			"front": "A partial-thickness burn involves the outer layer of skin and a portion of the:\n\nA. fatty layer.\nB. muscle fascia.\nC. epidermis.\nD. dermal layer.\n\n(See Burns)",
+			"front": {
+				"choices": [
+					"fatty layer.",
+					"muscle fascia.",
+					"epidermis.",
+					"dermal layer."
+				],
+				"question": "A partial-thickness burn involves the outer layer of skin and a portion of the:",
+				"source": "See Burns"
+			},
 			"back": "dermal layer."
 		}
 	],

@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"Pulse",
+					"Body size",
+					"Activity",
+					"Grimace"
+				],
+				"question": "Which of the following is not a component of the Apgar score?",
+				"source": "See Neonatal Assessment and Resuscitation"
+			},
+			"back": "Body size"
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"is born before 38 weeks’ gestation or weighs less than 6 pounds.",
+					"weighs less than 5 pounds or is born before 36 weeks’ gestation.",
+					"is born before 40 weeks’ gestation or weighs less than 7 pounds.",
+					"weighs less than 5.5 pounds or is born before 37 weeks’ gestation."
+				],
+				"question": "An infant is premature if it:",
+				"source": "See Complicated Delivery Emergencies"
+			},
+			"back": "weighs less than 5 pounds or is born before 36 weeks’ gestation."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"assist in fetal development.",
+					"insulate and protect the fetus.",
+					"remove viruses from the fetus.",
+					"transfer oxygen to the fetus."
+				],
+				"question": "The amniotic fluid serves to:",
+				"source": "See Anatomy and Physiology of the Female Reproductive System"
+			},
+			"back": "insulate and protect the fetus."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"high levels of protein in the patient’s urine.",
+					"seizures that result from severe hypertension.",
+					"a blood pressure greater than 140/90 mm Hg.",
+					"hypertension in the 20th week of pregnancy."
+				],
+				"question": "Eclampsia is most accurately defined as:",
+				"source": "See Complications of Pregnancy"
+			},
+			"back": "seizures that result from severe hypertension."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"pubic bone.",
+					"xiphoid process.",
+					"belly button.",
+					"superior diaphragm."
+				],
+				"question": "By the 20th week of pregnancy, the uterus is typically at or above the level of the mother’s:",
+				"source": "See Normal Changes in Pregnancy"
+			},
+			"back": "belly button."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"has had only one live birth.",
+					"has never been pregnant.",
+					"is pregnant for the first time.",
+					"has had more than one live baby."
+				],
+				"question": "The term primigravida refers to a woman who:",
+				"source": "See Stages of Labor"
+			},
+			"back": "is pregnant for the first time."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"pregnancy causes an increased number of red blood cells, which predisposes the mother to anemia.",
+					"the blood naturally thins during pregnancy, which predisposes the mother to severe bleeding.",
+					"iron makes the blood clot faster, which protects the mother from excessive bleeding during delivery.",
+					"white blood cells decrease during pregnancy, which increases the mother’s risk of an infection."
+				],
+				"question": "Pregnant women are advised to take iron supplements, such as prenatal vitamins, because:",
+				"source": "See Normal Changes in Pregnancy"
+			},
+			"back": "pregnancy causes an increased number of red blood cells, which predisposes the mother to anemia."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"has an even proportionately larger head.",
+					"retains heat better because of excess body hair.",
+					"is often covered with excess vernix material.",
+					"is one who is born before 38 weeks’ gestation."
+				],
+				"question": "In contrast to a full-term infant, a premature infant:",
+				"source": "See Complicated Delivery Emergencies"
+			},
+			"back": "has an even proportionately larger head."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"3 to 5",
+					"15 to 30",
+					"30 to 60",
+					"5 to 10"
+				],
+				"question": "A newborn infant will usually begin breathing spontaneously within _______ seconds following birth.",
+				"source": "See Neonatal Assessment and Resuscitation"
+			},
+			"back": "15 to 30"
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"pregnancy causes vasodilation and a lower blood pressure.",
+					"pregnant patients can dramatically increase their heart rate.",
+					"pregnant patients have an overall increase in blood volume.",
+					"blood is shunted to the uterus and fetus during major trauma."
+				],
+				"question": "A pregnant trauma patient might lose a significant amount of blood before showing signs of shock because:",
+				"source": "See Special Considerations for Trauma and Pregnancy"
+			},
+			"back": "pregnant patients have an overall increase in blood volume."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"separates from the placenta shortly after birth.",
+					"contains two veins and one large umbilical artery.",
+					"carries oxygen to the baby via the umbilical vein.",
+					"carries blood away from the baby via the artery."
+				],
+				"question": "The umbilical cord:",
+				"source": "See Anatomy and Physiology of the Female Reproductive System"
+			},
+			"back": "carries oxygen to the baby via the umbilical vein."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"Uterine contractions last about 10 seconds.",
+					"The uterus becomes very soft and movable.",
+					"Uterine contractions become more regular.",
+					"Uterine contractions decrease in intensity."
+				],
+				"question": "Which of the following occurs during true labor?",
+				"source": "See Stages of Labor"
+			},
+			"back": "Uterine contractions become more regular."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"end of one to the start of the next.",
+					"end of one to the end of the next.",
+					"start of one to the start of the next.",
+					"start of one to the end of the next."
+				],
+				"question": "When determining the frequency of contractions, you should time the contractions from the:",
+				"source": "See Normal Delivery Management"
+			},
+			"back": "start of one to the start of the next."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"Breech deliveries occur rapidly, so the EMT should deliver at the scene.",
+					"It is impossible to deliver a breech presentation in the prehospital setting.",
+					"A breech presentation occurs when the buttocks are the presenting part.",
+					"There is minimal risk of trauma to the infant with a breech presentation."
+				],
+				"question": "Which of the following statements regarding a breech presentation is correct?",
+				"source": "See Complicated Delivery Emergencies"
+			},
+			"back": "A breech presentation occurs when the buttocks are the presenting part."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"have delivered a baby before.",
+					"have gestational diabetes.",
+					"are pregnant for the first time.",
+					"are younger than 30 years of age."
+				],
+				"question": "A precipitous labor and delivery is most common in women who:",
+				"source": "See Normal Delivery Management"
+			},
+			"back": "have delivered a baby before."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"low birth weight.",
+					"premature delivery.",
+					"profound tachycardia.",
+					"respiratory depression."
+				],
+				"question": "Fetal complications associated with drug- or alcohol-addicted mothers include all of the following, except:",
+				"source": "See Complications of Pregnancy"
+			},
+			"back": "profound tachycardia."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"Expulsion of the mucus plug from the vagina",
+					"Crowning of the baby’s head",
+					"Irregular contractions lasting 10 minutes",
+					"Rupture of the amniotic sac"
+				],
+				"question": "Which of the following is an indication of imminent birth?",
+				"source": "See Normal Delivery Management"
+			},
+			"back": "Crowning of the baby’s head"
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"ensure that it is thoroughly dried and warmed.",
+					"position it so that its head is higher than its body.",
+					"immediately clamp and cut the umbilical cord.",
+					"cool the infant to stimulate effective breathing."
+				],
+				"question": "After a baby is born, it is important to:",
+				"source": "See Normal Delivery Management"
+			},
+			"back": "ensure that it is thoroughly dried and warmed."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"might present without significant abdominal pain.",
+					"might not present with heavy vaginal bleeding.",
+					"is typically associated with severe abdominal pain.",
+					"is caused by hypertension or abdominal trauma."
+				],
+				"question": "In contrast to abruptio placenta, placenta previa:",
+				"source": "See Complications of Pregnancy"
+			},
+			"back": "might present without significant abdominal pain."
+		},
+		{
+			"id": "category-chapter-34-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"thorough drying with a towel.",
+					"suctioning of the upper airway.",
+					"some form of tactile stimulation.",
+					"positive-pressure ventilations."
+				],
+				"question": "Common interventions used to stimulate spontaneous respirations in the newborn include all of the following, except:",
+				"source": "See Neonatal Assessment and Resuscitation"
+			},
+			"back": "positive-pressure ventilations."
+		}
+	],
+	"category": {
+		"value": "chapter-34",
+		"label": "Chapter 34"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}

@@ -9,9 +9,17 @@ declare global {
 
     type Tag = { label: string; value: string };
 
+    type CardFront =
+        | string
+        | {
+              question: string;
+              choices: string[];
+              source: string;
+          };
+
     type Card = {
         id: string;
-        front: string;
+        front: CardFront;
         back: string;
     };
 

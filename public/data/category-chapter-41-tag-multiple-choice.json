@@ -1,0 +1,294 @@
+{
+	"cards": [
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-1",
+			"front": {
+				"choices": [
+					"pulmonary edema and circulatory failure.",
+					"enlarged lymph nodes and extreme pain.",
+					"necrosis of muscle tissue and cell destruction.",
+					"intestinal obstruction and severe sepsis."
+				],
+				"question": "When introduced into the body, ricin causes:",
+				"source": "See Biologic Agents"
+			},
+			"back": "pulmonary edema and circulatory failure."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-2",
+			"front": {
+				"choices": [
+					"potentiation.",
+					"weaponization.",
+					"alkalization.",
+					"dissemination."
+				],
+				"question": "The process performed to artificially maximize the target population’s exposure to a biologic agent, thereby exposing the greatest number of people and achieving the desired result, is called:",
+				"source": "See Weapons of Mass Destruction"
+			},
+			"back": "weaponization."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-3",
+			"front": {
+				"choices": [
+					"Hydrogen cyanide",
+					"Phosgene oxime",
+					"Carbon monoxide",
+					"Organophosphates"
+				],
+				"question": "Which of the following agents blocks the body’s ability to use oxygen and possesses an odor similar to almonds?",
+				"source": "See Chemical Agents"
+			},
+			"back": "Hydrogen cyanide"
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-4",
+			"front": {
+				"choices": [
+					"Cutaneous anthrax has a 90% mortality rate.",
+					"Anthrax is a deadly virus that replicates.",
+					"Pulmonary anthrax is the deadliest form.",
+					"There is presently no vaccine against anthrax."
+				],
+				"question": "Which of the following statements regarding anthrax is correct?",
+				"source": "See Biologic Agents"
+			},
+			"back": "Pulmonary anthrax is the deadliest form."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-5",
+			"front": {
+				"choices": [
+					"unplanned.",
+					"nuclear attacks.",
+					"impulsive.",
+					"covert."
+				],
+				"question": "Most terrorist attacks are:",
+				"source": "See EMT Response to Terrorism"
+			},
+			"back": "covert."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-6",
+			"front": {
+				"choices": [
+					"neutron.",
+					"beta.",
+					"gamma.",
+					"alpha."
+				],
+				"question": "The least harmful form of ionizing radiation is:",
+				"source": "See Radiologic/Nuclear Devices"
+			},
+			"back": "alpha."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-7",
+			"front": {
+				"choices": [
+					"violent religious group.",
+					"single-issue terrorist group.",
+					"extremist political group.",
+					"group of domestic terrorists."
+				],
+				"question": "The chemical attacks that occurred in Tokyo between 1994 and 1995 were carried out by a(n):",
+				"source": "See What Is Terrorism?"
+			},
+			"back": "violent religious group."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-8",
+			"front": {
+				"choices": [
+					"nervous system.",
+					"skin.",
+					"vascular system.",
+					"respiratory tract."
+				],
+				"question": "The primary route of exposure of vesicant agents is the:",
+				"source": "See Chemical Agents"
+			},
+			"back": "skin."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-9",
+			"front": {
+				"choices": [
+					"are of different shapes and sizes.",
+					"are identical in their development.",
+					"initially form on the lower trunk.",
+					"develop early during the disease."
+				],
+				"question": "The skin lesions associated with smallpox:",
+				"source": "See Biologic Agents"
+			},
+			"back": "are identical in their development."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-10",
+			"front": {
+				"choices": [
+					"type of material used to manufacture the device.",
+					"pressure that is generated from the explosion itself.",
+					"patient’s distance from the epicenter of the explosion.",
+					"size of the structure that was involved in the explosion."
+				],
+				"question": "The type and severity of wounds sustained from incendiary and explosive devices primarily depend on the:",
+				"source": "See Incendiary and Explosive Devices"
+			},
+			"back": "patient’s distance from the epicenter of the explosion."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-11",
+			"front": {
+				"choices": [
+					"an ecoterrorist attack.",
+					"apocalyptic violence.",
+					"state-sponsored terrorism.",
+					"domestic terrorism."
+				],
+				"question": "The 1996 Summer Olympics bombing is an example of:",
+				"source": "See Active Shooter Events"
+			},
+			"back": "domestic terrorism."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-12",
+			"front": {
+				"choices": [
+					"locate the medical staging officer to obtain his or her assignment.",
+					"begin triaging patients and start treating the most critical ones.",
+					"contact the EMS medical director and obtain further instructions.",
+					"remain in the rehabilitation area until he or she is assigned a task."
+				],
+				"question": "If the incident command system is already established at the scene of a terrorist attack, the EMT should:",
+				"source": "See EMT Response to Terrorism"
+			},
+			"back": "locate the medical staging officer to obtain his or her assignment."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-13",
+			"front": {
+				"choices": [
+					"Phosgene",
+					"Soman",
+					"Chlorine",
+					"Lewisite"
+				],
+				"question": "Which of the following chemicals is a nerve agent?",
+				"source": "See Chemical Agents"
+			},
+			"back": "Soman"
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-14",
+			"front": {
+				"choices": [
+					"have a slow onset of symptoms.",
+					"cause high fever.",
+					"cause skin blistering.",
+					"are not contagious."
+				],
+				"question": "Unlike viruses and bacteria, neurotoxins:",
+				"source": "See Biologic Agents"
+			},
+			"back": "are not contagious."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-15",
+			"front": {
+				"choices": [
+					"attack the bone marrow and destroy cells.",
+					"seep out of the blood vessels and tissues.",
+					"engorge the brain and cause hemorrhaging.",
+					"become thick and spontaneously clot."
+				],
+				"question": "Viral hemorrhagic fevers (VHF), such as Ebola, cause the blood to:",
+				"source": "See Biologic Agents"
+			},
+			"back": "seep out of the blood vessels and tissues."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-16",
+			"front": {
+				"choices": [
+					"an EMT is exposed to a victim who has not yet been decontaminated.",
+					"an EMT has direct contact with a chemical agent at a terrorist incident.",
+					"two EMTs are exposed to the same agent after being decontaminated.",
+					"an EMT provides care to a victim after the victim has been decontaminated."
+				],
+				"question": "Cross-contamination occurs when:",
+				"source": "See EMT Response to Terrorism"
+			},
+			"back": "an EMT is exposed to a victim who has not yet been decontaminated."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-17",
+			"front": {
+				"choices": [
+					"The dirty bomb, because of its ability to cause massive damage over a large geographic area, is an effective WMD.",
+					"Dirty bombs could injure victims with both radioactive material and the explosive material used to deliver it.",
+					"Dirty bombs contain significant amounts of radioactive material and are capable of being delivered via a missile.",
+					"The effectiveness of a dirty bomb is solely dependent on the amount of alpha radiation that it emits."
+				],
+				"question": "Which of the following statements regarding a “dirty bomb” is correct?",
+				"source": "See Radiologic/Nuclear Devices"
+			},
+			"back": "Dirty bombs could injure victims with both radioactive material and the explosive material used to deliver it."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-18",
+			"front": {
+				"choices": [
+					"the spectrum of signs that define a disease.",
+					"any agent that acts as a carrier or transporter.",
+					"the ability of a virus or bacterium to be spread.",
+					"the period of time between exposure and illness."
+				],
+				"question": "A disease vector is defined as:",
+				"source": "See Biologic Agents"
+			},
+			"back": "any agent that acts as a carrier or transporter."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-19",
+			"front": {
+				"choices": [
+					"single-issue group.",
+					"violent religious group.",
+					"extremist political group.",
+					"doomsday cult."
+				],
+				"question": "An attack on an abortion clinic would most likely be carried out by a(n):",
+				"source": "See What Is Terrorism?"
+			},
+			"back": "single-issue group."
+		},
+		{
+			"id": "category-chapter-41-tag-multiple-choice-card-20",
+			"front": {
+				"choices": [
+					"weapons of mass destruction are distributed.",
+					"antidotes, antibiotics, and vaccines are distributed.",
+					"chemical weapons are manufactured and distributed.",
+					"chemical and biologic weapons are stockpiled."
+				],
+				"question": "Points of distribution (PODs) are strategically placed facilities where:",
+				"source": "See Biologic Agents"
+			},
+			"back": "antidotes, antibiotics, and vaccines are distributed."
+		}
+	],
+	"category": {
+		"value": "chapter-41",
+		"label": "Chapter 41"
+	},
+	"tags": [
+		{
+			"value": "multiple-choice",
+			"label": "Multiple Choice"
+		}
+	]
+}
