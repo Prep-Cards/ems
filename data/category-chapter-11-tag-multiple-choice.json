@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-11-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-1",
-			"front": "The hypoxic drive is influenced by:\n\nA. high blood carbon dioxide levels.\nB. low blood carbon dioxide levels.\nC. low blood oxygen levels.\nD. high blood oxygen levels.\nSee Physiology of Breathing",
+			"front": {
+				"choices": [
+					"high blood carbon dioxide levels.",
+					"low blood carbon dioxide levels.",
+					"low blood oxygen levels.",
+					"high blood oxygen levels."
+				],
+				"question": "The hypoxic drive is influenced by:",
+				"source": "See Physiology of Breathing"
+			},
 			"back": "low blood oxygen levels."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-2",
-			"front": "Which of the following organs or tissues can survive the longest without oxygen?\n\nA. Heart\nB. Muscle\nC. Liver\nD. Kidneys\nSee Supplemental Oxygen",
+			"front": {
+				"choices": [
+					"Heart",
+					"Muscle",
+					"Liver",
+					"Kidneys"
+				],
+				"question": "Which of the following organs or tissues can survive the longest without oxygen?",
+				"source": "See Supplemental Oxygen"
+			},
 			"back": "Muscle"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-3",
-			"front": "A patient who is suspected of being hypoxic and is breathing adequately should be given supplemental oxygen with a:\n\nA. mouth-to-mask device.\nB. bag-mask device.\nC. nasal cannula.\nD. nonrebreathing mask.\nSee Oxygen-Delivery Equipment",
+			"front": {
+				"choices": [
+					"mouth-to-mask device.",
+					"bag-mask device.",
+					"nasal cannula.",
+					"nonrebreathing mask."
+				],
+				"question": "A patient who is suspected of being hypoxic and is breathing adequately should be given supplemental oxygen with a:",
+				"source": "See Oxygen-Delivery Equipment"
+			},
 			"back": "nonrebreathing mask."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-4",
-			"front": "Which of the following is a late sign of hypoxia?\n\nA. Anxiety\nB. Restlessness\nC. Tachycardia\nD. Cyanosis\nSee Physiology of Breathing",
+			"front": {
+				"choices": [
+					"Anxiety",
+					"Restlessness",
+					"Tachycardia",
+					"Cyanosis"
+				],
+				"question": "Which of the following is a late sign of hypoxia?",
+				"source": "See Physiology of Breathing"
+			},
 			"back": "Cyanosis"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-5",
-			"front": "The pressure of gas in a full cylinder of oxygen is approximately _______ pounds per square inch (psi).\n\nA. 500\nB. 1,000\nC. 3,000\nD. 2,000\nSee Supplemental Oxygen",
+			"front": {
+				"choices": [
+					"500",
+					"1,000",
+					"3,000",
+					"2,000"
+				],
+				"question": "The pressure of gas in a full cylinder of oxygen is approximately _______ pounds per square inch (psi).",
+				"source": "See Supplemental Oxygen"
+			},
 			"back": "2,000"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-6",
-			"front": "The diaphragm is innervated by the _________ nerve, which allows it to contract.\n\nA. vestibulocochlear\nB. hypoglossal\nC. vagus\nD. phrenic\nSee Anatomy of the Respiratory System",
+			"front": {
+				"choices": [
+					"vestibulocochlear",
+					"hypoglossal",
+					"vagus",
+					"phrenic"
+				],
+				"question": "The diaphragm is innervated by the _________ nerve, which allows it to contract.",
+				"source": "See Anatomy of the Respiratory System"
+			},
 			"back": "phrenic"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-7",
-			"front": "Irregular respirations characterized by an increasing rate and depth of breathing followed by periods of apnea are called:\n\nA. Cheyne-Stokes respirations.\nB. eupneic respirations.\nC. agonal respirations.\nD. ataxic respirations.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"Cheyne-Stokes respirations.",
+					"eupneic respirations.",
+					"agonal respirations.",
+					"ataxic respirations."
+				],
+				"question": "Irregular respirations characterized by an increasing rate and depth of breathing followed by periods of apnea are called:",
+				"source": "See Patient Assessment"
+			},
 			"back": "Cheyne-Stokes respirations."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-8",
-			"front": "Oxygen toxicity is a condition in which:\n\nA. decreased levels of oxygen in the blood result in free radical production.\nB. significantly low levels of oxygen in the blood damage the cellular tissue.\nC. cellular tissue damage occurs from excessive oxygen levels in the blood.\nD. excessive blood oxygen levels cause the hypoxic patient to stop breathing.\nSee Supplemental Oxygen",
+			"front": {
+				"choices": [
+					"decreased levels of oxygen in the blood result in free radical production.",
+					"significantly low levels of oxygen in the blood damage the cellular tissue.",
+					"cellular tissue damage occurs from excessive oxygen levels in the blood.",
+					"excessive blood oxygen levels cause the hypoxic patient to stop breathing."
+				],
+				"question": "Oxygen toxicity is a condition in which:",
+				"source": "See Supplemental Oxygen"
+			},
 			"back": "cellular tissue damage occurs from excessive oxygen levels in the blood."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-9",
-			"front": "Structures of the lower airway include all of the following, EXCEPT:\n\nA. the trachea.\nB. bronchioles.\nC. alveoli.\nD. the epiglottis.\nSee Anatomy of the Respiratory System",
+			"front": {
+				"choices": [
+					"the trachea.",
+					"bronchioles.",
+					"alveoli.",
+					"the epiglottis."
+				],
+				"question": "Structures of the lower airway include all of the following, EXCEPT:",
+				"source": "See Anatomy of the Respiratory System"
+			},
 			"back": "the epiglottis."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-10",
-			"front": "Gas exchange in the lungs is facilitated by:\n\nA. adequate amounts of surfactant.\nB. surfactant-destroying organisms.\nC. water or blood within the alveoli.\nD. pulmonary capillary constriction.\nSee Physiology of Breathing",
+			"front": {
+				"choices": [
+					"adequate amounts of surfactant.",
+					"surfactant-destroying organisms.",
+					"water or blood within the alveoli.",
+					"pulmonary capillary constriction."
+				],
+				"question": "Gas exchange in the lungs is facilitated by:",
+				"source": "See Physiology of Breathing"
+			},
 			"back": "adequate amounts of surfactant."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-11",
-			"front": "At a flow rate of 6 L/min, a nasal cannula can deliver an approximate oxygen concentration of up to:\n\nA. 52%.\nB. 35%.\nC. 24%.\nD. 44%.\nSee Oxygen-Delivery Equipment",
+			"front": {
+				"choices": [
+					"52%.",
+					"35%.",
+					"24%.",
+					"44%."
+				],
+				"question": "At a flow rate of 6 L/min, a nasal cannula can deliver an approximate oxygen concentration of up to:",
+				"source": "See Oxygen-Delivery Equipment"
+			},
 			"back": "44%."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-12",
-			"front": "Which of the following structures is NOT found in the upper airway?\n\nA. Oropharynx\nB. Pharynx\nC. Bronchus\nD. Larynx\nSee Anatomy of the Respiratory System",
+			"front": {
+				"choices": [
+					"Oropharynx",
+					"Pharynx",
+					"Bronchus",
+					"Larynx"
+				],
+				"question": "Which of the following structures is NOT found in the upper airway?",
+				"source": "See Anatomy of the Respiratory System"
+			},
 			"back": "Bronchus"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-13",
-			"front": "Which of the following factors will cause a reduction in minute volume in an adult?\n\nA. Shallow breathing\nB. Respirations of 20 breaths/min\nC. Increased tidal volume\nD. Slight increase in respiratory rate\nSee Physiology of Breathing",
+			"front": {
+				"choices": [
+					"Shallow breathing",
+					"Respirations of 20 breaths/min",
+					"Increased tidal volume",
+					"Slight increase in respiratory rate"
+				],
+				"question": "Which of the following factors will cause a reduction in minute volume in an adult?",
+				"source": "See Physiology of Breathing"
+			},
 			"back": "Shallow breathing"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-14",
-			"front": "Which of the following oxygen flowmeters is NOT affected by gravity and can be used in any position when attached to an oxygen cylinder?\n\nA. Bourdon-gauge flowmeter\nB. Pressure-compensated flowmeter\nC. Ball-and-float flowmeter\nD. Vertical-position flowmeter\nSee Supplemental Oxygen",
+			"front": {
+				"choices": [
+					"Bourdon-gauge flowmeter",
+					"Pressure-compensated flowmeter",
+					"Ball-and-float flowmeter",
+					"Vertical-position flowmeter"
+				],
+				"question": "Which of the following oxygen flowmeters is NOT affected by gravity and can be used in any position when attached to an oxygen cylinder?",
+				"source": "See Supplemental Oxygen"
+			},
 			"back": "Bourdon-gauge flowmeter"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-15",
-			"front": "What is the MOST common cause of airway obstruction in an unconscious patient?\n\nA. The tongue\nB. Blood clots\nC. Aspirated fluid\nD. Vomitus\nSee Opening the Airway",
+			"front": {
+				"choices": [
+					"The tongue",
+					"Blood clots",
+					"Aspirated fluid",
+					"Vomitus"
+				],
+				"question": "What is the MOST common cause of airway obstruction in an unconscious patient?",
+				"source": "See Opening the Airway"
+			},
 			"back": "The tongue"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-16",
-			"front": "High-flow oxygen with a nasal cannula during the preoxygenation phase of endotracheal intubation is called:\n\nA. passive ventilation.\nB. active ventilation.\nC. denitrogenation.\nD. apneic oxygenation.\nSee Assisting With ALS Airway Procedures",
+			"front": {
+				"choices": [
+					"passive ventilation.",
+					"active ventilation.",
+					"denitrogenation.",
+					"apneic oxygenation."
+				],
+				"question": "High-flow oxygen with a nasal cannula during the preoxygenation phase of endotracheal intubation is called:",
+				"source": "See Assisting With ALS Airway Procedures"
+			},
 			"back": "apneic oxygenation."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-17",
-			"front": "With a good mask-to-face seal and an oxygen flow rate of 15 L/min, the nonrebreathing mask is capable of delivering up to ______% inspired oxygen.\n\nA. 90\nB. 70\nC. 100\nD. 80\nSee Oxygen-Delivery Equipment",
+			"front": {
+				"choices": [
+					"90",
+					"70",
+					"100",
+					"80"
+				],
+				"question": "With a good mask-to-face seal and an oxygen flow rate of 15 L/min, the nonrebreathing mask is capable of delivering up to ______% inspired oxygen.",
+				"source": "See Oxygen-Delivery Equipment"
+			},
 			"back": "90"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-18",
-			"front": "The presence of elevated carbon dioxide levels in the blood is called:\n\nA. hypoxia.\nB. hypercarbia.\nC. hypoxemia.\nD. acidosis.\nSee Physiology of Breathing",
+			"front": {
+				"choices": [
+					"hypoxia.",
+					"hypercarbia.",
+					"hypoxemia.",
+					"acidosis."
+				],
+				"question": "The presence of elevated carbon dioxide levels in the blood is called:",
+				"source": "See Physiology of Breathing"
+			},
 			"back": "hypercarbia."
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-19",
-			"front": "Which of the following patients is breathing adequately?\n\nA. An unconscious 52-year-old female with snoring respirations and cool, pale skin\nB. A conscious male with respirations of 18 breaths/min and reduced tidal volume\nC. A conscious male with respirations of 19 breaths/min and pink skin\nD. A conscious female with facial cyanosis and rapid, shallow respirations\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"An unconscious 52-year-old female with snoring respirations and cool, pale skin",
+					"A conscious male with respirations of 18 breaths/min and reduced tidal volume",
+					"A conscious male with respirations of 19 breaths/min and pink skin",
+					"A conscious female with facial cyanosis and rapid, shallow respirations"
+				],
+				"question": "Which of the following patients is breathing adequately?",
+				"source": "See Patient Assessment"
+			},
 			"back": "A conscious male with respirations of 19 breaths/min and pink skin"
 		},
 		{
 			"id": "category-chapter-11-tag-multiple-choice-card-20",
-			"front": "An oxygen cylinder should be taken out of service and refilled when the pressure inside it is less than:\n\nA. 1,000 psi.\nB. 200 psi.\nC. 1,500 psi.\nD. 500 psi.\nSee Supplemental Oxygen",
+			"front": {
+				"choices": [
+					"1,000 psi.",
+					"200 psi.",
+					"1,500 psi.",
+					"500 psi."
+				],
+				"question": "An oxygen cylinder should be taken out of service and refilled when the pressure inside it is less than:",
+				"source": "See Supplemental Oxygen"
+			},
 			"back": "500 psi."
 		}
 	],

@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-04-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-1",
-			"front": "When relaying patient information via radio, communications should be:\n\nA. spoken in a loud voice.\nB. brief and easily understood.\nC. lengthy and complete.\nD. coded and scripted.\nSee Radio Communications",
+			"front": {
+				"choices": [
+					"spoken in a loud voice.",
+					"brief and easily understood.",
+					"lengthy and complete.",
+					"coded and scripted."
+				],
+				"question": "When relaying patient information via radio, communications should be:",
+				"source": "See Radio Communications"
+			},
 			"back": "brief and easily understood."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-2",
-			"front": "Which type of communications equipment functions as a radio receiver and searches across several frequencies?\n\nA. Mobile repeater\nB. Duplex station\nC. Simplex station\nD. Scanner\nSee Communications Systems and Equipment",
+			"front": {
+				"choices": [
+					"Mobile repeater",
+					"Duplex station",
+					"Simplex station",
+					"Scanner"
+				],
+				"question": "Which type of communications equipment functions as a radio receiver and searches across several frequencies?",
+				"source": "See Communications Systems and Equipment"
+			},
 			"back": "Scanner"
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-3",
-			"front": "Two-way communication that requires the EMT to “push to talk” and “release to listen” describes which mode of communication?\n\nA. Simplex\nB. Complex\nC. Duplex\nD. Multiplex\nSee Communications Systems and Equipment",
+			"front": {
+				"choices": [
+					"Simplex",
+					"Complex",
+					"Duplex",
+					"Multiplex"
+				],
+				"question": "Two-way communication that requires the EMT to “push to talk” and “release to listen” describes which mode of communication?",
+				"source": "See Communications Systems and Equipment"
+			},
 			"back": "Simplex"
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-4",
-			"front": "Which of the following statements regarding communication with a child is correct?\n\nA. Unlike adults, children cannot see through lies or deceptions.\nB. Most children are intrigued by strangers wearing uniforms.\nC. The EMT should give the child minimal information to avoid scaring him or her.\nD. Standing over a child often increases his or her level of anxiety.\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"Unlike adults, children cannot see through lies or deceptions.",
+					"Most children are intrigued by strangers wearing uniforms.",
+					"The EMT should give the child minimal information to avoid scaring him or her.",
+					"Standing over a child often increases his or her level of anxiety."
+				],
+				"question": "Which of the following statements regarding communication with a child is correct?",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "Standing over a child often increases his or her level of anxiety."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-5",
-			"front": "When communicating with a visually impaired patient, you should:\n\nA. recall that most visually impaired patients are blind.\nB. possess an in-depth knowledge of sign language.\nC. expect the patient to have difficulty understanding.\nD. determine the degree of the patient’s impairment.\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"recall that most visually impaired patients are blind.",
+					"possess an in-depth knowledge of sign language.",
+					"expect the patient to have difficulty understanding.",
+					"determine the degree of the patient’s impairment."
+				],
+				"question": "When communicating with a visually impaired patient, you should:",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "determine the degree of the patient’s impairment."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-6",
-			"front": "A patient’s refusal of EMS treatment and/or transport must be:\n\nA. authorized by a judge.\nB. an informed refusal.\nC. witnessed by a notary.\nD. reported to the police.\nSee Written Communications and Documentation",
+			"front": {
+				"choices": [
+					"authorized by a judge.",
+					"an informed refusal.",
+					"witnessed by a notary.",
+					"reported to the police."
+				],
+				"question": "A patient’s refusal of EMS treatment and/or transport must be:",
+				"source": "See Written Communications and Documentation"
+			},
 			"back": "an informed refusal."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-7",
-			"front": "As you are wheeling your patient through the emergency department doors, you receive another call for a major motor vehicle crash. You should:\n\nA. place the patient in a high-visibility area and then respond to the call.\nB. inform the admissions clerk of the situation and then respond at once.\nC. respond only after giving a verbal patient report to a nurse or physician.\nD. leave a copy of the run form with a nurse and then respond to the call.\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"place the patient in a high-visibility area and then respond to the call.",
+					"inform the admissions clerk of the situation and then respond at once.",
+					"respond only after giving a verbal patient report to a nurse or physician.",
+					"leave a copy of the run form with a nurse and then respond to the call."
+				],
+				"question": "As you are wheeling your patient through the emergency department doors, you receive another call for a major motor vehicle crash. You should:",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "respond only after giving a verbal patient report to a nurse or physician."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-8",
-			"front": "Any radio hardware containing a transmitter and a receiver that is located in a fixed location is called a:\n\nA. multiplex.\nB. mobile radio.\nC. base station.\nD. repeater.\nSee Communications Systems and Equipment",
+			"front": {
+				"choices": [
+					"multiplex.",
+					"mobile radio.",
+					"base station.",
+					"repeater."
+				],
+				"question": "Any radio hardware containing a transmitter and a receiver that is located in a fixed location is called a:",
+				"source": "See Communications Systems and Equipment"
+			},
 			"back": "base station."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-9",
-			"front": "Ethnocentrism is defined as:\n\nA. considering your own cultural values as more important when interacting with people of a different culture.\nB. subconsciously forcing your cultural values onto a patient because you believe that your own values are more acceptable.\nC. suspecting that a person has an ulterior motive based on the tone of his or her voice when answering a question.\nD. understanding that people from different cultural backgrounds respond to pain and stress differently.\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"considering your own cultural values as more important when interacting with people of a different culture.",
+					"subconsciously forcing your cultural values onto a patient because you believe that your own values are more acceptable.",
+					"suspecting that a person has an ulterior motive based on the tone of his or her voice when answering a question.",
+					"understanding that people from different cultural backgrounds respond to pain and stress differently."
+				],
+				"question": "Ethnocentrism is defined as:",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "considering your own cultural values as more important when interacting with people of a different culture."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-10",
-			"front": "A ___________ receives messages and signals on one frequency and then automatically retransmits them on a second frequency.\n\nA. repeater\nB. scanner\nC. decoder\nD. duplex\nSee Communications Systems and Equipment",
+			"front": {
+				"choices": [
+					"repeater",
+					"scanner",
+					"decoder",
+					"duplex"
+				],
+				"question": "A ___________ receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
+				"source": "See Communications Systems and Equipment"
+			},
 			"back": "repeater"
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-11",
-			"front": "During the alert and dispatch phase of EMS communications, the dispatcher’s responsibilities include all of the following, except:\n\nA. discouraging the caller from providing care until the EMS unit arrives.\nB. coordinating responding EMS units with other public safety personnel.\nC. selecting and notifying the correct EMS response units and personnel.\nD. screening and assigning a priority to each call based on local protocols.\nSee Radio Communications",
+			"front": {
+				"choices": [
+					"discouraging the caller from providing care until the EMS unit arrives.",
+					"coordinating responding EMS units with other public safety personnel.",
+					"selecting and notifying the correct EMS response units and personnel.",
+					"screening and assigning a priority to each call based on local protocols."
+				],
+				"question": "During the alert and dispatch phase of EMS communications, the dispatcher’s responsibilities include all of the following, except:",
+				"source": "See Radio Communications"
+			},
 			"back": "discouraging the caller from providing care until the EMS unit arrives."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-12",
-			"front": "When providing a patient report via radio, you should protect the patient’s privacy by:\n\nA. refraining from objective statements.\nB. using coded medical language.\nC. withholding medical history data.\nD. not disclosing his or her name.\nSee Radio Communications",
+			"front": {
+				"choices": [
+					"refraining from objective statements.",
+					"using coded medical language.",
+					"withholding medical history data.",
+					"not disclosing his or her name."
+				],
+				"question": "When providing a patient report via radio, you should protect the patient’s privacy by:",
+				"source": "See Radio Communications"
+			},
 			"back": "not disclosing his or her name."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-13",
-			"front": "The patient care report (PCR) ensures:\n\nA. continuity of care.\nB. quality assurance.\nC. availability of research data.\nD. legal protection.\nSee Written Communications and Documentation",
+			"front": {
+				"choices": [
+					"continuity of care.",
+					"quality assurance.",
+					"availability of research data.",
+					"legal protection."
+				],
+				"question": "The patient care report (PCR) ensures:",
+				"source": "See Written Communications and Documentation"
+			},
 			"back": "continuity of care."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-14",
-			"front": "Communicating with hearing-impaired patients can be facilitated by doing all of the following, except:\n\nA. placing yourself in a position to ensure that the patient can see your lips.\nB. shining a light on your face when you are in a darkened environment.\nC. providing pen and paper if the patient prefers to write his or her response.\nD. elevating the tone of your voice and exaggerating word pronunciation.\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"placing yourself in a position to ensure that the patient can see your lips.",
+					"shining a light on your face when you are in a darkened environment.",
+					"providing pen and paper if the patient prefers to write his or her response.",
+					"elevating the tone of your voice and exaggerating word pronunciation."
+				],
+				"question": "Communicating with hearing-impaired patients can be facilitated by doing all of the following, except:",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "elevating the tone of your voice and exaggerating word pronunciation."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-15",
-			"front": "In which of the following manners should you act and speak with a patient?\n\nA. Authoritative\nB. Loud and official\nC. Calm and confident\nD. Passive\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"Authoritative",
+					"Loud and official",
+					"Calm and confident",
+					"Passive"
+				],
+				"question": "In which of the following manners should you act and speak with a patient?",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "Calm and confident"
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-16",
-			"front": "You could be sued for ___________ if your radio report to the hospital describes the patient in a manner that injures his or her reputation.\n\nA. negligence\nB. slander\nC. libel\nD. assault\nSee Radio Communications",
+			"front": {
+				"choices": [
+					"negligence",
+					"slander",
+					"libel",
+					"assault"
+				],
+				"question": "You could be sued for ___________ if your radio report to the hospital describes the patient in a manner that injures his or her reputation.",
+				"source": "See Radio Communications"
+			},
 			"back": "slander"
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-17",
-			"front": "You are caring for a 52-year-old man who complains of chest discomfort. The patient is a retired paramedic and is very anxious because he thinks he is having a heart attack. Which of the following statements would be appropriate?\n\nA. “I notice that you are a retired paramedic, so I’m sure you will understand all of the things that we will be doing to you.”\nB. “This is nothing to worry about. Please try to stay calm. The physician at the hospital will probably not find any signs of a heart problem.”\nC. “We need to take you to the ED stat. We will give you ASA and NTG en route and then reassess your vitals. Do you have any questions?”\nD. “It is possible that you are experiencing a heart attack. I am going to give you four baby aspirin to chew and swallow.”\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"“I notice that you are a retired paramedic, so I’m sure you will understand all of the things that we will be doing to you.”",
+					"“This is nothing to worry about. Please try to stay calm. The physician at the hospital will probably not find any signs of a heart problem.”",
+					"“We need to take you to the ED stat. We will give you ASA and NTG en route and then reassess your vitals. Do you have any questions?”",
+					"“It is possible that you are experiencing a heart attack. I am going to give you four baby aspirin to chew and swallow.”"
+				],
+				"question": "You are caring for a 52-year-old man who complains of chest discomfort. The patient is a retired paramedic and is very anxious because he thinks he is having a heart attack. Which of the following statements would be appropriate?",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "“It is possible that you are experiencing a heart attack. I am going to give you four baby aspirin to chew and swallow.”"
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-18",
-			"front": "Calming and reassuring an anxious patient can be facilitated by:\n\nA. withholding unpleasant information until arrival at the hospital.\nB. maintaining eye contact with the patient whenever possible.\nC. using medical terminology to ensure the patient understands.\nD. positioning yourself at a level that is higher than the patient.\nSee Therapeutic Communication",
+			"front": {
+				"choices": [
+					"withholding unpleasant information until arrival at the hospital.",
+					"maintaining eye contact with the patient whenever possible.",
+					"using medical terminology to ensure the patient understands.",
+					"positioning yourself at a level that is higher than the patient."
+				],
+				"question": "Calming and reassuring an anxious patient can be facilitated by:",
+				"source": "See Therapeutic Communication"
+			},
 			"back": "maintaining eye contact with the patient whenever possible."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-19",
-			"front": "All information recorded on the PCR must be:\n\nA. considered confidential.\nB. a matter of public record.\nC. reflective of your opinion.\nD. typewritten or printed.\nSee Written Communications and Documentation",
+			"front": {
+				"choices": [
+					"considered confidential.",
+					"a matter of public record.",
+					"reflective of your opinion.",
+					"typewritten or printed."
+				],
+				"question": "All information recorded on the PCR must be:",
+				"source": "See Written Communications and Documentation"
+			},
 			"back": "considered confidential."
 		},
 		{
 			"id": "category-chapter-04-tag-multiple-choice-card-20",
-			"front": "Which of the following incidents does not require a report to be filed with local authorities?\n\nA. Gunshot wounds\nB. Animal bites\nC. Spousal abuse\nD. Cardiac arrest\nSee Written Communications and Documentation",
+			"front": {
+				"choices": [
+					"Gunshot wounds",
+					"Animal bites",
+					"Spousal abuse",
+					"Cardiac arrest"
+				],
+				"question": "Which of the following incidents does not require a report to be filed with local authorities?",
+				"source": "See Written Communications and Documentation"
+			},
 			"back": "Cardiac arrest"
 		}
 	],

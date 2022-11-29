@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-05-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-1",
-			"front": "A young male jumped from a tree and landed feet first. Which aspect of his body has sustained the initial injury?\n\nA. Palmar\nB. Ventral\nC. Dorsal\nD. Plantar\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"Palmar",
+					"Ventral",
+					"Dorsal",
+					"Plantar"
+				],
+				"question": "A young male jumped from a tree and landed feet first. Which aspect of his body has sustained the initial injury?",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "Plantar"
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-2",
-			"front": "Which of the following anatomic terms is synonymous with the word “dorsal”?\n\nA. Anterior\nB. Posterior\nC. Medial\nD. Palmar\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"Anterior",
+					"Posterior",
+					"Medial",
+					"Palmar"
+				],
+				"question": "Which of the following anatomic terms is synonymous with the word “dorsal”?",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "Posterior"
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-3",
-			"front": "After applying a tourniquet, the injury from a patient’s leg stops bleeding. This is called:\n\nA. hemolysis.\nB. hemostasis.\nC. hematemesis.\nD. hemiplegia.\nSee Master Tables",
+			"front": {
+				"choices": [
+					"hemolysis.",
+					"hemostasis.",
+					"hematemesis.",
+					"hemiplegia."
+				],
+				"question": "After applying a tourniquet, the injury from a patient’s leg stops bleeding. This is called:",
+				"source": "See Master Tables"
+			},
 			"back": "hemostasis."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-4",
-			"front": "A patient has fractured both femurs. Anatomically, these injuries would be described as being:\n\nA. unilateral.\nB. proximal.\nC. bilateral.\nD. medial.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"unilateral.",
+					"proximal.",
+					"bilateral.",
+					"medial."
+				],
+				"question": "A patient has fractured both femurs. Anatomically, these injuries would be described as being:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "bilateral."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-5",
-			"front": "In relation to the chest, the back is:\n\nA. ventral.\nB. posterior.\nC. inferior.\nD. anterior.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"ventral.",
+					"posterior.",
+					"inferior.",
+					"anterior."
+				],
+				"question": "In relation to the chest, the back is:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "posterior."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-6",
-			"front": "The ___________ of the heart is the inferior portion of the ventricles.\n\nA. septum\nB. base\nC. dorsum\nD. apex\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"septum",
+					"base",
+					"dorsum",
+					"apex"
+				],
+				"question": "The ___________ of the heart is the inferior portion of the ventricles.",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "apex"
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-7",
-			"front": "The term “supraventricular tachycardia” means:\n\nA. a rapid heart rate that originates from above the ventricles.\nB. a rapid heart rate that originates from within the ventricles.\nC. a slow heart rate that originates from above the ventricles.\nD. a slow heart rate that originates from within the ventricles.\nSee Master Tables",
+			"front": {
+				"choices": [
+					"a rapid heart rate that originates from above the ventricles.",
+					"a rapid heart rate that originates from within the ventricles.",
+					"a slow heart rate that originates from above the ventricles.",
+					"a slow heart rate that originates from within the ventricles."
+				],
+				"question": "The term “supraventricular tachycardia” means:",
+				"source": "See Master Tables"
+			},
 			"back": "a rapid heart rate that originates from above the ventricles."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-8",
-			"front": "A diabetic patient has polydipsia. This means that she:\n\nA. is excessively thirsty.\nB. is unable to swallow.\nC. has low blood sugar.\nD. urinates frequently.\nSee Master Tables",
+			"front": {
+				"choices": [
+					"is excessively thirsty.",
+					"is unable to swallow.",
+					"has low blood sugar.",
+					"urinates frequently."
+				],
+				"question": "A diabetic patient has polydipsia. This means that she:",
+				"source": "See Master Tables"
+			},
 			"back": "is excessively thirsty."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-9",
-			"front": "An intoxicated 40-year-old male is found lying face down. How would you document his body’s position?\n\nA. Recumbent\nB. Dorsal\nC. Prone\nD. Supine\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"Recumbent",
+					"Dorsal",
+					"Prone",
+					"Supine"
+				],
+				"question": "An intoxicated 40-year-old male is found lying face down. How would you document his body’s position?",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "Prone"
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-10",
-			"front": "A fracture of the humerus just above the elbow would be described as a:\n\nA. proximal humerus fracture.\nB. distal forearm fracture.\nC. proximal elbow fracture.\nD. distal humerus fracture.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"proximal humerus fracture.",
+					"distal forearm fracture.",
+					"proximal elbow fracture.",
+					"distal humerus fracture."
+				],
+				"question": "A fracture of the humerus just above the elbow would be described as a:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "distal humerus fracture."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-11",
-			"front": "Movement or motion away from the body’s midline is called:\n\nA. abduction.\nB. adduction.\nC. flexion.\nD. extension.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"abduction.",
+					"adduction.",
+					"flexion.",
+					"extension."
+				],
+				"question": "Movement or motion away from the body’s midline is called:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "abduction."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-12",
-			"front": "The topographic term used to describe the parts of the body that are nearer to the feet is:\n\nA. superior.\nB. dorsal.\nC. internal.\nD. inferior.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"superior.",
+					"dorsal.",
+					"internal.",
+					"inferior."
+				],
+				"question": "The topographic term used to describe the parts of the body that are nearer to the feet is:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "inferior."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-13",
-			"front": "In relation to the wrist, the elbow is:\n\nA. proximal.\nB. lateral.\nC. distal.\nD. medial.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"proximal.",
+					"lateral.",
+					"distal.",
+					"medial."
+				],
+				"question": "In relation to the wrist, the elbow is:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "proximal."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-14",
-			"front": "Enlargement of the liver is called:\n\nA. hydrocephalus.\nB. hepatomegaly.\nC. nephritis.\nD. pneumonitis.\nSee Master Tables",
+			"front": {
+				"choices": [
+					"hydrocephalus.",
+					"hepatomegaly.",
+					"nephritis.",
+					"pneumonitis."
+				],
+				"question": "Enlargement of the liver is called:",
+				"source": "See Master Tables"
+			},
 			"back": "hepatomegaly."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-15",
-			"front": "The topographic term used to describe the location of body parts that are closer toward the midline of the body is:\n\nA. medial.\nB. midaxillary.\nC. midclavicular.\nD. lateral.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"medial.",
+					"midaxillary.",
+					"midclavicular.",
+					"lateral."
+				],
+				"question": "The topographic term used to describe the location of body parts that are closer toward the midline of the body is:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "medial."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-16",
-			"front": "A patient in a semi-reclined position with the head elevated to facilitate breathing is in the ___________ position.\n\nA. recovery\nB. prone\nC. supine\nD. Fowler\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"recovery",
+					"prone",
+					"supine",
+					"Fowler"
+				],
+				"question": "A patient in a semi-reclined position with the head elevated to facilitate breathing is in the ___________ position.",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "Fowler"
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-17",
-			"front": "A 5-year-old boy has fallen and has a severe deformity of the forearm near the wrist. He has possibly sustained a fracture of the ____________ forearm.\n\nA. dorsal\nB. proximal\nC. distal\nD. superior\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"dorsal",
+					"proximal",
+					"distal",
+					"superior"
+				],
+				"question": "A 5-year-old boy has fallen and has a severe deformity of the forearm near the wrist. He has possibly sustained a fracture of the ____________ forearm.",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "distal"
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-18",
-			"front": "A patient with a pneumothorax has unilateral chest expansion. This means that:\n\nA. only one side of his chest rises when he inhales.\nB. his chest and his abdomen are moving in opposite directions.\nC. both of his lungs are expanding when he inhales.\nD. both sides of his chest are moving minimally.\nSee Common Direction, Movement, and Position Terms",
+			"front": {
+				"choices": [
+					"only one side of his chest rises when he inhales.",
+					"his chest and his abdomen are moving in opposite directions.",
+					"both of his lungs are expanding when he inhales.",
+					"both sides of his chest are moving minimally."
+				],
+				"question": "A patient with a pneumothorax has unilateral chest expansion. This means that:",
+				"source": "See Common Direction, Movement, and Position Terms"
+			},
 			"back": "only one side of his chest rises when he inhales."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-19",
-			"front": "A pregnant patient is diagnosed with hyperemesis gravidarum. This means that:\n\nA. her unborn baby is very large.\nB. her respiratory rate is rapid.\nC. she has frequent urination.\nD. she has excessive vomiting.\nSee Breaking Terms Apart",
+			"front": {
+				"choices": [
+					"her unborn baby is very large.",
+					"her respiratory rate is rapid.",
+					"she has frequent urination.",
+					"she has excessive vomiting."
+				],
+				"question": "A pregnant patient is diagnosed with hyperemesis gravidarum. This means that:",
+				"source": "See Breaking Terms Apart"
+			},
 			"back": "she has excessive vomiting."
 		},
 		{
 			"id": "category-chapter-05-tag-multiple-choice-card-20",
-			"front": "The term “pericardiocentesis” means:\n\nA. the removal of fluid from around the heart.\nB. a surgical opening made in the heart.\nC. narrowing of the arteries supplying the heart.\nD. surgical repair of the sac around the heart.\nSee Master Tables",
+			"front": {
+				"choices": [
+					"the removal of fluid from around the heart.",
+					"a surgical opening made in the heart.",
+					"narrowing of the arteries supplying the heart.",
+					"surgical repair of the sac around the heart."
+				],
+				"question": "The term “pericardiocentesis” means:",
+				"source": "See Master Tables"
+			},
 			"back": "the removal of fluid from around the heart."
 		}
 	],

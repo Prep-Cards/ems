@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-12-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-1",
-			"front": "When assessing an elderly male who complains of nausea and generalized weakness, you find that he takes atorvastatin (Lipitor) and amlodipine (Norvasc). These medications suggest a history of:\n\nA. cardiovascular disease.\nB. bacterial infection.\nC. reactive airway disease.\nD. non–insulin-dependent diabetes.\nSee Patient Medications",
+			"front": {
+				"choices": [
+					"cardiovascular disease.",
+					"bacterial infection.",
+					"reactive airway disease.",
+					"non–insulin-dependent diabetes."
+				],
+				"question": "When assessing an elderly male who complains of nausea and generalized weakness, you find that he takes atorvastatin (Lipitor) and amlodipine (Norvasc). These medications suggest a history of:",
+				"source": "See Patient Medications"
+			},
 			"back": "cardiovascular disease."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-2",
-			"front": "A medication with antagonistic properties is one that:\n\nA. enhances the effects of another medication when given in a higher dose.\nB. blocks receptor sites and prevents other chemicals from attaching to them.\nC. stimulates receptor sites and allows other chemicals to attach to them.\nD. produces a cumulative effect when mixed with the same type of medication.\nSee How Medications Work",
+			"front": {
+				"choices": [
+					"enhances the effects of another medication when given in a higher dose.",
+					"blocks receptor sites and prevents other chemicals from attaching to them.",
+					"stimulates receptor sites and allows other chemicals to attach to them.",
+					"produces a cumulative effect when mixed with the same type of medication."
+				],
+				"question": "A medication with antagonistic properties is one that:",
+				"source": "See How Medications Work"
+			},
 			"back": "blocks receptor sites and prevents other chemicals from attaching to them."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-3",
-			"front": "Which of the following statements regarding the metered-dose inhaler (MDI) is correct?\n\nA. MDIs are contraindicated for patients with asthma or emphysema.\nB. MDIs are most commonly used by patients with cardiovascular disease.\nC. Shaking an MDI prior to use will cause deactivation of the medication.\nD. An MDI delivers the same amount of medication every time it is used.\nSee Medication Forms",
+			"front": {
+				"choices": [
+					"MDIs are contraindicated for patients with asthma or emphysema.",
+					"MDIs are most commonly used by patients with cardiovascular disease.",
+					"Shaking an MDI prior to use will cause deactivation of the medication.",
+					"An MDI delivers the same amount of medication every time it is used."
+				],
+				"question": "Which of the following statements regarding the metered-dose inhaler (MDI) is correct?",
+				"source": "See Medication Forms"
+			},
 			"back": "An MDI delivers the same amount of medication every time it is used."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-4",
-			"front": "Aspirin is beneficial to patients suspected of having a heart attack because it:\n\nA. causes direct coronary vasodilation.\nB. reduces the associated chest pain.\nC. prevents the aggregation of platelets.\nD. dissolves the coronary artery clot.\nSee Medications Used by EMTs",
+			"front": {
+				"choices": [
+					"causes direct coronary vasodilation.",
+					"reduces the associated chest pain.",
+					"prevents the aggregation of platelets.",
+					"dissolves the coronary artery clot."
+				],
+				"question": "Aspirin is beneficial to patients suspected of having a heart attack because it:",
+				"source": "See Medications Used by EMTs"
+			},
 			"back": "prevents the aggregation of platelets."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-5",
-			"front": "The term “pharmacology” is MOST accurately defined as:\n\nA. the study of drug excretion from the human body.\nB. the study of drugs that are produced illegally.\nC. the study of drugs and their actions on the body.\nD. the study of how medications affect the brain.\nSee How Medications Work",
+			"front": {
+				"choices": [
+					"the study of drug excretion from the human body.",
+					"the study of drugs that are produced illegally.",
+					"the study of drugs and their actions on the body.",
+					"the study of how medications affect the brain."
+				],
+				"question": "The term “pharmacology” is MOST accurately defined as:",
+				"source": "See How Medications Work"
+			},
 			"back": "the study of drugs and their actions on the body."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-6",
-			"front": "Which of the following statements regarding glucose is correct?\n\nA. Glucose is a simple sugar that is readily absorbed by the cells.\nB. Glucose is given to patients who are suspected of being hyperglycemic.\nC. Glucose is a complex sugar that rapidly absorbs into the bloodstream.\nD. Glucose is usually administered by the EMT via the intravenous route.\nSee Medications Used by EMTs",
+			"front": {
+				"choices": [
+					"Glucose is a simple sugar that is readily absorbed by the cells.",
+					"Glucose is given to patients who are suspected of being hyperglycemic.",
+					"Glucose is a complex sugar that rapidly absorbs into the bloodstream.",
+					"Glucose is usually administered by the EMT via the intravenous route."
+				],
+				"question": "Which of the following statements regarding glucose is correct?",
+				"source": "See Medications Used by EMTs"
+			},
 			"back": "Glucose is a simple sugar that is readily absorbed by the cells."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-7",
-			"front": "The __________ of a medication usually dictates the route by which it will be administered.\n\nA. class\nB. form\nC. type\nD. name\nSee Medication Forms",
+			"front": {
+				"choices": [
+					"class",
+					"form",
+					"type",
+					"name"
+				],
+				"question": "The __________ of a medication usually dictates the route by which it will be administered.",
+				"source": "See Medication Forms"
+			},
 			"back": "form"
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-8",
-			"front": "The medical term for a low blood glucose level is:\n\nA. hypoglycemia.\nB. hypertension.\nC. hypotension.\nD. hyperglycemia.\nSee Medications Used by EMTs",
+			"front": {
+				"choices": [
+					"hypoglycemia.",
+					"hypertension.",
+					"hypotension.",
+					"hyperglycemia."
+				],
+				"question": "The medical term for a low blood glucose level is:",
+				"source": "See Medications Used by EMTs"
+			},
 			"back": "hypoglycemia."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-9",
-			"front": "Which of the following medication routes delivers a drug through the skin over an extended period of time, such as a nitroglycerin or fentanyl patch?\n\nA. Intraosseous\nB. Subcutaneous\nC. Transcutaneous\nD. Sublingual\nSee How Medications Work",
+			"front": {
+				"choices": [
+					"Intraosseous",
+					"Subcutaneous",
+					"Transcutaneous",
+					"Sublingual"
+				],
+				"question": "Which of the following medication routes delivers a drug through the skin over an extended period of time, such as a nitroglycerin or fentanyl patch?",
+				"source": "See How Medications Work"
+			},
 			"back": "Transcutaneous"
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-10",
-			"front": "With the flowmeter set at 6 L/min, the nasal cannula will deliver up to _______ oxygen.\n\nA. 24%\nB. 14%\nC. 44%\nD. 34%\nSee Medications Used by EMTs",
+			"front": {
+				"choices": [
+					"24%",
+					"14%",
+					"44%",
+					"34%"
+				],
+				"question": "With the flowmeter set at 6 L/min, the nasal cannula will deliver up to _______ oxygen.",
+				"source": "See Medications Used by EMTs"
+			},
 			"back": "44%"
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-11",
-			"front": "What medication form does oral glucose come in?\n\nA. Fine powder\nB. Gel\nC. Suspension\nD. Liquid\nSee Medication Forms",
+			"front": {
+				"choices": [
+					"Fine powder",
+					"Gel",
+					"Suspension",
+					"Liquid"
+				],
+				"question": "What medication form does oral glucose come in?",
+				"source": "See Medication Forms"
+			},
 			"back": "Gel"
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-12",
-			"front": "In ___________ administration, you are administering medication to yourself or your partner.\n\nA. peer-assisted\nB. EMT-administered\nC. patient-assisted\nD. paramedic-administered\nSee Medication Administration and the EMT",
+			"front": {
+				"choices": [
+					"peer-assisted",
+					"EMT-administered",
+					"patient-assisted",
+					"paramedic-administered"
+				],
+				"question": "In ___________ administration, you are administering medication to yourself or your partner.",
+				"source": "See Medication Administration and the EMT"
+			},
 			"back": "peer-assisted"
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-13",
-			"front": "An EMT may administer aspirin to a patient if:\n\nA. transport time to the hospital is greater than 30 minutes.\nB. authorization from medical control has been obtained.\nC. the patient is believed to be experiencing an acute stroke.\nD. the patient is currently experiencing hypotension.\nSee General Steps in Administering Medication",
+			"front": {
+				"choices": [
+					"transport time to the hospital is greater than 30 minutes.",
+					"authorization from medical control has been obtained.",
+					"the patient is believed to be experiencing an acute stroke.",
+					"the patient is currently experiencing hypotension."
+				],
+				"question": "An EMT may administer aspirin to a patient if:",
+				"source": "See General Steps in Administering Medication"
+			},
 			"back": "authorization from medical control has been obtained."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-14",
-			"front": "You are treating a 45-year-old woman who was stung by a hornet and has a rash. She tells you that she is allergic to hornets and has her own epinephrine auto-injector. She also tells you that she takes medication for hypertension. Her breath sounds do not reveal any wheezing, her breathing is unlabored, and her blood pressure is 154/94 mm Hg. What should you do if you are not able to make contact with medical control?\n\nA. Begin immediate transport and request an intercept with a paramedic ambulance.\nB. Administer her epinephrine, reassess her condition, and transport her promptly.\nC. Give her half the dose of her epinephrine in case her allergic reaction is delayed.\nD. Begin transport to the hospital and closely monitor her condition while en route.\nSee Medications Used by EMTs",
+			"front": {
+				"choices": [
+					"Begin immediate transport and request an intercept with a paramedic ambulance.",
+					"Administer her epinephrine, reassess her condition, and transport her promptly.",
+					"Give her half the dose of her epinephrine in case her allergic reaction is delayed.",
+					"Begin transport to the hospital and closely monitor her condition while en route."
+				],
+				"question": "You are treating a 45-year-old woman who was stung by a hornet and has a rash. She tells you that she is allergic to hornets and has her own epinephrine auto-injector. She also tells you that she takes medication for hypertension. Her breath sounds do not reveal any wheezing, her breathing is unlabored, and her blood pressure is 154/94 mm Hg. What should you do if you are not able to make contact with medical control?",
+				"source": "See Medications Used by EMTs"
+			},
 			"back": "Begin transport to the hospital and closely monitor her condition while en route."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-15",
-			"front": "Separation is especially an issue with medicine used as a(n):\n\nA. elixir.\nB. suspension.\nC. solution.\nD. gel.\nSee Medication Forms",
+			"front": {
+				"choices": [
+					"elixir.",
+					"suspension.",
+					"solution.",
+					"gel."
+				],
+				"question": "Separation is especially an issue with medicine used as a(n):",
+				"source": "See Medication Forms"
+			},
 			"back": "suspension."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-16",
-			"front": "Which of the following statements regarding the epinephrine auto-injector is correct?\n\nA. The epinephrine auto-injector delivers a preset amount of the drug.\nB. The adult auto-injector delivers 0.5 to 1 mg of epinephrine.\nC. EMTs do not need physician authorization to use the auto-injector.\nD. The auto-injector delivers epinephrine via the subcutaneous route.\nSee Medications Used by EMTs",
+			"front": {
+				"choices": [
+					"The epinephrine auto-injector delivers a preset amount of the drug.",
+					"The adult auto-injector delivers 0.5 to 1 mg of epinephrine.",
+					"EMTs do not need physician authorization to use the auto-injector.",
+					"The auto-injector delivers epinephrine via the subcutaneous route."
+				],
+				"question": "Which of the following statements regarding the epinephrine auto-injector is correct?",
+				"source": "See Medications Used by EMTs"
+			},
 			"back": "The epinephrine auto-injector delivers a preset amount of the drug."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-17",
-			"front": "Which of the following is an example of a generic of a drug?\n\nA. Aspirin\nB. Advil\nC. Excedrin\nD. Bayer\nSee How Medications Work",
+			"front": {
+				"choices": [
+					"Aspirin",
+					"Advil",
+					"Excedrin",
+					"Bayer"
+				],
+				"question": "Which of the following is an example of a generic of a drug?",
+				"source": "See How Medications Work"
+			},
 			"back": "Aspirin"
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-18",
-			"front": "Which of the following statements regarding parenteral medications is correct?\n\nA. Parenteral medications are absorbed by the body through the digestive system.\nB. Parenteral medications are absorbed more quickly than enteral medications.\nC. Compared to enteral medications, parenteral medications have fewer side effects.\nD. Tylenol is an example of a parenteral medication because it is taken orally.\nSee How Medications Work",
+			"front": {
+				"choices": [
+					"Parenteral medications are absorbed by the body through the digestive system.",
+					"Parenteral medications are absorbed more quickly than enteral medications.",
+					"Compared to enteral medications, parenteral medications have fewer side effects.",
+					"Tylenol is an example of a parenteral medication because it is taken orally."
+				],
+				"question": "Which of the following statements regarding parenteral medications is correct?",
+				"source": "See How Medications Work"
+			},
 			"back": "Parenteral medications are absorbed more quickly than enteral medications."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-19",
-			"front": "The process by which medications travel through body tissues until they reach the bloodstream is called:\n\nA. absorption.\nB. digestion.\nC. suspension.\nD. adsorption.\nSee How Medications Work",
+			"front": {
+				"choices": [
+					"absorption.",
+					"digestion.",
+					"suspension.",
+					"adsorption."
+				],
+				"question": "The process by which medications travel through body tissues until they reach the bloodstream is called:",
+				"source": "See How Medications Work"
+			},
 			"back": "absorption."
 		},
 		{
 			"id": "category-chapter-12-tag-multiple-choice-card-20",
-			"front": "Nitroglycerin, when given to patients with cardiac-related chest pain:\n\nA. increases myocardial contraction force.\nB. increases blood return to the right atrium.\nC. constricts the veins throughout the body.\nD. relaxes the walls of the coronary arteries.\nSee Medications Used by EMTs",
+			"front": {
+				"choices": [
+					"increases myocardial contraction force.",
+					"increases blood return to the right atrium.",
+					"constricts the veins throughout the body.",
+					"relaxes the walls of the coronary arteries."
+				],
+				"question": "Nitroglycerin, when given to patients with cardiac-related chest pain:",
+				"source": "See Medications Used by EMTs"
+			},
 			"back": "relaxes the walls of the coronary arteries."
 		}
 	],

@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-26-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-1",
-			"front": "An organ or tissue might better resist damage from hypoperfusion if the:\n\nA. systolic arterial blood pressure is at least 60 mm Hg.\nB. body’s demand for oxygen is markedly increased.\nC. body’s temperature is considerably less than 98.6°F (37.0°C).\nD. heart rate is maintained at more than 100 beats/min.\nSee Pathophysiology and Perfusion",
+			"front": {
+				"choices": [
+					"systolic arterial blood pressure is at least 60 mm Hg.",
+					"body’s demand for oxygen is markedly increased.",
+					"body’s temperature is considerably less than 98.6°F (37.0°C).",
+					"heart rate is maintained at more than 100 beats/min."
+				],
+				"question": "An organ or tissue might better resist damage from hypoperfusion if the:",
+				"source": "See Pathophysiology and Perfusion"
+			},
 			"back": "body’s temperature is considerably less than 98.6°F (37.0°C)."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-2",
-			"front": "Which of the following body systems or components is the least critical for supplying and maintaining adequate blood flow to the body?\n\nA. An intact system of blood vessels\nB. Adequate blood in the vasculature\nC. An effectively pumping heart\nD. The filtering of blood cells in the spleen\nSee Anatomy and Physiology of the Cardiovascular System",
+			"front": {
+				"choices": [
+					"An intact system of blood vessels",
+					"Adequate blood in the vasculature",
+					"An effectively pumping heart",
+					"The filtering of blood cells in the spleen"
+				],
+				"question": "Which of the following body systems or components is the least critical for supplying and maintaining adequate blood flow to the body?",
+				"source": "See Anatomy and Physiology of the Cardiovascular System"
+			},
 			"back": "The filtering of blood cells in the spleen"
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-3",
-			"front": "Which of the following organs can tolerate inadequate perfusion for two to three hours?\n\nA. Heart\nB. Brain\nC. Skeletal muscle\nD. Kidneys\nSee Pathophysiology and Perfusion",
+			"front": {
+				"choices": [
+					"Heart",
+					"Brain",
+					"Skeletal muscle",
+					"Kidneys"
+				],
+				"question": "Which of the following organs can tolerate inadequate perfusion for two to three hours?",
+				"source": "See Pathophysiology and Perfusion"
+			},
 			"back": "Skeletal muscle"
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-4",
-			"front": "The severity of bleeding should be based on all of the following findings, except:\n\nA. poor general appearance.\nB. clinical signs and symptoms.\nC. the mechanism of injury.\nD. systolic blood pressure.\nSee External Bleeding",
+			"front": {
+				"choices": [
+					"poor general appearance.",
+					"clinical signs and symptoms.",
+					"the mechanism of injury.",
+					"systolic blood pressure."
+				],
+				"question": "The severity of bleeding should be based on all of the following findings, except:",
+				"source": "See External Bleeding"
+			},
 			"back": "systolic blood pressure."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-5",
-			"front": "External bleeding from a vein is relatively easy to control because:\n\nA. blood typically oozes from a vein.\nB. veins hold smaller blood volume.\nC. veins carry deoxygenated blood.\nD. veins are under a lower pressure.\nSee External Bleeding",
+			"front": {
+				"choices": [
+					"blood typically oozes from a vein.",
+					"veins hold smaller blood volume.",
+					"veins carry deoxygenated blood.",
+					"veins are under a lower pressure."
+				],
+				"question": "External bleeding from a vein is relatively easy to control because:",
+				"source": "See External Bleeding"
+			},
 			"back": "veins are under a lower pressure."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-6",
-			"front": "Internal bleeding into a fractured extremity is most often controlled by:\n\nA. splinting the extremity.\nB. keeping the patient warm.\nC. applying a tourniquet.\nD. applying chemical ice pack.\nSee Emergency Medical Care for External Bleeding",
+			"front": {
+				"choices": [
+					"splinting the extremity.",
+					"keeping the patient warm.",
+					"applying a tourniquet.",
+					"applying chemical ice pack."
+				],
+				"question": "Internal bleeding into a fractured extremity is most often controlled by:",
+				"source": "See Emergency Medical Care for External Bleeding"
+			},
 			"back": "splinting the extremity."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-7",
-			"front": "Capillaries link the arterioles and the:\n\nA. cells.\nB. veins.\nC. venules.\nD. aorta.\nSee Anatomy and Physiology of the Cardiovascular System",
+			"front": {
+				"choices": [
+					"cells.",
+					"veins.",
+					"venules.",
+					"aorta."
+				],
+				"question": "Capillaries link the arterioles and the:",
+				"source": "See Anatomy and Physiology of the Cardiovascular System"
+			},
 			"back": "venules."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-8",
-			"front": "Hypovolemic shock occurs when:\n\nA. at least 10% of the patient’s blood volume is lost.\nB. low fluid volume leads to inadequate perfusion.\nC. the clotting ability of the blood is enhanced.\nD. the patient’s systolic BP is less than 100 mm Hg.\nSee External Bleeding",
+			"front": {
+				"choices": [
+					"at least 10% of the patient’s blood volume is lost.",
+					"low fluid volume leads to inadequate perfusion.",
+					"the clotting ability of the blood is enhanced.",
+					"the patient’s systolic BP is less than 100 mm Hg."
+				],
+				"question": "Hypovolemic shock occurs when:",
+				"source": "See External Bleeding"
+			},
 			"back": "low fluid volume leads to inadequate perfusion."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-9",
-			"front": "Bleeding from the nose following head trauma:\n\nA. should be assumed to be caused by a fractured septum.\nB. is a sign of a skull fracture and should not be stopped.\nC. is usually due to hypertension caused by the head injury.\nD. should be controlled by packing the nostril with gauze.\nSee Emergency Medical Care for External Bleeding",
+			"front": {
+				"choices": [
+					"should be assumed to be caused by a fractured septum.",
+					"is a sign of a skull fracture and should not be stopped.",
+					"is usually due to hypertension caused by the head injury.",
+					"should be controlled by packing the nostril with gauze."
+				],
+				"question": "Bleeding from the nose following head trauma:",
+				"source": "See Emergency Medical Care for External Bleeding"
+			},
 			"back": "is a sign of a skull fracture and should not be stopped."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-10",
-			"front": "Hypoperfusion is another name for:\n\nA. cyanosis.\nB. cellular death.\nC. hypoxemia.\nD. shock.\nSee Anatomy and Physiology of the Cardiovascular System",
+			"front": {
+				"choices": [
+					"cyanosis.",
+					"cellular death.",
+					"hypoxemia.",
+					"shock."
+				],
+				"question": "Hypoperfusion is another name for:",
+				"source": "See Anatomy and Physiology of the Cardiovascular System"
+			},
 			"back": "shock."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-11",
-			"front": "Perfusion is most accurately defined as the:\n\nA. ability of the systemic arteries to constrict as needed to maintain an adequate blood pressure.\nB. effective transfer of oxygen from the venules across the systemic capillary membrane walls.\nC. effective removal of carbon dioxide and other metabolic waste products from the body’s cells.\nD. circulation of blood within an organ in adequate amounts to meet the body’s metabolic needs.\nSee Pathophysiology and Perfusion",
+			"front": {
+				"choices": [
+					"ability of the systemic arteries to constrict as needed to maintain an adequate blood pressure.",
+					"effective transfer of oxygen from the venules across the systemic capillary membrane walls.",
+					"effective removal of carbon dioxide and other metabolic waste products from the body’s cells.",
+					"circulation of blood within an organ in adequate amounts to meet the body’s metabolic needs."
+				],
+				"question": "Perfusion is most accurately defined as the:",
+				"source": "See Pathophysiology and Perfusion"
+			},
 			"back": "circulation of blood within an organ in adequate amounts to meet the body’s metabolic needs."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-12",
-			"front": "A fractured femur can result in the loss of ______ or more of blood into the soft tissues of the thigh.\n\nA. 2 L\nB. 1 L\nC. 500 mL\nD. 250 mL\nSee Internal Bleeding",
+			"front": {
+				"choices": [
+					"2 L",
+					"1 L",
+					"500 mL",
+					"250 mL"
+				],
+				"question": "A fractured femur can result in the loss of ______ or more of blood into the soft tissues of the thigh.",
+				"source": "See Internal Bleeding"
+			},
 			"back": "1 L"
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-13",
-			"front": "The ability of a person’s cardiovascular system to compensate for blood loss is most related to:\n\nA. how rapidly he or she bleeds.\nB. how fast his or her heart beats.\nC. the part of the body injured.\nD. his or her baseline blood pressure.\nSee External Bleeding",
+			"front": {
+				"choices": [
+					"how rapidly he or she bleeds.",
+					"how fast his or her heart beats.",
+					"the part of the body injured.",
+					"his or her baseline blood pressure."
+				],
+				"question": "The ability of a person’s cardiovascular system to compensate for blood loss is most related to:",
+				"source": "See External Bleeding"
+			},
 			"back": "how rapidly he or she bleeds."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-14",
-			"front": "In older patients, the first indicator of nontraumatic internal bleeding might be:\n\nA. weakness or dizziness.\nB. a heart rate over 120 beats/min.\nC. a low blood pressure.\nD. diaphoresis and pale skin.\nSee Internal Bleeding",
+			"front": {
+				"choices": [
+					"weakness or dizziness.",
+					"a heart rate over 120 beats/min.",
+					"a low blood pressure.",
+					"diaphoresis and pale skin."
+				],
+				"question": "In older patients, the first indicator of nontraumatic internal bleeding might be:",
+				"source": "See Internal Bleeding"
+			},
 			"back": "weakness or dizziness."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-15",
-			"front": "Early signs and symptoms of intra-abdominal bleeding include:\n\nA. bruising only.\nB. widespread ecchymosis.\nC. pain and distention.\nD. significant hypotension.\nSee Internal Bleeding",
+			"front": {
+				"choices": [
+					"bruising only.",
+					"widespread ecchymosis.",
+					"pain and distention.",
+					"significant hypotension."
+				],
+				"question": "Early signs and symptoms of intra-abdominal bleeding include:",
+				"source": "See Internal Bleeding"
+			},
 			"back": "pain and distention."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-16",
-			"front": "Significant vital sign changes will occur if the typical adult acutely loses more than ______ of his or her total blood volume.\n\nA. 10%\nB. 5%\nC. 20%\nD. 15%\nSee External Bleeding",
+			"front": {
+				"choices": [
+					"10%",
+					"5%",
+					"20%",
+					"15%"
+				],
+				"question": "Significant vital sign changes will occur if the typical adult acutely loses more than ______ of his or her total blood volume.",
+				"source": "See External Bleeding"
+			},
 			"back": "20%"
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-17",
-			"front": "In nontrauma patients, an early indicator of internal bleeding is:\n\nA. a rapid, thready pulse.\nB. a decreasing blood pressure.\nC. dizziness upon standing.\nD. rapid, shallow breathing.\nSee Internal Bleeding",
+			"front": {
+				"choices": [
+					"a rapid, thready pulse.",
+					"a decreasing blood pressure.",
+					"dizziness upon standing.",
+					"rapid, shallow breathing."
+				],
+				"question": "In nontrauma patients, an early indicator of internal bleeding is:",
+				"source": "See Internal Bleeding"
+			},
 			"back": "dizziness upon standing."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-18",
-			"front": "Gastrointestinal bleeding should be suspected if a patient presents with:\n\nA. hematemesis.\nB. hemoptysis.\nC. hematuria.\nD. dyspnea.\nSee Internal Bleeding",
+			"front": {
+				"choices": [
+					"hematemesis.",
+					"hemoptysis.",
+					"hematuria.",
+					"dyspnea."
+				],
+				"question": "Gastrointestinal bleeding should be suspected if a patient presents with:",
+				"source": "See Internal Bleeding"
+			},
 			"back": "hematemesis."
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-19",
-			"front": "Which of the following splinting devices would be most appropriate to use for a patient who has an open fracture of the forearm with external bleeding?\n\nA. Vacuum splint\nB. Sling and swathe\nC. Cardboard splint\nD. Air splint\nSee Emergency Medical Care for External Bleeding",
+			"front": {
+				"choices": [
+					"Vacuum splint",
+					"Sling and swathe",
+					"Cardboard splint",
+					"Air splint"
+				],
+				"question": "Which of the following splinting devices would be most appropriate to use for a patient who has an open fracture of the forearm with external bleeding?",
+				"source": "See Emergency Medical Care for External Bleeding"
+			},
 			"back": "Air splint"
 		},
 		{
 			"id": "category-chapter-26-tag-multiple-choice-card-20",
-			"front": "Most cases of external bleeding from an extremity can be controlled by:\n\nA. elevating the injured extremity.\nB. applying local direct pressure.\nC. compressing a pressure point.\nD. packing the wound with gauze.\nSee Patient Assessment for External and Internal Bleeding",
+			"front": {
+				"choices": [
+					"elevating the injured extremity.",
+					"applying local direct pressure.",
+					"compressing a pressure point.",
+					"packing the wound with gauze."
+				],
+				"question": "Most cases of external bleeding from an extremity can be controlled by:",
+				"source": "See Patient Assessment for External and Internal Bleeding"
+			},
 			"back": "applying local direct pressure."
 		}
 	],

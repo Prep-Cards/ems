@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-31-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-1",
-			"front": "Which of the following statements regarding rebound tenderness is correct?\n\nA. The absence of rebound tenderness rules out intra-abdominal injury.\nB. Rebound tenderness is a specific sign found with a spleen injury.\nC. It is often discovered when the patient is jarred or moved suddenly.\nD. It should be assessed for by vigorously palpating the abdomen.\nSee Patient Assessment of Abdominal Injuries",
+			"front": {
+				"choices": [
+					"The absence of rebound tenderness rules out intra-abdominal injury.",
+					"Rebound tenderness is a specific sign found with a spleen injury.",
+					"It is often discovered when the patient is jarred or moved suddenly.",
+					"It should be assessed for by vigorously palpating the abdomen."
+				],
+				"question": "Which of the following statements regarding rebound tenderness is correct?",
+				"source": "See Patient Assessment of Abdominal Injuries"
+			},
 			"back": "It is often discovered when the patient is jarred or moved suddenly."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-2",
-			"front": "The mesentery is:\n\nA. a layer of thick skeletal muscles that protects the abdominal organs.\nB. a complex network of blood vessels that supply blood to the liver.\nC. the point of attachment between the small and large intestines.\nD. a membranous fold that attaches the intestines to the walls of the body.\nSee Anatomy and Physiology of the Abdomen",
+			"front": {
+				"choices": [
+					"a layer of thick skeletal muscles that protects the abdominal organs.",
+					"a complex network of blood vessels that supply blood to the liver.",
+					"the point of attachment between the small and large intestines.",
+					"a membranous fold that attaches the intestines to the walls of the body."
+				],
+				"question": "The mesentery is:",
+				"source": "See Anatomy and Physiology of the Abdomen"
+			},
 			"back": "a membranous fold that attaches the intestines to the walls of the body."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-3",
-			"front": "When documenting a call involving a female patient who was sexually assaulted, the EMT should:\n\nA. avoid speculation and document only factual data.\nB. include the results of the internal vaginal exam.\nC. include a description of the suspected perpetrator.\nD. theorize as to why the sexual assault occurred.\nSee Sexual Assault and Rape",
+			"front": {
+				"choices": [
+					"avoid speculation and document only factual data.",
+					"include the results of the internal vaginal exam.",
+					"include a description of the suspected perpetrator.",
+					"theorize as to why the sexual assault occurred."
+				],
+				"question": "When documenting a call involving a female patient who was sexually assaulted, the EMT should:",
+				"source": "See Sexual Assault and Rape"
+			},
 			"back": "avoid speculation and document only factual data."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-4",
-			"front": "All of the following are hollow abdominal organs, except the:\n\nA. ureters.\nB. stomach.\nC. spleen.\nD. bladder.\nSee Anatomy and Physiology of the Abdomen",
+			"front": {
+				"choices": [
+					"ureters.",
+					"stomach.",
+					"spleen.",
+					"bladder."
+				],
+				"question": "All of the following are hollow abdominal organs, except the:",
+				"source": "See Anatomy and Physiology of the Abdomen"
+			},
 			"back": "spleen."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-5",
-			"front": "A sign of kidney damage after blunt trauma is:\n\nA. hematemesis.\nB. hematuria.\nC. hematochezia.\nD. hemoptysis.\nSee Emergency Medical Care of Genitourinary Injuries",
+			"front": {
+				"choices": [
+					"hematemesis.",
+					"hematuria.",
+					"hematochezia.",
+					"hemoptysis."
+				],
+				"question": "A sign of kidney damage after blunt trauma is:",
+				"source": "See Emergency Medical Care of Genitourinary Injuries"
+			},
 			"back": "hematuria."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-6",
-			"front": "Which of the following organs is at most risk for injury as the result of a pelvic fracture?\n\nA. Liver or spleen\nB. Urinary bladder\nC. Fallopian tubes\nD. Pancreas\nSee Injuries of the Genitourinary System",
+			"front": {
+				"choices": [
+					"Liver or spleen",
+					"Urinary bladder",
+					"Fallopian tubes",
+					"Pancreas"
+				],
+				"question": "Which of the following organs is at most risk for injury as the result of a pelvic fracture?",
+				"source": "See Injuries of the Genitourinary System"
+			},
 			"back": "Urinary bladder"
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-7",
-			"front": "Early bruising following abdominal trauma often manifests as:\n\nA. localized pain.\nB. red areas of skin.\nC. gross distention.\nD. dark purple marks.\nSee Patient Assessment of Abdominal Injuries",
+			"front": {
+				"choices": [
+					"localized pain.",
+					"red areas of skin.",
+					"gross distention.",
+					"dark purple marks."
+				],
+				"question": "Early bruising following abdominal trauma often manifests as:",
+				"source": "See Patient Assessment of Abdominal Injuries"
+			},
 			"back": "red areas of skin."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-8",
-			"front": "Which of the following organs would most likely bleed profusely when injured?\n\nA. Intestine\nB. Stomach\nC. Bladder\nD. Liver\nSee Abdominal Injuries",
+			"front": {
+				"choices": [
+					"Intestine",
+					"Stomach",
+					"Bladder",
+					"Liver"
+				],
+				"question": "Which of the following organs would most likely bleed profusely when injured?",
+				"source": "See Abdominal Injuries"
+			},
 			"back": "Liver"
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-9",
-			"front": "Because the depth of an open abdominal wound is often difficult to determine:\n\nA. prompt transport to the hospital is essential.\nB. vital signs should be monitored frequently.\nC. the abdomen must be vigorously palpated.\nD. the EMT must perform a thorough exam.\nSee Abdominal Injuries",
+			"front": {
+				"choices": [
+					"prompt transport to the hospital is essential.",
+					"vital signs should be monitored frequently.",
+					"the abdomen must be vigorously palpated.",
+					"the EMT must perform a thorough exam."
+				],
+				"question": "Because the depth of an open abdominal wound is often difficult to determine:",
+				"source": "See Abdominal Injuries"
+			},
 			"back": "prompt transport to the hospital is essential."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-10",
-			"front": "Bruising to the right upper quadrant of the abdomen after blunt trauma is most suggestive of injury to the:\n\nA. liver.\nB. stomach.\nC. kidney.\nD. spleen.\nSee Anatomy and Physiology of the Abdomen",
+			"front": {
+				"choices": [
+					"liver.",
+					"stomach.",
+					"kidney.",
+					"spleen."
+				],
+				"question": "Bruising to the right upper quadrant of the abdomen after blunt trauma is most suggestive of injury to the:",
+				"source": "See Anatomy and Physiology of the Abdomen"
+			},
 			"back": "liver."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-11",
-			"front": "Accumulation of blood in the abdominal cavity will most likely cause:\n\nA. diffuse bruising.\nB. referred pain.\nC. nausea or vomiting.\nD. distention.\nSee Patient Assessment of Abdominal Injuries",
+			"front": {
+				"choices": [
+					"diffuse bruising.",
+					"referred pain.",
+					"nausea or vomiting.",
+					"distention."
+				],
+				"question": "Accumulation of blood in the abdominal cavity will most likely cause:",
+				"source": "See Patient Assessment of Abdominal Injuries"
+			},
 			"back": "distention."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-12",
-			"front": "Peritonitis usually occurs when:\n\nA. the vessels that supply the abdominal organs become inflamed.\nB. solid abdominal organs bleed secondary to penetrating trauma.\nC. bacteria or viruses invade the walls of the gastrointestinal tract.\nD. hollow abdominal organs are damaged and spill their contents.\nSee Anatomy and Physiology of the Abdomen",
+			"front": {
+				"choices": [
+					"the vessels that supply the abdominal organs become inflamed.",
+					"solid abdominal organs bleed secondary to penetrating trauma.",
+					"bacteria or viruses invade the walls of the gastrointestinal tract.",
+					"hollow abdominal organs are damaged and spill their contents."
+				],
+				"question": "Peritonitis usually occurs when:",
+				"source": "See Anatomy and Physiology of the Abdomen"
+			},
 			"back": "hollow abdominal organs are damaged and spill their contents."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-13",
-			"front": "The presence of tachycardia following a significant abdominal injury:\n\nA. should be assumed to be a sign of shock.\nB. indicates a state of decompensated shock.\nC. is most commonly caused by severe pain.\nD. is always accompanied by hypotension.\nSee Patient Assessment of Abdominal Injuries",
+			"front": {
+				"choices": [
+					"should be assumed to be a sign of shock.",
+					"indicates a state of decompensated shock.",
+					"is most commonly caused by severe pain.",
+					"is always accompanied by hypotension."
+				],
+				"question": "The presence of tachycardia following a significant abdominal injury:",
+				"source": "See Patient Assessment of Abdominal Injuries"
+			},
 			"back": "should be assumed to be a sign of shock."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-14",
-			"front": "Contraction or tensing of the abdominal muscles to ease pain is called:\n\nA. guarding.\nB. flexing.\nC. referring.\nD. withdrawing.\nSee Patient Assessment of Abdominal Injuries",
+			"front": {
+				"choices": [
+					"guarding.",
+					"flexing.",
+					"referring.",
+					"withdrawing."
+				],
+				"question": "Contraction or tensing of the abdominal muscles to ease pain is called:",
+				"source": "See Patient Assessment of Abdominal Injuries"
+			},
 			"back": "guarding."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-15",
-			"front": "Difficulty breathing and a sunken appearance of the anterior abdominal wall is most indicative of a ruptured:\n\nA. aorta.\nB. spleen.\nC. diaphragm.\nD. stomach.\nSee Emergency Medical Care of Abdominal Injuries",
+			"front": {
+				"choices": [
+					"aorta.",
+					"spleen.",
+					"diaphragm.",
+					"stomach."
+				],
+				"question": "Difficulty breathing and a sunken appearance of the anterior abdominal wall is most indicative of a ruptured:",
+				"source": "See Emergency Medical Care of Abdominal Injuries"
+			},
 			"back": "diaphragm."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-16",
-			"front": "During your assessment of a patient who experienced blunt trauma to the abdomen, you notice bruising around the umbilicus. This is a sign of:\n\nA. a severe liver laceration.\nB. a ruptured spleen.\nC. rupture of a hollow organ.\nD. intra-abdominal bleeding.\nSee Patient Assessment of Abdominal Injuries",
+			"front": {
+				"choices": [
+					"a severe liver laceration.",
+					"a ruptured spleen.",
+					"rupture of a hollow organ.",
+					"intra-abdominal bleeding."
+				],
+				"question": "During your assessment of a patient who experienced blunt trauma to the abdomen, you notice bruising around the umbilicus. This is a sign of:",
+				"source": "See Patient Assessment of Abdominal Injuries"
+			},
 			"back": "intra-abdominal bleeding."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-17",
-			"front": "Placing a pregnant patient in a supine position during the third trimester of pregnancy:\n\nA. is recommended if the patient has severe abdominal discomfort.\nB. results in spontaneous urinary incontinence if the bladder is full.\nC. often causes hypotension secondary to cardiac compression.\nD. might decrease the amount of blood that returns to the heart.\nSee Injuries of the Genitourinary System",
+			"front": {
+				"choices": [
+					"is recommended if the patient has severe abdominal discomfort.",
+					"results in spontaneous urinary incontinence if the bladder is full.",
+					"often causes hypotension secondary to cardiac compression.",
+					"might decrease the amount of blood that returns to the heart."
+				],
+				"question": "Placing a pregnant patient in a supine position during the third trimester of pregnancy:",
+				"source": "See Injuries of the Genitourinary System"
+			},
 			"back": "might decrease the amount of blood that returns to the heart."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-18",
-			"front": "Which of the following statements regarding abdominal trauma is correct?\n\nA. The liver is well protected and is rarely injured during a traumatic event.\nB. Hollow abdominal organs are vascular and bleed profusely when injured.\nC. Most of the vital abdominal organs lie within the retroperitoneal space.\nD. The absence of abdominal pain does not rule out intra-abdominal bleeding.\nSee Anatomy and Physiology of the Abdomen",
+			"front": {
+				"choices": [
+					"The liver is well protected and is rarely injured during a traumatic event.",
+					"Hollow abdominal organs are vascular and bleed profusely when injured.",
+					"Most of the vital abdominal organs lie within the retroperitoneal space.",
+					"The absence of abdominal pain does not rule out intra-abdominal bleeding."
+				],
+				"question": "Which of the following statements regarding abdominal trauma is correct?",
+				"source": "See Anatomy and Physiology of the Abdomen"
+			},
 			"back": "The absence of abdominal pain does not rule out intra-abdominal bleeding."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-19",
-			"front": "Compression injuries to the abdomen that occur during a motor vehicle crash are typically the result of:\n\nA. airbag deployment.\nB. a poorly placed lap belt.\nC. rapid vehicle deceleration.\nD. failure to wear seat belts.\nSee Injuries to the Abdomen",
+			"front": {
+				"choices": [
+					"airbag deployment.",
+					"a poorly placed lap belt.",
+					"rapid vehicle deceleration.",
+					"failure to wear seat belts."
+				],
+				"question": "Compression injuries to the abdomen that occur during a motor vehicle crash are typically the result of:",
+				"source": "See Injuries to the Abdomen"
+			},
 			"back": "a poorly placed lap belt."
 		},
 		{
 			"id": "category-chapter-31-tag-multiple-choice-card-20",
-			"front": "When a hollow organ is punctured during a penetrating injury to the abdomen:\n\nA. the abdomen will become instantly distended.\nB. peritonitis might not develop for several hours.\nC. it will bleed profusely and rapidly cause shock.\nD. it commonly protrudes through the injury site.\nSee Abdominal Injuries",
+			"front": {
+				"choices": [
+					"the abdomen will become instantly distended.",
+					"peritonitis might not develop for several hours.",
+					"it will bleed profusely and rapidly cause shock.",
+					"it commonly protrudes through the injury site."
+				],
+				"question": "When a hollow organ is punctured during a penetrating injury to the abdomen:",
+				"source": "See Abdominal Injuries"
+			},
 			"back": "peritonitis might not develop for several hours."
 		}
 	],

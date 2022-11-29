@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-02-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-1",
-			"front": "The most important consideration at the scene of a hazardous materials incident is:\n\nA. evacuating the bystanders.\nB. calling the hazardous materials team.\nC. ensuring your personal safety.\nD. identifying the hazardous material.\nSee Scene Safety",
+			"front": {
+				"choices": [
+					"evacuating the bystanders.",
+					"calling the hazardous materials team.",
+					"ensuring your personal safety.",
+					"identifying the hazardous material."
+				],
+				"question": "The most important consideration at the scene of a hazardous materials incident is:",
+				"source": "See Scene Safety"
+			},
 			"back": "ensuring your personal safety."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-2",
-			"front": "Quid pro quo, a type of sexual harassment, occurs when the harasser:\n\nA. stares at certain parts of another person’s anatomy.\nB. requests sexual favors in exchange for something else.\nC. makes rude remarks about a person’s body parts.\nD. touches another person without his or her consent.\nSee Workplace Issues",
+			"front": {
+				"choices": [
+					"stares at certain parts of another person’s anatomy.",
+					"requests sexual favors in exchange for something else.",
+					"makes rude remarks about a person’s body parts.",
+					"touches another person without his or her consent."
+				],
+				"question": "Quid pro quo, a type of sexual harassment, occurs when the harasser:",
+				"source": "See Workplace Issues"
+			},
 			"back": "requests sexual favors in exchange for something else."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-3",
-			"front": "Characteristics of eustress following dispatch to a high-speed motor vehicle collision may include:\n\nA. increased self-image from performing well under a challenging situation.\nB. the inability to remain focused, because the task at hand is demanding.\nC. short term loss of energy due to the high physical demands of the job.\nD. long-term feelings of being overwhelmed by the nature of the call.\nSee General Health, Wellness, and Resilience",
+			"front": {
+				"choices": [
+					"increased self-image from performing well under a challenging situation.",
+					"the inability to remain focused, because the task at hand is demanding.",
+					"short term loss of energy due to the high physical demands of the job.",
+					"long-term feelings of being overwhelmed by the nature of the call."
+				],
+				"question": "Characteristics of eustress following dispatch to a high-speed motor vehicle collision may include:",
+				"source": "See General Health, Wellness, and Resilience"
+			},
 			"back": "increased self-image from performing well under a challenging situation."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-4",
-			"front": "The spread of HIV and hepatitis in the healthcare setting can usually be traced to:\n\nA. excessive blood splashing or splattering.\nB. careless handling of sharps.\nC. noncompliance with standard precautions.\nD. lack of proper immunizations.\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"excessive blood splashing or splattering.",
+					"careless handling of sharps.",
+					"noncompliance with standard precautions.",
+					"lack of proper immunizations."
+				],
+				"question": "The spread of HIV and hepatitis in the healthcare setting can usually be traced to:",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "careless handling of sharps."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-5",
-			"front": "When decontaminating the back of your ambulance after a call, you should:\n\nA. use a bleach and water solution at a 1:2 dilution ratio to thoroughly wipe all surfaces.\nB. clean all surfaces and patient contact areas with a mixture of alcohol and water.\nC. allow surfaces to air dry unless otherwise indicated in the product directions.\nD. spray the contaminated areas and then immediately wipe them dry with a towel.\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"use a bleach and water solution at a 1:2 dilution ratio to thoroughly wipe all surfaces.",
+					"clean all surfaces and patient contact areas with a mixture of alcohol and water.",
+					"allow surfaces to air dry unless otherwise indicated in the product directions.",
+					"spray the contaminated areas and then immediately wipe them dry with a towel."
+				],
+				"question": "When decontaminating the back of your ambulance after a call, you should:",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "allow surfaces to air dry unless otherwise indicated in the product directions."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-6",
-			"front": "Vaccination against the hepatitis A virus is unnecessary if you:\n\nA. have been infected with hepatitis A in the past.\nB. have a weak immune system.\nC. received a hepatitis B vaccination.\nD. are older than 35 years of age.\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"have been infected with hepatitis A in the past.",
+					"have a weak immune system.",
+					"received a hepatitis B vaccination.",
+					"are older than 35 years of age."
+				],
+				"question": "Vaccination against the hepatitis A virus is unnecessary if you:",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "have been infected with hepatitis A in the past."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-7",
-			"front": "A positive TB skin test indicates that:\n\nA. the TB disease is currently dormant but might later become active.\nB. you are actively infected with TB.\nC. you have been exposed to TB.\nD. you have never been exposed to TB.\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"the TB disease is currently dormant but might later become active.",
+					"you are actively infected with TB.",
+					"you have been exposed to TB.",
+					"you have never been exposed to TB."
+				],
+				"question": "A positive TB skin test indicates that:",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "you have been exposed to TB."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-8",
-			"front": "What should you do before attempting to access a patient trapped in a vehicle?\n\nA. Ensure the vehicle is stable.\nB. Request another ambulance.\nC. Check for other patients.\nD. Contact medical control.\nSee Scene Safety",
+			"front": {
+				"choices": [
+					"Ensure the vehicle is stable.",
+					"Request another ambulance.",
+					"Check for other patients.",
+					"Contact medical control."
+				],
+				"question": "What should you do before attempting to access a patient trapped in a vehicle?",
+				"source": "See Scene Safety"
+			},
 			"back": "Ensure the vehicle is stable."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-9",
-			"front": "Which of the following is the most significant factor in determining whether a person will become ill from certain germs?\n\nA. Age\nB. Gender\nC. Immunity\nD. Race\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"Age",
+					"Gender",
+					"Immunity",
+					"Race"
+				],
+				"question": "Which of the following is the most significant factor in determining whether a person will become ill from certain germs?",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "Immunity"
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-10",
-			"front": "The most serious consequence of drug or alcohol abuse among EMS personnel is:\n\nA. tension among coworkers and supervisors.\nB. punitive action and the loss of a job.\nC. substandard or inappropriate patient care.\nD. low morale and frequently missed shifts.\nSee Workplace Issues",
+			"front": {
+				"choices": [
+					"tension among coworkers and supervisors.",
+					"punitive action and the loss of a job.",
+					"substandard or inappropriate patient care.",
+					"low morale and frequently missed shifts."
+				],
+				"question": "The most serious consequence of drug or alcohol abuse among EMS personnel is:",
+				"source": "See Workplace Issues"
+			},
 			"back": "substandard or inappropriate patient care."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-11",
-			"front": "The capacity of an individual to cope with and recover from stress is called:\n\nA. distress.\nB. wellness.\nC. eustress.\nD. resilience.\nSee Caring for Critically Ill and Injured Patients",
+			"front": {
+				"choices": [
+					"distress.",
+					"wellness.",
+					"eustress.",
+					"resilience."
+				],
+				"question": "The capacity of an individual to cope with and recover from stress is called:",
+				"source": "See Caring for Critically Ill and Injured Patients"
+			},
 			"back": "resilience."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-12",
-			"front": "A critical incident stress debriefing should be conducted no longer than ________ hours following the incident.\n\nA. 24\nB. 12\nC. 72\nD. six\nSee Stress Management on the Job",
+			"front": {
+				"choices": [
+					"24",
+					"12",
+					"72",
+					"six"
+				],
+				"question": "A critical incident stress debriefing should be conducted no longer than ________ hours following the incident.",
+				"source": "See Stress Management on the Job"
+			},
 			"back": "72"
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-13",
-			"front": "You have been working at the scene of a major building collapse for eight hours. Many injured people are still being removed, and everyone is becoming frustrated and losing focus. This situation is most effectively managed by:\n\nA. providing large amounts of caffeine to the rescue workers.\nB. requesting a CISM team to provide on-scene peer support.\nC. conducting a critical incident stress debriefing the next day.\nD. allowing each worker to sleep in 15- to 30-minute increments.\nSee Stress Management on the Job",
+			"front": {
+				"choices": [
+					"providing large amounts of caffeine to the rescue workers.",
+					"requesting a CISM team to provide on-scene peer support.",
+					"conducting a critical incident stress debriefing the next day.",
+					"allowing each worker to sleep in 15- to 30-minute increments."
+				],
+				"question": "You have been working at the scene of a major building collapse for eight hours. Many injured people are still being removed, and everyone is becoming frustrated and losing focus. This situation is most effectively managed by:",
+				"source": "See Stress Management on the Job"
+			},
 			"back": "requesting a CISM team to provide on-scene peer support."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-14",
-			"front": "Vectorborne transmission of an infectious organism occurs via:\n\nA. direct contact.\nB. animals or insects.\nC. smoke or dust.\nD. inanimate objects.\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"direct contact.",
+					"animals or insects.",
+					"smoke or dust.",
+					"inanimate objects."
+				],
+				"question": "Vectorborne transmission of an infectious organism occurs via:",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "animals or insects."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-15",
-			"front": "Hazards that are associated with a structural fire include all of the following, except:\n\nA. smoke and toxic gases.\nB. carbon dioxide deficiency.\nC. risk of building collapse.\nD. high ambient temperatures.\nSee Scene Safety",
+			"front": {
+				"choices": [
+					"smoke and toxic gases.",
+					"carbon dioxide deficiency.",
+					"risk of building collapse.",
+					"high ambient temperatures."
+				],
+				"question": "Hazards that are associated with a structural fire include all of the following, except:",
+				"source": "See Scene Safety"
+			},
 			"back": "carbon dioxide deficiency."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-16",
-			"front": "Prescription glasses do not provide adequate eye protection because they:\n\nA. are not secured with a strap.\nB. offer little or no side protection.\nC. do not have shatterproof lenses.\nD. have large, rounded lenses.\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"are not secured with a strap.",
+					"offer little or no side protection.",
+					"do not have shatterproof lenses.",
+					"have large, rounded lenses."
+				],
+				"question": "Prescription glasses do not provide adequate eye protection because they:",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "offer little or no side protection."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-17",
-			"front": "Which of the following infectious diseases confers no protection from reinfection after exposure?\n\nA. Mumps\nB. Rubella\nC. Chickenpox\nD. Syphilis\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"Mumps",
+					"Rubella",
+					"Chickenpox",
+					"Syphilis"
+				],
+				"question": "Which of the following infectious diseases confers no protection from reinfection after exposure?",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "Syphilis"
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-18",
-			"front": "General adaptation syndrome is characterized by which of the following phases?\n\nA. Alarm response, reaction and resistance, and recovery\nB. Delayed reaction, alarm response, and physical recovery\nC. Immediate reaction, psychological exhaustion, and recovery\nD. Reaction and resistance, euphoria, and physical exhaustion\nSee Stress Management on the Job",
+			"front": {
+				"choices": [
+					"Alarm response, reaction and resistance, and recovery",
+					"Delayed reaction, alarm response, and physical recovery",
+					"Immediate reaction, psychological exhaustion, and recovery",
+					"Reaction and resistance, euphoria, and physical exhaustion"
+				],
+				"question": "General adaptation syndrome is characterized by which of the following phases?",
+				"source": "See Stress Management on the Job"
+			},
 			"back": "Alarm response, reaction and resistance, and recovery"
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-19",
-			"front": "The simplest, yet most effective method of preventing the spread of an infectious disease is to:\n\nA. undergo an annual physical examination.\nB. wash your hands in between patient contacts.\nC. undergo annual testing for tuberculosis and hepatitis.\nD. ensure that your immunizations are up-to-date.\nSee Infectious and Communicable Diseases",
+			"front": {
+				"choices": [
+					"undergo an annual physical examination.",
+					"wash your hands in between patient contacts.",
+					"undergo annual testing for tuberculosis and hepatitis.",
+					"ensure that your immunizations are up-to-date."
+				],
+				"question": "The simplest, yet most effective method of preventing the spread of an infectious disease is to:",
+				"source": "See Infectious and Communicable Diseases"
+			},
 			"back": "wash your hands in between patient contacts."
 		},
 		{
 			"id": "category-chapter-02-tag-multiple-choice-card-20",
-			"front": "The most effective way to preserve your own body heat when functioning in cold, wet weather is to:\n\nA. wear socks made of heavy-duty cotton.\nB. wear at least three layers of clothing.\nC. avoid outer clothing with zippers.\nD. wear a heavy, thick jacket or coat.\nSee Scene Safety",
+			"front": {
+				"choices": [
+					"wear socks made of heavy-duty cotton.",
+					"wear at least three layers of clothing.",
+					"avoid outer clothing with zippers.",
+					"wear a heavy, thick jacket or coat."
+				],
+				"question": "The most effective way to preserve your own body heat when functioning in cold, wet weather is to:",
+				"source": "See Scene Safety"
+			},
 			"back": "wear at least three layers of clothing."
 		}
 	],

@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-23-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-1",
-			"front": "People at risk for suicide include all of the following, EXCEPT:\n\nA. children with parents addicted to alcohol.\nB. those with a recent diagnosis of a serious illness.\nC. married males older than 30 years.\nD. substance abusers.\nSee Suicide",
+			"front": {
+				"choices": [
+					"children with parents addicted to alcohol.",
+					"those with a recent diagnosis of a serious illness.",
+					"married males older than 30 years.",
+					"substance abusers."
+				],
+				"question": "People at risk for suicide include all of the following, EXCEPT:",
+				"source": "See Suicide"
+			},
 			"back": "married males older than 30 years."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-2",
-			"front": "Organic brain syndrome is defined as:\n\nA. a change in behavior or mental status secondary to decreased cerebral blood flow.\nB. bizarre behavior secondary to a chemical imbalance or disturbance in the brain.\nC. a disorder that cannot be traced to the abnormal structure or function of an organ.\nD. a dysfunction of the brain caused by abnormal physical or physiological function.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"a change in behavior or mental status secondary to decreased cerebral blood flow.",
+					"bizarre behavior secondary to a chemical imbalance or disturbance in the brain.",
+					"a disorder that cannot be traced to the abnormal structure or function of an organ.",
+					"a dysfunction of the brain caused by abnormal physical or physiological function."
+				],
+				"question": "Organic brain syndrome is defined as:",
+				"source": "See Pathophysiology"
+			},
 			"back": "a dysfunction of the brain caused by abnormal physical or physiological function."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-3",
-			"front": "Common causes of acute psychotic behavior include all of the following, EXCEPT:\n\nA. intense stress.\nB. mind-altering substance use.\nC. Alzheimer’s disease.\nD. schizophrenia.\nSee Acute Psychosis",
+			"front": {
+				"choices": [
+					"intense stress.",
+					"mind-altering substance use.",
+					"Alzheimer’s disease.",
+					"schizophrenia."
+				],
+				"question": "Common causes of acute psychotic behavior include all of the following, EXCEPT:",
+				"source": "See Acute Psychosis"
+			},
 			"back": "Alzheimer’s disease."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-4",
-			"front": "After ensuring his or her own safety, the EMT’s next priority when caring for a patient with a behavioral emergency is to:\n\nA. diagnose the patient’s problem and provide definitive treatment.\nB. assess the patient’s response to his or her environment.\nC. determine the underlying cause of the problem and offer advice.\nD. transport the patient directly to a specialized psychiatric facility.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"diagnose the patient’s problem and provide definitive treatment.",
+					"assess the patient’s response to his or her environment.",
+					"determine the underlying cause of the problem and offer advice.",
+					"transport the patient directly to a specialized psychiatric facility."
+				],
+				"question": "After ensuring his or her own safety, the EMT’s next priority when caring for a patient with a behavioral emergency is to:",
+				"source": "See Patient Assessment"
+			},
 			"back": "assess the patient’s response to his or her environment."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-5",
-			"front": "Which of the following conditions or situations would MOST likely make excited delirium worse?\n\nA. Elevated blood glucose\nB. Limited physical contact\nC. Alcohol withdrawal\nD. Dimly lit environment\nSee Excited Delirium",
+			"front": {
+				"choices": [
+					"Elevated blood glucose",
+					"Limited physical contact",
+					"Alcohol withdrawal",
+					"Dimly lit environment"
+				],
+				"question": "Which of the following conditions or situations would MOST likely make excited delirium worse?",
+				"source": "See Excited Delirium"
+			},
 			"back": "Alcohol withdrawal"
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-6",
-			"front": "____________ is what you can see of a person’s response to the environment.\n\nA. Affect\nB. Behavior\nC. Neurosis\nD. Psychosis\nSee Defining a Behavioral Crisis",
+			"front": {
+				"choices": [
+					"Affect",
+					"Behavior",
+					"Neurosis",
+					"Psychosis"
+				],
+				"question": "____________ is what you can see of a person’s response to the environment.",
+				"source": "See Defining a Behavioral Crisis"
+			},
 			"back": "Behavior"
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-7",
-			"front": "The single most significant factor that contributes to suicide is:\n\nA. a chronic illness.\nB. advanced age.\nC. depression.\nD. drug abuse.\nSee Suicide",
+			"front": {
+				"choices": [
+					"a chronic illness.",
+					"advanced age.",
+					"depression.",
+					"drug abuse."
+				],
+				"question": "The single most significant factor that contributes to suicide is:",
+				"source": "See Suicide"
+			},
 			"back": "depression."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-8",
-			"front": "Which of the following statements regarding the physical examination of a patient with a behavioral problem is correct?\n\nA. Performing a physical examination on a patient with a behavioral problem will likely cause him or her to become violent and should be avoided in the field.\nB. The physical examination of a patient with a behavioral problem often yields crucial information and should always be performed, even if the patient is violent.\nC. Although the physical exam can be difficult, the patient’s emotional state may be determined by noting facial expressions, pulse rate, and respirations.\nD. It is only appropriate to perform a physical examination on a patient with a behavioral problem if he or she is unconscious or is being physically restrained.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"Performing a physical examination on a patient with a behavioral problem will likely cause him or her to become violent and should be avoided in the field.",
+					"The physical examination of a patient with a behavioral problem often yields crucial information and should always be performed, even if the patient is violent.",
+					"Although the physical exam can be difficult, the patient’s emotional state may be determined by noting facial expressions, pulse rate, and respirations.",
+					"It is only appropriate to perform a physical examination on a patient with a behavioral problem if he or she is unconscious or is being physically restrained."
+				],
+				"question": "Which of the following statements regarding the physical examination of a patient with a behavioral problem is correct?",
+				"source": "See Patient Assessment"
+			},
 			"back": "Although the physical exam can be difficult, the patient’s emotional state may be determined by noting facial expressions, pulse rate, and respirations."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-9",
-			"front": "Which of the following is an example of a functional behavioral disorder?\n\nA. Alzheimer’s disease\nB. Drug addiction\nC. Schizophrenia\nD. Head trauma\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"Alzheimer’s disease",
+					"Drug addiction",
+					"Schizophrenia",
+					"Head trauma"
+				],
+				"question": "Which of the following is an example of a functional behavioral disorder?",
+				"source": "See Pathophysiology"
+			},
 			"back": "Schizophrenia"
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-10",
-			"front": "The term “behavioral crisis” is MOST accurately defined as:\n\nA. a medical illness with psychological symptoms that may lead to limited motor functioning.\nB. a situation in which a patient of any age exhibits agitated, violent, or uncooperative behavior.\nC. a sudden, violent outburst of an otherwise mentally stable person toward a family member.\nD. a period of severe depression that lasts longer than 2 weeks and cannot be controlled with medications.\nSee Defining a Behavioral Crisis",
+			"front": {
+				"choices": [
+					"a medical illness with psychological symptoms that may lead to limited motor functioning.",
+					"a situation in which a patient of any age exhibits agitated, violent, or uncooperative behavior.",
+					"a sudden, violent outburst of an otherwise mentally stable person toward a family member.",
+					"a period of severe depression that lasts longer than 2 weeks and cannot be controlled with medications."
+				],
+				"question": "The term “behavioral crisis” is MOST accurately defined as:",
+				"source": "See Defining a Behavioral Crisis"
+			},
 			"back": "a situation in which a patient of any age exhibits agitated, violent, or uncooperative behavior."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-11",
-			"front": "You may not be able to determine whether a person has a mental illness, but you can predict the person’s likelihood of becoming:\n\nA. diabetic.\nB. suicidal.\nC. violent.\nD. psychotic.\nSee Myth and Reality",
+			"front": {
+				"choices": [
+					"diabetic.",
+					"suicidal.",
+					"violent.",
+					"psychotic."
+				],
+				"question": "You may not be able to determine whether a person has a mental illness, but you can predict the person’s likelihood of becoming:",
+				"source": "See Myth and Reality"
+			},
 			"back": "violent."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-12",
-			"front": "In which position should you restrain a physically uncooperative patient?\n\nA. With hands tied behind the back\nB. Prone\nC. With arms and legs bound together\nD. Supine\nSee Restraint",
+			"front": {
+				"choices": [
+					"With hands tied behind the back",
+					"Prone",
+					"With arms and legs bound together",
+					"Supine"
+				],
+				"question": "In which position should you restrain a physically uncooperative patient?",
+				"source": "See Restraint"
+			},
 			"back": "Supine"
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-13",
-			"front": "When assessing a patient with a behavioral crisis, you should:\n\nA. be direct and clearly state your intentions.\nB. ask the police to handcuff the patient for safety.\nC. spend as little time with the patient as possible.\nD. frisk the patient for the presence of weapons.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"be direct and clearly state your intentions.",
+					"ask the police to handcuff the patient for safety.",
+					"spend as little time with the patient as possible.",
+					"frisk the patient for the presence of weapons."
+				],
+				"question": "When assessing a patient with a behavioral crisis, you should:",
+				"source": "See Patient Assessment"
+			},
 			"back": "be direct and clearly state your intentions."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-14",
-			"front": "General guidelines for managing a patient with a behavioral emergency include:\n\nA. allowing the patient to be alone if he or she wishes.\nB. placing the patient between yourself and an exit.\nC. being prepared to spend extra time with the patient.\nD. firmly identifying yourself as an EMS provider.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"allowing the patient to be alone if he or she wishes.",
+					"placing the patient between yourself and an exit.",
+					"being prepared to spend extra time with the patient.",
+					"firmly identifying yourself as an EMS provider."
+				],
+				"question": "General guidelines for managing a patient with a behavioral emergency include:",
+				"source": "See Patient Assessment"
+			},
 			"back": "being prepared to spend extra time with the patient."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-15",
-			"front": "Signs of excited delirium include:\n\nA. diaphoresis, tachycardia, and hallucinations.\nB. subdued behavior, crying, and suicidal thoughts.\nC. pallor, hypotension, and constricted pupils.\nD. slurred speech, bradycardia, and a high fever.\nSee Excited Delirium",
+			"front": {
+				"choices": [
+					"diaphoresis, tachycardia, and hallucinations.",
+					"subdued behavior, crying, and suicidal thoughts.",
+					"pallor, hypotension, and constricted pupils.",
+					"slurred speech, bradycardia, and a high fever."
+				],
+				"question": "Signs of excited delirium include:",
+				"source": "See Excited Delirium"
+			},
 			"back": "diaphoresis, tachycardia, and hallucinations."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-16",
-			"front": "A physiologic disorder that impairs bodily function when the body seems to be structurally normal is called a:\n\nA. traumatic brain injury\nB. drug and alcohol abuse\nC. seizure\nD. functional disorder\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"traumatic brain injury",
+					"drug and alcohol abuse",
+					"seizure",
+					"functional disorder"
+				],
+				"question": "A physiologic disorder that impairs bodily function when the body seems to be structurally normal is called a:",
+				"source": "See Pathophysiology"
+			},
 			"back": "functional disorder"
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-17",
-			"front": "Immediately after physically restraining a violent patient, the EMT should:\n\nA. reassess the patient’s airway and breathing.\nB. document the time the restraints were applied.\nC. inform medical control of the situation.\nD. advise the patient why restraint was needed.\nSee Restraint",
+			"front": {
+				"choices": [
+					"reassess the patient’s airway and breathing.",
+					"document the time the restraints were applied.",
+					"inform medical control of the situation.",
+					"advise the patient why restraint was needed."
+				],
+				"question": "Immediately after physically restraining a violent patient, the EMT should:",
+				"source": "See Restraint"
+			},
 			"back": "reassess the patient’s airway and breathing."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-18",
-			"front": "The first step in assessing a patient with a behavioral emergency is to:\n\nA. take vital signs.\nB. obtain proper consent.\nC. ensure your safety.\nD. restrain the patient.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"take vital signs.",
+					"obtain proper consent.",
+					"ensure your safety.",
+					"restrain the patient."
+				],
+				"question": "The first step in assessing a patient with a behavioral emergency is to:",
+				"source": "See Patient Assessment"
+			},
 			"back": "ensure your safety."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-19",
-			"front": "Posttraumatic stress disorder can happen after:\n\nA. a bout with depression.\nB. exposure to or injury from a traumatic occurrence.\nC. extended periods of hyperthermia or hypothermia.\nD. alcohol withdrawal.\nSee Posttraumatic Stress Disorder and Returning Combat Veterans",
+			"front": {
+				"choices": [
+					"a bout with depression.",
+					"exposure to or injury from a traumatic occurrence.",
+					"extended periods of hyperthermia or hypothermia.",
+					"alcohol withdrawal."
+				],
+				"question": "Posttraumatic stress disorder can happen after:",
+				"source": "See Posttraumatic Stress Disorder and Returning Combat Veterans"
+			},
 			"back": "exposure to or injury from a traumatic occurrence."
 		},
 		{
 			"id": "category-chapter-23-tag-multiple-choice-card-20",
-			"front": "A technique used to gain insight into a patient’s thinking, which involves repeating in question form what the patient has said, is called:\n\nA. reflective listening.\nB. active listening.\nC. passive listening.\nD. intuitive listening.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"reflective listening.",
+					"active listening.",
+					"passive listening.",
+					"intuitive listening."
+				],
+				"question": "A technique used to gain insight into a patient’s thinking, which involves repeating in question form what the patient has said, is called:",
+				"source": "See Patient Assessment"
+			},
 			"back": "reflective listening."
 		}
 	],

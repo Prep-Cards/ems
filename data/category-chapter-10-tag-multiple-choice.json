@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-10-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-1",
-			"front": "A properly sized blood pressure cuff should cover:\n\nA. one third the length from the armpit to the crease at the elbow.\nB. two thirds the length from the armpit to the crease at the elbow.\nC. one half the length between the armpit and the crease at the elbow.\nD. the entire upper arm between the armpit and the crease at the elbow.\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"one third the length from the armpit to the crease at the elbow.",
+					"two thirds the length from the armpit to the crease at the elbow.",
+					"one half the length between the armpit and the crease at the elbow.",
+					"the entire upper arm between the armpit and the crease at the elbow."
+				],
+				"question": "A properly sized blood pressure cuff should cover:",
+				"source": "See Secondary Assessment"
+			},
 			"back": "two thirds the length from the armpit to the crease at the elbow."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-2",
-			"front": "A 29-year-old male with a head injury opens his eyes when you speak to him, is confused as to the time and date, and is able to move all of his extremities on command. His Glasgow Coma Scale (GCS) score is:\n\nA. 10.\nB. 13.\nC. 12.\nD. 14.\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"10.",
+					"13.",
+					"12.",
+					"14."
+				],
+				"question": "A 29-year-old male with a head injury opens his eyes when you speak to him, is confused as to the time and date, and is able to move all of his extremities on command. His Glasgow Coma Scale (GCS) score is:",
+				"source": "See Secondary Assessment"
+			},
 			"back": "13."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-3",
-			"front": "When performing a reassessment of your patient, you should first:\n\nA. repeat the primary assessment.\nB. confirm medical history findings.\nC. reassess your interventions.\nD. obtain updated vital signs.\nSee Reassessment",
+			"front": {
+				"choices": [
+					"repeat the primary assessment.",
+					"confirm medical history findings.",
+					"reassess your interventions.",
+					"obtain updated vital signs."
+				],
+				"question": "When performing a reassessment of your patient, you should first:",
+				"source": "See Reassessment"
+			},
 			"back": "repeat the primary assessment."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-4",
-			"front": "A patient’s short-term memory is MOST likely intact if they correctly answer questions regarding:\n\nA. day and event.\nB. person and place.\nC. event and person.\nD. time and place.\nSee Primary Assessment",
+			"front": {
+				"choices": [
+					"day and event.",
+					"person and place.",
+					"event and person.",
+					"time and place."
+				],
+				"question": "A patient’s short-term memory is MOST likely intact if they correctly answer questions regarding:",
+				"source": "See Primary Assessment"
+			},
 			"back": "day and event."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-5",
-			"front": "After performing a primary assessment, a rapid exam of the body should be performed to:\n\nA. look specifically for signs and symptoms of inadequate perfusion.\nB. find and treat injuries or conditions that do not pose a threat to life.\nC. identify less-obvious injuries that require immediate treatment.\nD. determine the need for spinal motion restriction precautions.\nSee Primary Assessment",
+			"front": {
+				"choices": [
+					"look specifically for signs and symptoms of inadequate perfusion.",
+					"find and treat injuries or conditions that do not pose a threat to life.",
+					"identify less-obvious injuries that require immediate treatment.",
+					"determine the need for spinal motion restriction precautions."
+				],
+				"question": "After performing a primary assessment, a rapid exam of the body should be performed to:",
+				"source": "See Primary Assessment"
+			},
 			"back": "identify less-obvious injuries that require immediate treatment."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-6",
-			"front": "In the adult, bradycardia is defined as a pulse rate less than _______ beats/min, and tachycardia is defined as a heart rate greater than _______ beats/min.\n\nA. 60, 100\nB. 50, 110\nC. 40, 120\nD. 30, 130\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"60, 100",
+					"50, 110",
+					"40, 120",
+					"30, 130"
+				],
+				"question": "In the adult, bradycardia is defined as a pulse rate less than _______ beats/min, and tachycardia is defined as a heart rate greater than _______ beats/min.",
+				"source": "See Secondary Assessment"
+			},
 			"back": "60, 100"
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-7",
-			"front": "The goal of the systematic head-to-toe exam that is performed during the secondary assessment is to:\n\nA. assess only the parts of the body that are injured.\nB. detect and treat all non–life-threatening injuries.\nC. locate injuries not found in the primary assessment.\nD. definitively rule out significant internal injuries.\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"assess only the parts of the body that are injured.",
+					"detect and treat all non–life-threatening injuries.",
+					"locate injuries not found in the primary assessment.",
+					"definitively rule out significant internal injuries."
+				],
+				"question": "The goal of the systematic head-to-toe exam that is performed during the secondary assessment is to:",
+				"source": "See Secondary Assessment"
+			},
 			"back": "locate injuries not found in the primary assessment."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-8",
-			"front": "Which of the following findings indicates that your patient has a patent airway?\n\nA. Unresponsiveness\nB. Inspiratory stridor\nC. Ability to speak\nD. Audible breathing\nSee Primary Assessment",
+			"front": {
+				"choices": [
+					"Unresponsiveness",
+					"Inspiratory stridor",
+					"Ability to speak",
+					"Audible breathing"
+				],
+				"question": "Which of the following findings indicates that your patient has a patent airway?",
+				"source": "See Primary Assessment"
+			},
 			"back": "Ability to speak"
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-9",
-			"front": "Which of the following medical history questions would be of LEAST pertinence in an acute situation?\n\nA. “Does your mother have diabetes?”\nB. “Does the pain stay in your chest?”\nC. “Has this ever happened to you before?”\nD. “Are there medications that you cannot take?”\nSee History Taking",
+			"front": {
+				"choices": [
+					"“Does your mother have diabetes?”",
+					"“Does the pain stay in your chest?”",
+					"“Has this ever happened to you before?”",
+					"“Are there medications that you cannot take?”"
+				],
+				"question": "Which of the following medical history questions would be of LEAST pertinence in an acute situation?",
+				"source": "See History Taking"
+			},
 			"back": "“Does your mother have diabetes?”"
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-10",
-			"front": "As you assess the head of a patient with a suspected spinal injury, your partner should:\n\nA. look in the ears for gross bleeding.\nB. prepare the immobilization equipment.\nC. maintain stabilization of the head.\nD. assess the rest of the body for bleeding.\nSee Primary Assessment",
+			"front": {
+				"choices": [
+					"look in the ears for gross bleeding.",
+					"prepare the immobilization equipment.",
+					"maintain stabilization of the head.",
+					"assess the rest of the body for bleeding."
+				],
+				"question": "As you assess the head of a patient with a suspected spinal injury, your partner should:",
+				"source": "See Primary Assessment"
+			},
 			"back": "maintain stabilization of the head."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-11",
-			"front": "Cyanosis of the skin is caused by:\n\nA. venous vasoconstriction.\nB. peripheral vasodilation.\nC. increased blood oxygen.\nD. decreased blood oxygen.\nSee Primary Assessment",
+			"front": {
+				"choices": [
+					"venous vasoconstriction.",
+					"peripheral vasodilation.",
+					"increased blood oxygen.",
+					"decreased blood oxygen."
+				],
+				"question": "Cyanosis of the skin is caused by:",
+				"source": "See Primary Assessment"
+			},
 			"back": "decreased blood oxygen."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-12",
-			"front": "Capnography is used to:\n\nA. determine how much carbon dioxide is being exhaled.\nB. assess how much oxygen is reaching the body’s tissues.\nC. trend a patient’s blood pressure and assess for shock.\nD. assess how much oxygen is bound to the hemoglobin.\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"determine how much carbon dioxide is being exhaled.",
+					"assess how much oxygen is reaching the body’s tissues.",
+					"trend a patient’s blood pressure and assess for shock.",
+					"assess how much oxygen is bound to the hemoglobin."
+				],
+				"question": "Capnography is used to:",
+				"source": "See Secondary Assessment"
+			},
 			"back": "determine how much carbon dioxide is being exhaled."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-13",
-			"front": "The goal of oxygenation for most patients is an oxygen saturation of:\n\nA. 90% to 94%\nB. 94% to 99%\nC. 88% to 90%\nD. 100%\nSee Primary Assessment",
+			"front": {
+				"choices": [
+					"90% to 94%",
+					"94% to 99%",
+					"88% to 90%",
+					"100%"
+				],
+				"question": "The goal of oxygenation for most patients is an oxygen saturation of:",
+				"source": "See Primary Assessment"
+			},
 			"back": "94% to 99%"
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-14",
-			"front": "A blood pressure cuff that is too small for a patient’s arm will give a:\n\nA. falsely low systolic but high diastolic reading.\nB. falsely high systolic and diastolic reading.\nC. falsely high systolic but low diastolic reading.\nD. falsely low systolic and diastolic reading.\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"falsely low systolic but high diastolic reading.",
+					"falsely high systolic and diastolic reading.",
+					"falsely high systolic but low diastolic reading.",
+					"falsely low systolic and diastolic reading."
+				],
+				"question": "A blood pressure cuff that is too small for a patient’s arm will give a:",
+				"source": "See Secondary Assessment"
+			},
 			"back": "falsely high systolic and diastolic reading."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-15",
-			"front": "Which of the following would the EMT likely NOT perform on a responsive patient with a headache and no apparent life-threatening conditions?\n\nA. Focused secondary assessment\nB. Noninvasive blood pressure monitoring\nC. Assessment of oxygen saturation\nD. Systematic head-to-toe examination\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"Focused secondary assessment",
+					"Noninvasive blood pressure monitoring",
+					"Assessment of oxygen saturation",
+					"Systematic head-to-toe examination"
+				],
+				"question": "Which of the following would the EMT likely NOT perform on a responsive patient with a headache and no apparent life-threatening conditions?",
+				"source": "See Secondary Assessment"
+			},
 			"back": "Systematic head-to-toe examination"
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-16",
-			"front": "In responsive patients who are older than 1 year of age, you should palpate the pulse at the ________ artery.\n\nA. carotid\nB. radial\nC. femoral\nD. brachial\nSee Primary Assessment",
+			"front": {
+				"choices": [
+					"carotid",
+					"radial",
+					"femoral",
+					"brachial"
+				],
+				"question": "In responsive patients who are older than 1 year of age, you should palpate the pulse at the ________ artery.",
+				"source": "See Primary Assessment"
+			},
 			"back": "radial"
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-17",
-			"front": "Treatment and transport priorities at the scene of a mass-casualty incident should be determined after:\n\nA. area hospitals have been notified.\nB. all the patients have been triaged.\nC. a physician arrives at the scene.\nD. medical control has been contacted.\nSee Scene Size-up",
+			"front": {
+				"choices": [
+					"area hospitals have been notified.",
+					"all the patients have been triaged.",
+					"a physician arrives at the scene.",
+					"medical control has been contacted."
+				],
+				"question": "Treatment and transport priorities at the scene of a mass-casualty incident should be determined after:",
+				"source": "See Scene Size-up"
+			},
 			"back": "all the patients have been triaged."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-18",
-			"front": "The systematic head-to-toe assessment should be performed on:\n\nA. stable patients who are able to tell you exactly what happened.\nB. all patients with traumatic injuries who will require EMS transport.\nC. patients with a significant MOI and unresponsive medical patients.\nD. responsive medical patients and patients without a significant MOI.\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"stable patients who are able to tell you exactly what happened.",
+					"all patients with traumatic injuries who will require EMS transport.",
+					"patients with a significant MOI and unresponsive medical patients.",
+					"responsive medical patients and patients without a significant MOI."
+				],
+				"question": "The systematic head-to-toe assessment should be performed on:",
+				"source": "See Secondary Assessment"
+			},
 			"back": "patients with a significant MOI and unresponsive medical patients."
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-19",
-			"front": "Which of the following is an example of a symptom?\n\nA. Hypertension\nB. Headache\nC. Tachycardia\nD. Cyanosis\nSee Introduction",
+			"front": {
+				"choices": [
+					"Hypertension",
+					"Headache",
+					"Tachycardia",
+					"Cyanosis"
+				],
+				"question": "Which of the following is an example of a symptom?",
+				"source": "See Introduction"
+			},
 			"back": "Headache"
 		},
 		{
 			"id": "category-chapter-10-tag-multiple-choice-card-20",
-			"front": "When you use the palpation method to obtain a blood pressure, the measurement you obtain is the:\n\nA. pulse pressure.\nB. systolic blood pressure.\nC. cardiac output pressure.\nD. diastolic blood pressure.\nSee Secondary Assessment",
+			"front": {
+				"choices": [
+					"pulse pressure.",
+					"systolic blood pressure.",
+					"cardiac output pressure.",
+					"diastolic blood pressure."
+				],
+				"question": "When you use the palpation method to obtain a blood pressure, the measurement you obtain is the:",
+				"source": "See Secondary Assessment"
+			},
 			"back": "systolic blood pressure."
 		}
 	],

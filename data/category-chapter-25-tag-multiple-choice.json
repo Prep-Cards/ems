@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-25-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-1",
-			"front": "Evaluation of the interior of a crashed motor vehicle during extrication will allow the EMT to:\n\nA. determine the vehicle’s speed at the time of impact.\nB. assess the severity of the third collision of the crash.\nC. identify contact points and predict potential injuries.\nD. recognize if the driver hit the brakes before impact.\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"determine the vehicle’s speed at the time of impact.",
+					"assess the severity of the third collision of the crash.",
+					"identify contact points and predict potential injuries.",
+					"recognize if the driver hit the brakes before impact."
+				],
+				"question": "Evaluation of the interior of a crashed motor vehicle during extrication will allow the EMT to:",
+				"source": "See Blunt Trauma"
+			},
 			"back": "identify contact points and predict potential injuries."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-2",
-			"front": "In contrast to a Level III trauma center, a Level I trauma center must:\n\nA. be involved in trauma prevention programs.\nB. have general surgeons in-house 24 hours a day.\nC. be able to stabilize patients before transferring to a higher level facility.\nD. have access to an emergency physician within 30 minutes.\nSee Management: Transport and Destinations",
+			"front": {
+				"choices": [
+					"be involved in trauma prevention programs.",
+					"have general surgeons in-house 24 hours a day.",
+					"be able to stabilize patients before transferring to a higher level facility.",
+					"have access to an emergency physician within 30 minutes."
+				],
+				"question": "In contrast to a Level III trauma center, a Level I trauma center must:",
+				"source": "See Management: Transport and Destinations"
+			},
 			"back": "have general surgeons in-house 24 hours a day."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-3",
-			"front": "Signs of a pulmonary blast injury include:\n\nA. multiple rib fractures.\nB. coughing up blood.\nC. vomiting blood.\nD. an irregular pulse.\nSee Blast Injuries",
+			"front": {
+				"choices": [
+					"multiple rib fractures.",
+					"coughing up blood.",
+					"vomiting blood.",
+					"an irregular pulse."
+				],
+				"question": "Signs of a pulmonary blast injury include:",
+				"source": "See Blast Injuries"
+			},
 			"back": "coughing up blood."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-4",
-			"front": "When assessing an elderly patient who fell, it is important to remember that:\n\nA. bilateral hip fractures usually occur when an elderly person falls.\nB. any fall in the elderly is considered to be high-energy trauma.\nC. osteoporosis can cause a fracture as a result of a fall from a standing position.\nD. elderly patients who fall usually have a secondary head injury.\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"bilateral hip fractures usually occur when an elderly person falls.",
+					"any fall in the elderly is considered to be high-energy trauma.",
+					"osteoporosis can cause a fracture as a result of a fall from a standing position.",
+					"elderly patients who fall usually have a secondary head injury."
+				],
+				"question": "When assessing an elderly patient who fell, it is important to remember that:",
+				"source": "See Blunt Trauma"
+			},
 			"back": "osteoporosis can cause a fracture as a result of a fall from a standing position."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-5",
-			"front": "Airbags are designed to:\n\nA. be used with or without a shoulder harness.\nB. prevent a second collision inside the car.\nC. prevent the driver from sustaining head trauma.\nD. decrease the severity of deceleration injuries.\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"be used with or without a shoulder harness.",
+					"prevent a second collision inside the car.",
+					"prevent the driver from sustaining head trauma.",
+					"decrease the severity of deceleration injuries."
+				],
+				"question": "Airbags are designed to:",
+				"source": "See Blunt Trauma"
+			},
 			"back": "decrease the severity of deceleration injuries."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-6",
-			"front": "If one or more occupants in the same vehicle are killed in a crash, the EMT should:\n\nA. transport the survivors only if they have injuries or complain of pain.\nB. rapidly assess only the survivors who have experienced obvious trauma.\nC. allow the survivors to refuse transport if they have no obvious injuries.\nD. suspect that all living occupants experienced the same serious trauma.\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"transport the survivors only if they have injuries or complain of pain.",
+					"rapidly assess only the survivors who have experienced obvious trauma.",
+					"allow the survivors to refuse transport if they have no obvious injuries.",
+					"suspect that all living occupants experienced the same serious trauma."
+				],
+				"question": "If one or more occupants in the same vehicle are killed in a crash, the EMT should:",
+				"source": "See Blunt Trauma"
+			},
 			"back": "suspect that all living occupants experienced the same serious trauma."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-7",
-			"front": "Which of the following interventions is the MOST critical to the outcome of a patient with multisystem trauma?\n\nA. Elevation of the lower extremities\nB. Early administration of oxygen\nC. Intravenous fluid administration\nD. Rapid transport to a trauma center\nSee Multisystem Trauma",
+			"front": {
+				"choices": [
+					"Elevation of the lower extremities",
+					"Early administration of oxygen",
+					"Intravenous fluid administration",
+					"Rapid transport to a trauma center"
+				],
+				"question": "Which of the following interventions is the MOST critical to the outcome of a patient with multisystem trauma?",
+				"source": "See Multisystem Trauma"
+			},
 			"back": "Rapid transport to a trauma center"
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-8",
-			"front": "The index of suspicion is MOST accurately defined as:\n\nA. the way in which traumatic injuries occur.\nB. the detection of less obvious life-threatening injuries.\nC. a predictable pattern that leads to serious injuries.\nD. your awareness and concern for potentially serious underlying injuries.\nSee Introduction",
+			"front": {
+				"choices": [
+					"the way in which traumatic injuries occur.",
+					"the detection of less obvious life-threatening injuries.",
+					"a predictable pattern that leads to serious injuries.",
+					"your awareness and concern for potentially serious underlying injuries."
+				],
+				"question": "The index of suspicion is MOST accurately defined as:",
+				"source": "See Introduction"
+			},
 			"back": "your awareness and concern for potentially serious underlying injuries."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-9",
-			"front": "Which of the following findings would be LEAST suggestive of the presence of high-energy trauma?\n\nA. Dismounted seats\nB. Deployment of the airbag\nC. Intrusion into the vehicle\nD. Steering wheel collapse\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"Dismounted seats",
+					"Deployment of the airbag",
+					"Intrusion into the vehicle",
+					"Steering wheel collapse"
+				],
+				"question": "Which of the following findings would be LEAST suggestive of the presence of high-energy trauma?",
+				"source": "See Blunt Trauma"
+			},
 			"back": "Deployment of the airbag"
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-10",
-			"front": "Internal injuries caused by gunshot wounds are difficult to predict because:\n\nA. exit wounds caused by the bullet are usually small.\nB. the bullet may tumble or ricochet within the body.\nC. the area of damage is usually smaller than the bullet.\nD. the caliber of the bullet is frequently unknown.\nSee Penetrating Trauma",
+			"front": {
+				"choices": [
+					"exit wounds caused by the bullet are usually small.",
+					"the bullet may tumble or ricochet within the body.",
+					"the area of damage is usually smaller than the bullet.",
+					"the caliber of the bullet is frequently unknown."
+				],
+				"question": "Internal injuries caused by gunshot wounds are difficult to predict because:",
+				"source": "See Penetrating Trauma"
+			},
 			"back": "the bullet may tumble or ricochet within the body."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-11",
-			"front": "When assessing the interior of a crashed motor vehicle for damage, you are gathering information regarding the:\n\nA. index of suspicion.\nB. potential energy.\nC. kinetic energy.\nD. mechanism of injury.\nSee Energy and Trauma",
+			"front": {
+				"choices": [
+					"index of suspicion.",
+					"potential energy.",
+					"kinetic energy.",
+					"mechanism of injury."
+				],
+				"question": "When assessing the interior of a crashed motor vehicle for damage, you are gathering information regarding the:",
+				"source": "See Energy and Trauma"
+			},
 			"back": "mechanism of injury."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-12",
-			"front": "Which of the following would MOST likely occur as the direct result of the second collision in a motor vehicle crash?\n\nA. Collapsed dashboard\nB. Intrathoracic hemorrhage\nC. Deformed steering wheel\nD. Caved-in passenger door\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"Collapsed dashboard",
+					"Intrathoracic hemorrhage",
+					"Deformed steering wheel",
+					"Caved-in passenger door"
+				],
+				"question": "Which of the following would MOST likely occur as the direct result of the second collision in a motor vehicle crash?",
+				"source": "See Blunt Trauma"
+			},
 			"back": "Deformed steering wheel"
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-13",
-			"front": "According to the American College of Surgeons Committee on Trauma (ACS-COT), an adult trauma patient should be transported to the highest level of trauma center if he or she:\n\nA. has a bleeding disorder or takes anticoagulant medications and has any blunt or penetrating injury.\nB. has a systolic blood pressure of less than 110 mm Hg or a heart rate greater than 110 beats/min.\nC. was involved in a motor vehicle crash in which another patient in the same vehicle was killed.\nD. has a GCS score of less than or equal to 13 with a mechanism attributed to trauma.\nSee Management: Transport and Destinations",
+			"front": {
+				"choices": [
+					"has a bleeding disorder or takes anticoagulant medications and has any blunt or penetrating injury.",
+					"has a systolic blood pressure of less than 110 mm Hg or a heart rate greater than 110 beats/min.",
+					"was involved in a motor vehicle crash in which another patient in the same vehicle was killed.",
+					"has a GCS score of less than or equal to 13 with a mechanism attributed to trauma."
+				],
+				"question": "According to the American College of Surgeons Committee on Trauma (ACS-COT), an adult trauma patient should be transported to the highest level of trauma center if he or she:",
+				"source": "See Management: Transport and Destinations"
+			},
 			"back": "has a GCS score of less than or equal to 13 with a mechanism attributed to trauma."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-14",
-			"front": "Force acting over a distance is the definition of:\n\nA. potential energy.\nB. work.\nC. kinetic energy.\nD. latent energy.\nSee Energy and Trauma",
+			"front": {
+				"choices": [
+					"potential energy.",
+					"work.",
+					"kinetic energy.",
+					"latent energy."
+				],
+				"question": "Force acting over a distance is the definition of:",
+				"source": "See Energy and Trauma"
+			},
 			"back": "work."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-15",
-			"front": "The phenomenon of pressure waves emanating from the bullet, causing damage remote from its path, is known as:\n\nA. cavitation.\nB. conversion.\nC. capitation.\nD. congruent.\nSee Penetrating Trauma",
+			"front": {
+				"choices": [
+					"cavitation.",
+					"conversion.",
+					"capitation.",
+					"congruent."
+				],
+				"question": "The phenomenon of pressure waves emanating from the bullet, causing damage remote from its path, is known as:",
+				"source": "See Penetrating Trauma"
+			},
 			"back": "cavitation."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-16",
-			"front": "A driver involved in a rollover motor vehicle crash will MOST likely experience serious injuries or death if he or she:\n\nA. remains within the vehicle.\nB. experiences multiple impacts.\nC. is wearing only a lap belt.\nD. is ejected or partially ejected.\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"remains within the vehicle.",
+					"experiences multiple impacts.",
+					"is wearing only a lap belt.",
+					"is ejected or partially ejected."
+				],
+				"question": "A driver involved in a rollover motor vehicle crash will MOST likely experience serious injuries or death if he or she:",
+				"source": "See Blunt Trauma"
+			},
 			"back": "is ejected or partially ejected."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-17",
-			"front": "Factors that should be considered when assessing a patient who has fallen include all of the following, EXCEPT:\n\nA. the height of the fall.\nB. the primary impact point.\nC. the speed of the fall.\nD. the surface struck.\nSee Blunt Trauma",
+			"front": {
+				"choices": [
+					"the height of the fall.",
+					"the primary impact point.",
+					"the speed of the fall.",
+					"the surface struck."
+				],
+				"question": "Factors that should be considered when assessing a patient who has fallen include all of the following, EXCEPT:",
+				"source": "See Blunt Trauma"
+			},
 			"back": "the speed of the fall."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-18",
-			"front": "The energy of a moving object is called:\n\nA. potential energy.\nB. kinetic energy.\nC. latent energy.\nD. converted energy.\nSee Energy and Trauma",
+			"front": {
+				"choices": [
+					"potential energy.",
+					"kinetic energy.",
+					"latent energy.",
+					"converted energy."
+				],
+				"question": "The energy of a moving object is called:",
+				"source": "See Energy and Trauma"
+			},
 			"back": "kinetic energy."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-19",
-			"front": "When treating a patient who experienced a pulmonary blast injury, you should:\n\nA. use a demand valve to ventilate the patient.\nB. suspect an accompanying cardiac tamponade.\nC. avoid giving oxygen under positive pressure.\nD. administer large amounts of intravenous fluid.\nSee Blast Injuries",
+			"front": {
+				"choices": [
+					"use a demand valve to ventilate the patient.",
+					"suspect an accompanying cardiac tamponade.",
+					"avoid giving oxygen under positive pressure.",
+					"administer large amounts of intravenous fluid."
+				],
+				"question": "When treating a patient who experienced a pulmonary blast injury, you should:",
+				"source": "See Blast Injuries"
+			},
 			"back": "avoid giving oxygen under positive pressure."
 		},
 		{
 			"id": "category-chapter-25-tag-multiple-choice-card-20",
-			"front": "When the speed of a motor vehicle doubles, the amount of kinetic energy:\n\nA. doubles.\nB. triples.\nC. is not affected.\nD. quadruples.\nSee Energy and Trauma",
+			"front": {
+				"choices": [
+					"doubles.",
+					"triples.",
+					"is not affected.",
+					"quadruples."
+				],
+				"question": "When the speed of a motor vehicle doubles, the amount of kinetic energy:",
+				"source": "See Energy and Trauma"
+			},
 			"back": "quadruples."
 		}
 	],

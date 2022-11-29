@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-37-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-1",
-			"front": "An obese person is ________ over ideal weight.\n\nA. 15% or more\nB. 50% or more\nC. 10% or more\nD. 30% or more\nSee Bariatric Patients",
+			"front": {
+				"choices": [
+					"15% or more",
+					"50% or more",
+					"10% or more",
+					"30% or more"
+				],
+				"question": "An obese person is ________ over ideal weight.",
+				"source": "See Bariatric Patients"
+			},
 			"back": "30% or more"
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-2",
-			"front": "Autism is defined as a:\n\nA. mental disability caused by insufficient cognitive development of the brain.\nB. psychiatric condition related to an imbalance of serotonin in the brain.\nC. pervasive developmental disorder characterized by impairment of social interaction.\nD. congenital condition caused by factors such as malnutrition or birth complications.\nSee Developmental Disability",
+			"front": {
+				"choices": [
+					"mental disability caused by insufficient cognitive development of the brain.",
+					"psychiatric condition related to an imbalance of serotonin in the brain.",
+					"pervasive developmental disorder characterized by impairment of social interaction.",
+					"congenital condition caused by factors such as malnutrition or birth complications."
+				],
+				"question": "Autism is defined as a:",
+				"source": "See Developmental Disability"
+			},
 			"back": "pervasive developmental disorder characterized by impairment of social interaction."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-3",
-			"front": "When enlisting the help of an interpreter who signs, it is important for you to ask the interpreter to:\n\nA. document the answers to the questions that the patient has responded to.\nB. avoid any kind of lip movement while he or she is signing with the patient.\nC. report exactly what the patient signs and not to add any commentary.\nD. voice what he or she is signing while communicating with the patient.\nSee Sensory Disabilities",
+			"front": {
+				"choices": [
+					"document the answers to the questions that the patient has responded to.",
+					"avoid any kind of lip movement while he or she is signing with the patient.",
+					"report exactly what the patient signs and not to add any commentary.",
+					"voice what he or she is signing while communicating with the patient."
+				],
+				"question": "When enlisting the help of an interpreter who signs, it is important for you to ask the interpreter to:",
+				"source": "See Sensory Disabilities"
+			},
 			"back": "report exactly what the patient signs and not to add any commentary."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-4",
-			"front": "Vagus nerve stimulators may be an alternative treatment to medication for patients with:\n\nA. chronic muscle pain and fatigue.\nB. chronic seizure disorders.\nC. inherently slow heart rates.\nD. certain psychiatric conditions.\nSee Patients With Medical Technology Assistance",
+			"front": {
+				"choices": [
+					"chronic muscle pain and fatigue.",
+					"chronic seizure disorders.",
+					"inherently slow heart rates.",
+					"certain psychiatric conditions."
+				],
+				"question": "Vagus nerve stimulators may be an alternative treatment to medication for patients with:",
+				"source": "See Patients With Medical Technology Assistance"
+			},
 			"back": "chronic seizure disorders."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-5",
-			"front": "Which of the following conditions would most likely be encountered in a patient with cerebral palsy?\n\nA. Brain tumors\nB. Type 2 diabetes\nC. Paralysis\nD. Seizure disorder\nSee Physical Disabilities",
+			"front": {
+				"choices": [
+					"Brain tumors",
+					"Type 2 diabetes",
+					"Paralysis",
+					"Seizure disorder"
+				],
+				"question": "Which of the following conditions would most likely be encountered in a patient with cerebral palsy?",
+				"source": "See Physical Disabilities"
+			},
 			"back": "Seizure disorder"
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-6",
-			"front": "The purpose of a ventricular peritoneum shunt is to:\n\nA. prevent excess cerebrospinal fluid from accumulating in the brain.\nB. divert excess cerebrospinal fluid to the ventricles of the brain.\nC. monitor pressure within the skull in patients with a head injury.\nD. remove fluid from the abdomen of patients with right-sided heart failure.\nSee Patients With Medical Technology Assistance",
+			"front": {
+				"choices": [
+					"prevent excess cerebrospinal fluid from accumulating in the brain.",
+					"divert excess cerebrospinal fluid to the ventricles of the brain.",
+					"monitor pressure within the skull in patients with a head injury.",
+					"remove fluid from the abdomen of patients with right-sided heart failure."
+				],
+				"question": "The purpose of a ventricular peritoneum shunt is to:",
+				"source": "See Patients With Medical Technology Assistance"
+			},
 			"back": "prevent excess cerebrospinal fluid from accumulating in the brain."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-7",
-			"front": "In contrast to an automated implanted cardioverter/defibrillator, an internal cardiac pacemaker:\n\nA. will only activate if it detects rhythms such as ventricular fibrillation.\nB. delivers a shock to the heart if the rate becomes exceedingly fast.\nC. is implanted under the skin in the left upper abdominal quadrant.\nD. regulates the patient’s heart rate if it falls below a preset value.\nSee Patients With Medical Technology Assistance",
+			"front": {
+				"choices": [
+					"will only activate if it detects rhythms such as ventricular fibrillation.",
+					"delivers a shock to the heart if the rate becomes exceedingly fast.",
+					"is implanted under the skin in the left upper abdominal quadrant.",
+					"regulates the patient’s heart rate if it falls below a preset value."
+				],
+				"question": "In contrast to an automated implanted cardioverter/defibrillator, an internal cardiac pacemaker:",
+				"source": "See Patients With Medical Technology Assistance"
+			},
 			"back": "regulates the patient’s heart rate if it falls below a preset value."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-8",
-			"front": "Which of the following statements regarding gastrostomy (gastric) tubes is correct?\n\nA. Most gastrostomy tubes are temporary and are not sutured in place.\nB. Gastrostomy tubes are placed directly into the small intestine.\nC. Patients with a gastrostomy tube might still be at risk for aspiration.\nD. Gastrostomy tubes are used for patients who cannot digest food.\nSee Patients With Medical Technology Assistance",
+			"front": {
+				"choices": [
+					"Most gastrostomy tubes are temporary and are not sutured in place.",
+					"Gastrostomy tubes are placed directly into the small intestine.",
+					"Patients with a gastrostomy tube might still be at risk for aspiration.",
+					"Gastrostomy tubes are used for patients who cannot digest food."
+				],
+				"question": "Which of the following statements regarding gastrostomy (gastric) tubes is correct?",
+				"source": "See Patients With Medical Technology Assistance"
+			},
 			"back": "Patients with a gastrostomy tube might still be at risk for aspiration."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-9",
-			"front": "When caring for a morbidly obese patient, you should:\n\nA. leave him or her in a supine position, as this often facilitates breathing.\nB. ask the patient if he or she knows what led to his or her obesity problem.\nC. establish his or her chief complaint and then communicate your plan to help.\nD. call for ALS backup because obese patients are at high risk for heart attack.\nSee Bariatric Patients",
+			"front": {
+				"choices": [
+					"leave him or her in a supine position, as this often facilitates breathing.",
+					"ask the patient if he or she knows what led to his or her obesity problem.",
+					"establish his or her chief complaint and then communicate your plan to help.",
+					"call for ALS backup because obese patients are at high risk for heart attack."
+				],
+				"question": "When caring for a morbidly obese patient, you should:",
+				"source": "See Bariatric Patients"
+			},
 			"back": "establish his or her chief complaint and then communicate your plan to help."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-10",
-			"front": "Characteristic anatomic features of Down syndrome include:\n\nA. a round head with a flat occiput.\nB. bulging eyes and a large face.\nC. a proportionately small tongue.\nD. long hands with wide fingers.\nSee Developmental Disability",
+			"front": {
+				"choices": [
+					"a round head with a flat occiput.",
+					"bulging eyes and a large face.",
+					"a proportionately small tongue.",
+					"long hands with wide fingers."
+				],
+				"question": "Characteristic anatomic features of Down syndrome include:",
+				"source": "See Developmental Disability"
+			},
 			"back": "a round head with a flat occiput."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-11",
-			"front": "Which of the following would be the most practical method of communicating with a hearing-impaired patient until his or her hearing aids can be located?\n\nA. Contacting dispatch and requesting a sign language interpreter\nB. Using a piece of paper and writing utensil to ask questions\nC. Using a high-pitched voice while speaking directly into the ear\nD. Attempting to use body language to determine the problem\nSee Sensory Disabilities",
+			"front": {
+				"choices": [
+					"Contacting dispatch and requesting a sign language interpreter",
+					"Using a piece of paper and writing utensil to ask questions",
+					"Using a high-pitched voice while speaking directly into the ear",
+					"Attempting to use body language to determine the problem"
+				],
+				"question": "Which of the following would be the most practical method of communicating with a hearing-impaired patient until his or her hearing aids can be located?",
+				"source": "See Sensory Disabilities"
+			},
 			"back": "Using a piece of paper and writing utensil to ask questions"
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-12",
-			"front": "Under what circumstances is a left ventricular assist device used?\n\nA. As a bridge to heart transplantation while a donor heart is being located\nB. To permanently replace the function of one or both of the ventricles\nC. To reduce ventricular pumping force in patients with aortic aneurysms\nD. To ensure that the ventricles contract at an adequate and consistent rate\nSee Patients With Medical Technology Assistance",
+			"front": {
+				"choices": [
+					"As a bridge to heart transplantation while a donor heart is being located",
+					"To permanently replace the function of one or both of the ventricles",
+					"To reduce ventricular pumping force in patients with aortic aneurysms",
+					"To ensure that the ventricles contract at an adequate and consistent rate"
+				],
+				"question": "Under what circumstances is a left ventricular assist device used?",
+				"source": "See Patients With Medical Technology Assistance"
+			},
 			"back": "As a bridge to heart transplantation while a donor heart is being located"
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-13",
-			"front": "A surgical procedure that creates an opening between the intestine and the surface of the body that allows for elimination of waste products is called a(n):\n\nA. colostomy.\nB. intestinal shunt.\nC. gastric stoma.\nD. gastrostomy.\nSee Patients With Medical Technology Assistance",
+			"front": {
+				"choices": [
+					"colostomy.",
+					"intestinal shunt.",
+					"gastric stoma.",
+					"gastrostomy."
+				],
+				"question": "A surgical procedure that creates an opening between the intestine and the surface of the body that allows for elimination of waste products is called a(n):",
+				"source": "See Patients With Medical Technology Assistance"
+			},
 			"back": "colostomy."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-14",
-			"front": "If suctioning of the tracheostomy tube is necessary, the EMT should:\n\nA. instill 20 mL of saline into the tracheostomy tube and suction for no longer than 20 seconds.\nB. attach a bag-valve mask to the tracheostomy tube and hyperventilate the patient for 2 minutes.\nC. insert the suction catheter to a depth of no more than 15 cm and set the suction unit to 140 mm Hg.\nD. attempt to use the patient’s suction device first because it is probably already sized correctly.\nSee Patients With Medical Technology Assistance",
+			"front": {
+				"choices": [
+					"instill 20 mL of saline into the tracheostomy tube and suction for no longer than 20 seconds.",
+					"attach a bag-valve mask to the tracheostomy tube and hyperventilate the patient for 2 minutes.",
+					"insert the suction catheter to a depth of no more than 15 cm and set the suction unit to 140 mm Hg.",
+					"attempt to use the patient’s suction device first because it is probably already sized correctly."
+				],
+				"question": "If suctioning of the tracheostomy tube is necessary, the EMT should:",
+				"source": "See Patients With Medical Technology Assistance"
+			},
 			"back": "attempt to use the patient’s suction device first because it is probably already sized correctly."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-15",
-			"front": "A service dog is easily identified by its:\n\nA. breed.\nB. harness.\nC. size.\nD. color.\nSee Sensory Disabilities",
+			"front": {
+				"choices": [
+					"breed.",
+					"harness.",
+					"size.",
+					"color."
+				],
+				"question": "A service dog is easily identified by its:",
+				"source": "See Sensory Disabilities"
+			},
 			"back": "harness."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-16",
-			"front": "When caring for a patient who is visually impaired, it is important to:\n\nA. allow a service dog to remain with the patient at all times, even if the patient is critically ill.\nB. stand to the side of the patient when speaking if his or her peripheral vision is impaired.\nC. leave items such as canes and walkers at the residence if the patient will be carried on a gurney.\nD. tell him or her what is happening, identify noises, and describe the situation and surroundings.\nSee Sensory Disabilities",
+			"front": {
+				"choices": [
+					"allow a service dog to remain with the patient at all times, even if the patient is critically ill.",
+					"stand to the side of the patient when speaking if his or her peripheral vision is impaired.",
+					"leave items such as canes and walkers at the residence if the patient will be carried on a gurney.",
+					"tell him or her what is happening, identify noises, and describe the situation and surroundings."
+				],
+				"question": "When caring for a patient who is visually impaired, it is important to:",
+				"source": "See Sensory Disabilities"
+			},
 			"back": "tell him or her what is happening, identify noises, and describe the situation and surroundings."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-17",
-			"front": "A tube from the brain to the abdomen that drains excessive cerebrospinal fluid is called a:\n\nA. G-tube.\nB. shunt.\nC. cerebral bypass.\nD. CS tube.\nSee Physical Disabilities",
+			"front": {
+				"choices": [
+					"G-tube.",
+					"shunt.",
+					"cerebral bypass.",
+					"CS tube."
+				],
+				"question": "A tube from the brain to the abdomen that drains excessive cerebrospinal fluid is called a:",
+				"source": "See Physical Disabilities"
+			},
 			"back": "shunt."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-18",
-			"front": "Which of the following statements regarding patients with intellectual disabilities is correct?\n\nA. An intellectual disability differs from mental retardation in that it is the result of a congenital abnormality.\nB. Most patients with intellectual disabilities have normal cognitive function but abnormal physical features.\nC. Patients with intellectual disabilities are susceptible to the same disease processes as other patients.\nD. Speaking with the patient’s family is the least effective way to determine how much the patient understands.\nSee Developmental Disability",
+			"front": {
+				"choices": [
+					"An intellectual disability differs from mental retardation in that it is the result of a congenital abnormality.",
+					"Most patients with intellectual disabilities have normal cognitive function but abnormal physical features.",
+					"Patients with intellectual disabilities are susceptible to the same disease processes as other patients.",
+					"Speaking with the patient’s family is the least effective way to determine how much the patient understands."
+				],
+				"question": "Which of the following statements regarding patients with intellectual disabilities is correct?",
+				"source": "See Developmental Disability"
+			},
 			"back": "Patients with intellectual disabilities are susceptible to the same disease processes as other patients."
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-19",
-			"front": "Cerebral palsy is characterized by poorly controlled ________ movement.\n\nA. eye\nB. body\nC. neck\nD. extremity\nSee Physical Disabilities",
+			"front": {
+				"choices": [
+					"eye",
+					"body",
+					"neck",
+					"extremity"
+				],
+				"question": "Cerebral palsy is characterized by poorly controlled ________ movement.",
+				"source": "See Physical Disabilities"
+			},
 			"back": "body"
 		},
 		{
 			"id": "category-chapter-37-tag-multiple-choice-card-20",
-			"front": "Spina bifida is defined as:\n\nA. congenital inflammation of the spinal cord, usually in the neck.\nB. a birth defect in which the child is born without spinal vertebrae.\nC. a birth defect caused by incomplete closure of the spinal column.\nD. chronic pressure on the brain caused by excess cerebrospinal fluid.\nSee Physical Disabilities",
+			"front": {
+				"choices": [
+					"congenital inflammation of the spinal cord, usually in the neck.",
+					"a birth defect in which the child is born without spinal vertebrae.",
+					"a birth defect caused by incomplete closure of the spinal column.",
+					"chronic pressure on the brain caused by excess cerebrospinal fluid."
+				],
+				"question": "Spina bifida is defined as:",
+				"source": "See Physical Disabilities"
+			},
 			"back": "a birth defect caused by incomplete closure of the spinal column."
 		}
 	],

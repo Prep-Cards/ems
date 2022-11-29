@@ -1,104 +1,283 @@
 {
-	"name": "category-chapter-19-tag-multiple-choice",
 	"cards": [
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-1",
-			"front": "A 60-year-old female presents with a tearing sensation in her lower back. Her skin is sweaty, and she is tachycardic. The EMT should suspect:\n\nA. acute pancreatitis.\nB. strangulated hernia.\nC. kidney stones.\nD. aortic aneurysm.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"acute pancreatitis.",
+					"strangulated hernia.",
+					"kidney stones.",
+					"aortic aneurysm."
+				],
+				"question": "A 60-year-old female presents with a tearing sensation in her lower back. Her skin is sweaty, and she is tachycardic. The EMT should suspect:",
+				"source": "See Pathophysiology"
+			},
 			"back": "aortic aneurysm."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-2",
-			"front": "The principal symptom in both infectious and noninfectious gastroenteritis is:\n\nA. vomiting.\nB. dysuria.\nC. diarrhea.\nD. high fever.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"vomiting.",
+					"dysuria.",
+					"diarrhea.",
+					"high fever."
+				],
+				"question": "The principal symptom in both infectious and noninfectious gastroenteritis is:",
+				"source": "See Pathophysiology"
+			},
 			"back": "diarrhea."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-3",
-			"front": "Your patient’s past medical history includes hypertension, congestive heart failure, diabetes, and seizures. Today, he presents with signs of acute renal failure. Which of his medical problems MOST likely caused this?\n\nA. Hypertension\nB. Seizures\nC. Heart failure\nD. Diabetes\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"Hypertension",
+					"Seizures",
+					"Heart failure",
+					"Diabetes"
+				],
+				"question": "Your patient’s past medical history includes hypertension, congestive heart failure, diabetes, and seizures. Today, he presents with signs of acute renal failure. Which of his medical problems MOST likely caused this?",
+				"source": "See Pathophysiology"
+			},
 			"back": "Heart failure"
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-4",
-			"front": "Most patients with abdominal pain prefer to:\n\nA. sit fully upright because it helps relax the abdominal muscles.\nB. lie on their side with their knees drawn into the abdomen.\nC. lie in a supine position with their knees in a flexed position.\nD. sit in a semi-Fowler position with their knees slightly bent.\nSee Patient Assessment",
+			"front": {
+				"choices": [
+					"sit fully upright because it helps relax the abdominal muscles.",
+					"lie on their side with their knees drawn into the abdomen.",
+					"lie in a supine position with their knees in a flexed position.",
+					"sit in a semi-Fowler position with their knees slightly bent."
+				],
+				"question": "Most patients with abdominal pain prefer to:",
+				"source": "See Patient Assessment"
+			},
 			"back": "lie on their side with their knees drawn into the abdomen."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-5",
-			"front": "Erosion of the protective layer of the stomach or duodenum secondary to overactivity of digestive juices results in:\n\nA. ileus.\nB. cholecystitis.\nC. appendicitis.\nD. an ulcer.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"ileus.",
+					"cholecystitis.",
+					"appendicitis.",
+					"an ulcer."
+				],
+				"question": "Erosion of the protective layer of the stomach or duodenum secondary to overactivity of digestive juices results in:",
+				"source": "See Pathophysiology"
+			},
 			"back": "an ulcer."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-6",
-			"front": "The MOST common and significant complication associated with an acute abdomen is:\n\nA. internal bleeding.\nB. high fever.\nC. peritonitis.\nD. severe pain.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"internal bleeding.",
+					"high fever.",
+					"peritonitis.",
+					"severe pain."
+				],
+				"question": "The MOST common and significant complication associated with an acute abdomen is:",
+				"source": "See Pathophysiology"
+			},
 			"back": "peritonitis."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-7",
-			"front": "Pain that radiates to the right lower quadrant from the umbilical area, nausea and vomiting, and lack of appetite are MOST indicative of:\n\nA. gastroenteritis.\nB. appendicitis.\nC. pancreatitis.\nD. cholecystitis.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"gastroenteritis.",
+					"appendicitis.",
+					"pancreatitis.",
+					"cholecystitis."
+				],
+				"question": "Pain that radiates to the right lower quadrant from the umbilical area, nausea and vomiting, and lack of appetite are MOST indicative of:",
+				"source": "See Pathophysiology"
+			},
 			"back": "appendicitis."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-8",
-			"front": "Which of the following organs assists in the filtration of blood, serves as a blood reservoir, and produces antibodies?\n\nA. Spleen\nB. Kidneys\nC. Pancreas\nD. Liver\nSee Anatomy and Physiology",
+			"front": {
+				"choices": [
+					"Spleen",
+					"Kidneys",
+					"Pancreas",
+					"Liver"
+				],
+				"question": "Which of the following organs assists in the filtration of blood, serves as a blood reservoir, and produces antibodies?",
+				"source": "See Anatomy and Physiology"
+			},
 			"back": "Spleen"
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-9",
-			"front": "Which of the following conditions is more common in women than in men?\n\nA. Hepatitis\nB. Cystitis\nC. Cholecystitis\nD. Pancreatitis\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"Hepatitis",
+					"Cystitis",
+					"Cholecystitis",
+					"Pancreatitis"
+				],
+				"question": "Which of the following conditions is more common in women than in men?",
+				"source": "See Pathophysiology"
+			},
 			"back": "Cystitis"
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-10",
-			"front": "Which of the following organs lies in the retroperitoneal space?\n\nA. Liver\nB. Pancreas\nC. Gallbladder\nD. Spleen\nSee Anatomy and Physiology",
+			"front": {
+				"choices": [
+					"Liver",
+					"Pancreas",
+					"Gallbladder",
+					"Spleen"
+				],
+				"question": "Which of the following organs lies in the retroperitoneal space?",
+				"source": "See Anatomy and Physiology"
+			},
 			"back": "Pancreas"
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-11",
-			"front": "The kidneys help to regulate blood pressure by:\n\nA. accommodating a large amount of blood volume.\nB. eliminating toxic waste products from the body.\nC. removing sodium and water from the body.\nD. retaining key electrolytes, such as potassium.\nSee Anatomy and Physiology",
+			"front": {
+				"choices": [
+					"accommodating a large amount of blood volume.",
+					"eliminating toxic waste products from the body.",
+					"removing sodium and water from the body.",
+					"retaining key electrolytes, such as potassium."
+				],
+				"question": "The kidneys help to regulate blood pressure by:",
+				"source": "See Anatomy and Physiology"
+			},
 			"back": "removing sodium and water from the body."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-12",
-			"front": "Chronic renal failure is a condition that:\n\nA. occurs from conditions such as dehydration.\nB. causes dehydration from excessive urination.\nC. is often caused by hypertension or diabetes.\nD. can be reversed with prompt treatment.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"occurs from conditions such as dehydration.",
+					"causes dehydration from excessive urination.",
+					"is often caused by hypertension or diabetes.",
+					"can be reversed with prompt treatment."
+				],
+				"question": "Chronic renal failure is a condition that:",
+				"source": "See Pathophysiology"
+			},
 			"back": "is often caused by hypertension or diabetes."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-13",
-			"front": "A strangulated hernia is one that:\n\nA. can be pushed back into the body cavity to which it belongs.\nB. is reducible if surgical intervention occurs within 2 hours.\nC. spontaneously reduces without any surgical intervention.\nD. loses its blood supply due to compression by local tissues.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"can be pushed back into the body cavity to which it belongs.",
+					"is reducible if surgical intervention occurs within 2 hours.",
+					"spontaneously reduces without any surgical intervention.",
+					"loses its blood supply due to compression by local tissues."
+				],
+				"question": "A strangulated hernia is one that:",
+				"source": "See Pathophysiology"
+			},
 			"back": "loses its blood supply due to compression by local tissues."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-14",
-			"front": "Which of the following statements regarding the acute abdomen is correct?\n\nA. The parietal peritoneum is typically the first abdominal layer that becomes inflamed or irritated.\nB. The most common cause of an acute abdomen is inflammation of the gallbladder and liver.\nC. The initial pain associated with an acute abdomen tends to be vague and poorly localized.\nD. An acute abdomen almost always occurs as the result of blunt trauma to solid abdominal organs.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"The parietal peritoneum is typically the first abdominal layer that becomes inflamed or irritated.",
+					"The most common cause of an acute abdomen is inflammation of the gallbladder and liver.",
+					"The initial pain associated with an acute abdomen tends to be vague and poorly localized.",
+					"An acute abdomen almost always occurs as the result of blunt trauma to solid abdominal organs."
+				],
+				"question": "Which of the following statements regarding the acute abdomen is correct?",
+				"source": "See Pathophysiology"
+			},
 			"back": "The initial pain associated with an acute abdomen tends to be vague and poorly localized."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-15",
-			"front": "Which of the following organs would MOST likely bleed profusely if injured?\n\nA. Appendix\nB. Gallbladder\nC. Stomach\nD. Liver\nSee Anatomy and Physiology",
+			"front": {
+				"choices": [
+					"Appendix",
+					"Gallbladder",
+					"Stomach",
+					"Liver"
+				],
+				"question": "Which of the following organs would MOST likely bleed profusely if injured?",
+				"source": "See Anatomy and Physiology"
+			},
 			"back": "Liver"
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-16",
-			"front": "Esophageal varices MOST commonly occur in patients who:\n\nA. consume a lot of alcohol.\nB. have weak immune systems.\nC. have uncontrolled diabetes.\nD. have a history of esophagitis.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"consume a lot of alcohol.",
+					"have weak immune systems.",
+					"have uncontrolled diabetes.",
+					"have a history of esophagitis."
+				],
+				"question": "Esophageal varices MOST commonly occur in patients who:",
+				"source": "See Pathophysiology"
+			},
 			"back": "consume a lot of alcohol."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-17",
-			"front": "Solid abdominal organs include the:\n\nA. stomach and small intestine.\nB. urinary bladder, colon, and ureters.\nC. gallbladder and large intestine.\nD. spleen, kidneys, and pancreas.\nSee Anatomy and Physiology",
+			"front": {
+				"choices": [
+					"stomach and small intestine.",
+					"urinary bladder, colon, and ureters.",
+					"gallbladder and large intestine.",
+					"spleen, kidneys, and pancreas."
+				],
+				"question": "Solid abdominal organs include the:",
+				"source": "See Anatomy and Physiology"
+			},
 			"back": "spleen, kidneys, and pancreas."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-18",
-			"front": "The parietal peritoneum lines the:\n\nA. surface of the abdominal organs.\nB. retroperitoneal space.\nC. walls of the abdominal cavity.\nD. lungs and chest cavity.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"surface of the abdominal organs.",
+					"retroperitoneal space.",
+					"walls of the abdominal cavity.",
+					"lungs and chest cavity."
+				],
+				"question": "The parietal peritoneum lines the:",
+				"source": "See Pathophysiology"
+			},
 			"back": "walls of the abdominal cavity."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-19",
-			"front": "Pain that may be perceived at a distant point on the surface of the body, such as the back or shoulder, is called:\n\nA. referred pain.\nB. remote pain.\nC. visceral pain.\nD. radiating pain.\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"referred pain.",
+					"remote pain.",
+					"visceral pain.",
+					"radiating pain."
+				],
+				"question": "Pain that may be perceived at a distant point on the surface of the body, such as the back or shoulder, is called:",
+				"source": "See Pathophysiology"
+			},
 			"back": "referred pain."
 		},
 		{
 			"id": "category-chapter-19-tag-multiple-choice-card-20",
-			"front": "Which of the following is characteristic of peptic ulcer disease (PUD)?\n\nA. Symptom relief after taking nonsteroidal anti-inflammatory drugs\nB. Sharp pain that is typically located in both lower abdominal quadrants\nC. The passage of bright red blood in the stool or coughing up blood\nD. Burning or gnawing stomach pain that subsides immediately after eating\nSee Pathophysiology",
+			"front": {
+				"choices": [
+					"Symptom relief after taking nonsteroidal anti-inflammatory drugs",
+					"Sharp pain that is typically located in both lower abdominal quadrants",
+					"The passage of bright red blood in the stool or coughing up blood",
+					"Burning or gnawing stomach pain that subsides immediately after eating"
+				],
+				"question": "Which of the following is characteristic of peptic ulcer disease (PUD)?",
+				"source": "See Pathophysiology"
+			},
 			"back": "Burning or gnawing stomach pain that subsides immediately after eating"
 		}
 	],
