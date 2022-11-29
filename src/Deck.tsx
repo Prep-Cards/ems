@@ -172,7 +172,7 @@ function Card({
         >
             <div className="content" ref={contentRef}>
                 <div className="front" style={{ fontSize: '1.3rem' }}>
-                    {typeof front === 'string' ? <Lines value={back} /> : <MultipleChoice value={front} />}
+                    {typeof front === 'string' ? <Lines value={front} /> : <MultipleChoice value={front} />}
                     <Progress />
                 </div>
                 <div className="back" style={{ fontSize: '1.3rem' }}>
